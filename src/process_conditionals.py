@@ -161,10 +161,10 @@ def get_words_from_ids(sblgnt_word_ids, sblgnt_verses):
     return " ".join(words)
 
 
-git_dir = "c:/git/RickBrannan/"
+git_dir = "c:/git/Clear/"
 root_dir = f"{git_dir}nt-conditionals/"
 data_dir = f"{root_dir}data/"
-gnt_mappings_tsv = "c:/git/Clear/macula-greek/sources/Clear/mappings/mappings-GNT-stripped.tsv"
+gnt_mappings_tsv = f"{git_dir}macula-greek/sources/Clear/mappings/mappings-GNT-stripped.tsv"
 na27_to_sblgnt_map = load_gnt_mapping_data(gnt_mappings_tsv)
 
 # background: https://towardsdatascience.com/read-data-from-google-sheets-into-pandas-without-the-google-sheets-api-5c468536550

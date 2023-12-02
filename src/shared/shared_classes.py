@@ -48,6 +48,26 @@ class Condition:
     greek_protasis_words: dict[str, list] = dataclasses.field(default_factory=dict)
     greek_apodosis_words: dict[str, list] = dataclasses.field(default_factory=dict)
 
+@dataclasses.dataclass
+class NonCondition:
+    """
+    A non-conditional statement that uses a conditional conjuction (ει, εαν)
+    """
+    index: int
+    reference: str
+    english: str
+    condition_class: str
+    inverse: bool = False
+    probability: str = ""
+    time_orientation: str = ""
+    illocutionary_force: str = ""
+    english_translations: str = ""
+    notes: str = ""
+    parallel_passages: str = ""
+    greek_protases: dict[str, str] = dataclasses.field(default_factory=dict)
+    greek_apodoses: dict[str, str] = dataclasses.field(default_factory=dict)
+    greek_protasis_words: dict[str, list] = dataclasses.field(default_factory=dict)
+    greek_apodosis_words: dict[str, list] = dataclasses.field(default_factory=dict)
 
 # we need to make a custom encoder to handle the dataclass
 class EntityDataEncoder(JSONEncoder):

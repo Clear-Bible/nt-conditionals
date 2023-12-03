@@ -263,17 +263,27 @@ def load_gnt_mapping_data(gnt_mapping_tsv):
     return macula_to_translation
 
 
-def get_words_from_ids(sblgnt_word_ids, sblgnt_verses):
+def get_words_from_ids(sblgnt_word_ids, word_id_key, sblgnt_verses):
     if len(sblgnt_word_ids) == 0:
         return ""
     previous_verse = BCVWPID(re.sub(r"^n", "", sblgnt_word_ids[0])).to_bcvid
     sblgnt_words = sblgnt_verses[previous_verse].words
     words = []
+    previous_word_index = 0
+    bool_first_word = True
     for word_id in sblgnt_word_ids:
         current_verse = BCVWPID(re.sub(r"^n", "", word_id)).to_bcvid
         if current_verse != previous_verse:
             previous_verse = current_verse
             sblgnt_words = sblgnt_verses[current_verse].words
+
+        current_word_index = int(BCVWPID(re.sub(r"^n", "", word_id)).word_ID)
+        if (current_word_index - previous_word_index > 1) and not bool_first_word:
+            if re.search(r"d$", word_id_key):
+                words.append("…")
+        previous_word_index = current_word_index
+        bool_first_word = False
+
         # append the proper word
         words.append(sblgnt_words[word_id].text)
 
@@ -300,3 +310,22 @@ def update_condition_fields(condition, fields_to_check):
     return fields_to_check
 
 
+def de_discontigify_word_id_list(word_ids, references, verses):
+    return_ids = []
+    reference_text_ids = []
+    for reference in references:
+        reference_text_ids.extend(get_word_ids(verses[reference]))
+
+    start_word_id = word_ids[0]
+    end_word_id = word_ids[-1]
+
+    in_range = False
+    for word_id in reference_text_ids:
+        if word_id == start_word_id:
+            in_range = True
+        if in_range:
+            return_ids.append(word_id)
+        if word_id == end_word_id:
+            in_range = False
+
+    return return_ids

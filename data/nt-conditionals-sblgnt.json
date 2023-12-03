@@ -2825,7 +2825,7 @@
       "p1": "πιστεύοντες"
     },
     "greek_apodoses": {
-      "q1": "πάντα ὅσα ἂν αἰτήσητε ἐν τῇ προσευχῇ λήμψεσθε"
+      "q1d": "πάντα ὅσα ἂν αἰτήσητε ἐν τῇ προσευχῇ … λήμψεσθε"
     },
     "greek_protasis_words": {
       "p1": [
@@ -2833,7 +2833,7 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
+      "q1d": [
         "n40021022002",
         "n40021022003",
         "n40021022004",
@@ -5791,7 +5791,7 @@
     "notes": "Jesus compares two different types of people, but unlike 9:48 and other similar verses, he uses a regular 3rd class conditional paired with construction εἰ δὲ μή γε in v.6b.",
     "parallel_passages": "Matthew 10:13a (Command)",
     "greek_protases": {
-      "p1": "ἐὰν ἐκεῖ ᾖ υἱὸς εἰρήνης"
+      "p1": "ἐὰν ᾖ ἐκεῖ υἱὸς εἰρήνης"
     },
     "greek_apodoses": {
       "q1": "ἐπαναπαήσεται ἐπ αὐτὸν ἡ εἰρήνη ὑμῶν"
@@ -5799,8 +5799,8 @@
     "greek_protasis_words": {
       "p1": [
         "n42010006002",
-        "n42010006004",
         "n42010006003",
+        "n42010006004",
         "n42010006005",
         "n42010006006"
       ]
@@ -7030,7 +7030,7 @@
       "p1": "εἰ ἐν τῷ ἀλλοτρίῳ πιστοὶ οὐκ ἐγένεσθε"
     },
     "greek_apodoses": {
-      "q1": "τὸ ὑμέτερον τίς ὑμῖν δώσει"
+      "q1": "τὸ ὑμέτερον τίς δώσει ὑμῖν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -7048,8 +7048,8 @@
         "n42016012009",
         "n42016012010",
         "n42016012011",
-        "n42016012013",
-        "n42016012012"
+        "n42016012012",
+        "n42016012013"
       ]
     }
   },
@@ -8253,7 +8253,7 @@
       "p1": "ἐὰν εἴπω ὑμῖν τὰ ἐπουράνια"
     },
     "greek_apodoses": {
-      "q1": "πῶς πιστεύσετε"
+      "q1d": "πῶς … πιστεύσετε"
     },
     "greek_protasis_words": {
       "p1": [
@@ -8265,7 +8265,7 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
+      "q1d": [
         "n43003012009",
         "n43003012015"
       ]
@@ -11105,7 +11105,7 @@
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "We have chosen to analyze this as a factual conditional, based on the UBS Greek text with a class 1 conditional. Some manuscripts have a pluperfect verb in both p and q (and an αν in q), which is evidently the interpreatation most of the English translations take. However, the UBS Greek has a perfect verb in p and a future verb in q (with the variants listed in the footnotes); the interpretation in the NIV is based on this. The alternative class 2 interpreation seems to imply that the disciples haven't really known Jesus, but now do. There is merit in both interpretations, and Jesus' point either way is that he and the Father are one; knowledge of him is the same thing as knowledge of the Father, so the disciples do indeed know the Father.",
     "greek_protases": {
-      "p1": "εἰ με"
+      "p1": "εἰ ἐγνώκειτέ με"
     },
     "greek_apodoses": {
       "q1": "καὶ τὸν πατέρα μου"
@@ -11113,6 +11113,7 @@
     "greek_protasis_words": {
       "p1": [
         "n43014007001",
+        "n43014007002",
         "n43014007003"
       ]
     },
@@ -11893,7 +11894,7 @@
       "p1": "ἐὰν γὰρ μὴ ἀπέλθω"
     },
     "greek_apodoses": {
-      "q1": "ὁ παράκλητος οὐ πρὸς ὑμᾶς"
+      "q1": "ὁ παράκλητος οὐ μὴ ἔλθῃ πρὸς ὑμᾶς"
     },
     "greek_protasis_words": {
       "p1": [
@@ -11908,6 +11909,8 @@
         "n43016007016",
         "n43016007017",
         "n43016007018",
+        "n43016007019",
+        "n43016007020",
         "n43016007021",
         "n43016007022"
       ]
@@ -12533,7 +12536,7 @@
       "p1": "ἅτινα ἐὰν γράφηται καθ ἕν"
     },
     "greek_apodoses": {
-      "q1": "οὐδ αὐτὸν οἶμαι τὸν κόσμον τὰ γραφόμενα βιβλία"
+      "q1": "οὐδ αὐτὸν οἶμαι τὸν κόσμον χωρήσειν τὰ γραφόμενα βιβλία"
     },
     "greek_protasis_words": {
       "p1": [
@@ -12551,6 +12554,7 @@
         "n43021025017",
         "n43021025018",
         "n43021025019",
+        "n43021025020",
         "n43021025021",
         "n43021025022",
         "n43021025023"
@@ -14915,7 +14919,7 @@
       "p1": "εἰ δὲ τὸ πνεῦμα τοῦ ἐγείραντος τὸν Ἰησοῦν ἐκ νεκρῶν οἰκεῖ ἐν ὑμῖν"
     },
     "greek_apodoses": {
-      "q1": "ὁ ἐγείρας Χριστὸν ἐκ νεκρῶν ζῳοποιήσει καὶ τὰ θνητὰ σώματα ὑμῶν διὰ αὐτοῦ ἐν ὑμῖν"
+      "q1": "ὁ ἐγείρας ἐκ νεκρῶν Χριστὸν Ἰησοῦν ζῳοποιήσει καὶ τὰ θνητὰ σώματα ὑμῶν διὰ τὸ ἐνοικοῦν αὐτοῦ πνεῦμα ἐν ὑμῖν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -14938,9 +14942,10 @@
       "q1": [
         "n45008011014",
         "n45008011015",
-        "n45008011018",
         "n45008011016",
         "n45008011017",
+        "n45008011018",
+        "n45008011019",
         "n45008011020",
         "n45008011021",
         "n45008011022",
@@ -14948,7 +14953,10 @@
         "n45008011024",
         "n45008011025",
         "n45008011026",
+        "n45008011027",
+        "n45008011028",
         "n45008011029",
+        "n45008011030",
         "n45008011031",
         "n45008011032"
       ]
@@ -17721,7 +17729,7 @@
       "p1": "ἐὰν μὴ φάγωμεν"
     },
     "greek_apodoses": {
-      "q1": "οὔτε ὑστερούμεθα"
+      "q1d": "οὔτε … ὑστερούμεθα"
     },
     "greek_protasis_words": {
       "p1": [
@@ -17731,7 +17739,7 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
+      "q1d": [
         "n46008008008",
         "n46008008017"
       ]
@@ -17758,7 +17766,7 @@
       "p1": "ἐὰν φάγωμεν"
     },
     "greek_apodoses": {
-      "q1": "οὔτε περισσεύομεν"
+      "q1d": "περισσεύομεν οὔτε"
     },
     "greek_protasis_words": {
       "p1": [
@@ -17767,9 +17775,9 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
-        "n46008008013",
-        "n46008008012"
+      "q1d": [
+        "n46008008012",
+        "n46008008013"
       ]
     }
   },
@@ -19033,7 +19041,7 @@
     "notes": "This verse has a complex protasis consisting of two positive statements (1) I give away all my possessions, (2) I surrender my body to be burned. In Greek, p1 has κἂν and p2 has καὶ ἐὰν both of which can be understood either as 'even if or 'and if', but no English translation translates these as concessives (except KJV & NKJV which use \"though\"). Most English translations follow the Greek and use \"if\" twice, but NIV and NLT only use \"if\" once. As with 13:2, these positive statements are followed by one negative statement \"but love I do not have\", which overrides the positive statements; in Greek there is emphasis on \"love\" (which is fronted).",
     "greek_protases": {
       "p1": "ψωμίσω πάντα τὰ ὑπάρχοντά μου",
-      "p2": "ἐὰν παραδῶ τὸ σῶμά μου ἵνα"
+      "p2": "ἐὰν ψωμίσω πάντα τὰ ὑπάρχοντά μου καὶ ἐὰν παραδῶ τὸ σῶμά μου ἵνα"
     },
     "greek_apodoses": {
       "q1": "οὐδὲν ὠφελοῦμαι"
@@ -19048,6 +19056,13 @@
       ],
       "p2": [
         "n46013003002",
+        "n46013003003",
+        "n46013003004",
+        "n46013003005",
+        "n46013003006",
+        "n46013003007",
+        "n46013003008",
+        "n46013003009",
         "n46013003010",
         "n46013003011",
         "n46013003012",
@@ -19276,7 +19291,7 @@
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "Note that 14:7b, 8, 9 are making basically the same argument. 14:7b & 8 provide illustrations, and 14:9 provides the application.",
     "greek_protases": {
-      "p1": "καὶ γὰρ ἐὰν ἄδηλον σάλπιγξ φωνὴν δῷ"
+      "p1": "καὶ γὰρ ἐὰν ἄδηλον φωνὴν σάλπιγξ δῷ"
     },
     "greek_apodoses": {
       "q1": "τίς παρασκευάσεται εἰς πόλεμον"
@@ -19287,8 +19302,8 @@
         "n46014008002",
         "n46014008003",
         "n46014008004",
-        "n46014008006",
         "n46014008005",
+        "n46014008006",
         "n46014008007"
       ]
     },
@@ -20784,7 +20799,7 @@
       "p1": "εἴ τι κεχάρισμαι"
     },
     "greek_apodoses": {
-      "q1": "καὶ γὰρ ἐγὼ ὃ κεχάρισμαι δι ὑμᾶς ἐν προσώπῳ Χριστοῦ"
+      "q1d": "καὶ γὰρ ἐγὼ ὃ κεχάρισμαι … δι ὑμᾶς ἐν προσώπῳ Χριστοῦ"
     },
     "greek_protasis_words": {
       "p1": [
@@ -20794,7 +20809,7 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
+      "q1d": [
         "n47002010006",
         "n47002010007",
         "n47002010008",
@@ -21357,13 +21372,13 @@
     "english_translations": "ESV, NASB, NRSV: \"though only\"\nNIV: \"but only\"\nNLT: no condtional or concessive",
     "notes": "See note on v.8a \nIn Greek, p comes in the middle of q. A word-for-word translation with p in square brackets is: \"I see that that letter [though (if only)] for an hour] it grieved you(pl).\"",
     "greek_protases": {
-      "p1": "ἡ ἐπιστολὴ ἐκείνη ἐλύπησεν ὑμᾶς"
+      "p1d": "ἡ ἐπιστολὴ ἐκείνη … ἐλύπησεν ὑμᾶς"
     },
     "greek_apodoses": {
       "q1": "εἰ καὶ πρὸς ὥραν"
     },
     "greek_protasis_words": {
-      "p1": [
+      "p1d": [
         "n47007008016",
         "n47007008017",
         "n47007008018",
@@ -21547,7 +21562,7 @@
       "p1": "μή πως ἐὰν ἔλθωσιν σὺν ἐμοὶ Μακεδόνες καὶ εὕρωσιν ὑμᾶς ἀπαρασκευάστους"
     },
     "greek_apodoses": {
-      "q1": "καταισχυνθῶμεν ἡμεῖς ἵνα μὴ ὑμεῖς ἐν τῇ ὑποστάσει ταύτῃ"
+      "q1": "καταισχυνθῶμεν ἡμεῖς ἵνα μὴ λέγωμεν ὑμεῖς ἐν τῇ ὑποστάσει ταύτῃ"
     },
     "greek_protasis_words": {
       "p1": [
@@ -21570,6 +21585,7 @@
         "n47009004013",
         "n47009004014",
         "n47009004015",
+        "n47009004016",
         "n47009004017",
         "n47009004018",
         "n47009004019",
@@ -22316,7 +22332,7 @@
     "english_translations": "ESV, NASB, NRSV: \"if\"\nNIV: no conditional\nNLT: \"since\"",
     "notes": "Paul is reminding Peter that he had been living like a Gentile. The phrase “though a Jew” is embedded within p, and as Groff (2016) Translator’s Notes suggests, can be moved to the start of the sentence if this is more natural.",
     "greek_protases": {
-      "p1": "Εἰ σὺ Ἰουδαῖος ὑπάρχων ἐθνικῶς καὶ Ἰουδαϊκῶς ζῇς"
+      "p1": "Εἰ σὺ Ἰουδαῖος ὑπάρχων ἐθνικῶς καὶ οὐκ Ἰουδαϊκῶς ζῇς"
     },
     "greek_apodoses": {
       "q1": "πῶς τὰ ἔθνη ἀναγκάζεις Ἰουδαΐζειν"
@@ -22329,6 +22345,7 @@
         "n48002014020",
         "n48002014021",
         "n48002014022",
+        "n48002014023",
         "n48002014024",
         "n48002014025"
       ]
@@ -23433,7 +23450,7 @@
       "p1": "εἴ γε ἐπιμένετε τῇ πίστει τεθεμελιωμένοι καὶ ἑδραῖοι καὶ μὴ μετακινούμενοι ἀπὸ τῆς ἐλπίδος τοῦ εὐαγγελίου οὗ ἠκούσατε"
     },
     "greek_apodoses": {
-      "q1": "νυνὶ δὲ ἐν τῷ σώματι τῆς σαρκὸς αὐτοῦ διὰ τοῦ θανάτου παραστῆσαι ὑμᾶς ἁγίους καὶ ἀμώμους καὶ ἀνεγκλήτους κατενώπιον αὐτοῦ"
+      "q1": "νυνὶ δὲ ἀποκατηλλάγητε ἐν τῷ σώματι τῆς σαρκὸς αὐτοῦ διὰ τοῦ θανάτου παραστῆσαι ὑμᾶς ἁγίους καὶ ἀμώμους καὶ ἀνεγκλήτους κατενώπιον αὐτοῦ"
     },
     "greek_protasis_words": {
       "p1": [
@@ -23461,6 +23478,7 @@
       "q1": [
         "n51001022001",
         "n51001022002",
+        "n51001022003",
         "n51001022004",
         "n51001022005",
         "n51001022006",
@@ -25198,7 +25216,7 @@
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "P is proven to be non-factual by v.16.",
     "greek_protases": {
-      "p1": "εἰ μὲν ἐκείνης ἀφ ἧς ἐξέβησαν"
+      "p1": "εἰ μὲν ἐκείνης μνημονεύουσιν ἀφ ἧς ἐξέβησαν"
     },
     "greek_apodoses": {
       "q1": "εἶχον ἂν καιρὸν ἀνακάμψαι"
@@ -25208,6 +25226,7 @@
         "n58011015002",
         "n58011015003",
         "n58011015004",
+        "n58011015005",
         "n58011015006",
         "n58011015007",
         "n58011015008"
@@ -25376,7 +25395,7 @@
       "p1": "ἐὰν τάχιον ἔρχηται"
     },
     "greek_apodoses": {
-      "q1": "μεθ οὗ ὄψομαι ὑμᾶς"
+      "q1d": "μεθ οὗ … ὄψομαι ὑμᾶς"
     },
     "greek_protasis_words": {
       "p1": [
@@ -25386,7 +25405,7 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
+      "q1d": [
         "n58013023007",
         "n58013023008",
         "n58013023012",
@@ -25561,7 +25580,7 @@
     "english_translations": "ESV, NRSV: \"if\" in v.2 and v.3\nNASB: \"if\" once in v.2\nNIV, NLT: \"suppose\" in v.2 and \"if\" in v.3",
     "notes": "In Greek, ἐὰν 'if' occurs once at the start of v.2 and has scope over the whole of vv.2-3. NASB follows the Greek in this. ESV and NRSV repeat \"if\" at the start of v.3 (and in fact NRSV also repeats \"if\" before \"a poor person\" in v.2). NIV and NLT only have \"if\" at the start of v.3 but begin v.2 with \"suppose\".\n\"James’ goal is to help the reader realize that behaving along the lines of the scenario in the conditional frame is indeed showing partiality and not something else. This command is clearly laid out in v.1 and is practically illustrated in vv.2-4 to make sure that no one misses the point.\" (Runge 2010)",
     "greek_protases": {
-      "p1": "ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ εἰσέλθῃ δὲ καὶ πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι ἐπιβλέψητε δὲ ἐπὶ τὸν φοροῦντα τὴν ἐσθῆτα τὴν λαμπρὰν καὶ εἴπητε Σὺ κάθου ὧδε καλῶς καὶ τῷ πτωχῷ εἴπητε Σὺ στῆθι ἐκεῖ ἢ κάθου ὑπὸ τὸ ὑποπόδιόν μου"
+      "p1": "ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ εἰσέλθῃ δὲ καὶ πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι ἐπιβλέψητε δὲ ἐπὶ τὸν φοροῦντα τὴν ἐσθῆτα τὴν λαμπρὰν καὶ εἴπητε Σὺ κάθου ὧδε καλῶς καὶ τῷ πτωχῷ εἴπητε Σὺ στῆθι ἢ κάθου ἐκεῖ ὑπὸ τὸ ὑποπόδιόν μου"
     },
     "greek_apodoses": {
       "q1": "οὐ διεκρίθητε ἐν ἑαυτοῖς καὶ ἐγένεσθε κριταὶ διαλογισμῶν πονηρῶν"
@@ -25607,9 +25626,9 @@
         "n59002003019",
         "n59002003020",
         "n59002003021",
-        "n59002003024",
         "n59002003022",
         "n59002003023",
+        "n59002003024",
         "n59002003025",
         "n59002003026",
         "n59002003027",
@@ -25893,7 +25912,7 @@
       "p1": "ἐὰν μὴ ἔχῃ ἔργα"
     },
     "greek_apodoses": {
-      "q1": "οὕτως καὶ ἡ πίστις νεκρά ἐστιν καθ ἑαυτήν"
+      "q1d": "οὕτως καὶ ἡ πίστις … νεκρά ἐστιν καθ ἑαυτήν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -25904,7 +25923,7 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
+      "q1d": [
         "n59002017001",
         "n59002017002",
         "n59002017003",
@@ -26663,7 +26682,7 @@
       "p1": "εἰ θέλοι τὸ θέλημα τοῦ θεοῦ"
     },
     "greek_apodoses": {
-      "q1": "κρεῖττον γὰρ ἀγαθοποιοῦντας πάσχειν ἢ κακοποιοῦντας"
+      "q1d": "κρεῖττον γὰρ ἀγαθοποιοῦντας … πάσχειν ἢ κακοποιοῦντας"
     },
     "greek_protasis_words": {
       "p1": [
@@ -26676,7 +26695,7 @@
       ]
     },
     "greek_apodosis_words": {
-      "q1": [
+      "q1d": [
         "n60003017001",
         "n60003017002",
         "n60003017003",
@@ -27764,7 +27783,7 @@
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "This conditional presents the alternative to v.20.",
     "greek_protases": {
-      "p1": "ἐὰν ἡ καρδία ἡμῶν μὴ καταγινώσκῃ"
+      "p1": "ἐὰν ἡ καρδία μὴ καταγινώσκῃ ἡμῶν"
     },
     "greek_apodoses": {
       "q1": "παρρησίαν ἔχομεν πρὸς τὸν θεόν"
@@ -27774,9 +27793,9 @@
         "n62003021002",
         "n62003021003",
         "n62003021004",
-        "n62003021007",
         "n62003021005",
-        "n62003021006"
+        "n62003021006",
+        "n62003021007"
       ]
     },
     "greek_apodosis_words": {

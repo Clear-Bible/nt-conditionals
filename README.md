@@ -2,7 +2,7 @@
 Data regarding conditional statements/clauses in the NT provided by Rachel and Mike Aubrey and CanIL (Steve Nicolle)
 
 # license
-Rick's understanding is that this is CC-BY-4.0 or equivalent (and am confirming). The NA27 are segments/phrases so should be fine, but even then we will map the NA27 to SBLGNT and only distribute the SBLGNT-based editon.
+Rick's understanding is that this is CC-BY-4.0 or equivalent (and am confirming). The NA27 are segments/phrases so should be fine. We will map the NA27 to SBLGNT and offer both editions for distribution.
 
 # supplied data
 Rachel and Mike Aubrey supplied four files; two Excel spreadsheets and two PDFs. Another edition of the data, without Greek protasis or apodosis specified, is also availble. These are in the `data/raw` folder of this repo.

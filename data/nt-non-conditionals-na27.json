@@ -6771,9 +6771,15 @@
     "english": "NASB (following Greek closely):\np1: (if anyone competes as an athlete,)\nq1: (q2: [he does not win the prize] p2: [unless he competes according to the rules.])\n\nESV: \nq: (An athlete is not crowned)\np: (unless he competes according to the rules)",
     "condition_class": "3",
     "inverse": false,
-    "probability": "Neutral",
-    "time_orientation": "Gnomic",
-    "illocutionary_force": "Exhort",
+    "probability": [
+      "Neutral"
+    ],
+    "time_orientation": [
+      "Gnomic"
+    ],
+    "illocutionary_force": [
+      "Exhort"
+    ],
     "english_translations": "ESV, NLT: no conditional / \"unless\"\nNASB: \"if anyone\" / \"unless\"\nNRSV: \"in the case of\" / \"without\"\nNIV: \"anyone who\" / \"except by\"",
     "notes": "This verse is grammatically complex because it has a conditional embedded within another conditional. Most translations simplify the grammar in some way. The first p seems to be presentational, introducing the topic of athletes, so in that sense, 2:5b-c is the true conditional (see ESV).\nParaphrase (to avoid multiple negatives in languages without 'unless'):\np1 (if anyone competes as an athlete,) q1: (q2: [he wins the prize] p2: [only if he competes according to the rules.])\nor:\nq: (an athlete wins the prize) p: [only if he competes according to the rules.)",
     "greek_protases": {
@@ -6808,9 +6814,15 @@
     "english": "p: (If we have died with him,)\nq: (we will also live with him)",
     "condition_class": "1",
     "inverse": false,
-    "probability": "Factual",
-    "time_orientation": "Past",
-    "illocutionary_force": "Encourage",
+    "probability": [
+      "Factual"
+    ],
+    "time_orientation": [
+      "Past"
+    ],
+    "illocutionary_force": [
+      "Encourage"
+    ],
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "The conditionals of 2:11-13 are a Christian hymn modified by Paul for this context, rather than a logical argument .\n2Ti 2:11 is very similar to Rom 6:8. Given the connection with baptism in Romans 6, Paul's theology, and the fact that this p is in the aorist, this is clearly a factual conditional.",
     "greek_protases": {
@@ -6839,9 +6851,16 @@
     "english": "p: (if we endure,)\nq: (we will also reign with him)",
     "condition_class": "1",
     "inverse": false,
-    "probability": "Neutral",
-    "time_orientation": "Gnomic",
-    "illocutionary_force": "Exhort / Warn",
+    "probability": [
+      "Neutral"
+    ],
+    "time_orientation": [
+      "Gnomic"
+    ],
+    "illocutionary_force": [
+      "Exhort",
+      "Warn"
+    ],
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "Mounce (2000) claims that there is an implied warning in this verse. Unlike v.11, the final three conditionals in this hymn have a neutral probability.",
     "greek_protases": {
@@ -6869,9 +6888,15 @@
     "english": "p: (if we deny him,)\nq: (he also will deny us;)",
     "condition_class": "1",
     "inverse": false,
-    "probability": "Neutral",
-    "time_orientation": "Gnomic",
-    "illocutionary_force": "Warn",
+    "probability": [
+      "Neutral"
+    ],
+    "time_orientation": [
+      "Gnomic"
+    ],
+    "illocutionary_force": [
+      "Warn"
+    ],
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "Mounce (2000) claims that 2:12b refers to total apostasy whereas 2:13 refers to temporary disobedience. ",
     "greek_protases": {
@@ -6900,9 +6925,15 @@
     "english": "p: (if we are faithless,)\nq: (he remains faithful)",
     "condition_class": "1",
     "inverse": false,
-    "probability": "Neutral",
-    "time_orientation": "Gnomic",
-    "illocutionary_force": "Encourage",
+    "probability": [
+      "Neutral"
+    ],
+    "time_orientation": [
+      "Gnomic"
+    ],
+    "illocutionary_force": [
+      "Encourage"
+    ],
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "See note at 2:12b.\nQ is true regardless of the validity of p, so this could be interpreted as a concessive condtional: \"even if we are are unfaithful, he remains faithful.\"",
     "greek_protases": {
@@ -6931,9 +6962,15 @@
     "english": "p: (if anyone cleanses himself from what is dishonorable,)\nq: (he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.)",
     "condition_class": "3",
     "inverse": false,
-    "probability": "Neutral",
-    "time_orientation": "Gnomic",
-    "illocutionary_force": "Encourage",
+    "probability": [
+      "Neutral"
+    ],
+    "time_orientation": [
+      "Gnomic"
+    ],
+    "illocutionary_force": [
+      "Encourage"
+    ],
     "english_translations": "ESV, NASB: \"if anyone'\"\nNRSV: \"all who\"\nNIV: \"those who\"\nNLT: \"if you\"",
     "notes": "This conditional introduces the topic of people who are cleansed from moral wrong.",
     "greek_protases": {
@@ -6977,9 +7014,15 @@
     "english": "p: (...if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination)\nq: (IMPLIED: appoint such a person)",
     "condition_class": "1",
     "inverse": false,
-    "probability": "Neutral",
-    "time_orientation": "Present",
-    "illocutionary_force": "Assert",
+    "probability": [
+      "Neutral"
+    ],
+    "time_orientation": [
+      "Present"
+    ],
+    "illocutionary_force": [
+      "Assert"
+    ],
     "english_translations": "ESV: \"if anyone\"\nNASB: \"if any man\"\nNRSV: \"someone who\"\nNIV, NLT: no conditional, \"an elder must...\"",
     "notes": "Paul is giving Titus a guideline for appointing elders. This conditional lists the attributes of an elder; however, q is left implicit. The conditional expression εἴ τίς 'if anyone' can equally well be treated as an indefinite pronoun as in NRSV \"someone\".\n",
     "greek_protases": {
@@ -7012,9 +7055,15 @@
     "english": "p: (so if you consider me your partner)\nq: (receive him as you would receive me)",
     "condition_class": "1",
     "inverse": false,
-    "probability": "Factual",
-    "time_orientation": "Present",
-    "illocutionary_force": "Request",
+    "probability": [
+      "Factual"
+    ],
+    "time_orientation": [
+      "Present"
+    ],
+    "illocutionary_force": [
+      "Request"
+    ],
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "Philemon knows that Paul considers him a partner. Paul is making his request on the basis of that relationship.",
     "greek_protases": {
@@ -7047,9 +7096,15 @@
     "english": "p: (if he has wronged you at all, or owes you anything)\nq: (charge that to my account)",
     "condition_class": "1",
     "inverse": false,
-    "probability": "Very Likely or Factual",
-    "time_orientation": "Present",
-    "illocutionary_force": "Command",
+    "probability": [
+      "Very Likely or Factual"
+    ],
+    "time_orientation": [
+      "Present"
+    ],
+    "illocutionary_force": [
+      "Command"
+    ],
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
     "notes": "Paul is sending Onesimus, a slave, back to Philemon, his master. It is highly likely that Philemon feels that Onesimus has done him wrong. By asking Philemon to charge everything owed to his (Paul's) account, Paul is taking on the responsibility for paying what Onesimus owes.",
     "greek_protases": {

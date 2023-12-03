@@ -65,9 +65,9 @@ class NonCondition:
     english: str
     condition_class: str
     inverse: bool = False
-    probability: str = ""
-    time_orientation: str = ""
-    illocutionary_force: str = ""
+    probability: list = dataclasses.field(default_factory=list)
+    time_orientation: list = dataclasses.field(default_factory=list)
+    illocutionary_force: list = dataclasses.field(default_factory=list)
     english_translations: str = ""
     notes: str = ""
     parallel_passages: str = ""
@@ -278,5 +278,25 @@ def get_words_from_ids(sblgnt_word_ids, sblgnt_verses):
         words.append(sblgnt_words[word_id].text)
 
     return " ".join(words)
+
+
+def update_condition_fields(condition, fields_to_check):
+    if not fields_to_check["condition_class"].__contains__(condition.condition_class):
+        fields_to_check["condition_class"][condition.condition_class] = 0
+    fields_to_check["condition_class"][condition.condition_class] += 1
+    for probability in condition.probability:
+        if not fields_to_check["probability"].__contains__(probability):
+            fields_to_check["probability"][probability] = 0
+        fields_to_check["probability"][probability] += 1
+    for time_orientation in condition.time_orientation:
+        if not fields_to_check["time_orientation"].__contains__(time_orientation):
+            fields_to_check["time_orientation"][time_orientation] = 0
+        fields_to_check["time_orientation"][time_orientation] += 1
+    for illocutionary_force in condition.illocutionary_force:
+        if not fields_to_check["illocutionary_force"].__contains__(illocutionary_force):
+            fields_to_check["illocutionary_force"][illocutionary_force] = 0
+        fields_to_check["illocutionary_force"][illocutionary_force] += 1
+
+    return fields_to_check
 
 

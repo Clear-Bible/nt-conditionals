@@ -24,6 +24,13 @@ non_conditionals_df = pd.read_csv(url, encoding='utf-8', keep_default_na=False)
 nt_non_conditionals_na27 = []
 nt_non_conditionals_sblgnt = []
 
+fields_to_check = {}
+fields_to_check["condition_class"] = {}
+fields_to_check["probability"] = {}
+fields_to_check["time_orientation"] = {}
+fields_to_check["illocutionary_force"] = {}
+
+
 for row in non_conditionals_df.index:
     # create a conditionals object from the row in the dataframe
     inverse = False
@@ -39,9 +46,9 @@ for row in non_conditionals_df.index:
         english = non_conditionals_df['Non-conditional uses of εἰ and ἐὰν'][row],
         condition_class = non_conditionals_df['Class'][row],
         inverse = inverse,
-        probability = non_conditionals_df['Probability'][row],
-        time_orientation = non_conditionals_df['Time Orientation'][row],
-        illocutionary_force = non_conditionals_df['Illocutionary Force'][row],
+        probability = re.split(r"\s*/\s*", non_conditionals_df['Probability'][row].strip()),
+        time_orientation = re.split(r"\s*/\s*", non_conditionals_df['Time Orientation'][row].strip()),
+        illocutionary_force = re.split(r"\s*/\s*", non_conditionals_df['Illocutionary Force'][row].strip()),
         english_translations = non_conditionals_df['English Translations'][row],
         notes = non_conditionals_df['Notes'][row],
         parallel_passages = non_conditionals_df['Parallel passages'][row], # will need to identify refs
@@ -92,6 +99,9 @@ for row in non_conditionals_df.index:
     else:
         non_condition.greek_protases["p1"] = greek_protasis
         non_condition.greek_apodoses["q1"] = greek_apodosis
+
+    # check fields to ensure we only have stuff we want/support/
+    fields_to_check = update_condition_fields(non_condition, fields_to_check)
 
     nt_non_conditionals_na27.append(non_condition)
 
@@ -208,3 +218,10 @@ with open(f'{data_dir}nt-non-conditionals-sblgnt.json', 'w', encoding='utf-8') a
     interim = json.dumps(nt_non_conditionals_sblgnt, indent=2, cls=EntityDataEncoder, ensure_ascii=False)
     cleaned_interim = json.loads(interim, object_hook=remove_empty_elements)
     json.dump(cleaned_interim, outfile, indent=2, ensure_ascii=False)
+
+
+# report on field content for review
+for field in fields_to_check:
+    print(f"{field}:")
+    for value in fields_to_check[field]:
+        print(f"\t{value}: {fields_to_check[field][value]}")

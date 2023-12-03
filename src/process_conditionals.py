@@ -1,6 +1,7 @@
 import copy
 from shared.shared_classes import *
 
+
 git_dir = "c:/git/Clear/"
 root_dir = f"{git_dir}nt-conditionals/"
 data_dir = f"{root_dir}data/"
@@ -22,6 +23,13 @@ conditionals_df = pd.read_csv(url, encoding='utf-8', keep_default_na=False)
 nt_conditionals = [] # this is NA27
 nt_conditionals_sblgnt = []
 
+fields_to_check = {}
+fields_to_check["condition_class"] = {}
+fields_to_check["probability"] = {}
+fields_to_check["time_orientation"] = {}
+fields_to_check["illocutionary_force"] = {}
+
+
 for row in conditionals_df.index:
     # create a conditionals object from the row in the dataframe
     inverse = False
@@ -35,10 +43,10 @@ for row in conditionals_df.index:
         english = conditionals_df['Scope of Conditional (ESV unless noted)'][row],
         condition_class = conditionals_df['Class'][row],
         inverse = inverse,
-        probability = conditionals_df['Probability'][row],
-        time_orientation = conditionals_df['Time Orientation'][row],
-        illocutionary_force = conditionals_df['Illocutionary Force'][row],
-        english_translations = conditionals_df['English Translations'][row],
+        probability = re.split(r"\s*/\s*", conditionals_df['Probability'][row].strip()),
+        time_orientation = re.split(r"\s*/\s*", conditionals_df['Time Orientation'][row].strip()),
+        illocutionary_force = re.split(r"\s*/\s*", conditionals_df['Illocutionary Force'][row].strip()),
+        english_translations = conditionals_df['English Translations'][row] ,
         notes = conditionals_df['Notes'][row],
         parallel_passages = conditionals_df['Parallel passages'][row], # will need to identify refs
         greek_protases = {},
@@ -81,6 +89,9 @@ for row in conditionals_df.index:
     else:
         condition.greek_protases["p1"] = greek_protasis
         condition.greek_apodoses["q1"] = greek_apodosis
+
+    # check fields to ensure we only have stuff we want/support/
+    fields_to_check = update_condition_fields(condition, fields_to_check)
 
     nt_conditionals.append(condition)
 
@@ -186,8 +197,8 @@ for conditional in nt_conditionals:
 
 # report.
 print(f"Total attempts: {total_attempts}")
-print(f"Missed {missed_matches} matches.")
-print(f"Matched {total_attempts - missed_matches} matches.")
+# print(f"Missed {missed_matches} matches.")
+# print(f"Matched {total_attempts - missed_matches} matches.")
 
 # dump it out to json
 with open(f'{data_dir}nt-conditionals-na27.json', 'w', encoding='utf-8') as outfile:
@@ -199,3 +210,9 @@ with open(f'{data_dir}nt-conditionals-sblgnt.json', 'w', encoding='utf-8') as ou
     interim = json.dumps(nt_conditionals_sblgnt, indent=2, cls=EntityDataEncoder, ensure_ascii=False)
     cleaned_interim = json.loads(interim, object_hook=remove_empty_elements)
     json.dump(cleaned_interim, outfile, indent=2, ensure_ascii=False)
+
+# report on field content for review
+for field in fields_to_check:
+    print(f"{field}:")
+    for value in fields_to_check[field]:
+        print(f"\t{value}: {fields_to_check[field][value]}")

@@ -954,7 +954,7 @@
     "notes": "Greek: ος εαν \"whoever\"\nSee note on 5:19.",
     "parallel_passages": "Mark 10:43",
     "greek_protases": {
-      "p1": "ὃς θέλῃ ἐν ὑμῖν μέγας"
+      "p1": "ὃς ἂν θέλῃ ἐν ὑμῖν μέγας"
     },
     "greek_apodoses": {
       "q1": "γενέσθαι ἔσται ὑμῶν διάκονος"
@@ -962,6 +962,7 @@
     "greek_protasis_words": {
       "p1": [
         "n40020026007",
+        "n40020026008",
         "n40020026009",
         "n40020026010",
         "n40020026011",
@@ -1083,7 +1084,7 @@
       "p1": "εἰ δυνατὸν"
     },
     "greek_apodoses": {
-      "q1": "πλανῆσαι καὶ τοὺς ἐκλεκτούς"
+      "q1": "πλανῆσαι … καὶ τοὺς ἐκλεκτούς"
     },
     "greek_protasis_words": {
       "p1": [
@@ -1691,7 +1692,7 @@
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"whatever\"",
     "notes": "Greek: Ὅ ἐάν 'whatever'",
     "greek_protases": {
-      "p1": "Ὅ ἐάν με αἰτήσῃς"
+      "p1": "Ὅ τι ἐάν με αἰτήσῃς"
     },
     "greek_apodoses": {
       "q1": "δώσω σοι ἕως ἡμίσους τῆς βασιλείας μου"
@@ -1699,6 +1700,7 @@
     "greek_protasis_words": {
       "p1": [
         "n41006023004",
+        "n41006023005",
         "n41006023006",
         "n41006023007",
         "n41006023008"
@@ -2191,7 +2193,7 @@
       "p1": "ὃ ἐὰν αἰτήσωμέν σε"
     },
     "greek_apodoses": {
-      "q1": "Διδάσκαλε θέλομεν ἵνα ποιήσῃς ἡμῖν"
+      "q1": "Διδάσκαλε θέλομεν ἵνα … ποιήσῃς ἡμῖν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -2582,7 +2584,7 @@
     "english_translations": "ESV: \"whom\"\nNASB: \"whomever\"\nNRSV, NLT, NIV: \"anyone\"",
     "notes": "Greek: ᾧ ἐὰν 'hoever'",
     "greek_protases": {
-      "p1": "Σοὶ δώσω τὴν ἐξουσίαν ταύτην ἅπασαν καὶ τὴν δόξαν αὐτῶν ὅτι ἐμοὶ παραδέδοται καὶ ᾧ θέλω δίδωμι αὐτήν"
+      "p1": "Σοὶ δώσω τὴν ἐξουσίαν ταύτην ἅπασαν καὶ τὴν δόξαν αὐτῶν ὅτι ἐμοὶ παραδέδοται καὶ ᾧ ἂν θέλω δίδωμι αὐτήν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -2601,6 +2603,7 @@
         "n42004006018",
         "n42004006019",
         "n42004006020",
+        "n42004006021",
         "n42004006022",
         "n42004006023",
         "n42004006024"
@@ -2888,7 +2891,7 @@
     "english_translations": "ESV, NASB, NRSV, NIV: \"whoever\"\nNLT: \"anyone who\"",
     "notes": "Greek:  ὃς ἐὰν \"whoever\".\nThis verse (and also Luk 17:33) compares two different kinds of people. The first kind of person is referred to with the relative pronoun ὃς and ἐὰν, while the second type of person is referred to with the relative pronoun ὃς and ἂν; both mean \"whoever\". It is possible in English to treat this as a true conditional and translate \"if anyone\" or, as in the NLT, to personalize it, \"if you\".",
     "greek_protases": {
-      "p1": "Ὃς δέξηται τοῦτο τὸ παιδίον ἐπὶ τῷ ὀνόματί μου",
+      "p1": "Ὃς ἂν δέξηται τοῦτο τὸ παιδίον ἐπὶ τῷ ὀνόματί μου",
       "p2": "καὶ ὃς ἂν ἐμὲ δέξηται"
     },
     "greek_apodoses": {
@@ -2898,6 +2901,7 @@
     "greek_protasis_words": {
       "p1": [
         "n42009048004",
+        "n42009048005",
         "n42009048006",
         "n42009048007",
         "n42009048008",
@@ -3601,7 +3605,7 @@
       "p1": "εἰ μὴ τοὺς πόδας"
     },
     "greek_apodoses": {
-      "q1": "Ὁ λελουμένος οὐκ ἔχει χρείαν νίψασθαι"
+      "q1": "Ὁ λελουμένος οὐκ ἔχει χρείαν … νίψασθαι"
     },
     "greek_protasis_words": {
       "p1": [
@@ -3779,7 +3783,7 @@
     "english_translations": "ESV, NASB: \"every soul who/that\"\nNRSV: \"everyone who\"\nNIV, NLT: \"anyone who\"",
     "notes": "Greek ἥτις ἐὰν is best translated as a relative pronoun 'who, whoever'. This is a quotation of Deutoronomy 18:19, which in Hebrew is clearly not a condtional construction; however, the LXX uses ὃς ἐὰν 'whoever'.",
     "greek_protases": {
-      "p1": "ἔσται δὲ πᾶσα ψυχὴ ἥτις μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου"
+      "p1": "ἔσται δὲ πᾶσα ψυχὴ ἥτις ἂν μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου"
     },
     "greek_apodoses": {
       "q1": "ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ"
@@ -3791,6 +3795,7 @@
         "n44003023003",
         "n44003023004",
         "n44003023005",
+        "n44003023006",
         "n44003023007",
         "n44003023008",
         "n44003023009",
@@ -4810,7 +4815,7 @@
     "english_translations": "ESV, NASB, RSV: \"only\"\nNRSV: \"however that may be\"\nNIV: \"nevertheless\"\nNLT: no conditional",
     "notes": "εἰ μὴ",
     "greek_protases": {
-      "p1": "Εἰ μὴ ἑκάστῳ οὕτως περιπατείτω"
+      "p1": "Εἰ μὴ ἑκάστῳ … οὕτως περιπατείτω"
     },
     "greek_apodoses": {
       "q1": "ὡς ἐμέρισεν ὁ κύριος ἕκαστον ὡς κέκληκεν ὁ θεός"
@@ -4962,7 +4967,7 @@
       "p1": "ὁσάκις ἐὰν πίνητε"
     },
     "greek_apodoses": {
-      "q1": "τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν"
+      "q1": "τοῦτο ποιεῖτε … εἰς τὴν ἐμὴν ἀνάμνησιν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -5521,7 +5526,7 @@
     "english_translations": "ESV, NRSV: \"if indeed\"\nNASB: \"inasmuch as\"\nNIV: \"because\"\nNLT: \"for\"",
     "notes": "There is a wide range of translations of the phrase εἴ γε καὶ, indicating a lack of consensus on how it is excactly being used. There does not appear to be a clear conditional relationship between p and q.",
     "greek_protases": {
-      "p1": "εἴ γε καὶ οὐ γυμνοὶ εὑρεθησόμεθα"
+      "p1": "εἴ γε καὶ ἐνδυσάμενοι οὐ γυμνοὶ εὑρεθησόμεθα"
     },
     "greek_apodoses": {
       "q1": "καὶ γὰρ ἐν τούτῳ στενάζομεν τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ ἐπενδύσασθαι ἐπιποθοῦντες"
@@ -5531,6 +5536,7 @@
         "n47005003001",
         "n47005003002",
         "n47005003003",
+        "n47005003004",
         "n47005003005",
         "n47005003006",
         "n47005003007"
@@ -6151,7 +6157,7 @@
       "p1": "εἴτε δοῦλος εἴτε ἐλεύθερος"
     },
     "greek_apodoses": {
-      "q1": "εἰδότες ὅτι ἕκαστος ποιήσῃ ἀγαθόν τοῦτο κομίσεται παρὰ κυρίου"
+      "q1": "εἰδότες ὅτι ἕκαστος ὃ ἂν ποιήσῃ ἀγαθόν τοῦτο κομίσεται παρὰ κυρίου"
     },
     "greek_protasis_words": {
       "p1": [
@@ -6166,6 +6172,8 @@
         "n49006008001",
         "n49006008002",
         "n49006008003",
+        "n49006008004",
+        "n49006008005",
         "n49006008006",
         "n49006008007",
         "n49006008008",
@@ -6544,7 +6552,7 @@
       "p1": "ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα"
     },
     "greek_apodoses": {
-      "q1": "ἀλλὰ ἐγενήθημεν ἐν μέσῳ ὑμῶν"
+      "q1": "ἀλλὰ ἐγενήθημεν ἤπιοι ἐν μέσῳ ὑμῶν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -6561,6 +6569,7 @@
       "q1": [
         "n52002007008",
         "n52002007009",
+        "n52002007010",
         "n52002007011",
         "n52002007012",
         "n52002007013"
@@ -6578,7 +6587,7 @@
       "p1": "εἴτε γρηγορῶμεν εἴτε καθεύδωμεν"
     },
     "greek_apodoses": {
-      "q1": "τοῦ ἀποθανόντος ἡμῶν ἵνα ἅμα σὺν αὐτῷ ζήσωμεν"
+      "q1": "τοῦ ἀποθανόντος … ἡμῶν ἵνα … ἅμα σὺν αὐτῷ ζήσωμεν"
     },
     "greek_protasis_words": {
       "p1": [
@@ -6768,7 +6777,7 @@
     "english_translations": "ESV, NLT: no conditional / \"unless\"\nNASB: \"if anyone\" / \"unless\"\nNRSV: \"in the case of\" / \"without\"\nNIV: \"anyone who\" / \"except by\"",
     "notes": "This verse is grammatically complex because it has a conditional embedded within another conditional. Most translations simplify the grammar in some way. The first p seems to be presentational, introducing the topic of athletes, so in that sense, 2:5b-c is the true conditional (see ESV).\nParaphrase (to avoid multiple negatives in languages without 'unless'):\np1 (if anyone competes as an athlete,) q1: (q2: [he wins the prize] p2: [only if he competes according to the rules.])\nor:\nq: (an athlete wins the prize) p: [only if he competes according to the rules.)",
     "greek_protases": {
-      "p1": "ἐὰν δὲ καὶ ἀθλῇ τις ἐὰν μὴ νομίμως ἀθλήσῃ"
+      "p1": "ἐὰν δὲ καὶ ἀθλῇ τις … ἐὰν μὴ νομίμως ἀθλήσῃ"
     },
     "greek_apodoses": {
       "q1": "οὐ στεφανοῦται"
@@ -7184,14 +7193,15 @@
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased",
     "notes": "See note on 3:11.",
     "greek_protases": {
-      "p1": "Εἰ εἰσελεύσονται εἰς κατάπαυσιν μου"
+      "p1": "Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου"
     },
     "greek_protasis_words": {
       "p1": [
         "n58004003015",
         "n58004003016",
         "n58004003017",
-        "n58004003004",
+        "n58004003018",
+        "n58004003019",
         "n58004003020"
       ]
     }

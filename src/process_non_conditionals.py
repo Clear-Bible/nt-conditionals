@@ -146,25 +146,25 @@ for non_conditional in nt_non_conditionals_na27:
         protasis = non_conditional.greek_protases["p1d"]
         apodosis = non_conditional.greek_apodoses["q1"]
         protasis = re.sub(apodosis, "…", protasis)
-        non_conditional.greek_protases["p1"] = protasis
-        del non_conditional.greek_protases["p1d"]
+        non_conditional.greek_protases["p1d"] = protasis
+        # del non_conditional.greek_protases["p1d"]
         # ok, word ids.
         for id_to_remove in non_conditional.greek_apodosis_words["q1"]:
             non_conditional.greek_protasis_words["p1d"].remove(id_to_remove)
-        non_conditional.greek_protasis_words["p1"] = non_conditional.greek_protasis_words["p1d"].copy()
-        del non_conditional.greek_protasis_words["p1d"]
+        # non_conditional.greek_protasis_words["p1"] = non_conditional.greek_protasis_words["p1d"].copy()
+        # del non_conditional.greek_protasis_words["p1d"]
     elif non_conditional.greek_apodoses.__contains__("q1d"):
         # we have a noncontiguous apodosis
         apodosis = non_conditional.greek_apodoses["q1d"]
         protasis = non_conditional.greek_protases["p1"]
         apodosis = re.sub(protasis, "…", apodosis)
-        non_conditional.greek_apodoses["q1"] = apodosis
-        del non_conditional.greek_apodoses["q1d"]
+        non_conditional.greek_apodoses["q1d"] = apodosis
+        #del non_conditional.greek_apodoses["q1d"]
         # ok, word ids.
         for id_to_remove in non_conditional.greek_protasis_words["p1"]:
             non_conditional.greek_apodosis_words["q1d"].remove(id_to_remove)
-        non_conditional.greek_apodosis_words["q1"] = non_conditional.greek_apodosis_words["q1d"].copy()
-        del non_conditional.greek_apodosis_words["q1d"]
+        # non_conditional.greek_apodosis_words["q1"] = non_conditional.greek_apodosis_words["q1d"].copy()
+        # del non_conditional.greek_apodosis_words["q1d"]
 
     # map word level stuff to SBLGNT, repopulate prot & apod words based on word references
     # conditional_sblgnt = dataclasses.replace(conditional)
@@ -173,31 +173,49 @@ for non_conditional in nt_non_conditionals_na27:
     for protasis_word_id_key in non_conditional_sblgnt.greek_protasis_words:
         protasis_word_ids = non_conditional_sblgnt.greek_protasis_words[protasis_word_id_key]
         sblgnt_protasis_word_ids = []
+        has_sblgnt_variant = False
         for na27_word in protasis_word_ids:
             if na27_to_sblgnt_map.__contains__(na27_word):
                 sblgnt_protasis_word_ids.append(na27_to_sblgnt_map[na27_word])
             else:
                 # uh ... what?
+                has_sblgnt_variant = True
                 print(f"{non_conditional_sblgnt.reference}:{non_conditional_sblgnt.index}{protasis_word_id_key}"
                       f": Could not map {na27_word} to SBLGNT")
+        # if it _isnt_ a discontiguous element, and if we _do_ have a variant, then we need to de-discontigify
+        if not re.search(r"\dd$", protasis_word_id_key):
+            if has_sblgnt_variant:
+                sblgnt_protasis_word_ids = de_discontigify_word_id_list(sblgnt_protasis_word_ids, references, sblgnt_verses)
+        sblgnt_protasis_word_ids.sort()
         non_conditional_sblgnt.greek_protasis_words[protasis_word_id_key] = sblgnt_protasis_word_ids
         # next, assemble the phrase based on the word ids and populate
-        protasis_phrase = get_words_from_ids(non_conditional_sblgnt.greek_protasis_words[protasis_word_id_key], sblgnt_verses)
+        protasis_phrase = get_words_from_ids(non_conditional_sblgnt.greek_protasis_words[protasis_word_id_key], protasis_word_id_key, sblgnt_verses)
         non_conditional_sblgnt.greek_protases[protasis_word_id_key] = protasis_phrase
     for apodosis_word_id_key in non_conditional_sblgnt.greek_apodosis_words:
         apodosis_word_ids = non_conditional_sblgnt.greek_apodosis_words[apodosis_word_id_key]
         sblgnt_apodosis_word_ids = []
+        has_sblgnt_variant = False
         for na27_word in apodosis_word_ids:
             if na27_to_sblgnt_map.__contains__(na27_word):
                 sblgnt_apodosis_word_ids.append(na27_to_sblgnt_map[na27_word])
             else:
                 # uh ... what?
+                has_sblgnt_variant= True
                 print(f"{non_conditional_sblgnt.reference}:{non_conditional_sblgnt.index}{apodosis_word_id_key}"
                       f": Could not map {na27_word} to SBLGNT")
+        # if it _isnt_ a discontiguous element, and if we _do_ have a variant, then we need to de-discontigify
+        if not re.search(r"\dd$", apodosis_word_id_key):
+            if has_sblgnt_variant:
+                sblgnt_apodosis_word_ids = de_discontigify_word_id_list(sblgnt_apodosis_word_ids, references, sblgnt_verses)
+        sblgnt_apodosis_word_ids.sort()
         non_conditional_sblgnt.greek_apodosis_words[apodosis_word_id_key] = sblgnt_apodosis_word_ids
         # next, assemble the phrase based on the word ids and populate
-        apodosis_phrase = get_words_from_ids(non_conditional_sblgnt.greek_apodosis_words[apodosis_word_id_key], sblgnt_verses)
+        apodosis_phrase = get_words_from_ids(non_conditional_sblgnt.greek_apodosis_words[apodosis_word_id_key], apodosis_word_id_key, sblgnt_verses)
         non_conditional_sblgnt.greek_apodoses[apodosis_word_id_key] = apodosis_phrase
+
+    # remove "d" from the end of the p/q keys
+    non_conditional = remove_d_from_keys(non_conditional)
+    non_conditional_sblgnt = remove_d_from_keys(non_conditional_sblgnt)
 
     # append it, we're done
     nt_non_conditionals_sblgnt.append(non_conditional_sblgnt)

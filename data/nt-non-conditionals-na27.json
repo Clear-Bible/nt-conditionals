@@ -537,7 +537,7 @@
     "english": "we have only five loaves here and two fish",
     "condition_class": "1",
     "inverse": true,
-    "english_translations": "NASB, NIV, NLT, all similar to ESV: \"We have here only...\"\nNRSV: \"We have nothing here but...\"\n",
+    "english_translations": "NASB, NIV, NLT, all similar to ESV: \"We have here only...\"\nNRSV: \"We have nothing here but...\"",
     "notes": "Greek: εἰ μὴ 'except'",
     "greek_protases": {
       "p1": "Οὐκ ἔχομεν ὧδε εἰ μὴ πέντε ἄρτους καὶ δύο ἰχθύας."
@@ -1383,7 +1383,7 @@
     "condition_class": "1",
     "inverse": false,
     "english_translations": "ESV, NRSV: \"whether\"\nNASB, NIV, NLT: \"if\"",
-    "notes": "This is non-conditional because the εἰ clause is subordinate to the preceding clause and specifies what they were watching for; εἰ functions as a complementizer. BDAG supports this by citing this verse under the definition 5bα of εἰ, which is a marker of an indirect question (278). ",
+    "notes": "This is non-conditional because the εἰ clause is subordinate to the preceding clause and specifies what they were watching for; εἰ functions as a complementizer. BDAG supports this by citing this verse under the definition 5bα of εἰ, which is a marker of an indirect question (278).",
     "greek_protases": {
       "p1": "καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ"
     },
@@ -1826,10 +1826,10 @@
   {
     "index": 58,
     "reference": "Mark 8:35",
-    "english": "p1: (whoever would save his life\nq1: (will lose it)\np2: (whoever loses his life for my sake and the gospel’s)\nq2: (will save it)\n",
+    "english": "p1: (whoever would save his life\nq1: (will lose it)\np2: (whoever loses his life for my sake and the gospel’s)\nq2: (will save it)",
     "condition_class": "3",
     "inverse": false,
-    "english_translations": "ESV, NASB, NIV: \"whoever\"\nNRSV: \"those who\"\nNLT: \"if\" (both clauses in the verse translated as conditionals, despite Greek lacking a conditional particle) ",
+    "english_translations": "ESV, NASB, NIV: \"whoever\"\nNRSV: \"those who\"\nNLT: \"if\" (both clauses in the verse translated as conditionals, despite Greek lacking a conditional particle)",
     "notes": "Greek: ὃς ἐὰν 'whoever' (p2 has ὃς ἂν)\nTranslator's notes treats these as true conditionals.",
     "parallel_passages": "Luke 9:24, 17:33",
     "greek_protases": {
@@ -2021,7 +2021,7 @@
     "condition_class": "1",
     "inverse": false,
     "english_translations": "ESV, NASB: \"but\"\nNRSV, NIV, NLT: untranslated (\"only\")",
-    "notes": "Greek: εἰ μὴ 'except'\nThis may need to be translated as a conditional in some languages: \"This kind can only be driven out if you pray\" (see the first option in Translator's Notes.) ",
+    "notes": "Greek: εἰ μὴ 'except'\nThis may need to be translated as a conditional in some languages: \"This kind can only be driven out if you pray\" (see the first option in Translator's Notes.)",
     "greek_protases": {
       "p1": "εἰ μὴ ἐν προσευχῇ"
     },
@@ -2524,7 +2524,7 @@
     "condition_class": "1",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV, NLT: \"whether\"\nNIV: \"if\"",
-    "notes": "See note on Mark 10:2.\n",
+    "notes": "See note on Mark 10:2.",
     "greek_protases": {
       "p1": "εἰ ἔρχεται Ἠλίας καθελεῖν αὐτόν"
     },
@@ -2553,7 +2553,7 @@
     "english": "And summoning the centurion, he asked him\np: (whether he was already dead)",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV: \"whether\"\nNIV, NLT: \"if\"",
-    "notes": "See note on Mark 10:2.\n",
+    "notes": "See note on Mark 10:2.",
     "greek_protases": {
       "p1": "εἰ πάλαι ἀπέθανεν"
     },
@@ -2753,7 +2753,7 @@
     "english": "And the scribes and the Pharisees watched him, to see whether he would heal on the Sabbath.",
     "inverse": false,
     "english_translations": "ESV, NRSV: \"whether\"\nNASB, NIV: \"if\"\nNLT: \"if\" (uses prototypical conditional construction)",
-    "notes": "The use of εἰ here does not connect two related clauses, but introduces a clause describing a possible event; εἰ functions as a complementizer. ",
+    "notes": "The use of εἰ here does not connect two related clauses, but introduces a clause describing a possible event; εἰ functions as a complementizer.",
     "greek_protases": {
       "p1": "παρετηροῦντο δὲ αὐτὸν οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι εἰ ἐν τῷ σαββάτῳ θεραπεύει, ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ"
     },
@@ -3036,7 +3036,7 @@
     "english": "q: (and anyone)\np: (to whom the Son chooses to reveal him)",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV: \"anyone to whom\"\nNIV, NLT: \"those to whom\"",
-    "notes": "ᾧ ἐὰν 'whoever'. ",
+    "notes": "ᾧ ἐὰν 'whoever'.",
     "greek_protases": {
       "p1": " ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι "
     },
@@ -3343,7 +3343,7 @@
     "english": "NASB:\np: (If you had known this day, even you, the things which make for peace)\nq: [elided]",
     "inverse": false,
     "english_translations": "ESV: \"would that...\"\nNASB, NRSV, NIV: \"if...(only)\"\nNLT: \"how I wish...\"",
-    "notes": "This is not a true conditional, as there is no q. Some English translations use \"if only\" or other expressions to show that this is a lament. ",
+    "notes": "This is not a true conditional, as there is no q. Some English translations use \"if only\" or other expressions to show that this is a lament.",
     "greek_protases": {
       "p1": "Εἰ ἔγνως ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ τὰ πρὸς εἰρήνην· νῦν δὲ ἐκρύβη ἀπὸ ὀφθαλμῶν σου"
     },
@@ -3568,7 +3568,7 @@
     "condition_class": "1",
     "inverse": true,
     "english_translations": "ESV, NASB, NRSV, NIV: \"only\"\nNLT: untranslated",
-    "notes": "Greek: εἰ μὴ 'except'\nGreek: \"The thief does not come except so that he may steal and kill and destroy.\" Most English translations use \"only\". ",
+    "notes": "Greek: εἰ μὴ 'except'\nGreek: \"The thief does not come except so that he may steal and kill and destroy.\" Most English translations use \"only\".",
     "greek_protases": {
       "p1": "ὁ κλέπτης οὐκ ἔρχεται"
     },
@@ -3821,7 +3821,7 @@
     "english": "And Peter said to her, \"Tell me whether you sold the land for so much\"",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV: \"whether\"\nNIV, NLT: direct question",
-    "notes": "While some of the English translations treat this more like an indirect question, the UBS Greek text has a question mark at the end of the clause, which indicates that the conditional particle is more likely a direct question marker here. ",
+    "notes": "While some of the English translations treat this more like an indirect question, the UBS Greek text has a question mark at the end of the clause, which indicates that the conditional particle is more likely a direct question marker here.",
     "greek_protases": {
       "p1": "ἀπεκρίθη δὲ πρὸς αὐτὴν Πέτρος, Εἰπέ μοι, εἰ τοσούτου τὸ χωρίον ἀπέδοσθε;"
     },
@@ -4774,7 +4774,7 @@
     "condition_class": "1",
     "inverse": true,
     "english_translations": "ESV, NASB, NIV: \"whether\"\nNRSV, NLT: no conditional",
-    "notes": "εἰ ",
+    "notes": "εἰ",
     "greek_protases": {
       "p1": "εἰ τὸν ἄνδρα σώσεις;",
       "p2": "εἰ τὴν γυναῖκα σώσεις;"
@@ -5298,7 +5298,7 @@
     "condition_class": "3",
     "inverse": false,
     "english_translations": "ESV, NASB: \"as\"\nNRSV: \"whatever\"",
-    "notes": "ὅ τι ἐὰν 'whatever', 'that which'\n",
+    "notes": "ὅ τι ἐὰν 'whatever', 'that which'",
     "greek_protases": {
       "p1": " ἐὰν εὐοδῶται, "
     },
@@ -5330,7 +5330,7 @@
     "condition_class": "3",
     "inverse": false,
     "english_translations": "ESV: \"those whom\"\nNASB: \"whomever\"\nNRSV: \"any whom\"\nNIV: \"the men\"\nNLT: \"the messengers\"",
-    "notes": "οὓς ἐὰν 'whomever'\n",
+    "notes": "οὓς ἐὰν 'whomever'",
     "greek_protases": {
       "p1": " οὓς ἐὰν δοκιμάσητε, διʼ ἐπιστολῶν "
     },
@@ -5461,10 +5461,10 @@
   {
     "index": 168,
     "reference": "2 Cor 3:15",
-    "english": "p: (whenever Moses is read)\nq: (a veil lies over their hearts)\n",
+    "english": "p: (whenever Moses is read)\nq: (a veil lies over their hearts)",
     "condition_class": "3",
     "inverse": false,
-    "english_translations": "ESV, NASB, NRSV: \"whenever\"\nNIV, NLT: \"when\"\n",
+    "english_translations": "ESV, NASB, NRSV: \"whenever\"\nNIV, NLT: \"when\"",
     "notes": "Verses 15 and 16 should be considered together. While v.15 contains the particle αν and v.16 contains the particle εαν, each has ηνικα \"when\" functioning together with the conditional particle to create a \"whenever\" sense in English.",
     "greek_protases": {
       "p1": "ἂν ἀναγινώσκηται Μωϋσῆς"
@@ -5890,7 +5890,7 @@
     "english": "q: (yet we know that a person is not justified by works of the law)\np: (but through faith in Jesus Christ)",
     "inverse": true,
     "english_translations": "ESV, NASB, NRSV, NIV: \"but\"\nNLT: not translated - oreder reversed",
-    "notes": "ἐὰν μὴ 'except'\n",
+    "notes": "ἐὰν μὴ 'except'",
     "greek_protases": {
       "p1": " ἐὰν μὴ διὰ πίστεως Ἰησοῦ Χριστοῦ, "
     },
@@ -5981,7 +5981,7 @@
     "condition_class": "3",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV: \"whatever\"\nNIV, NLT: \"what\"",
-    "notes": "ὃ ἐὰν 'whatever'\n",
+    "notes": "ὃ ἐὰν 'whatever'",
     "greek_protases": {
       "p1": " ὃ γὰρ ἐὰν σπείρῃ ἄνθρωπος, "
     },
@@ -6012,7 +6012,7 @@
     "condition_class": "1",
     "inverse": true,
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"except\"",
-    "notes": "εἰ μὴ 'except'\n",
+    "notes": "εἰ μὴ 'except'",
     "greek_protases": {
       "p1": "εἰ μὴ ἐν τῷ σταυρῷ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ"
     },
@@ -6050,7 +6050,7 @@
     "condition_class": "1",
     "inverse": false,
     "english_translations": "ESV, RSV, NLT: \"assuming\"\nNASB: \"if indeed\"\nNRSV: \"for surely\"\nNIV: \"surely\"",
-    "notes": "εἴ γε 'if indeed'\nSome commentators (Hoehner 2008; Arnold 2010) suggest that p consists of vs.2-12, and q is v.13. However, most translations do not treat this as a genuine conditional; Translator's Notes accepts the NIV's \"surely\" and states, \"Paul was saying that he was sure that the Ephesian believers knew of his ministry of preaching the gospel.\" ",
+    "notes": "εἴ γε 'if indeed'\nSome commentators (Hoehner 2008; Arnold 2010) suggest that p consists of vs.2-12, and q is v.13. However, most translations do not treat this as a genuine conditional; Translator's Notes accepts the NIV's \"surely\" and states, \"Paul was saying that he was sure that the Ephesian believers knew of his ministry of preaching the gospel.\"",
     "greek_protases": {
       "p1": "εἴ γε ἠκούσατε τὴν οἰκονομίαν τῆς χάριτος τοῦ θεοῦ τῆς δοθείσης μοι εἰς ὑμᾶς, "
     },
@@ -6194,7 +6194,7 @@
     "english": "p: (whether in pretense or in truth)\nq: (Christ is proclaimed)",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"whether... or...\"",
-    "notes": "εἴτε appears before each item in the list\n",
+    "notes": "εἴτε appears before each item in the list",
     "greek_protases": {
       "p1": "εἴτε προφάσει εἴτε ἀληθείᾳ"
     },
@@ -6222,7 +6222,7 @@
     "english": "q: (with full courage now as always Christ will be honoured in my body)\np: (whether by life or by death)",
     "inverse": true,
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"whether... or...\"",
-    "notes": "εἴτε appears before each item in the list\n",
+    "notes": "εἴτε appears before each item in the list",
     "greek_protases": {
       "p1": "εἴτε διὰ ζωῆς εἴτε διὰ θανάτου"
     },
@@ -6264,7 +6264,7 @@
     "english": "p: (so that whether I come and see you or am absent)\nq: (I may hear of you that you are standing firm in one spirit, with one mind striving side by side for faith of the gospel)",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"whether... or...\"",
-    "notes": "εἴτε appears before each item in the list\n",
+    "notes": "εἴτε appears before each item in the list",
     "greek_protases": {
       "p1": "ἵνα εἴτε ἐλθὼν καὶ ἰδὼν ὑμᾶς εἴτε ἀπὼν"
     },
@@ -6396,7 +6396,7 @@
     "english": "p: (whether thrones or dominions or rulers or authorities)\nq: (all things were created through him and for him)",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV, NIV: \"whether... or...\"\nNLT: \"such as... and...\"",
-    "notes": "εἴτε appears before each item in the list\n",
+    "notes": "εἴτε appears before each item in the list",
     "greek_protases": {
       "p1": "εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι"
     },
@@ -6679,7 +6679,7 @@
     "english": "q: (stand firm and hold to the traditions that you were taught by us...)\np: (...either by our spoken word or by our letter)",
     "inverse": true,
     "english_translations": "ESV, NRSV: \"either... or\"\nNASB, NIV: \"whether... or\"\nNLT: \"both... and\"",
-    "notes": "εἴτε appears before 'word' and 'letter'\n",
+    "notes": "εἴτε appears before 'word' and 'letter'",
     "greek_protases": {
       "p1": "εἴτε διὰ λόγου εἴτε διʼ ἐπιστολῆς ἡμῶν"
     },
@@ -6711,7 +6711,7 @@
   },
   {
     "index": 204,
-    "reference": " 1 Tim 1:9-10",
+    "reference": "1 Tim 1:9-10",
     "english": "q: (the law is not laid down for the just but for the lawless and disobedient, for the ungodly and the sinners, for the unholy and the profane, for those who strike their fathers and mothers, for murderers, the sexually immoral, men who practice homosexuality, enslavers, liars, perjurers)\np: (and whatever else is contrary to sound doctrine)",
     "condition_class": "1",
     "inverse": true,
@@ -6767,7 +6767,7 @@
   },
   {
     "index": 205,
-    "reference": " 2 Tim 2:5",
+    "reference": "2 Tim 2:5",
     "english": "NASB (following Greek closely):\np1: (if anyone competes as an athlete,)\nq1: (q2: [he does not win the prize] p2: [unless he competes according to the rules.])\n\nESV: \nq: (An athlete is not crowned)\np: (unless he competes according to the rules)",
     "condition_class": "3",
     "inverse": false,
@@ -6810,7 +6810,7 @@
   },
   {
     "index": 206,
-    "reference": " 2 Tim 2:11",
+    "reference": "2 Tim 2:11",
     "english": "p: (If we have died with him,)\nq: (we will also live with him)",
     "condition_class": "1",
     "inverse": false,
@@ -6847,7 +6847,7 @@
   },
   {
     "index": 207,
-    "reference": " 2 Tim 2:12a",
+    "reference": "2 Tim 2:12a",
     "english": "p: (if we endure,)\nq: (we will also reign with him)",
     "condition_class": "1",
     "inverse": false,
@@ -6884,7 +6884,7 @@
   },
   {
     "index": 208,
-    "reference": " 2 Tim 2:12b",
+    "reference": "2 Tim 2:12b",
     "english": "p: (if we deny him,)\nq: (he also will deny us;)",
     "condition_class": "1",
     "inverse": false,
@@ -6898,7 +6898,7 @@
       "Warn"
     ],
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"if\"",
-    "notes": "Mounce (2000) claims that 2:12b refers to total apostasy whereas 2:13 refers to temporary disobedience. ",
+    "notes": "Mounce (2000) claims that 2:12b refers to total apostasy whereas 2:13 refers to temporary disobedience.",
     "greek_protases": {
       "p1": "εἰ ἀρνησόμεθα"
     },
@@ -6921,7 +6921,7 @@
   },
   {
     "index": 209,
-    "reference": " 2 Tim 2:13",
+    "reference": "2 Tim 2:13",
     "english": "p: (if we are faithless,)\nq: (he remains faithful)",
     "condition_class": "1",
     "inverse": false,
@@ -6958,7 +6958,7 @@
   },
   {
     "index": 210,
-    "reference": " 2 Tim 2:21",
+    "reference": "2 Tim 2:21",
     "english": "p: (if anyone cleanses himself from what is dishonorable,)\nq: (he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.)",
     "condition_class": "3",
     "inverse": false,
@@ -7010,7 +7010,7 @@
   },
   {
     "index": 211,
-    "reference": " Titus 1:6",
+    "reference": "Titus 1:6",
     "english": "p: (...if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination)\nq: (IMPLIED: appoint such a person)",
     "condition_class": "1",
     "inverse": false,
@@ -7024,7 +7024,7 @@
       "Assert"
     ],
     "english_translations": "ESV: \"if anyone\"\nNASB: \"if any man\"\nNRSV: \"someone who\"\nNIV, NLT: no conditional, \"an elder must...\"",
-    "notes": "Paul is giving Titus a guideline for appointing elders. This conditional lists the attributes of an elder; however, q is left implicit. The conditional expression εἴ τίς 'if anyone' can equally well be treated as an indefinite pronoun as in NRSV \"someone\".\n",
+    "notes": "Paul is giving Titus a guideline for appointing elders. This conditional lists the attributes of an elder; however, q is left implicit. The conditional expression εἴ τίς 'if anyone' can equally well be treated as an indefinite pronoun as in NRSV \"someone\".",
     "greek_protases": {
       "p1": " εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα"
     },
@@ -7296,7 +7296,7 @@
   },
   {
     "index": 220,
-    "reference": " 1Pe 2:13-14",
+    "reference": "1Pe 2:13-14",
     "english": "p: (whether it be to the emperor as supreme, or to governors as sent by him to punish those who do evil and to praise those who fo good)\nq: (be subject for the Lord's sake to every human institution)",
     "inverse": false,
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"whether...or\"",
@@ -7341,12 +7341,12 @@
   },
   {
     "index": 221,
-    "reference": " 1Jn 2:22",
+    "reference": "1Jn 2:22",
     "english": "q: (who is the liar)\np: (but he who denies that Jesus is the Christ)",
     "condition_class": "1",
     "inverse": false,
     "english_translations": "ESV: \"but he who...\"\nNASB, NRSV: \"but the one who...\"\nNIV: \"it is whoever...\"\nNLT: \"anyone who...\"",
-    "notes": "Greek: εἰ μὴ \"except\" ",
+    "notes": "Greek: εἰ μὴ \"except\"",
     "greek_protases": {
       "p1": "εἰ μὴ ὁ ἀρνούμενος ὅτι Ἰησοῦς οὐκ ἔστιν ὁ Χριστός"
     },
@@ -7378,7 +7378,7 @@
   },
   {
     "index": 222,
-    "reference": " 1Jn 2:28",
+    "reference": "1Jn 2:28",
     "english": "and now, little children, abide in him, so that \np: (when he appears)\nq: (we may have confidence and not shrink from him in shame at his coming)",
     "condition_class": "3",
     "inverse": false,
@@ -7414,7 +7414,7 @@
   },
   {
     "index": 223,
-    "reference": " 1Jn 3:2",
+    "reference": "1Jn 3:2",
     "english": "but we know that \np: (when he appears)\nq: (we shall be like him because we shall see him as he is)",
     "condition_class": "3",
     "inverse": false,
@@ -7447,7 +7447,7 @@
   },
   {
     "index": 224,
-    "reference": " 1Jn 3:22",
+    "reference": "1Jn 3:22",
     "english": "p: (and whatever we ask)\nq: (we receive from him)",
     "condition_class": "3",
     "inverse": false,
@@ -7475,7 +7475,7 @@
   },
   {
     "index": 225,
-    "reference": " 1Jn 4:1",
+    "reference": "1Jn 4:1",
     "english": "Beloved, do not believe every spirit, but test the spirits to see\np: (whether they are from God)",
     "condition_class": "1",
     "inverse": false,
@@ -7512,7 +7512,7 @@
   },
   {
     "index": 226,
-    "reference": " 1Jn 4:15",
+    "reference": "1Jn 4:15",
     "english": "p: (Whoever confesses that Jesus is the Son of God)\nq: (God abides in him, and he in God)\n\nNIV:\np: (If anyone acknowledges that Jesus is the Son of God,)\nq:(God lives in them and they in God)",
     "condition_class": "3",
     "inverse": false,
@@ -7555,12 +7555,12 @@
   },
   {
     "index": 227,
-    "reference": " 1Jn 5:5",
+    "reference": "1Jn 5:5",
     "english": "q: (who is it that overcomes the world)\np: (except the one who believes that Jesus is the Son of God?)",
     "condition_class": "1",
     "inverse": true,
     "english_translations": "ESV: \"except\"\nNASB, NRSV: \"but\"\nNIV, NLT: \"only\" following a question",
-    "notes": "Greek: εἰ μὴ \"except\" ",
+    "notes": "Greek: εἰ μὴ \"except\"",
     "greek_protases": {
       "p1": "εἰ μὴ ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ;"
     },
@@ -7596,7 +7596,7 @@
   },
   {
     "index": 228,
-    "reference": " 1Jn 5:15b",
+    "reference": "1Jn 5:15b",
     "english": "if we know that he hears us in\np: (whatever we ask)",
     "condition_class": "3",
     "inverse": false,
@@ -7628,7 +7628,7 @@
   },
   {
     "index": 229,
-    "reference": " 3Jn 1:5",
+    "reference": "3Jn 1:5",
     "english": "q: (you are acting faithfully)\np: ([in] whatever you do for the brethren).",
     "condition_class": "3",
     "inverse": true,
@@ -7794,7 +7794,7 @@
     "condition_class": "3",
     "inverse": true,
     "english_translations": "ESV, NASB, NRSV, NIV, NLT: \"as often as\"",
-    "notes": "Greek: ὁσάκις ἐὰν 'whenever', 'as often as'\n",
+    "notes": "Greek: ὁσάκις ἐὰν 'whenever', 'as often as'",
     "greek_protases": {
       "p1": "ὁσάκις ἐὰν θελήσωσιν "
     },

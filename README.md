@@ -39,8 +39,8 @@ The data from the Excel spreadsheets has been extracted and converted into a JSO
 <tr><td>parallel_passages</td><td>string</td><td>Information about any relevant parallel passages</td></tr>
 <tr><td>greek_protases</td><td>dict[str,str]</td><td>A dictionary listing each protasis with an identifier (e.g. `p1`)</td></tr>
 <tr><td>greek_apodoses</td><td>dict[str,str]</td><td>A dictionary listing each apodosis with an identifier (e.g. `q1`)</td></tr>
-<tr><td>greek_protasis_words</td>dict[str, list]<td>A dictionary that associates identifier (e.g. `p1`) with a list of word identifiers from Macula Greek representing the words of the protasis</td></tr>
-<tr><td>greek_apodosis_words</td>dict[str, list]<td>A dictionary that associates identifier (e.g. `q1`) with a list of word identifiers from Macula Greek representing the words of the apodosis</td></tr>
+<tr><td>greek_protasis_words</td><td>dict[str, list]</td><td>A dictionary that associates identifier (e.g. `p1`) with a list of word identifiers from Macula Greek representing the words of the protasis</td></tr>
+<tr><td>greek_apodosis_words</td><td>dict[str, list]</td><td>A dictionary that associates identifier (e.g. `q1`) with a list of word identifiers from Macula Greek representing the words of the apodosis</td></tr>
 </table>
 
 # Field Vocabulary

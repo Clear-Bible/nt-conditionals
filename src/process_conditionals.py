@@ -208,6 +208,10 @@ for conditional in nt_conditionals:
         apodosis_phrase = get_words_from_ids(conditional_sblgnt.greek_apodosis_words[apodosis_word_id_key], apodosis_word_id_key, sblgnt_verses)
         conditional_sblgnt.greek_apodoses[apodosis_word_id_key] = apodosis_phrase
 
+    # remove "d" from the end of the p/q keys
+    conditional = remove_d_from_keys(conditional)
+    conditional_sblgnt = remove_d_from_keys(conditional_sblgnt)
+
     # append it, we're done
     nt_conditionals_sblgnt.append(conditional_sblgnt)
 

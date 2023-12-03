@@ -329,3 +329,27 @@ def de_discontigify_word_id_list(word_ids, references, verses):
             in_range = False
 
     return return_ids
+
+
+def remove_d_from_keys(condition):
+
+    protasis_keys = list(condition.greek_protasis_words.keys())
+    apodosis_keys = list(condition.greek_apodosis_words.keys())
+    for protasis_key in protasis_keys:
+        if protasis_key.__contains__("d"):
+            protasis = condition.greek_protases[protasis_key]
+            condition.greek_protases[protasis_key.replace("d", "")] = protasis
+            del condition.greek_protases[protasis_key]
+            protasis_word_ids = condition.greek_protasis_words[protasis_key]
+            condition.greek_protasis_words[protasis_key.replace("d", "")] = protasis_word_ids
+            del condition.greek_protasis_words[protasis_key]
+    for apodosis_key in apodosis_keys:
+        if apodosis_key.__contains__("d"):
+            apodosis = condition.greek_apodoses[apodosis_key]
+            condition.greek_apodoses[apodosis_key.replace("d", "")] = apodosis
+            del condition.greek_apodoses[apodosis_key]
+            apodosis_word_ids = condition.greek_apodosis_words[apodosis_key]
+            condition.greek_apodosis_words[apodosis_key.replace("d", "")] = apodosis_word_ids
+            del condition.greek_apodosis_words[apodosis_key]
+
+    return condition

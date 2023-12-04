@@ -1,10 +1,19 @@
 # nt-conditionals
 Data regarding conditional statements/clauses in the NT provided by Rachel and Mike Aubrey and CanIL (Steve Nicolle)
 
-# license
-Rick's understanding is that this is CC-BY-4.0 or equivalent (and am confirming). The NA27 are segments/phrases so should be fine. We will map the NA27 to SBLGNT and offer both editions for distribution.
+# License
+This material is provided by (CanIL or SIL) under the CC-BY-SA-4.0 license (attribution / share-alike).
 
-# supplied data
+The JSON editions in the `/data` folder include phrases from the NA27 and the SBLGNT.
+
+# Documentation
+The following documents were supplied with the data as documentation and explanation of the data. These are all in the `/docs` folder of this repo.
+
+* `Conditionals in the Greek NT.pdf`: PDF of article about conditional statements in the Greek NT by Steve Nicolle.
+* `Translating unless conditionals in the NT.pdf`: PDF of article detailing specific information on translating "unless" (εαν μη) statements in the Greek NT.
+* `Categories used in the database.pdf`: PDF edition of supplied Word document that describes the vocabulary used in the data.
+
+# Supplied Data
 Rachel and Mike Aubrey supplied four files; two Excel spreadsheets and two PDFs. Another edition of the data, without Greek protasis or apodosis specified, is also availble. These are in the `data/raw` folder of this repo.
 
 * `Conditionals in the Greek NT.pdf`: PDF of article about conditional statements in the Greek NT by Steve Nicolle.
@@ -13,7 +22,7 @@ Rachel and Mike Aubrey supplied four files; two Excel spreadsheets and two PDFs.
 * `Database of NT Coditionals Unified with Greek Text.xlsx`: CanIL analysis with Greek text for protasis and apodosis directly specified and non-conditional uses removed. On Google Sheets: https://docs.google.com/spreadsheets/d/1c9O7WfxEICqYUk2w2S2kYFp1FqR2coNp/edit?usp=sharing&ouid=109636104918679310284&rtpof=true&sd=true 
 * `Database of Non-conditional uses of ει and εαν-with Greek.xlsx`: Only non-conditional uses, with Greek text for protasis and apodosis directly specified. On Google Sheets: https://docs.google.com/spreadsheets/d/19TKF6ExTITYVM7Td8lGMEBr8Lje3HPtx/edit?usp=sharing&ouid=109636104918679310284&rtpof=true&sd=true
 
-# generated data
+# Generated Data
 Data has been generated representing the conditional statements for the NA27 edition of the Greek New Testament as well as the SBLGNT edition of the Greek New Testament.
 
 * `data/json/nt_conditionals_na27.json`
@@ -21,7 +30,7 @@ Data has been generated representing the conditional statements for the NA27 edi
 * `data/json/nt_non_conditionals_na27.json`
 * `data/json/nt_non_conditionals_sblgnt.json`
 
-# JSON schema
+# JSON Schema
 
 The data from the Excel spreadsheets has been extracted and converted into a JSON format. The schema for this JSON is as follows:
 
@@ -31,9 +40,9 @@ The data from the Excel spreadsheets has been extracted and converted into a JSO
 <tr><td>reference</td><td>string</td><td>Bible reference as entered in the spreadsheet. Book names in this field use OSIS book names</td></tr>
 <tr><td>english</td><td>string</td><td>English representing the entire conditional (or non-conditional) statement</td></tr>
 <tr><td>inverse</td><td>bool</td><td>If `True` then the protasis and apodosis are in an inverted order (compared to default)</td></tr>
-<tr><td>probability</td><td>string</td><td>A word or two, following a prescribed vocabulary (see below), representing probability of condition evaluating as true</td></tr>
-<tr><td>time_orientation</td><td>string</td><td>A word or two, following a prescribed vocabulary (see below), representing the time orientation of the condition (or non-condition)</td></tr>
-<tr><td>illocutionary_force</td><td>string</td><td>A word or two, following a prescribed vocabulary (see below), providing information on the illocutionary force of the condition (or non-condition)</td></tr>
+<tr><td>probability</td><td>list[string]</td><td>A word or two, following a prescribed vocabulary (see below), representing probability of condition evaluating as true</td></tr>
+<tr><td>time_orientation</td><td>list[string]</td><td>A word or two, following a prescribed vocabulary (see below), representing the time orientation of the condition (or non-condition)</td></tr>
+<tr><td>illocutionary_force</td><td>list[string]</td><td>A word or two, following a prescribed vocabulary (see below), providing information on the illocutionary force of the condition (or non-condition)</td></tr>
 <tr><td>english_translations</td><td>string</td><td>Information about how English translations handle the condition (or non-condition)</td></tr>
 <tr><td>notes</td><td>string</td><td>Discussion about the condition (or non-condition)</td></tr>
 <tr><td>parallel_passages</td><td>string</td><td>Information about any relevant parallel passages</td></tr>

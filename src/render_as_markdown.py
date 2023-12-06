@@ -7,7 +7,8 @@ git_dir = "c:/git/Clear/"
 root_dir = f"{git_dir}nt-conditionals/"
 data_dir = f"{root_dir}data/json/"
 output_dir = f"{root_dir}data/md/"
-gnt_edition = "SBLGNT"
+gnt_edition = "NA27"
+# gnt_edition = "SBLGNT"
 
 
 
@@ -38,19 +39,23 @@ def render_as_markdown(condition, is_conditional):
         markdown.append(f"# {condition.reference}: Non-Conditional")
     markdown.append("\n")
     if len(condition.probability) > 0:
-        markdown.append(f"* *Probability:* {' / '.join(condition.probability)}")
+        markdown.append(f"* **Probability:** {' / '.join(condition.probability)}")
     if len(condition.time_orientation) > 0:
-        markdown.append(f"* *Time Orientation:* {' / '.join(condition.time_orientation)}")
+        markdown.append(f"* **Time Orientation:** {' / '.join(condition.time_orientation)}")
     if len(condition.illocutionary_force) > 0:
-        markdown.append(f"* *Illocutionary Force:* {' / '.join(condition.illocutionary_force)}")
+        markdown.append(f"* **Illocutionary Force:** {' / '.join(condition.illocutionary_force)}")
+    if condition.inverse:
+        markdown.append(f"* **Inverse:** {condition.inverse}")
 
     markdown.append("\n")
 
     markdown.append(f"## English")
-    markdown.append(f"{condition.english}")
+    english = re.sub(r"\n", "\n<br/>", condition.english)
+    markdown.append(f"{english}")
     markdown.append("\n")
     # everything always has `.english_translations`, I hope.
-    markdown.append(f"* {condition.english_translations}")
+    english_translations = re.sub(r"\n", "\n* ", condition.english_translations)
+    markdown.append(f"* {english_translations}")
     markdown.append("\n")
     markdown.append(f"## Greek ({gnt_edition})")
     if condition.inverse:
@@ -67,7 +72,8 @@ def render_as_markdown(condition, is_conditional):
 
     if condition.notes != "":
         markdown.append(f"## Notes")
-        markdown.append(f"{condition.notes}")
+        notes = re.sub(r"\n", "\n\n", condition.notes)
+        markdown.append(f"{notes}")
         markdown.append("\n")
     markdown.append(f"----------------")
 

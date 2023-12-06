@@ -16,7 +16,7 @@ q: (it is no longer good for anything)
 * NLT similar to NRSV but exceptive clause is lost
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: εἰς οὐδὲν ἰσχύει ἔτι
 * _p1_: εἰ μὴ βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων
 
@@ -44,8 +44,8 @@ NLT:
 * NLT: "if you"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτως τοὺς ἀνθρώπους
+## Greek (NA27)
+* _p1_: ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτως τοὺς ἀνθρώπους 
 * _q1_: ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν
 
 
@@ -71,9 +71,9 @@ p: (whoever marries a divorced woman)
 * NIV, NLT: "anyone who"
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ ὃς ἐὰν ἀπολελυμένην γαμήσῃ
-* _q1_: μοιχᾶται
+## Greek (NA27)
+* _p1_: καὶ ὃς ἐὰν ἀπολελυμένην γαμήσῃ, 
+* _q1_: μοιχᾶται.
 
 
 ## Notes
@@ -99,9 +99,9 @@ p: (so whatever you wish that others would do to you)
 * NLT: p and q inverted, "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι
-* _q1_: οὕτως καὶ ὑμεῖς ποιεῖτε αὐτοῖς
+## Greek (NA27)
+* _p1_: Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, 
+* _q1_: οὕτως καὶ ὑμεῖς ποιεῖτε αὐτοῖς·
 
 
 ## Notes
@@ -123,9 +123,9 @@ q: ("Teacher, I will follow you)
 * ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
-## Greek (SBLGNT)
-* _p1_: ὅπου ἐὰν ἀπέρχῃ
-* _q1_: Διδάσκαλε ἀκολουθήσω σοι
+## Greek (NA27)
+* _p1_: ὅπου ἐὰν ἀπέρχῃ.
+* _q1_: Διδάσκαλε, ἀκολουθήσω σοι 
 
 
 ## Notes
@@ -151,9 +151,9 @@ q: (And blessed is the one)
 * NLT: "those who"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ μακάριός ἐστιν ὃς
-* _p1_: ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί
+* _p1_: ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί.
 
 
 ## Notes
@@ -176,8 +176,8 @@ q: (and no one knows the Son)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
-* _q1_: καὶ οὐδεὶς ἐπιγινώσκει τὸν υἱὸν
+## Greek (NA27)
+* _q1_: καὶ οὐδεὶς ἐπιγινώσκει τὸν υἱὸν 
 * _p1_: εἰ μὴ ὁ πατήρ
 
 
@@ -201,8 +201,8 @@ q: (and no one knows the Father)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
-* _q1_: οὐδὲ τὸν πατέρα τις ἐπιγινώσκει
+## Greek (NA27)
+* _q1_: οὐδὲ τὸν πατέρα τις ἐπιγινώσκει 
 * _p1_: εἰ μὴ ὁ υἱὸς
 
 
@@ -226,8 +226,8 @@ and to anyone to whom the Son chooses to reveal him
 * NIV, NLT: "those to whom"
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι
+## Greek (NA27)
+* _p1_: καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι.
 
 
 ## Notes
@@ -251,9 +251,9 @@ q: (how he entered the house of God and ate the bread of the Presence, which it 
 * NLT: untranslated ("that only")
 
 
-## Greek (SBLGNT)
-* _q1_: πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγον ὃ οὐκ ἐξὸν ἦν αὐτῷ φαγεῖν οὐδὲ τοῖς μετ αὐτοῦ
-* _p1_: εἰ μὴ τοῖς ἱερεῦσιν μόνοις
+## Greek (NA27)
+* _q1_: πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγον, ὃ οὐκ ἐξὸν ἦν αὐτῷ φαγεῖν οὐδὲ τοῖς μετʼ αὐτοῦ 
+* _p1_: εἰ μὴ τοῖς ἱερεῦσιν μόνοις;
 
 
 ## Notes
@@ -274,8 +274,8 @@ And they asked him "Is it lawful to heal on the Sabbath?"
 * ESV, NASB, NRSV, NIV, NLT: use direct quotation and do not translate the particle
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ ἐπηρώτησαν αὐτὸν λέγοντες Εἰ ἔξεστι τοῖς σάββασιν
+## Greek (NA27)
+* _p1_: καὶ ἐπηρώτησαν αὐτὸν λέγοντες, Εἰ ἔξεστιν τοῖς σάββασιν θεραπεῦσαι;
 
 
 ## Notes
@@ -299,9 +299,9 @@ Our own translation, in order to reflect the Greek structure:
 * ESV, NASB, NRSV, NIV, NLT: untranslated ("only by Beelzebul...")
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: Οὗτος οὐκ ἐκβάλλει τὰ δαιμόνια
-* _p1_: εἰ μὴ ἐν τῷ Βεελζεβοὺλ ἄρχοντι τῶν δαιμονίων
+* _p1_:  εἰ μὴ ἐν τῷ Βεελζεβοὺλ ἄρχοντι τῶν δαιμονίων.
 
 
 ## Notes
@@ -324,9 +324,9 @@ p: (and whoever speaks a word against the Son of Man)
 * NIV, NLT: "anyone who..."
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ ὃς ἐὰν εἴπῃ λόγον κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου
-* _q1_: ἀφεθήσεται αὐτῷ
+## Greek (NA27)
+* _p1_: καὶ ὃς ἐὰν εἴπῃ λόγον κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου, 
+* _q1_: ἀφεθήσεται αὐτῷ·
 
 
 ## Notes
@@ -353,9 +353,9 @@ q: (but no sign will be given to it)
 * NLT: "but the only"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ σημεῖον οὐ δοθήσεται αὐτῇ
-* _p1_: εἰ μὴ τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου
+* _p1_:  εἰ μὴ τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου.
 
 
 ## Notes
@@ -378,9 +378,9 @@ q: (a prophet is not without honour)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
-* _q1_: Οὐκ ἔστιν προφήτης ἄτιμος
-* _p1_: εἰ μὴ ἐν τῇ πατρίδι καὶ ἐν τῇ οἰκίᾳ αὐτοῦ
+## Greek (NA27)
+* _q1_: Οὐκ ἔστιν προφήτης ἄτιμος 
+* _p1_: εἰ μὴ ἐν τῇ πατρίδι καὶ ἐν τῇ οἰκίᾳ αὐτοῦ.
 
 
 ## Notes
@@ -403,8 +403,8 @@ so he promised with an oath to give her whatever she might ask
 * NLT: "anything"
 
 
-## Greek (SBLGNT)
-* _p1_: ὅθεν μετὰ ὅρκου ὡμολόγησεν αὐτῇ δοῦναι ὃ ἐὰν αἰτήσηται
+## Greek (NA27)
+* _p1_: ὅθεν μεθʼ ὅρκου ὡμολόγησεν αὐτῇ δοῦναι ὃ ἐὰν αἰτήσηται.
 
 
 ## Notes
@@ -427,8 +427,8 @@ we have only five loaves here and two fish
 * NRSV: "We have nothing here but..."
 
 
-## Greek (SBLGNT)
-* _p1_: Οὐκ ἔχομεν ὧδε εἰ μὴ πέντε ἄρτους καὶ δύο ἰχθύας
+## Greek (NA27)
+* _p1_: Οὐκ ἔχομεν ὧδε εἰ μὴ πέντε ἄρτους καὶ δύο ἰχθύας.
 
 
 ## Notes
@@ -450,8 +450,8 @@ But you say "If anyone tells his father or his mother 'What you would have gaine
 * NASB, NRSV: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: ὑμεῖς δὲ λέγετε Ὃς ἂν εἴπῃ τῷ πατρὶ ἢ τῇ μητρί Δῶρον ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς
+## Greek (NA27)
+* _p1_: ὑμεῖς δὲ λέγετε, Ὃς ἂν εἴπῃ τῷ πατρὶ ἢ τῇ μητρί, Δῶρον ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς,
 
 
 ## Notes
@@ -473,8 +473,8 @@ I was sent only to the lost sheep of the house of Israel
 * ESV, NASB, NRSV, NIV, NLT: untranslated ("only")
 
 
-## Greek (SBLGNT)
-* _p1_: Οὐκ ἀπεστάλην εἰ μὴ εἰς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ
+## Greek (NA27)
+* _p1_: Οὐκ ἀπεστάλην εἰ μὴ εἰς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ.
 
 
 ## Notes
@@ -496,8 +496,8 @@ p: (whatever you bind on earth)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ ὃ ἐὰν δήσῃς ἐπὶ τῆς γῆς
+## Greek (NA27)
+* _p1_: καὶ ὃ ἐὰν δήσῃς ἐπὶ τῆς γῆς, 
 * _q1_: ἔσται δεδεμένον ἐν τοῖς οὐρανοῖς
 
 
@@ -520,9 +520,9 @@ p: (and whatever you loose on earth)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: καὶ ὃ ἐὰν λύσῃς ἐπὶ τῆς γῆς
-* _q1_: ἔσται λελυμένον ἐν τοῖς οὐρανοῖς
+* _q1_: ἔσται λελυμένον ἐν τοῖς οὐρανοῖς.
 
 
 ## Notes
@@ -546,9 +546,9 @@ p: (for whoever would save his life)
 * NLT: "if you"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃς γὰρ ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι
-* _q1_: ἀπολέσει αὐτήν
+## Greek (NA27)
+* _p1_: ὃς γὰρ ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι 
+* _q1_: ἀπολέσει αὐτήν·
 
 
 ## Notes
@@ -575,9 +575,9 @@ q: (they saw no one)
 * NLT: untranslated ("only")
 
 
-## Greek (SBLGNT)
-* _q1_: οὐδένα εἶδον
-* _p1_: εἰ μὴ αὐτὸν Ἰησοῦν μόνον
+## Greek (NA27)
+* _q1_: οὐδένα εἶδον 
+* _p1_: εἰ μὴ αὐτὸν Ἰησοῦν μόνον.
 
 
 ## Notes
@@ -600,9 +600,9 @@ p: (Whoever receives one such child in my name)
 * NLT: "anyone who"
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ ὃς ἐὰν δέξηται ἓν παιδίον τοιοῦτο ἐπὶ τῷ ὀνόματί μου
-* _q1_: ἐμὲ δέχεται
+## Greek (NA27)
+* _p1_: καὶ ὃς ἐὰν δέξηται ἓν παιδίον τοιοῦτο ἐπὶ τῷ ὀνόματί μου, 
+* _q1_: ἐμὲ δέχεται.
 
 
 ## Notes
@@ -626,7 +626,7 @@ p: (whatever you bind on earth)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς
 * _q1_: ἔσται δεδεμένα ἐν οὐρανῷ
 
@@ -650,7 +650,7 @@ p: (and whatever you loose on earth)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὅσα ἐὰν λύσητε ἐπὶ τῆς γῆς
 * _q1_: ἔσται λελυμένα ἐν οὐρανῷ
 
@@ -673,7 +673,7 @@ Greek: ὃ ἐὰν
 * ESV, NASB, NRSV, NIV, NLT: "anything"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἐὰν αἰτήσωνται
 
 
@@ -698,7 +698,7 @@ q: (repay)
 * NLT: untranslated (reported speech is paraphrased)
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: Ἀπόδος
 * _p1_: εἴ τι ὀφείλεις
 
@@ -721,8 +721,8 @@ Greek: εἴ τι 'if anything' or 'whatever'
 * ESV, NASB, NRSV, NIV, NLT: untranslated (direct quotations used)
 
 
-## Greek (SBLGNT)
-* _p1_: Εἰ ἔξεστιν ἀνθρώπῳ ἀπολῦσαι τὴν γυναῖκα αὐτοῦ κατὰ πᾶσαν αἰτίαν
+## Greek (NA27)
+* _p1_: Εἰ ἔξεστιν ἀνθρώπῳ ἀπολῦσαι τὴν γυναῖκα αὐτοῦ κατὰ πᾶσαν αἰτίαν;
 
 
 ## Notes
@@ -744,7 +744,7 @@ p: (and whatever is right)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἐὰν ᾖ δίκαιον
 * _q1_: δώσω ὑμῖν
 
@@ -768,8 +768,8 @@ p: (but whoever would be great among you)
 * ESV, NASB, NRSV, NIV, NLT: "whoever"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃς ἂν θέλῃ ἐν ὑμῖν μέγας
+## Greek (NA27)
+* _p1_: ὃς ἐὰν θέλῃ ἐν ὑμῖν μέγας
 * _q1_: γενέσθαι ἔσται ὑμῶν διάκονος
 
 
@@ -795,7 +795,7 @@ q: (and found nothing on it)
 * NASB, NIV: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ φύλλα μόνον
 * _q1_: οὐδὲν εὗρεν ἐν αὐτῇ
 
@@ -820,8 +820,8 @@ Go therefore to the main roads and invite to the wedding feast as many as you fi
 * NIV: "anyone"
 
 
-## Greek (SBLGNT)
-* _p1_: πορεύεσθε οὖν ἐπὶ τὰς διεξόδους τῶν ὁδῶν καὶ ὅσους ἐὰν εὕρητε καλέσατε εἰς τοὺς γάμους
+## Greek (NA27)
+* _p1_: πορεύεσθε οὖν ἐπὶ τὰς διεξόδους τῶν ὁδῶν καὶ ὅσους ἐὰν εὕρητε καλέσατε εἰς τοὺς γάμους.
 
 
 ## Notes
@@ -845,7 +845,7 @@ q: (so do and observe)
 * NIV: "everything"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: πάντα οὖν ὅσα ἐὰν εἴπωσιν ὑμῖν
 * _q1_: ποιήσατε καὶ τηρεῖτε
 
@@ -871,8 +871,8 @@ p: (if possible)
 * ESV, NASB, NRSV, NIV, NLT: "if possible"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δυνατὸν
+## Greek (NA27)
+* _p1_: εἰ δυνατόν
 * _q1_: πλανῆσαι … καὶ τοὺς ἐκλεκτούς
 
 
@@ -896,7 +896,7 @@ p: (wherever the corpse is)
 * NLT: untranslated/"nearby"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὅπου ἐὰν ᾖ τὸ πτῶμα
 * _q1_: ἐκεῖ συναχθήσονται οἱ ἀετοί
 
@@ -918,9 +918,9 @@ q: (but concerning that day and hour no one knows, not even the angels of heaven
 * NLT: untranslated ("only")
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: εἰ μὴ ὁ πατὴρ μόνος
-* _p1_: Περὶ δὲ τῆς ἡμέρας ἐκείνης καὶ ὥρας οὐδεὶς οἶδεν οὐδὲ οἱ ἄγγελοι τῶν οὐρανῶν οὐδὲ ὁ υἱός
+* _p1_: Περὶ δὲ τῆς ἡμέρας ἐκείνης καὶ ὥρας οὐδεὶς οἶδεν, οὐδὲ οἱ ἄγγελοι τῶν οὐρανῶν οὐδὲ ὁ υἱός
 
 
 ## Notes
@@ -942,7 +942,7 @@ p: (wherever this gospel is proclaimed in the whole world)
 * ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ
 * _q1_: λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς
 
@@ -966,9 +966,9 @@ p: (if it be possible)
 * ESV, NASB, NRSV, NIV, NLT: "if...possible"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δυνατόν ἐστιν
-* _q1_: παρελθάτω ἀπ ἐμοῦ τὸ ποτήριον τοῦτο
+## Greek (NA27)
+* _p1_:  εἰ δυνατόν ἐστιν, 
+* _q1_:  παρελθάτω ἀπʼ ἐμοῦ τὸ ποτήριον τοῦτο·
 
 
 ## Notes
@@ -994,9 +994,9 @@ q: (tell us)
 * NASB: "whether"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: ἡμῖν εἴπῃς
-* _p1_: εἰ σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ
+* _p1_: εἰ σὺ εἶ ὁ Χριστὸς ὁ υἱὸς τοῦ θεοῦ
 
 
 ----------------
@@ -1016,7 +1016,7 @@ q: (let us see)
 * NIV: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: Ἄφες ἴδωμεν
 * _p1_: εἰ ἔρχεται Ἠλίας σώσων αὐτόν
 
@@ -1043,7 +1043,7 @@ q: (who can forgive sins)
 * NLT: untranslated ("only God")
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: τίς δύναται ἀφιέναι ἁμαρτίας
 * _p1_: εἰ μὴ εἷς ὁ θεός
 
@@ -1069,7 +1069,7 @@ q: (which it is not lawful)
 * NIV, NLT: untranslated ("only [for] the priests")
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: φαγεῖν εἰ μὴ τοὺς ἱερεῖς
 * _q1_: οὓς οὐκ ἔξεστιν
 
@@ -1093,8 +1093,8 @@ And they watched Jesus to see whether he would heal him on the Sabbath, so that 
 * NASB, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτόν ἵνα κατηγορήσωσιν αὐτοῦ
+## Greek (NA27)
+* _p1_: καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ
 
 
 ## Notes
@@ -1118,9 +1118,9 @@ q: (all sins will be forgiven the children of man)
 * NIV, NLT: untranslated
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ αἱ βλασφημίαι ὅσα ἐὰν βλασφημήσωσιν
-* _p1_: ὅσα ἐὰν βλασφημήσωσιν
+* _p1_:  ὅσα ἐὰν βλασφημήσωσιν· 
 
 
 ## Notes
@@ -1145,9 +1145,9 @@ q: (for nothing is hidden)
 * NLT: untranslated
 
 
-## Greek (SBLGNT)
-* _q1_: ἀλλ ἵνα ἔλθῃ εἰς φανερόν
-* _p1_: ἐὰν μὴ ἵνα φανερωθῇ
+## Greek (NA27)
+* _q1_: ἀλλʼ ἵνα ἔλθῃ εἰς φανερόν 
+* _p1_:  ἐὰν μὴ ἵνα φανερωθῇ, 
 
 
 ## Notes
@@ -1178,8 +1178,8 @@ q: (and he allowed no one to follow him)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
-* _q1_: καὶ οὐκ ἀφῆκεν οὐδένα μετ αὐτοῦ συνακολουθῆσαι
+## Greek (NA27)
+* _q1_: καὶ οὐκ ἀφῆκεν οὐδένα μετʼ αὐτοῦ συνακολουθῆσαι
 * _p1_: εἰ μὴ τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν Ἰακώβου
 
 
@@ -1203,7 +1203,7 @@ q: (a prophet is not without honour)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: Οὐκ ἔστιν προφήτης ἄτιμος
 * _p1_: εἰ μὴ ἐν τῇ πατρίδι αὐτοῦ καὶ ἐν τοῖς συγγενεῦσιν αὐτοῦ καὶ ἐν τῇ οἰκίᾳ αὐτοῦ
 
@@ -1228,7 +1228,7 @@ q: (and he could do no mighty work there)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ οὐκ ἐδύνατο ἐκεῖ ποιῆσαι οὐδεμίαν δύναμιν
 * _p1_: εἰ μὴ ὀλίγοις ἀρρώστοις ἐπιθεὶς τὰς χεῖρας ἐθεράπευσεν
 
@@ -1253,7 +1253,7 @@ q: (he charged them to take nothing for their journey)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ παρήγγειλεν αὐτοῖς ἵνα μηδὲν αἴρωσιν εἰς ὁδὸν
 * _p1_: εἰ μὴ ῥάβδον μόνον
 
@@ -1278,8 +1278,8 @@ p: (whenever you enter a house)
 * NASB, NRSV, NLT: "wherever"
 
 
-## Greek (SBLGNT)
-* _p1_: Ὅπου ἐὰν εἰσέλθητε εἰς οἰκίαν
+## Greek (NA27)
+* _p1_:  Ὅπου ἐὰν εἰσέλθητε εἰς οἰκίαν, 
 * _q1_: ἐκεῖ μένετε ἕως ἂν ἐξέλθητε ἐκεῖθεν
 
 
@@ -1303,8 +1303,8 @@ p: (ask me whatever you wish)
 * NIV, NLT: "anything"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃ ἐὰν θέλῃς
+## Greek (NA27)
+* _p1_:  ὃ ἐὰν θέλῃς, 
 * _q1_: καὶ δώσω σοι
 
 
@@ -1327,8 +1327,8 @@ p: (whatever you ask me)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: Ὅ τι ἐάν με αἰτήσῃς
+## Greek (NA27)
+* _p1_:  Ὅ τι ἐάν με αἰτήσῃς 
 * _q1_: δώσω σοι ἕως ἡμίσους τῆς βασιλείας μου
 
 
@@ -1351,8 +1351,8 @@ Whatever you would have gained from me is Corban.
 * NIV, NLT: "what"
 
 
-## Greek (SBLGNT)
-* _p1_: Κορβᾶν ὅ ἐστιν Δῶρον ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς
+## Greek (NA27)
+* _p1_: Κορβᾶν, ὅ ἐστιν, Δῶρον, ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς
 
 
 ## Notes
@@ -1377,8 +1377,8 @@ No sign will be given to this generation.
 * ESV: "no sign will be given"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δοθήσεται τῇ γενεᾷ ταύτῃ σημεῖον
+## Greek (NA27)
+* _p1_:  εἰ δοθήσεται τῇ γενεᾷ ταύτῃ σημεῖον 
 
 
 ## Notes
@@ -1402,8 +1402,8 @@ q: (now they had forgotten to bring bread)
 * NASB: "not...more than"
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ εἰ μὴ ἕνα ἄρτον οὐκ εἶχον μεθ ἑαυτῶν ἐν τῷ πλοίῳ
+## Greek (NA27)
+* _p1_: καὶ εἰ μὴ ἕνα ἄρτον οὐκ εἶχον μεθʼ ἑαυτῶν ἐν τῷ πλοίῳ
 * _q1_: Καὶ ἐπελάθοντο λαβεῖν ἄρτους
 
 
@@ -1428,8 +1428,8 @@ Do you see anything?
 * ESV, NASB, NRSV, NIV, NLT: no conditional
 
 
-## Greek (SBLGNT)
-* _p1_: Εἴ τι βλέπεις
+## Greek (NA27)
+* _p1_: Εἴ τι βλέπεις;
 
 
 ## Notes
@@ -1455,9 +1455,9 @@ p1: (whoever would save his life
 * NLT: "if" (both clauses in the verse translated as conditionals, despite Greek lacking a conditional particle)
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὃς γὰρ ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι
-* _p2_: ὃς δ ἂν ἀπολέσει τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ καὶ τοῦ εὐαγγελίου
+* _p2_: ὃς δʼ ἂν ἀπολέσει τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ καὶ τοῦ εὐαγγελίου
 * _q1_: ἀπολέσει αὐτήν
 * _q2_: σώσει αὐτήν
 
@@ -1485,9 +1485,9 @@ p: (whoever is ashamed of me and of my words in this adulterous and sinful gener
 * NIV, NLT: "if anyone"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃς γὰρ ἐὰν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους ἐν τῇ γενεᾷ ταύτῃ τῇ μοιχαλίδι καὶ ἁμαρτωλῷ
-* _q1_: καὶ ὁ υἱὸς τοῦ ἀνθρώπου ἐπαισχυνθήσεται αὐτὸν ὅταν ἔλθῃ ἐν τῇ δόξῃ τοῦ πατρὸς αὐτοῦ μετὰ τῶν ἀγγέλων τῶν ἁγίων
+## Greek (NA27)
+* _p1_: ὃς γὰρ ἐὰν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους ἐν τῇ γενεᾷ ταύτῃ τῇ μοιχαλίδι καὶ ἁμαρτωλῷ, 
+* _q1_: καὶ ὁ υἱὸς τοῦ ἀνθρώπου ἐπαισχυνθήσεται αὐτόν, ὅταν ἔλθῃ ἐν τῇ δόξῃ τοῦ πατρὸς αὐτοῦ μετὰ τῶν ἀγγέλων τῶν ἁγίων
 
 
 ## Notes
@@ -1511,7 +1511,7 @@ q: (he charged them to tell no one what they had seen)
 * ESV, NASB, NRSV, NIV, NLT: "until"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ ὅταν ὁ υἱὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἀναστῇ
 * _q1_: διεστείλατο αὐτοῖς ἵνα μηδενὶ ἃ εἶδον διηγήσωνται
 
@@ -1535,7 +1535,7 @@ p: (whenever it seizes him)
 * ESV, NASB, NRSV, NIV, NLT: "whenever"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: καὶ ὅπου ἐὰν αὐτὸν καταλάβῃ ῥήσσει αὐτόν
 * _q1_: καὶ ἀφρίζει καὶ τρίζει τοὺς ὀδόντας καὶ ξηραίνεται
 
@@ -1560,7 +1560,7 @@ q: (this kind cannot be driven our by anything)
 * NRSV, NIV, NLT: untranslated ("only")
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ ἐν προσευχῇ
 * _q1_: Τοῦτο τὸ γένος ἐν οὐδενὶ δύναται ἐξελθεῖν
 
@@ -1587,9 +1587,9 @@ Some Pharisees... began to question Him
 * NASB: indirect speech, "whether"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ ἔξεστιν ἀνδρὶ γυναῖκα ἀπολῦσαι
-* _q1_: ἐπηρώτων αὐτὸν
+* _q1_: Φαρισαῖοι ἐπηρώτων αὐτὸν
 
 
 ## Notes
@@ -1614,7 +1614,7 @@ q: (no one is good)
 * NLT: untranslated ("only")
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐδεὶς ἀγαθὸς
 * _p1_: εἰ μὴ εἷς ὁ θεός
 
@@ -1642,9 +1642,9 @@ q v.29: (there is no one who has left house or brothers or sisters or mother or 
 * NLT: uses positives: "everyone... will receive..."
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐδείς ἐστιν ὃς ἀφῆκεν οἰκίαν ἢ ἀδελφοὺς ἢ ἀδελφὰς ἢ μητέρα ἢ πατέρα ἢ τέκνα ἢ ἀγροὺς ἕνεκεν ἐμοῦ καὶ ἕνεκεν τοῦ εὐαγγελίου
-* _p1_: ἐὰν μὴ λάβῃ ἑκατονταπλασίονα νῦν ἐν τῷ καιρῷ τούτῳ οἰκίας καὶ ἀδελφοὺς καὶ ἀδελφὰς καὶ μητέρας καὶ τέκνα καὶ ἀγροὺς μετὰ διωγμῶν καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ ζωὴν αἰώνιον
+* _p1_: ἐὰν μὴ λάβῃ ἑκατονταπλασίονα νῦν ἐν τῷ καιρῷ τούτῳ οἰκίας καὶ ἀδελφοὺς καὶ ἀδελφὰς καὶ μητέρας καὶ τέκνα καὶ ἀγροὺς μετὰ διωγμῶν, καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ ζωὴν αἰώνιον 
 
 
 ## Notes
@@ -1667,9 +1667,9 @@ q: (Teacher, we want you to do for us)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
-* _q1_: Διδάσκαλε θέλομεν ἵνα … ποιήσῃς ἡμῖν
-* _p1_: ὃ ἐὰν αἰτήσωμέν σε
+## Greek (NA27)
+* _q1_: Διδάσκαλε, θέλομεν ἵνα…ποιήσῃς ἡμῖν
+* _p1_:  ὃ ἐὰν αἰτήσωμέν σε 
 
 
 ## Notes
@@ -1693,7 +1693,7 @@ And seeing in the distance a fig tree in leaf, he went to see
 * NRSV: "whether"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ ἄρα τι εὑρήσει ἐν αὐτῇ
 * _q1_: καὶ ἰδὼν συκῆν ἀπὸ μακρόθεν ἔχουσαν φύλλα ἦλθεν
 
@@ -1718,9 +1718,9 @@ q: (he found nothing)
 * NLT: "only leaves"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ φύλλα
-* _q1_: καὶ ἐλθὼν ἐπ αὐτὴν οὐδὲν εὗρεν
+* _q1_: καὶ ἐλθὼν ἐπʼ αὐτὴν οὐδὲν εὗρεν
 
 
 ## Notes
@@ -1743,8 +1743,8 @@ q: (but say)
 * NLT: "what"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ
+## Greek (NA27)
+* _p1_:  ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ 
 * _q1_: τοῦτο λαλεῖτε
 
 
@@ -1768,8 +1768,8 @@ q: (for false christs and false prophets will arise and perform signs and wonder
 * NIV, NLT: "to deceive, if possible, even..."
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δυνατὸν τοὺς ἐκλεκτούς
+## Greek (NA27)
+* _p1_: εἰ δυνατόν, τοὺς ἐκλεκτούς
 * _q1_: ἐγερθήσονται γὰρ ψευδόχριστοι καὶ ψευδοπροφῆται καὶ δώσουσιν σημεῖα καὶ τέρατα πρὸς τὸ ἀποπλανᾶν
 
 
@@ -1797,8 +1797,8 @@ q: (but concerning that day or that hour, no one knows, not even the angels in h
 * NLT: untranslated ("only")
 
 
-## Greek (SBLGNT)
-* _q1_: Περὶ δὲ τῆς ἡμέρας ἐκείνης ἢ τῆς ὥρας οὐδεὶς οἶδεν οὐδὲ οἱ ἄγγελοι ἐν οὐρανῷ οὐδὲ ὁ υἱός
+## Greek (NA27)
+* _q1_: Περὶ δὲ τῆς ἡμέρας ἐκείνης ἢ τῆς ὥρας οὐδεὶς οἶδεν, οὐδὲ οἱ ἄγγελοι ἐν οὐρανῷ οὐδὲ ὁ υἱός
 * _p1_: εἰ μὴ ὁ πατήρ
 
 
@@ -1821,8 +1821,8 @@ p: (wherever the gospel is proclaimed in the whole worlds)
 * ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
-## Greek (SBLGNT)
-* _p1_: ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον εἰς ὅλον τὸν κόσμον
+## Greek (NA27)
+* _p1_:  ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον εἰς ὅλον τὸν κόσμον, 
 * _q1_: καὶ ὃ ἐποίησεν αὕτη λαληθήσεται εἰς μνημόσυνον αὐτῆς
 
 
@@ -1846,9 +1846,9 @@ p: (and wherever he enters)
 * NIV, NLT: untranslated
 
 
-## Greek (SBLGNT)
-* _p1_: ὅπου ἐὰν εἰσέλθῃ
-* _q1_: εἴπατε τῷ οἰκοδεσπότῃ ὅτι Ὁ διδάσκαλος λέγει Ποῦ ἐστιν τὸ κατάλυμά μου ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω
+## Greek (NA27)
+* _p1_:  ὅπου ἐὰν εἰσέλθῃ 
+* _q1_: εἴπατε τῷ οἰκοδεσπότῃ ὅτι Ὁ διδάσκαλος λέγει, Ποῦ ἐστιν τὸ κατάλυμά μου ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω;
 
 
 ## Notes
@@ -1870,9 +1870,9 @@ p: (if it were possible)
 * ESV, NASB, NRSV, NIV, NLT: "if...possible"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δυνατόν ἐστιν
-* _q1_: παρέλθῃ ἀπ αὐτοῦ ἡ ὥρα
+## Greek (NA27)
+* _p1_:  εἰ δυνατόν ἐστιν 
+* _q1_: παρέλθῃ ἀπʼ αὐτοῦ ἡ ὥρα
 
 
 ## Notes
@@ -1899,7 +1899,7 @@ wait, let us see
 * NIV: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ ἔρχεται Ἠλίας καθελεῖν αὐτόν
 * _q1_: Ἄφετε ἴδωμεν
 
@@ -1924,7 +1924,7 @@ And summoning the centurion, he asked him
 * NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ πάλαι ἀπέθανεν
 * _q1_: καὶ προσκαλεσάμενος τὸν κεντυρίωνα ἐπηρώτησεν αὐτὸν
 
@@ -1949,8 +1949,8 @@ To you I will give all this authority and their glory, for it has been delivered
 * NRSV, NLT, NIV: "anyone"
 
 
-## Greek (SBLGNT)
-* _p1_: Σοὶ δώσω τὴν ἐξουσίαν ταύτην ἅπασαν καὶ τὴν δόξαν αὐτῶν ὅτι ἐμοὶ παραδέδοται καὶ ᾧ ἂν θέλω δίδωμι αὐτήν
+## Greek (NA27)
+* _p1_: Σοὶ δώσω τὴν ἐξουσίαν ταύτην ἅπασαν καὶ τὴν δόξαν αὐτῶν, ὅτι ἐμοὶ παραδέδοται καὶ ᾧ ἐὰν θέλω δίδωμι αὐτήν
 
 
 ## Notes
@@ -1975,7 +1975,7 @@ q: (and Elijah was sent to none of them)
 * NLT: "instead"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ εἰς Σάρεπτα τῆς Σιδωνίας πρὸς γυναῖκα χήραν
 * _q1_: καὶ πρὸς οὐδεμίαν αὐτῶν ἐπέμφθη Ἠλίας
 
@@ -2001,7 +2001,7 @@ q: (and none of them was cleansed)
 * NIV: "only"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ Ναιμὰν ὁ Σύρος
 * _q1_: καὶ οὐδεὶς αὐτῶν ἐκαθαρίσθη
 
@@ -2026,7 +2026,7 @@ q: (who can forgive sins)
 * NLT: untranslated ("only God")
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ μόνος ὁ θεός
 * _q1_: τίς δύναται ἁμαρτίας ἀφεῖναι
 
@@ -2052,7 +2052,7 @@ q: (which is not lawful for any)
 * NLT, NIV: untranslated
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: φαγεῖν εἰ μὴ μόνους τοὺς ἱερεῖς
 * _q1_: οὓς οὐκ ἔξεστιν
 
@@ -2077,8 +2077,8 @@ And the scribes and the Pharisees watched him, to see whether he would heal on t
 * NLT: "if" (uses prototypical conditional construction)
 
 
-## Greek (SBLGNT)
-* _p1_: παρετηροῦντο δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι εἰ ἐν τῷ σαββάτῳ θεραπεύει ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ
+## Greek (NA27)
+* _p1_: παρετηροῦντο δὲ αὐτὸν οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι εἰ ἐν τῷ σαββάτῳ θεραπεύει, ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ
 
 
 ## Notes
@@ -2099,8 +2099,8 @@ I ask you, is it lawful on the Sabbath to do good or to do harm, to save a life 
 * ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
-## Greek (SBLGNT)
-* _p1_: Ἐπερωτῶ ὑμᾶς εἰ ἔξεστιν τῷ σαββάτῳ ἀγαθοποιῆσαι ἢ κακοποιῆσαι ψυχὴν σῶσαι ἢ ἀπολέσαι
+## Greek (NA27)
+* _p1_: Ἐπερωτῶ ὑμᾶς εἰ ἔξεστιν τῷ σαββάτῳ ἀγαθοποιῆσαι ἢ κακοποιῆσαι, ψυχὴν σῶσαι ἢ ἀπολέσαι;
 
 
 ## Notes
@@ -2125,8 +2125,8 @@ q: (and blessed is the one)
 * NLT: "those who"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί
+## Greek (NA27)
+* _p1_:  ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί 
 * _q1_: μακάριός ἐστιν
 
 
@@ -2151,7 +2151,7 @@ q: (he allowed no one to enter with him)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ Πέτρον καὶ Ἰωάννην καὶ Ἰάκωβον καὶ τὸν πατέρα τῆς παιδὸς καὶ τὴν μητέρα
 * _q1_: ἐλθὼν δὲ εἰς τὴν οἰκίαν οὐκ ἀφῆκεν εἰσελθεῖν τινα σὺν αὐτῷ
 
@@ -2179,8 +2179,8 @@ p: (whoever receives this child in my name)
 * NLT: "anyone who"
 
 
-## Greek (SBLGNT)
-* _p1_: Ὃς ἂν δέξηται τοῦτο τὸ παιδίον ἐπὶ τῷ ὀνόματί μου
+## Greek (NA27)
+* _p1_: Ὃς ἐὰν δέξηται τοῦτο τὸ παιδίον ἐπὶ τῷ ὀνόματί μου
 * _p2_: καὶ ὃς ἂν ἐμὲ δέξηται
 * _q1_: ἐμὲ δέχεται
 * _q2_: δέχεται τὸν ἀποστείλαντά με
@@ -2207,8 +2207,8 @@ q: (I will follow you)
 * ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
-## Greek (SBLGNT)
-* _p1_: ὅπου ἐὰν ἀπέρχῃ
+## Greek (NA27)
+* _p1_:  ὅπου ἐὰν ἀπέρχῃ 
 * _q1_: Ἀκολουθήσω σοι
 
 
@@ -2231,7 +2231,7 @@ q: (and no one knows who the Son is)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ ὁ πατήρ
 * _q1_: καὶ οὐδεὶς γινώσκει τίς ἐστιν ὁ υἱὸς
 
@@ -2255,7 +2255,7 @@ q: (or who the Father is)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ ὁ υἱὸς
 * _q1_: καὶ τίς ἐστιν ὁ πατὴρ
 
@@ -2280,8 +2280,8 @@ q: (and anyone)
 * NIV, NLT: "those to whom"
 
 
-## Greek (SBLGNT)
-* _p1_: ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι
+## Greek (NA27)
+* _p1_:  ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι 
 * _q1_: καὶ ᾧ
 
 
@@ -2305,7 +2305,7 @@ q: (but no sign will be given it)
 * NASB, NLT: "but...(only)"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ τὸ σημεῖον Ἰωνᾶ
 * _q1_: καὶ σημεῖον οὐ δοθήσεται αὐτῇ
 
@@ -2330,8 +2330,8 @@ I came to cast fire on the earth, and would that it were already kindled
 * NASB has a note: "Lit. what do I wish if...?"
 
 
-## Greek (SBLGNT)
-* _p1_: Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν καὶ τί θέλω εἰ ἤδη ἀνήφθη
+## Greek (NA27)
+* _p1_: Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη
 
 
 ## Notes
@@ -2352,8 +2352,8 @@ Marshall notes that this is a Semitism, θέλω εἰ meaning, ‘I wish that�
 * ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
-## Greek (SBLGNT)
-* _p1_: Κύριε εἰ ὀλίγοι οἱ σῳζόμενοι
+## Greek (NA27)
+* _p1_: Κύριε, εἰ ὀλίγοι οἱ σῳζόμενοι;
 
 
 ## Notes
@@ -2376,7 +2376,7 @@ q: (for which of you, desiring to build a tower, does not first sit down and cou
 * NASB, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ ἔχει εἰς ἀπαρτισμόν
 * _q1_: τίς γὰρ ἐξ ὑμῶν θέλων πύργον οἰκοδομῆσαι οὐχὶ πρῶτον καθίσας ψηφίζει τὴν δαπάνην
 
@@ -2400,8 +2400,8 @@ q: (or what king, going out to enounter another king in war, will not sit down f
 * ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δυνατός ἐστιν ἐν δέκα χιλιάσιν ὑπαντῆσαι τῷ μετὰ εἴκοσι χιλιάδων ἐρχομένῳ ἐπ αὐτόν
+## Greek (NA27)
+* _p1_: εἰ δυνατός ἐστιν ἐν δέκα χιλιάσιν ὑπαντῆσαι τῷ μετὰ εἴκοσι χιλιάδων ἐρχομένῳ ἐπʼ αὐτόν;
 * _q1_: ἢ τίς βασιλεὺς πορευόμενος ἑτέρῳ βασιλεῖ συμβαλεῖν εἰς πόλεμον οὐχὶ καθίσας πρῶτον βουλεύσεται
 
 
@@ -2424,7 +2424,7 @@ q: (was no one found to return and give praise to God)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ ὁ ἀλλογενὴς οὗτος
 * _q1_: οὐχ εὑρέθησαν ὑποστρέψαντες δοῦναι δόξαν τῷ θεῷ
 
@@ -2453,9 +2453,9 @@ p: (whoever seeks to preserve his life)
 * NLT: "if you"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὃς ἐὰν ζητήσῃ τὴν ψυχὴν αὐτοῦ περιποιήσασθαι
-* _p2_: ὃς δ ἂν ἀπολέσῃ
+* _p2_: ὃς δʼ ἂν ἀπολέσῃ
 * _q1_: ἀπολέσει αὐτήν
 * _q2_: ζῳογονήσει αὐτήν
 
@@ -2483,9 +2483,9 @@ q: (no one is good)
 * NLT: untranslated
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ εἷς ὁ θεός
-* _q1_: οὐδεὶς ἀγαθὸς
+* _q1_: οὐδεὶς ἀγαθὸς 
 
 
 ## Notes
@@ -2510,8 +2510,8 @@ NASB:
 * NLT: "how I wish..."
 
 
-## Greek (SBLGNT)
-* _p1_: Εἰ ἔγνως ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ τὰ πρὸς εἰρήνην νῦν δὲ ἐκρύβη ἀπὸ ὀφθαλμῶν σου
+## Greek (NA27)
+* _p1_: Εἰ ἔγνως ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ τὰ πρὸς εἰρήνην· νῦν δὲ ἐκρύβη ἀπὸ ὀφθαλμῶν σου
 
 
 ## Notes
@@ -2532,8 +2532,8 @@ And when those who were around him saw what would follow, they said "Lord, shall
 * ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
-## Greek (SBLGNT)
-* _p1_: ἰδόντες δὲ οἱ περὶ αὐτὸν τὸ ἐσόμενον εἶπαν Κύριε εἰ πατάξομεν ἐν μαχαίρῃ
+## Greek (NA27)
+* _p1_: ἰδόντες δὲ οἱ περὶ αὐτὸν τὸ ἐσόμενον εἶπαν, Κύριε, εἰ πατάξομεν ἐν μαχαίρῃ; 
 
 
 ## Notes
@@ -2557,9 +2557,9 @@ q: (he asked)
 * NLT: untranslated, direct quotation
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ ὁ ἄνθρωπος Γαλιλαῖός ἐστιν
-* _q1_: ἐπηρώτησεν
+## Greek (NA27)
+* _p1_:  εἰ ὁ ἄνθρωπος Γαλιλαῖός ἐστιν
+* _q1_: ἐπηρώτησεν 
 
 
 ## Notes
@@ -2583,9 +2583,9 @@ q: (no one has ascended into heaven)
 * NASB, NLT: "but"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν
-* _p1_: εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς ὁ υἱὸς τοῦ ἀνθρώπου
+* _p1_: εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου.
 
 
 ## Notes
@@ -2612,9 +2612,9 @@ NASB: the crowd ... saw that
 * NASB: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ
-* _p1_: εἰ μὴ ἕν
+* _p1_: εἰ μὴ ἓν
 
 
 ## Notes
@@ -2640,7 +2640,7 @@ q: (not that anyone has seen the Father)
 * NLT: "only"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐχ ὅτι τὸν πατέρα ἑώρακέν τις
 * _p1_: εἰ μὴ ὁ ὢν παρὰ τοῦ θεοῦ
 
@@ -2664,7 +2664,7 @@ p: (whether he is a sinner)
 * ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: Εἰ ἁμαρτωλός ἐστιν
 * _q1_: οὐκ οἶδα
 
@@ -2690,7 +2690,7 @@ q: (the thief comes)
 * NLT: untranslated
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: εἰ μὴ ἵνα κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ
 * _p1_: ὁ κλέπτης οὐκ ἔρχεται
 
@@ -2718,9 +2718,9 @@ q: (the one who had bathed does not need to wash)
 * NASB, NIV: "only"
 
 
-## Greek (SBLGNT)
-* _q1_: Ὁ λελουμένος οὐκ ἔχει χρείαν … νίψασθαι
-* _p1_: εἰ μὴ τοὺς πόδας
+## Greek (NA27)
+* _q1_: Ὁ λελουμένος οὐκ ἔχει χρείαν εἰ μὴ τοὺς πόδας νίψασθαι
+* _p1_:  εἰ μὴ τοὺς πόδας
 
 
 ## Notes
@@ -2746,9 +2746,9 @@ q: (no one comes to the Father)
 * NASB: "but"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐδεὶς ἔρχεται πρὸς τὸν πατέρα
-* _p1_: εἰ μὴ δι ἐμοῦ
+* _p1_: εἰ μὴ διʼ ἐμοῦ
 
 
 ## Notes
@@ -2771,7 +2771,7 @@ p: (ask whatever you wish)
 * NLT: "anything"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὃ ἐὰν θέλητε αἰτήσασθε
 * _q1_: καὶ γενήσεται ὑμῖν
 
@@ -2797,7 +2797,7 @@ q: (not one of them has been lost)
 * NASB: "but"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐδεὶς ἐξ αὐτῶν ἀπώλετο
 * _p1_: εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας
 
@@ -2822,7 +2822,7 @@ q: (we have no king)
 * ESV, NASB, NRSV, NIV, NLT: "but"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: Οὐκ ἔχομεν βασιλέα
 * _p1_: εἰ μὴ Καίσαρα
 
@@ -2845,8 +2845,8 @@ Lord, will you at this time restore the kingdom of Israel?
 * ESV, NASB, NRSV, NIV, NLT: direct question
 
 
-## Greek (SBLGNT)
-* _p1_: Κύριε εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ
+## Greek (NA27)
+* _p1_: Κύριε, εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ;
 
 
 ----------------
@@ -2866,8 +2866,8 @@ p: (every soul who does not listen to that prophet)
 * NIV, NLT: "anyone who"
 
 
-## Greek (SBLGNT)
-* _p1_: ἔσται δὲ πᾶσα ψυχὴ ἥτις ἂν μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου
+## Greek (NA27)
+* _p1_: ἔσται δὲ πᾶσα ψυχὴ ἥτις ἐὰν μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου
 * _q1_: ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ
 
 
@@ -2890,8 +2890,8 @@ And Peter said to her, "Tell me whether you sold the land for so much"
 * NIV, NLT: direct question
 
 
-## Greek (SBLGNT)
-* _p1_: ἀπεκρίθη δὲ πρὸς αὐτὴν Πέτρος Εἰπέ μοι εἰ τοσούτου τὸ χωρίον ἀπέδοσθε
+## Greek (NA27)
+* _p1_: ἀπεκρίθη δὲ πρὸς αὐτὴν Πέτρος, Εἰπέ μοι, εἰ τοσούτου τὸ χωρίον ἀπέδοσθε;
 
 
 ## Notes
@@ -2914,7 +2914,7 @@ as Peter came by, at least his shadow might fall on some of them
 * NLT:  "so that...might"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἵνα ἐρχομένου Πέτρου κἂν ἡ σκιὰ ἐπισκιάσῃ τινὶ αὐτῶν
 
 
@@ -2938,8 +2938,8 @@ And the high priest said, "Are these things so?"
 * ESV, NASB, NRSV, NIV, NLT: direct question
 
 
-## Greek (SBLGNT)
-* _p1_: Εἶπεν δὲ ὁ ἀρχιερεύς Εἰ ταῦτα οὕτως ἔχει
+## Greek (NA27)
+* _p1_: Εἶπεν δὲ ὁ ἀρχιερεύς, Εἰ ταῦτα οὕτως ἔχει;
 
 
 ----------------
@@ -2958,8 +2958,8 @@ q: (and I will judge)
 * NASB: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: ᾧ ἐὰν δουλεύσουσιν
+## Greek (NA27)
+* _p1_:  ᾧ ἐὰν δουλεύσουσιν 
 * _q1_: κρινῶ ἐγώ
 
 
@@ -2980,8 +2980,8 @@ p: (so that anyone on whom I lay my hands)
 * NLT: "when I lay..."
 
 
-## Greek (SBLGNT)
-* _p1_: ᾧ ἐὰν ἐπιθῶ τὰς χεῖρας
+## Greek (NA27)
+* _p1_:  ᾧ ἐὰν ἐπιθῶ τὰς χεῖρας 
 * _q1_: λαμβάνῃ πνεῦμα ἅγιον
 
 
@@ -3005,8 +3005,8 @@ p: (if possible)
 * NIV, NLT: untranslated
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ ἄρα
+## Greek (NA27)
+* _p1_: εἰ ἄρα 
 * _q1_: ἀφεθήσεταί σοι ἡ ἐπίνοια τῆς καρδίας σου
 
 
@@ -3029,7 +3029,7 @@ and called out to ask whether Simon who was called Peter was lodging there
 * NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: καὶ φωνήσαντες ἐπυνθάνοντο εἰ Σίμων ὁ ἐπικαλούμενος Πέτρος ἐνθάδε ξενίζεται
 
 
@@ -3053,7 +3053,7 @@ q: (speaking the word to no one)
 * NIV, NLT: "only"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ μόνον Ἰουδαίοις
 * _q1_: μηδενὶ λαλοῦντες τὸν λόγον
 
@@ -3077,7 +3077,7 @@ examining the Scriptures daily [to see] if these things were so
 * NASB, NRSV: "whether"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἀνακρίνοντες τὰς γραφὰς εἰ ἔχοι ταῦτα οὕτως
 
 
@@ -3101,9 +3101,9 @@ q: (that they should seek God)
 * NASB: "if perhaps"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ ἄρα γε ψηλαφήσειαν αὐτὸν καὶ εὕροιεν
-* _q1_: ζητεῖν τὸν θεὸν
+## Greek (NA27)
+* _p1_:  εἰ ἄρα γε ψηλαφήσειαν αὐτὸν καὶ εὕροιεν, 
+* _q1_: ζητεῖν τὸν θεόν
 
 
 ## Notes
@@ -3124,8 +3124,8 @@ And he said to them, "Did you receive the Holy Spirit when you believed?"
 * ESV, NASB, NRSV, NIV, NLT: direct question
 
 
-## Greek (SBLGNT)
-* _p1_: εἶπέν τε πρὸς αὐτούς Εἰ πνεῦμα ἅγιον ἐλάβετε πιστεύσαντες
+## Greek (NA27)
+* _p1_: εἶπέν τε πρὸς αὐτούς, Εἰ πνεῦμα ἅγιον ἐλάβετε πιστεύσαντες
 
 
 ----------------
@@ -3144,7 +3144,7 @@ he was hastening to be at Jerusalem
 * ESV, NASB, NRSV, NIV, NLT: "if possible"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ δυνατὸν
 
 
@@ -3166,8 +3166,8 @@ As Paul was about to be brought into the barracks, he said to the tribune, "May 
 * ESV, NASB, NRSV, NIV, NLT: direct question
 
 
-## Greek (SBLGNT)
-* _p1_: Μέλλων τε εἰσάγεσθαι εἰς τὴν παρεμβολὴν ὁ Παῦλος λέγει τῷ χιλιάρχῳ Εἰ ἔξεστίν μοι εἰπεῖν τι πρὸς σέ
+## Greek (NA27)
+* _p1_: Μέλλων τε εἰσάγεσθαι εἰς τὴν παρεμβολὴν ὁ Παῦλος λέγει τῷ χιλιάρχῳ, Εἰ ἔξεστίν μοι εἰπεῖν τι πρὸς σέ;
 
 
 ## Notes
@@ -3189,8 +3189,8 @@ I asked whether he wanted to go to Jerusalem and be tried there regarding them.
 * NIV: "if"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ βούλοιτο πορεύεσθαι εἰς Ἱεροσόλυμα κἀκεῖ κρίνεσθαι περὶ τούτων
+## Greek (NA27)
+* _p1_:  εἰ βούλοιτο πορεύεσθαι εἰς Ἱεροσόλυμα κἀκεῖ κρίνεσθαι περὶ τούτων 
 
 
 ## Notes
@@ -3213,8 +3213,8 @@ p1: (that Christ must suffer)
 * ESV, NASB, NRSV, NIV, NLT: "that"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ παθητὸς ὁ χριστός
+## Greek (NA27)
+* _p1_: εἰ παθητὸς ὁ Χριστός
 * _p2_: εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν
 * _q1_: φῶς μέλλει καταγγέλλειν τῷ τε λαῷ καὶ τοῖς ἔθνεσιν
 
@@ -3235,8 +3235,8 @@ p1: (that Christ must suffer)
 * NIV, NLT: untranslated
 
 
-## Greek (SBLGNT)
-* _p1_: εἴ πως δύναιντο καταντήσαντες εἰς Φοίνικα παραχειμάσαι λιμένα τῆς Κρήτης βλέποντα κατὰ λίβα καὶ κατὰ χῶρον
+## Greek (NA27)
+* _p1_:  εἴ πως δύναιντο καταντήσαντες εἰς Φοίνικα παραχειμάσαι λιμένα τῆς Κρήτης βλέποντα κατὰ λίβα καὶ κατὰ χῶρον 
 
 
 ## Notes
@@ -3260,7 +3260,7 @@ they noticed a bay with a beach, on which they planned
 * NASB, NRSV, NIV, NLT: "if they could"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ δύναιντο
 
 
@@ -3285,7 +3285,7 @@ NASB:
 * NIV, NLT: not translated
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴ πως ἤδη ποτὲ εὐοδωθήσομαι ἐν τῷ θελήματι τοῦ θεοῦ ἐλθεῖν πρὸς ὑμᾶς
 
 
@@ -3309,7 +3309,7 @@ p: (otherwise grace would no longer be grace)
 * NLT: "for in that case"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἐπεὶ ἡ χάρις οὐκέτι γίνεται χάρις
 
 
@@ -3332,7 +3332,7 @@ p: (otherwise you too will be cut off)
 * NLT: "but if you stop trusting"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἐπεὶ καὶ σὺ ἐκκοπήσῃ
 
 
@@ -3356,8 +3356,8 @@ p: (if possible)
 * NLT: not translated
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δυνατόν
+## Greek (NA27)
+* _p1_: εἰ δυνατὸν
 
 
 ## Notes
@@ -3385,7 +3385,7 @@ q: (for there is no authority)
 * NLT: "all authority comes from God"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐ γὰρ ἔστιν ἐξουσία
 * _p1_: εἰ μὴ ὑπὸ θεοῦ
 
@@ -3410,7 +3410,7 @@ q: (owe no one anything)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: Μηδενὶ μηδὲν ὀφείλετε
 * _p1_: εἰ μὴ τὸ ἀλλήλους ἀγαπᾶν
 
@@ -3436,9 +3436,9 @@ q: (I know and am persuaded in the Lord Jesus that nothing is unclean in itself)
 * NIV, NLT: "but if"
 
 
-## Greek (SBLGNT)
-* _q1_: οἶδα καὶ πέπεισμαι ἐν κυρίῳ Ἰησοῦ ὅτι οὐδὲν κοινὸν δι ἑαυτοῦ
-* _p1_: εἰ μὴ τῷ λογιζομένῳ τι κοινὸν εἶναι ἐκείνῳ κοινόν
+## Greek (NA27)
+* _q1_: οἶδα καὶ πέπεισμαι ἐν κυρίῳ Ἰησοῦ ὅτι οὐδὲν κοινὸν διʼ ἑαυτοῦ
+* _p1_: εἰ μὴ τῷ λογιζομένῳ τι κοινὸν εἶναι, ἐκείνῳ κοινόν
 
 
 ## Notes
@@ -3463,9 +3463,9 @@ q: (I hope to see you in passing as I go to Spain, and to be helped on my journe
 * NASB: "when"
 
 
-## Greek (SBLGNT)
-* _q1_: ἐλπίζω γὰρ διαπορευόμενος θεάσασθαι ὑμᾶς καὶ ὑφ ὑμῶν προπεμφθῆναι ἐκεῖ
-* _p1_: ἐὰν ὑμῶν πρῶτον ἀπὸ μέρους ἐμπλησθῶ
+## Greek (NA27)
+* _q1_: ἐλπίζω γὰρ διαπορευόμενος θεάσασθαι ὑμᾶς καὶ ὑφʼ ὑμῶν προπεμφθῆναι ἐκεῖ
+* _p1_:  ἐὰν ὑμῶν πρῶτον ἀπὸ μέρους ἐμπλησθῶ 
 
 
 ----------------
@@ -3484,8 +3484,8 @@ p: (except Crispus and Gaius)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
-* _q1_: εὐχαριστῶ ὅτι οὐδένα ὑμῶν ἐβάπτισα
+## Greek (NA27)
+* _q1_: εὐχαριστῶ [τῷ θεῷ] ὅτι οὐδένα ὑμῶν ἐβάπτισα
 * _p1_: εἰ μὴ Κρίσπον καὶ Γάϊον
 
 
@@ -3511,7 +3511,7 @@ p: (...whether I baptized anyone else)
 * NLT: no connective
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐκ οἶδα
 * _p1_: εἴ τινα ἄλλον ἐβάπτισα
 
@@ -3536,7 +3536,7 @@ p: (...except Jesus Christ and him crucified)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐ γὰρ ἔκρινά τι εἰδέναι ἐν ὑμῖν
 * _p1_: εἰ μὴ Ἰησοῦν Χριστὸν καὶ τοῦτον ἐσταυρωμένον
 
@@ -3561,7 +3561,7 @@ p: (...except the spirit of that person, which is in him?)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: τίς γὰρ οἶδεν ἀνθρώπων τὰ τοῦ ἀνθρώπου
 * _p1_: εἰ μὴ τὸ πνεῦμα τοῦ ἀνθρώπου τὸ ἐν αὐτῷ
 
@@ -3586,7 +3586,7 @@ p: (...except the Spirit of God)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὕτως καὶ τὰ τοῦ θεοῦ οὐδεὶς ἔγνωκεν
 * _p1_: εἰ μὴ τὸ πνεῦμα τοῦ θεοῦ
 
@@ -3610,8 +3610,8 @@ p: (whether Paul or Apollos or Cephas or the world or life or death or the prese
 * ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
-## Greek (SBLGNT)
-* _p1_: εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς εἴτε κόσμος εἴτε ζωὴ εἴτε θάνατος εἴτε ἐνεστῶτα εἴτε μέλλοντα
+## Greek (NA27)
+* _p1_: εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς, εἴτε κόσμος εἴτε ζωὴ εἴτε θάνατος, εἴτε ἐνεστῶτα εἴτε μέλλοντα
 * _q1_: πάντα ὑμῶν
 
 
@@ -3636,8 +3636,8 @@ Every other sin a person commits is outside the body
 * NLT: "no other"
 
 
-## Greek (SBLGNT)
-* _p1_: πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος
+## Greek (NA27)
+* _p1_:  πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος 
 
 
 ## Notes
@@ -3664,9 +3664,9 @@ p: (...except perhaps by agreement for a limited time)
 * NLT: "unless"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: μὴ ἀποστερεῖτε ἀλλήλους
-* _p1_: εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρὸν
+* _p1_:  εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρόν
 
 
 ## Notes
@@ -3692,11 +3692,11 @@ q: (For how do you know, wife)
 * NRSV, NLT: no conditional
 
 
-## Greek (SBLGNT)
-* _q1_: τί γὰρ οἶδας γύναι
-* _q2_: ἢ τί οἶδας ἄνερ
-* _p1_: εἰ τὸν ἄνδρα σώσεις
-* _p2_: εἰ τὴν γυναῖκα σώσεις
+## Greek (NA27)
+* _q1_: τί γὰρ οἶδας, γύναι,
+* _q2_: ἢ τί οἶδας, ἄνερ,
+* _p1_: εἰ τὸν ἄνδρα σώσεις;
+* _p2_: εἰ τὴν γυναῖκα σώσεις;
 
 
 ## Notes
@@ -3721,9 +3721,9 @@ q: (only let each person lead the life)
 * NLT: no conditional
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: Εἰ μὴ ἑκάστῳ … οὕτως περιπατείτω
-* _q1_: ὡς ἐμέρισεν ὁ κύριος ἕκαστον ὡς κέκληκεν ὁ θεός
+* _q1_: ὡς ἐμέρισεν ὁ κύριος, ἕκαστον ὡς κέκληκεν ὁ θεός
 
 
 ## Notes
@@ -3747,7 +3747,7 @@ q: (there is no God)
 * NLT: "only
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐδεὶς θεὸς
 * _p1_: εἰ μὴ εἷς
 
@@ -3772,7 +3772,7 @@ q: (there is no God)
 * NLT: "both... and"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε ἐν οὐρανῷ εἴτε ἐπὶ γῆς
 
 
@@ -3798,7 +3798,7 @@ p: (...except what is common to mankind)
 * NIV: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ ἀνθρώπινος
 * _q1_: πειρασμὸς ὑμᾶς οὐκ εἴληφεν
 
@@ -3822,8 +3822,8 @@ p: (so, whether you eat or drink, or whatever you do)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
-## Greek (SBLGNT)
-* _p1_: Εἴτε οὖν ἐσθίετε εἴτε πίνετε εἴτε τι ποιεῖτε
+## Greek (NA27)
+* _p1_: εἴτε οὖν ἐσθίετε εἴτε πίνετε εἴτε τι ποιεῖτε
 * _q1_: πάντα εἰς δόξαν θεοῦ ποιεῖτε
 
 
@@ -3847,9 +3847,9 @@ p: (as often as you drink)
 * NIV: "whenever"
 
 
-## Greek (SBLGNT)
-* _p1_: ὁσάκις ἐὰν πίνητε
-* _q1_: τοῦτο ποιεῖτε … εἰς τὴν ἐμὴν ἀνάμνησιν
+## Greek (NA27)
+* _p1_:  ὁσάκις ἐὰν πίνητε, 
+* _q1_: τοῦτο ποιεῖτε…εἰς τὴν ἐμὴν ἀνάμνησιν
 
 
 ## Notes
@@ -3873,9 +3873,9 @@ p: (as often as you eat this bread and drink the cup)
 * NLT: "every time"
 
 
-## Greek (SBLGNT)
-* _p1_: ὁσάκις γὰρ ἐὰν ἐσθίητε τὸν ἄρτον τοῦτον καὶ τὸ ποτήριον πίνητε
-* _q1_: τὸν θάνατον τοῦ κυρίου καταγγέλλετε ἄχρι οὗ ἔλθῃ
+## Greek (NA27)
+* _p1_: ὁσάκις γὰρ ἐὰν ἐσθίητε τὸν ἄρτον τοῦτον καὶ τὸ ποτήριον πίνητε, 
+* _q1_: τὸν θάνατον τοῦ κυρίου καταγγέλλετε ἄχρις οὗ ἔλθῃ
 
 
 ## Notes
@@ -3900,7 +3900,7 @@ For anyone who eats and drinks without discerning the body eats and drinks judgm
 * NLT: "if you"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὁ γὰρ ἐσθίων καὶ πίνων κρίμα ἑαυτῷ ἐσθίει καὶ πίνει μὴ διακρίνων τὸ σῶμα
 
 
@@ -3923,9 +3923,9 @@ p: (except in the Holy Spirit)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ ἐν πνεύματι ἁγίῳ
-* _q1_: καὶ οὐδεὶς δύναται εἰπεῖν Κύριος Ἰησοῦς
+* _q1_: καὶ οὐδεὶς δύναται εἰπεῖν, Κύριος Ἰησοῦς
 
 
 ## Notes
@@ -3948,8 +3948,8 @@ For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or
 * NLT: no connective
 
 
-## Greek (SBLGNT)
-* _p1_: καὶ γὰρ ἐν ἑνὶ πνεύματι ἡμεῖς πάντες εἰς ἓν σῶμα ἐβαπτίσθημεν εἴτε Ἰουδαῖοι εἴτε Ἕλληνες εἴτε δοῦλοι εἴτε ἐλεύθεροι καὶ πάντες ἓν πνεῦμα ἐποτίσθημεν
+## Greek (NA27)
+* _p1_: καὶ γὰρ ἐν ἑνὶ πνεύματι ἡμεῖς πάντες εἰς ἓν σῶμα ἐβαπτίσθημεν, εἴτε Ἰουδαῖοι εἴτε Ἕλληνες εἴτε δοῦλοι εἴτε ἐλεύθεροι, καὶ πάντες ἓν πνεῦμα ἐποτίσθημεν
 
 
 ## Notes
@@ -3974,7 +3974,7 @@ p1: (if there are gifts of prophecy,) q1: (they will be done away;)
 * NIV, NLT: no conditional
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε δὲ προφητεῖαι
 * _p2_: εἴτε γλῶσσαι
 * _p3_: εἴτε γνῶσις
@@ -4005,7 +4005,7 @@ either flute or the harp
 * NLT: "like... or"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε αὐλὸς εἴτε κιθάρα
 
 
@@ -4030,8 +4030,8 @@ There are doubtless many different languages in the world, and none is without m
 * NLT: not translated
 
 
-## Greek (SBLGNT)
-* _p1_: τοσαῦτα εἰ τύχοι γένη φωνῶν εἰσιν ἐν κόσμῳ καὶ οὐδὲν ἄφωνον
+## Greek (NA27)
+* _p1_: τοσαῦτα εἰ τύχοι γένη φωνῶν εἰσιν ἐν κόσμῳ καὶ οὐδὲν ἄφωνον· 
 
 
 ## Notes
@@ -4052,8 +4052,8 @@ Whether then it was I or they, so we preach and so you believed
 * ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
-## Greek (SBLGNT)
-* _p1_: εἴτε οὖν ἐγὼ εἴτε ἐκεῖνοι οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε
+## Greek (NA27)
+* _p1_: εἴτε οὖν ἐγὼ εἴτε ἐκεῖνοι, οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε
 
 
 ## Notes
@@ -4077,9 +4077,9 @@ p: (...perhaps of wheat or of some other grain)
 * NLT: "whatever"
 
 
-## Greek (SBLGNT)
-* _q1_: καὶ ὃ σπείρεις οὐ τὸ σῶμα τὸ γενησόμενον σπείρεις ἀλλὰ γυμνὸν κόκκον
-* _p1_: εἰ τύχοι σίτου ἤ τινος τῶν λοιπῶν
+## Greek (NA27)
+* _q1_: καὶ ὃ σπείρεις, οὐ τὸ σῶμα τὸ γενησόμενον σπείρεις ἀλλὰ γυμνὸν κόκκον
+* _p1_:  εἰ τύχοι σίτου ἤ τινος τῶν λοιπῶν· 
 
 
 ## Notes
@@ -4102,8 +4102,8 @@ p: (as he may prosper)
 * NRSV: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: ἐὰν εὐοδῶται
+## Greek (NA27)
+* _p1_:  ἐὰν εὐοδῶται, 
 * _q1_: ἵνα μὴ ὅταν ἔλθω τότε λογεῖαι γίνωνται
 
 
@@ -4130,8 +4130,8 @@ p: (those whom you accredit...)
 * NLT: "the messengers"
 
 
-## Greek (SBLGNT)
-* _p1_: οὓς ἐὰν δοκιμάσητε δι ἐπιστολῶν
+## Greek (NA27)
+* _p1_:  οὓς ἐὰν δοκιμάσητε, διʼ ἐπιστολῶν 
 * _q1_: πέμψω ἀπενεγκεῖν τὴν χάριν ὑμῶν εἰς Ἰερουσαλήμ
 
 
@@ -4156,9 +4156,9 @@ q: (so that you may help me on my journey...)
 * NLT: "my next destination"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: ἵνα ὑμεῖς με προπέμψητε
-* _p1_: οὗ ἐὰν πορεύωμαι
+* _p1_:  οὗ ἐὰν πορεύωμαι 
 
 
 ----------------
@@ -4178,7 +4178,7 @@ q: (who is there to make me glad)
 * NLT: paraphrased
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ τίς ὁ εὐφραίνων με
 * _p1_: εἰ μὴ ὁ λυπούμενος ἐξ ἐμοῦ
 
@@ -4205,9 +4205,9 @@ For this is why I wrote, that I might test you and know
 * NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ εἰς πάντα ὑπήκοοί ἐστε
-* _q1_: εἰς τοῦτο γὰρ καὶ ἔγραψα ἵνα γνῶ τὴν δοκιμὴν ὑμῶν
+* _q1_: εἰς τοῦτο γὰρ καὶ ἔγραψα, ἵνα γνῶ τὴν δοκιμὴν ὑμῶν
 
 
 ## Notes
@@ -4230,7 +4230,7 @@ p: (whenever Moses is read)
 * NIV, NLT: "when"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἂν ἀναγινώσκηται Μωϋσῆς
 * _q1_: κάλυμμα ἐπὶ τὴν καρδίαν αὐτῶν κεῖται
 
@@ -4255,8 +4255,8 @@ p: (But when one turns to the Lord)
 * ESV, NRSV: "when"
 
 
-## Greek (SBLGNT)
-* _p1_: ἡνίκα δὲ ἐὰν ἐπιστρέψῃ πρὸς κύριον
+## Greek (NA27)
+* _p1_: ἡνίκα δὲ ἐὰν ἐπιστρέψῃ πρὸς κύριον, 
 * _q1_: περιαιρεῖται τὸ κάλυμμα
 
 
@@ -4283,9 +4283,9 @@ q v.2: (longing to put on our heavenly dwelling)
 * NLT: "for"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ γὰρ ἐν τούτῳ στενάζομεν τὸ οἰκητήριον ἡμῶν τὸ ἐξ οὐρανοῦ ἐπενδύσασθαι ἐπιποθοῦντες
-* _p1_: εἴ γε καὶ ἐνδυσάμενοι οὐ γυμνοὶ εὑρεθησόμεθα
+* _p1_: εἴ γε καὶ ἐκδυσάμενοι οὐ γυμνοὶ εὑρεθησόμεθα.
 
 
 ## Notes
@@ -4307,7 +4307,7 @@ p: (so whether we are at home or away)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε ἐνδημοῦντες εἴτε ἐκδημοῦντες
 * _q1_: εὐάρεστοι αὐτῷ εἶναι
 
@@ -4330,8 +4330,8 @@ p: (so whether we are at home or away)
 * ESV, NASB, NRSV, NIV, NLT: "according to"
 
 
-## Greek (SBLGNT)
-* _p1_: καθὸ ἐὰν ἔχῃ εὐπρόσδεκτος οὐ καθὸ οὐκ ἔχει
+## Greek (NA27)
+* _p1_: καθὸ ἐὰν ἔχῃ εὐπρόσδεκτος, οὐ καθὸ οὐκ ἔχει
 
 
 ## Notes
@@ -4352,8 +4352,8 @@ As for Titus, he is my partner and fellow worker for your benefit. And as for ou
 * ESV, NASB, NRSV, NIV: "as for"
 
 
-## Greek (SBLGNT)
-* _p1_: εἴτε ὑπὲρ Τίτου κοινωνὸς ἐμὸς καὶ εἰς ὑμᾶς συνεργός εἴτε ἀδελφοὶ ἡμῶν ἀπόστολοι ἐκκλησιῶν δόξα Χριστοῦ
+## Greek (NA27)
+* _p1_: εἴτε ὑπὲρ Τίτου, κοινωνὸς ἐμὸς καὶ εἰς ὑμᾶς συνεργός· εἴτε ἀδελφοὶ ἡμῶν, ἀπόστολοι ἐκκλησιῶν, δόξα Χριστοῦ
 
 
 ## Notes
@@ -4375,9 +4375,9 @@ p: (whether in the body or out of the body)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
-## Greek (SBLGNT)
-* _p1_: εἴτε ἐν σώματι οὐκ οἶδα εἴτε ἐκτὸς τοῦ σώματος
-* _q1_: οὐκ οἶδα ὁ θεὸς οἶδεν
+## Greek (NA27)
+* _p1_: εἴτε ἐν σώματι οὐκ οἶδα, εἴτε ἐκτὸς τοῦ σώματος
+* _q1_: οὐκ οἶδα, ὁ θεὸς οἶδεν
 
 
 ## Notes
@@ -4399,9 +4399,9 @@ p: (whether in the body or out of the body)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε ἐν σώματι εἴτε χωρὶς τοῦ σώματος
-* _q1_: οὐκ οἶδα ὁ θεὸς οἶδεν
+* _q1_: οὐκ οἶδα, ὁ θεὸς οἶδεν
 
 
 ## Notes
@@ -4425,7 +4425,7 @@ q: (on my own behalf I will not boast)
 * NLT: "only"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: ὑπὲρ δὲ ἐμαυτοῦ οὐ καυχήσομαι
 * _p1_: εἰ μὴ ἐν ταῖς ἀσθενείαις
 
@@ -4449,8 +4449,8 @@ For in what were you less favored than the rest of the churches, except that I m
 * NLT: "only"
 
 
-## Greek (SBLGNT)
-* _p1_: τί γάρ ἐστιν ὃ ἡσσώθητε ὑπὲρ τὰς λοιπὰς ἐκκλησίας εἰ μὴ ὅτι αὐτὸς ἐγὼ οὐ κατενάρκησα ὑμῶν
+## Greek (NA27)
+* _p1_: τί γάρ ἐστιν ὃ ἡσσώθητε ὑπὲρ τὰς λοιπὰς ἐκκλησίας, εἰ μὴ ὅτι αὐτὸς ἐγὼ οὐ κατενάρκησα ὑμῶν;
 
 
 ## Notes
@@ -4472,8 +4472,8 @@ Examine yourselves, to see whether you are in the faith.
 * NASB, NLT: "if"
 
 
-## Greek (SBLGNT)
-* _p1_: Ἑαυτοὺς πειράζετε εἰ ἐστὲ ἐν τῇ πίστει ἑαυτοὺς δοκιμάζετε
+## Greek (NA27)
+* _p1_: Ἑαυτοὺς πειράζετε εἰ ἐστὲ ἐν τῇ πίστει, ἑαυτοὺς δοκιμάζετε
 
 
 ## Notes
@@ -4499,7 +4499,7 @@ q: (not that there is another one)
 * NLT: not translated
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: ὃ οὐκ ἔστιν ἄλλο
 * _p1_: εἰ μή τινές εἰσιν οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ
 
@@ -4525,7 +4525,7 @@ q: (but I saw none of the other apostles)
 * NIV, NLT: "only"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: ἕτερον δὲ τῶν ἀποστόλων οὐκ εἶδον
 * _p1_: εἰ μὴ Ἰάκωβον τὸν ἀδελφὸν τοῦ κυρίου
 
@@ -4551,9 +4551,9 @@ q: (yet we know that a person is not justified by works of the law)
 * NLT: not translated - oreder reversed
 
 
-## Greek (SBLGNT)
-* _q1_: εἰδότες δὲ ὅτι οὐ δικαιοῦται ἄνθρωπος ἐξ ἔργων νόμου
-* _p1_: ἐὰν μὴ διὰ πίστεως Ἰησοῦ Χριστοῦ
+## Greek (NA27)
+* _q1_: εἰδότες [δὲ] ὅτι οὐ δικαιοῦται ἄνθρωπος ἐξ ἔργων νόμου
+* _p1_:  ἐὰν μὴ διὰ πίστεως Ἰησοῦ Χριστοῦ, 
 
 
 ## Notes
@@ -4577,8 +4577,8 @@ q: (and the one troubling you will bear the penalty)
 * NIV: "whoever that may be"
 
 
-## Greek (SBLGNT)
-* _p1_: ὅστις ἐὰν ᾖ
+## Greek (NA27)
+* _p1_:  ὅστις ἐὰν ᾖ 
 * _q1_: ὁ δὲ ταράσσων ὑμᾶς βαστάσει τὸ κρίμα
 
 
@@ -4602,8 +4602,8 @@ for these are opposed to each other, to keep you from doing the things you want 
 * NIV: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: μὴ ἃ ἐὰν θέλητε ταῦτα ποιῆτε
+## Greek (NA27)
+* _p1_:  μὴ ἃ ἐὰν θέλητε ταῦτα ποιῆτε 
 
 
 ## Notes
@@ -4626,8 +4626,8 @@ p: (for whatever one sows)
 * NIV, NLT: "what"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃ γὰρ ἐὰν σπείρῃ ἄνθρωπος
+## Greek (NA27)
+* _p1_:  ὃ γὰρ ἐὰν σπείρῃ ἄνθρωπος, 
 * _q1_: τοῦτο καὶ θερίσει
 
 
@@ -4651,7 +4651,7 @@ q: (but far be it from me to boast)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: ἐμοὶ δὲ μὴ γένοιτο καυχᾶσθαι
 * _p1_: εἰ μὴ ἐν τῷ σταυρῷ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ
 
@@ -4678,8 +4678,8 @@ NASB:
 * NIV: "surely"
 
 
-## Greek (SBLGNT)
-* _p1_: εἴ γε ἠκούσατε τὴν οἰκονομίαν τῆς χάριτος τοῦ θεοῦ τῆς δοθείσης μοι εἰς ὑμᾶς
+## Greek (NA27)
+* _p1_: εἴ γε ἠκούσατε τὴν οἰκονομίαν τῆς χάριτος τοῦ θεοῦ τῆς δοθείσης μοι εἰς ὑμᾶς, 
 
 
 ## Notes
@@ -4705,8 +4705,8 @@ p: (...but that he had also descended into the lower regions, the earth?)
 * NLT: Non-conditional statement
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ μὴ ὅτι καὶ κατέβη εἰς τὰ κατώτερα μέρη τῆς γῆς
+## Greek (NA27)
+* _p1_: εἰ μὴ ὅτι καὶ κατέβη εἰς τὰ κατώτερα [μέρη] τῆς γῆς; 
 * _q1_: τὸ δὲ Ἀνέβη τί ἐστιν
 
 
@@ -4730,8 +4730,8 @@ q: (let no corrupting talk come out of your mouths)
 * NLT: no connective
 
 
-## Greek (SBLGNT)
-* _p1_: εἴ τις ἀγαθὸς πρὸς οἰκοδομὴν τῆς χρείας
+## Greek (NA27)
+* _p1_:  εἴ τις ἀγαθὸς πρὸς οἰκοδομὴν τῆς χρείας, 
 * _q1_: πᾶς λόγος σαπρὸς ἐκ τοῦ στόματος ὑμῶν μὴ ἐκπορευέσθω
 
 
@@ -4755,8 +4755,8 @@ q: (knowing that whatever good he does, this he will receive back from the Lord)
 * ESV, NASB, NRSV, NIV: "whether"
 
 
-## Greek (SBLGNT)
-* _q1_: εἰδότες ὅτι ἕκαστος ὃ ἂν ποιήσῃ ἀγαθόν τοῦτο κομίσεται παρὰ κυρίου
+## Greek (NA27)
+* _q1_: εἰδότες ὅτι ἕκαστος ἐάν τι ποιήσῃ ἀγαθόν, τοῦτο κομίσεται παρὰ κυρίου
 * _p1_: εἴτε δοῦλος εἴτε ἐλεύθερος
 
 
@@ -4779,7 +4779,7 @@ p: (whether in pretense or in truth)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε προφάσει εἴτε ἀληθείᾳ
 * _q1_: Χριστὸς καταγγέλλεται
 
@@ -4804,8 +4804,8 @@ q: (with full courage now as always Christ will be honoured in my body)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
-## Greek (SBLGNT)
-* _q1_: ἀλλ ἐν πάσῃ παρρησίᾳ ὡς πάντοτε καὶ νῦν μεγαλυνθήσεται Χριστὸς ἐν τῷ σώματί μου
+## Greek (NA27)
+* _q1_: ἀλλʼ ἐν πάσῃ παρρησίᾳ ὡς πάντοτε καὶ νῦν μεγαλυνθήσεται Χριστὸς ἐν τῷ σώματί μου
 * _p1_: εἴτε διὰ ζωῆς εἴτε διὰ θανάτου
 
 
@@ -4828,9 +4828,9 @@ p: (so that whether I come and see you or am absent)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἵνα εἴτε ἐλθὼν καὶ ἰδὼν ὑμᾶς εἴτε ἀπὼν
-* _q1_: ἀκούω τὰ περὶ ὑμῶν ὅτι στήκετε ἐν ἑνὶ πνεύματι μιᾷ ψυχῇ συναθλοῦντες τῇ πίστει τοῦ εὐαγγελίου
+* _q1_: ἀκούω τὰ περὶ ὑμῶν, ὅτι στήκετε ἐν ἑνὶ πνεύματι, μιᾷ ψυχῇ συναθλοῦντες τῇ πίστει τοῦ εὐαγγελίου
 
 
 ## Notes
@@ -4856,8 +4856,8 @@ p: (that by any means possible I may attain the resurrection from the dead)
 * NLT: "so that one way or another"
 
 
-## Greek (SBLGNT)
-* _p1_: εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν τὴν ἐκ νεκρῶν
+## Greek (NA27)
+* _p1_: εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν τὴν ἐκ νεκρῶν 
 
 
 ## Notes
@@ -4883,7 +4883,7 @@ q: (but I press on)
 * NASB: "so that"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: διώκω δὲ
 * _p1_: εἰ καὶ καταλάβω
 
@@ -4912,7 +4912,7 @@ q: (no church entered into partnership with me in giving and receiving)
 * NLT: paraphrased
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: οὐδεμία μοι ἐκκλησία ἐκοινώνησεν εἰς λόγον δόσεως καὶ λήμψεως
 * _p1_: εἰ μὴ ὑμεῖς μόνοι
 
@@ -4937,9 +4937,9 @@ p: (whether thrones or dominions or rulers or authorities)
 * NLT: "such as... and..."
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι
-* _q1_: τὰ πάντα δι αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται
+* _q1_: τὰ πάντα διʼ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται
 
 
 ## Notes
@@ -4963,8 +4963,8 @@ q: (and through him to reconcile to himself all things)
 * NLT: "in heaven and on earth"
 
 
-## Greek (SBLGNT)
-* _q1_: καὶ δι αὐτοῦ ἀποκαταλλάξαι τὰ πάντα εἰς αὐτόν
+## Greek (NA27)
+* _q1_: καὶ διʼ αὐτοῦ ἀποκαταλλάξαι τὰ πάντα εἰς αὐτόν
 * _p1_: εἴτε τὰ ἐπὶ τῆς γῆς εἴτε τὰ ἐν τοῖς οὐρανοῖς
 
 
@@ -4987,9 +4987,9 @@ p: (and whatever you do, in word or deed)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: πᾶν ὅ τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ
-* _q1_: πάντα ἐν ὀνόματι κυρίου Ἰησοῦ εὐχαριστοῦντες τῷ θεῷ πατρὶ δι αὐτοῦ
+## Greek (NA27)
+* _p1_:  πᾶν ὅ τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, 
+* _q1_: πάντα ἐν ὀνόματι κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ θεῷ πατρὶ διʼ αὐτοῦ
 
 
 ## Notes
@@ -5011,8 +5011,8 @@ p: (whatever you do)
 * ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
-## Greek (SBLGNT)
-* _p1_: ὃ ἐὰν ποιῆτε
+## Greek (NA27)
+* _p1_: ὃ ἐὰν ποιῆτε, 
 * _q1_: ἐκ ψυχῆς ἐργάζεσθε ὡς τῷ κυρίῳ καὶ οὐκ ἀνθρώποις
 
 
@@ -5044,8 +5044,8 @@ ESV:
 * NLT: "or... like"
 
 
-## Greek (SBLGNT)
-* _q1_: ἀλλὰ ἐγενήθημεν ἤπιοι ἐν μέσῳ ὑμῶν
+## Greek (NA27)
+* _q1_: ἀλλὰ ἐγενήθημεν νήπιοι ἐν μέσῳ ὑμῶν
 * _p1_: ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα
 
 
@@ -5068,9 +5068,9 @@ p: (whether we are awake or asleep)
 * ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἴτε γρηγορῶμεν εἴτε καθεύδωμεν
-* _q1_: τοῦ ἀποθανόντος … ἡμῶν ἵνα … ἅμα σὺν αὐτῷ ζήσωμεν
+* _q1_: τοῦ ἀποθανόντος ὑπὲρ ἡμῶν, ἵνα … ἅμα σὺν αὐτῷ ζήσωμεν
 
 
 ## Notes
@@ -5100,9 +5100,9 @@ q: (this is the evidence of the righteous judgement of God, that you may be cons
 * NIV, NLT: untranslated/paraphrased
 
 
-## Greek (SBLGNT)
-* _q1_: ἔνδειγμα τῆς δικαίας κρίσεως τοῦ θεοῦ εἰς τὸ καταξιωθῆναι ὑμᾶς τῆς βασιλείας τοῦ θεοῦ ὑπὲρ ἧς καὶ πάσχετε
-* _p1_: εἴπερ δίκαιον παρὰ θεῷ ἀνταποδοῦναι τοῖς θλίβουσιν ὑμᾶς θλῖψιν καὶ ὑμῖν τοῖς θλιβομένοις ἄνεσιν μεθ ἡμῶν
+## Greek (NA27)
+* _q1_: ἔνδειγμα τῆς δικαίας κρίσεως τοῦ θεοῦ εἰς τὸ καταξιωθῆναι ὑμᾶς τῆς βασιλείας τοῦ θεοῦ, ὑπὲρ ἧς καὶ πάσχετε, 
+* _p1_: εἴπερ δίκαιον παρὰ θεῷ ἀνταποδοῦναι τοῖς θλίβουσιν ὑμᾶς θλῖψιν καὶ ὑμῖν τοῖς θλιβομένοις ἄνεσιν μεθʼ ἡμῶν, 
 
 
 ## Notes
@@ -5127,9 +5127,9 @@ q: (stand firm and hold to the traditions that you were taught by us...)
 * NLT: "both... and"
 
 
-## Greek (SBLGNT)
-* _q1_: στήκετε καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε
-* _p1_: εἴτε διὰ λόγου εἴτε δι ἐπιστολῆς ἡμῶν
+## Greek (NA27)
+* _q1_: στήκετε, καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε
+* _p1_: εἴτε διὰ λόγου εἴτε διʼ ἐπιστολῆς ἡμῶν
 
 
 ## Notes
@@ -5153,9 +5153,9 @@ q: (the law is not laid down for the just but for the lawless and disobedient, f
 * NLT: "anything else"
 
 
-## Greek (SBLGNT)
-* _q1_: εἰδὼς τοῦτο ὅτι δικαίῳ νόμος οὐ κεῖται ἀνόμοις δὲ καὶ ἀνυποτάκτοις ἀσεβέσι καὶ ἁμαρτωλοῖς ἀνοσίοις καὶ βεβήλοις πατρολῴαις καὶ μητρολῴαις ἀνδροφόνοις πόρνοις ἀρσενοκοίταις ἀνδραποδισταῖς ψεύσταις ἐπιόρκοις
-* _p1_: εἴ τι ἕτερον τῇ ὑγιαινούσῃ διδασκαλίᾳ ἀντίκειται
+## Greek (NA27)
+* _q1_: εἰδὼς τοῦτο, ὅτι δικαίῳ νόμος οὐ κεῖται, ἀνόμοις δὲ καὶ ἀνυποτάκτοις, ἀσεβέσι καὶ ἁμαρτωλοῖς, ἀνοσίοις καὶ βεβήλοις, πατρολῴαις καὶ μητρολῴαις, ἀνδροφόνοις πόρνοις ἀρσενοκοίταις ἀνδραποδισταῖς ψεύσταις ἐπιόρκοις,
+* _p1_:  εἴ τι ἕτερον τῇ ὑγιαινούσῃ διδασκαλίᾳ ἀντίκειται 
 
 
 ## Notes
@@ -5188,8 +5188,8 @@ NASB (following Greek closely):
 * NIV: "anyone who" / "except by"
 
 
-## Greek (SBLGNT)
-* _p1_: ἐὰν δὲ καὶ ἀθλῇ τις … ἐὰν μὴ νομίμως ἀθλήσῃ
+## Greek (NA27)
+* _p1_: ἐὰν δὲ καὶ ἀθλῇ τις, … ἐὰν μὴ νομίμως ἀθλήσῃ 
 * _q1_: οὐ στεφανοῦται
 
 
@@ -5223,9 +5223,9 @@ p: (If we have died with him,)
 * ESV, NASB, NRSV, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ γὰρ συναπεθάνομεν
-* _q1_: καὶ συζήσομεν
+## Greek (NA27)
+* _p1_:  εἰ γὰρ συναπεθάνομεν, 
+* _q1_: καὶ συζήσομεν·
 
 
 ## Notes
@@ -5252,9 +5252,9 @@ p: (if we endure,)
 * ESV, NASB, NRSV, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ ὑπομένομεν
-* _q1_: καὶ συμβασιλεύσομεν
+* _q1_: καὶ συμβασιλεύσομεν·
 
 
 ## Notes
@@ -5279,9 +5279,9 @@ p: (if we deny him,)
 * ESV, NASB, NRSV, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ ἀρνησόμεθα
-* _q1_: κἀκεῖνος ἀρνήσεται ἡμᾶς
+* _q1_: κἀκεῖνος ἀρνήσεται ἡμᾶς·
 
 
 ## Notes
@@ -5306,9 +5306,9 @@ p: (if we are faithless,)
 * ESV, NASB, NRSV, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ ἀπιστοῦμεν
-* _q1_: ἐκεῖνος πιστὸς μένει
+## Greek (NA27)
+* _p1_: εἰ ἀπιστοῦμεν, 
+* _q1_: ἐκεῖνος πιστὸς μένει,
 
 
 ## Notes
@@ -5338,9 +5338,9 @@ p: (if anyone cleanses himself from what is dishonorable,)
 * NLT: "if you"
 
 
-## Greek (SBLGNT)
-* _p1_: ἐὰν οὖν τις ἐκκαθάρῃ ἑαυτὸν ἀπὸ τούτων
-* _q1_: ἔσται σκεῦος εἰς τιμήν ἡγιασμένον εὔχρηστον τῷ δεσπότῃ εἰς πᾶν ἔργον ἀγαθὸν ἡτοιμασμένον
+## Greek (NA27)
+* _p1_: ἐὰν οὖν τις ἐκκαθάρῃ ἑαυτὸν ἀπὸ τούτων, 
+* _q1_: ἔσται σκεῦος εἰς τιμήν, ἡγιασμένον, εὔχρηστον τῷ δεσπότῃ, εἰς πᾶν ἔργον ἀγαθὸν ἡτοιμασμένον
 
 
 ## Notes
@@ -5368,8 +5368,8 @@ p: (...if anyone is above reproach, the husband of one wife, and his children ar
 * NIV, NLT: no conditional, "an elder must..."
 
 
-## Greek (SBLGNT)
-* _p1_: εἴ τίς ἐστιν ἀνέγκλητος μιᾶς γυναικὸς ἀνήρ τέκνα ἔχων πιστά μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα
+## Greek (NA27)
+* _p1_:  εἴ τίς ἐστιν ἀνέγκλητος, μιᾶς γυναικὸς ἀνήρ, τέκνα ἔχων πιστά, μὴ ἐν κατηγορίᾳ ἀσωτίας ἢ ἀνυπότακτα
 
 
 ## Notes
@@ -5394,8 +5394,8 @@ p: (so if you consider me your partner)
 * ESV, NASB, NRSV, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
-* _p1_: Εἰ οὖν με ἔχεις κοινωνόν
+## Greek (NA27)
+* _p1_: Εἰ οὖν με ἔχεις κοινωνόν, 
 * _q1_: προσλαβοῦ αὐτὸν ὡς ἐμέ
 
 
@@ -5421,8 +5421,8 @@ p: (if he has wronged you at all, or owes you anything)
 * ESV, NASB, NRSV, NIV, NLT: "if"
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει
+## Greek (NA27)
+* _p1_: εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει, 
 * _q1_: τοῦτο ἐμοὶ ἐλλόγα
 
 
@@ -5445,8 +5445,8 @@ p: (they shall not enter my rest)
 * ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
-## Greek (SBLGNT)
-* _p1_: Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου
+## Greek (NA27)
+* _p1_:  Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου 
 
 
 ## Notes
@@ -5471,9 +5471,9 @@ q: (and to whom did he swear that they would never enter his rest)
 * NLT: untranslated/paraphrased
 
 
-## Greek (SBLGNT)
-* _q1_: τίσιν δὲ ὤμοσεν μὴ εἰσελεύσεσθαι εἰς τὴν κατάπαυσιν αὐτοῦ
-* _p1_: εἰ μὴ τοῖς ἀπειθήσασιν
+## Greek (NA27)
+* _q1_: τίσιν δὲ ὤμοσεν, μὴ εἰσελεύσεσθαι εἰς τὴν κατάπαυσιν αὐτοῦ
+* _p1_: εἰ μὴ τοῖς ἀπειθήσασιν;
 
 
 ## Notes
@@ -5495,8 +5495,8 @@ p: (they shall not enter my rest)
 * ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
-## Greek (SBLGNT)
-* _p1_: Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου
+## Greek (NA27)
+* _p1_:  Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου, 
 
 
 ## Notes
@@ -5518,8 +5518,8 @@ p: (they shall not enter my rest)
 * ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
-## Greek (SBLGNT)
-* _p1_: Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου
+## Greek (NA27)
+* _p1_:  Εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου 
 
 
 ## Notes
@@ -5541,7 +5541,7 @@ p: (surely I will bless you and multiply you)
 * ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: Εἰ μὴν εὐλογῶν εὐλογήσω σε καὶ πληθύνων πληθυνῶ σε
 
 
@@ -5566,7 +5566,7 @@ p: (whoever wishes to be a friend of the world)
 * NLT: "if you"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου
 * _q1_: ἐχθρὸς τοῦ θεοῦ καθίσταται
 
@@ -5590,8 +5590,8 @@ p: (whether it be to the emperor as supreme, or to governors as sent by him to p
 * ESV, NASB, NRSV, NIV, NLT: "whether...or"
 
 
-## Greek (SBLGNT)
-* _p1_: εἴτε βασιλεῖ ὡς ὑπερέχοντι εἴτε ἡγεμόσιν ὡς δι αὐτοῦ πεμπομένοις εἰς ἐκδίκησιν κακοποιῶν ἔπαινον δὲ ἀγαθοποιῶν
+## Greek (NA27)
+* _p1_: εἴτε βασιλεῖ ὡς ὑπερέχοντι, εἴτε ἡγεμόσιν ὡς διʼ αὐτοῦ πεμπομένοις εἰς ἐκδίκησιν κακοποιῶν ἔπαινον δὲ ἀγαθοποιῶν
 * _q1_: Ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον
 
 
@@ -5617,9 +5617,9 @@ q: (who is the liar)
 * NLT: "anyone who..."
 
 
-## Greek (SBLGNT)
-* _p1_: εἰ μὴ ὁ ἀρνούμενος ὅτι Ἰησοῦς οὐκ ἔστιν ὁ χριστός
-* _q1_: τίς ἐστιν ὁ ψεύστης
+## Greek (NA27)
+* _p1_: εἰ μὴ ὁ ἀρνούμενος ὅτι Ἰησοῦς οὐκ ἔστιν ὁ Χριστός
+* _q1_: Τίς ἐστιν ὁ ψεύστης
 
 
 ## Notes
@@ -5642,9 +5642,9 @@ and now, little children, abide in him, so that
 * ESV, NASB, NRSV, NIV, NLT: "when"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἐὰν φανερωθῇ
-* _q1_: σχῶμεν παρρησίαν καὶ μὴ αἰσχυνθῶμεν ἀπ αὐτοῦ ἐν τῇ παρουσίᾳ αὐτοῦ
+* _q1_: σχῶμεν παρρησίαν καὶ μὴ αἰσχυνθῶμεν ἀπʼ αὐτοῦ ἐν τῇ παρουσίᾳ αὐτοῦ
 
 
 ## Notes
@@ -5667,9 +5667,9 @@ but we know that
 * ESV, NASB, NRSV, NIV, NLT: "when"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἐὰν φανερωθῇ
-* _q1_: ὅμοιοι αὐτῷ ἐσόμεθα ὅτι ὀψόμεθα αὐτὸν καθώς ἐστιν
+* _q1_: ὅμοιοι αὐτῷ ἐσόμεθα, ὅτι ὀψόμεθα αὐτὸν καθώς ἐστιν
 
 
 ## Notes
@@ -5692,9 +5692,9 @@ p: (and whatever we ask)
 * NIV: "anything"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ἐὰν αἰτῶμεν
-* _q1_: λαμβάνομεν ἀπ αὐτοῦ
+* _q1_: λαμβάνομεν ἀπʼ αὐτοῦ
 
 
 ## Notes
@@ -5717,9 +5717,9 @@ Beloved, do not believe every spirit, but test the spirits to see
 * NLT: "if"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ ἐκ τοῦ θεοῦ ἐστιν
-* _q1_: Ἀγαπητοί μὴ παντὶ πνεύματι πιστεύετε ἀλλὰ δοκιμάζετε τὰ πνεύματα
+* _q1_: Ἀγαπητοί, μὴ παντὶ πνεύματι πιστεύετε ἀλλὰ δοκιμάζετε τὰ πνεύματα
 
 
 ## Notes
@@ -5748,7 +5748,7 @@ p: (Whoever confesses that Jesus is the Son of God)
 * NIV: "if anyone"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὃς ἐὰν ὁμολογήσῃ ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ
 * _q1_: ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ
 
@@ -5775,9 +5775,9 @@ q: (who is it that overcomes the world)
 * NIV, NLT: "only" following a question
 
 
-## Greek (SBLGNT)
-* _q1_: τίς δέ ἐστιν ὁ νικῶν τὸν κόσμον
-* _p1_: εἰ μὴ ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ
+## Greek (NA27)
+* _q1_: τίς [δέ] ἐστιν ὁ νικῶν τὸν κόσμον
+* _p1_: εἰ μὴ ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ υἱὸς τοῦ θεοῦ;
 
 
 ## Notes
@@ -5800,7 +5800,7 @@ if we know that he hears us in
 * NLT: untranslated/paraphrased
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: ὃ ἐὰν αἰτώμεθα
 * _q1_: καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν
 
@@ -5827,7 +5827,7 @@ q: (you are acting faithfully)
 * NIV: "in what"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: πιστὸν ποιεῖς
 * _p1_: ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ τοῦτο ξένους
 
@@ -5854,8 +5854,8 @@ q: (and I will give him a white stone with a new name written on the stone that 
 * NIV: "only"
 
 
-## Greek (SBLGNT)
-* _q1_: δώσω αὐτῷ τοῦ μάννα τοῦ κεκρυμμένου καὶ δώσω αὐτῷ ψῆφον λευκήν καὶ ἐπὶ τὴν ψῆφον ὄνομα καινὸν γεγραμμένον ὃ οὐδεὶς οἶδεν
+## Greek (NA27)
+* _q1_: δώσω αὐτῷ τοῦ μάννα τοῦ κεκρυμμένου καὶ δώσω αὐτῷ ψῆφον λευκήν, καὶ ἐπὶ τὴν ψῆφον ὄνομα καινὸν γεγραμμένον ὃ οὐδεὶς οἶδεν
 * _p1_: εἰ μὴ ὁ λαμβάνων
 
 
@@ -5879,9 +5879,9 @@ p: (Those whom I love)
 * NLT: "everyone"
 
 
-## Greek (SBLGNT)
-* _p1_: ἐὰν φιλῶ
-* _q1_: ἐλέγχω καὶ παιδεύω
+## Greek (NA27)
+* _p1_:  ἐὰν φιλῶ 
+* _q1_: ἐλέγχω καὶ παιδεύω·
 
 
 ## Notes
@@ -5904,7 +5904,7 @@ q: (they were told not to harm the grass of the earth of any green plant or any 
 * ESV, NASB, NRSV, NIV, NLT: "but only"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ ἐρρέθη αὐταῖς ἵνα μὴ ἀδικήσουσιν τὸν χόρτον τῆς γῆς οὐδὲ πᾶν χλωρὸν οὐδὲ πᾶν δένδρον
 * _p1_: εἰ μὴ τοὺς ἀνθρώπους οἵτινες οὐκ ἔχουσι τὴν σφραγῖδα τοῦ θεοῦ ἐπὶ τῶν μετώπων
 
@@ -5929,9 +5929,9 @@ q: (they have the power to shut the sky, that no rain may fall during the days o
 * ESV, NASB, NRSV, NIV, NLT: "as often as"
 
 
-## Greek (SBLGNT)
-* _q1_: οὗτοι ἔχουσιν τὴν ἐξουσίαν κλεῖσαι τὸν οὐρανόν ἵνα μὴ ὑετὸς βρέχῃ τὰς ἡμέρας τῆς προφητείας αὐτῶν καὶ ἐξουσίαν ἔχουσιν ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ εἰς αἷμα καὶ πατάξαι τὴν γῆν ἐν πάσῃ πληγῇ
-* _p1_: ὁσάκις ἐὰν θελήσωσιν
+## Greek (NA27)
+* _q1_: οὗτοι ἔχουσιν τὴν ἐξουσίαν κλεῖσαι τὸν οὐρανόν, ἵνα μὴ ὑετὸς βρέχῃ τὰς ἡμέρας τῆς προφητείας αὐτῶν, καὶ ἐξουσίαν ἔχουσιν ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ εἰς αἷμα καὶ πατάξαι τὴν γῆν ἐν πάσῃ πληγῇ
+* _p1_: ὁσάκις ἐὰν θελήσωσιν 
 
 
 ## Notes
@@ -5956,8 +5956,8 @@ p: (so that the image of the beast might speak and might cause)
 * NLT: "anyone"
 
 
-## Greek (SBLGNT)
-* _p1_: ὅσοι ἐὰν μὴ προσκυνήσωσιν τῇ εἰκόνι τοῦ θηρίου ἀποκτανθῶσιν
+## Greek (NA27)
+* _p1_: ὅσοι ἐὰν μὴ προσκυνήσωσιν τῇ εἰκόνι τοῦ θηρίου ἀποκτανθῶσιν. 
 * _q1_: ἵνα καὶ λαλήσῃ ἡ εἰκὼν τοῦ θηρίου καὶ ποιήσῃ
 
 
@@ -5981,9 +5981,9 @@ q: (no one could learn that song)
 * ESV, NASB, NRSV, NIV, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _q1_: καὶ οὐδεὶς ἐδύνατο μαθεῖν τὴν ᾠδὴν
-* _p1_: εἰ μὴ αἱ ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες οἱ ἠγορασμένοι ἀπὸ τῆς γῆς
+* _p1_: εἰ μὴ αἱ ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, οἱ ἠγορασμένοι ἀπὸ τῆς γῆς
 
 
 ## Notes
@@ -6008,8 +6008,8 @@ q: (and the smoke of their torment goes up forever and ever, and they have no re
 * NLT: "for they have... accepted the mark..."
 
 
-## Greek (SBLGNT)
-* _q1_: καὶ ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν εἰς αἰῶνας αἰώνων ἀναβαίνει καὶ οὐκ ἔχουσιν ἀνάπαυσιν ἡμέρας καὶ νυκτός οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ
+## Greek (NA27)
+* _q1_: καὶ ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν εἰς αἰῶνας αἰώνων ἀναβαίνει, καὶ οὐκ ἔχουσιν ἀνάπαυσιν ἡμέρας καὶ νυκτὸς οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ 
 * _p1_: καὶ εἴ τις λαμβάνει τὸ χάραγμα τοῦ ὀνόματος αὐτοῦ
 
 
@@ -6033,7 +6033,7 @@ q: (and he has a name written that no one knows)
 * NASB, NLT: "except"
 
 
-## Greek (SBLGNT)
+## Greek (NA27)
 * _p1_: εἰ μὴ αὐτός
 * _q1_: ἔχων ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν
 
@@ -6058,8 +6058,8 @@ q: (but nothing unclean will ever enter it, nor anyone who does what is detestab
 * ESV, RSV, NIV, NASB: "but only"
 
 
-## Greek (SBLGNT)
-* _q1_: καὶ οὐ μὴ εἰσέλθῃ εἰς αὐτὴν πᾶν κοινὸν καὶ ποιῶν βδέλυγμα καὶ ψεῦδος
+## Greek (NA27)
+* _q1_: καὶ οὐ μὴ εἰσέλθῃ εἰς αὐτὴν πᾶν κοινὸν καὶ [ὁ] ποιῶν βδέλυγμα καὶ ψεῦδος
 * _p1_: εἰ μὴ οἱ γεγραμμένοι ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου
 
 

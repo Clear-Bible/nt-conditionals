@@ -1,5 +1,4 @@
-import re
-
+import regex as re
 from shared.shared_classes import *
 
 
@@ -7,37 +6,22 @@ git_dir = "c:/git/Clear/"
 root_dir = f"{git_dir}nt-conditionals/"
 data_dir = f"{root_dir}data/json/"
 output_dir = f"{root_dir}data/md/"
-gnt_edition = "NA27"
-# gnt_edition = "SBLGNT"
-
-
+# gnt_edition = "NA27"
+gnt_edition = "SBLGNT"
 
 conditionals_json = f"{data_dir}nt-conditionals-{gnt_edition}.json"
 non_conditionals_json = f"{data_dir}nt-non-conditionals-{gnt_edition}.json"
 
 
-def make_ordinal(condition_class):
-    if condition_class == "1":
-        return "First"
-    elif condition_class == "2":
-        return "Second"
-    elif condition_class == "3":
-        return "Third"
-    elif condition_class == "4":
-        return "Fourth"
-    else:
-        print(f"Unknown condition class: {condition_class}")
-        return "(Unspecified)"
-
-
 def render_as_markdown(condition, is_conditional):
     markdown = []
     markdown.append("\n")
-    if is_conditional:
-        markdown.append(f"# {condition.reference}: {make_ordinal(condition.condition_class)} Class Condition")
-    else:
-        markdown.append(f"# {condition.reference}: Non-Conditional")
+    markdown.append(f"# {condition.reference}")
     markdown.append("\n")
+    if condition.condition_class != "":
+        markdown.append(f"* **Class:** {condition.condition_class}")
+    elif is_conditional:
+        markdown.append(f"* **Class:** None specified")
     if len(condition.probability) > 0:
         markdown.append(f"* **Probability:** {' / '.join(condition.probability)}")
     if len(condition.time_orientation) > 0:
@@ -75,10 +59,10 @@ def render_as_markdown(condition, is_conditional):
         notes = re.sub(r"\n", "\n\n", condition.notes)
         markdown.append(f"{notes}")
         markdown.append("\n")
+
     markdown.append(f"----------------")
 
     return "\n".join(markdown)
-
 
 
 for file in [conditionals_json, non_conditionals_json]:

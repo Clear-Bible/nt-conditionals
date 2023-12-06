@@ -1,8 +1,9 @@
 
 
-# Matt 5:13b: Non-Conditional
+# Matt 5:13b
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -27,7 +28,7 @@ Greek: ει μη 'except'
 
 ----------------
 
-# Matt 5:19: Non-Conditional
+# Matt 5:19
 
 
 
@@ -57,7 +58,7 @@ This verse (and also Mat 12:32; 16:25; 18:5-6; 20:26-27) compares two different 
 
 ----------------
 
-# Matt 5:32: Non-Conditional
+# Matt 5:32
 
 
 
@@ -82,7 +83,7 @@ Greek: ος εαν 'whoever'
 
 ----------------
 
-# Matt 7:12: Non-Conditional
+# Matt 7:12
 
 
 
@@ -110,7 +111,7 @@ Greek: ὅσα ἐὰν. Here ἐὰν is used to mean "whatever." This word is 
 
 ----------------
 
-# Matt 8:19: Non-Conditional
+# Matt 8:19
 
 
 
@@ -134,7 +135,7 @@ Greek: ὅπου ἐὰν. This phrase is translated together as 'wherever'. (Se
 
 ----------------
 
-# Matt 11:6: Non-Conditional
+# Matt 11:6
 
 
 * **Inverse:** True
@@ -162,9 +163,10 @@ Greek: ος εαν 'whoever'
 
 ----------------
 
-# Matt 11:27a: Non-Conditional
+# Matt 11:27a
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -187,9 +189,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Matt 11:27b: Non-Conditional
+# Matt 11:27b
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -212,7 +215,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Matt 11:27c: Non-Conditional
+# Matt 11:27c
 
 
 * **Inverse:** True
@@ -236,7 +239,7 @@ Greek: ᾧ ἐὰν
 
 ----------------
 
-# Matt 12:4: Non-Conditional
+# Matt 12:4
 
 
 * **Inverse:** True
@@ -262,7 +265,7 @@ Greek: εἰ μὴ 'except', 'only'
 
 ----------------
 
-# Matt 12:10: Non-Conditional
+# Matt 12:10
 
 
 
@@ -284,9 +287,10 @@ Elliot lists this verse as a prime example of introducing direct speech, ει se
 
 ----------------
 
-# Matt 12:24: Non-Conditional
+# Matt 12:24
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -310,7 +314,7 @@ Greek: εἰ μὴ 'except', 'only'
 
 ----------------
 
-# Matt 12:32: Non-Conditional
+# Matt 12:32
 
 
 
@@ -337,9 +341,10 @@ See note on 5:19.
 
 ----------------
 
-# Matt 12:39: Non-Conditional
+# Matt 12:39
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -364,9 +369,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Matt 13:57: Non-Conditional
+# Matt 13:57
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -389,7 +395,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Matt 14:7: Non-Conditional
+# Matt 14:7
 
 
 * **Inverse:** True
@@ -413,9 +419,10 @@ Greek:  ὃ ἐὰν
 
 ----------------
 
-# Matt 14:17: Non-Conditional
+# Matt 14:17
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -437,7 +444,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Matt 15:5: Non-Conditional
+# Matt 15:5
 
 
 
@@ -460,9 +467,10 @@ Greek:  ὃ ἐὰν
 
 ----------------
 
-# Matt 15:24: Non-Conditional
+# Matt 15:24
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -483,7 +491,7 @@ Greek: εἰ μὴ
 
 ----------------
 
-# Matt 16:19a: Non-Conditional
+# Matt 16:19a
 
 
 
@@ -507,7 +515,7 @@ Greek: ὃ ἐὰν
 
 ----------------
 
-# Matt 16:19b: Non-Conditional
+# Matt 16:19b
 
 
 
@@ -531,7 +539,7 @@ Greek: ὃ ἐὰν
 
 ----------------
 
-# Matt 16:25: Non-Conditional
+# Matt 16:25
 
 
 
@@ -559,9 +567,10 @@ See note on 5:19.
 
 ----------------
 
-# Matt 17:8: Non-Conditional
+# Matt 17:8
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -586,9 +595,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Matt 18:5: Non-Conditional
+# Matt 18:5
 
 
+* **Class:** 3
 
 
 ## English
@@ -613,7 +623,7 @@ See note on 5:19.
 
 ----------------
 
-# Matt 18:18a: Non-Conditional
+# Matt 18:18a
 
 
 
@@ -637,7 +647,7 @@ Greek: ὃ ἐὰν
 
 ----------------
 
-# Matt 18:18b: Non-Conditional
+# Matt 18:18b
 
 
 
@@ -661,7 +671,7 @@ Greek: ὃ ἐὰν
 
 ----------------
 
-# Matt 18:19b: Non-Conditional
+# Matt 18:19b
 
 
 
@@ -683,9 +693,10 @@ Greek: ὃ ἐὰν
 
 ----------------
 
-# Matt 18:28: Non-Conditional
+# Matt 18:28
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -709,7 +720,7 @@ Greek: εἴ τι 'if anything' or 'whatever'
 
 ----------------
 
-# Matt 19:3: Non-Conditional
+# Matt 19:3
 
 
 
@@ -731,7 +742,7 @@ This usage of εἰ is not conditional but is the marker of a Yes/No question in
 
 ----------------
 
-# Matt 20:4: Non-Conditional
+# Matt 20:4
 
 
 
@@ -755,7 +766,7 @@ Greek: ὃ ἐὰν
 
 ----------------
 
-# Matt 20:26: Non-Conditional
+# Matt 20:26
 
 
 
@@ -781,9 +792,10 @@ See note on 5:19.
 
 ----------------
 
-# Matt 21:19: Non-Conditional
+# Matt 21:19
 
 
+* **Class:** 1
 
 
 ## English
@@ -806,7 +818,7 @@ Greek: ει μη; see note at 12:39.
 
 ----------------
 
-# Matt 22:9: Non-Conditional
+# Matt 22:9
 
 
 
@@ -830,7 +842,7 @@ Osbourne notes that the Greek here, ὅσους ἐὰν is an idiom for "any pe
 
 ----------------
 
-# Matt 23:3: Non-Conditional
+# Matt 23:3
 
 
 
@@ -858,9 +870,10 @@ As noted on 22:9, Osbourne takes this phrase as an idiomatic expression. He says
 
 ----------------
 
-# Matt 24:24: Non-Conditional
+# Matt 24:24
 
 
+* **Class:** 1
 
 
 ## English
@@ -882,7 +895,7 @@ See "if possible" constructions. A possible paraphrase is: "If it were possible 
 
 ----------------
 
-# Matt 24:28: Non-Conditional
+# Matt 24:28
 
 
 
@@ -903,9 +916,10 @@ p: (wherever the corpse is)
 
 ----------------
 
-# Matt 24:36: Non-Conditional
+# Matt 24:36
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -929,7 +943,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Matt 26:13: Non-Conditional
+# Matt 26:13
 
 
 
@@ -953,9 +967,10 @@ Greek: ὅπου ἐὰν. This phrase is translated together as "wherever". (Se
 
 ----------------
 
-# Matt 26:39: Non-Conditional
+# Matt 26:39
 
 
+* **Class:** 1
 
 
 ## English
@@ -979,7 +994,7 @@ See "if possible" constructions.
 
 ----------------
 
-# Matt 26:63: Non-Conditional
+# Matt 26:63
 
 
 * **Inverse:** True
@@ -1001,7 +1016,7 @@ q: (tell us)
 
 ----------------
 
-# Matt 27:49: Non-Conditional
+# Matt 27:49
 
 
 * **Inverse:** True
@@ -1027,9 +1042,10 @@ This non-conditional functions as a complementizer.
 
 ----------------
 
-# Mark 2:7: Non-Conditional
+# Mark 2:7
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1054,9 +1070,10 @@ Greek: εἰ μὴ 'except'. Same wording as Mark 10:18.
 
 ----------------
 
-# Mark 2:26: Non-Conditional
+# Mark 2:26
 
 
+* **Class:** 1
 
 
 ## English
@@ -1080,9 +1097,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 3:2: Non-Conditional
+# Mark 3:2
 
 
+* **Class:** 1
 
 
 ## English
@@ -1103,7 +1121,7 @@ This is non-conditional because the εἰ clause is subordinate to the preceding
 
 ----------------
 
-# Mark 3:28: Non-Conditional
+# Mark 3:28
 
 
 * **Inverse:** True
@@ -1129,9 +1147,10 @@ Greek: ὅσα ἐὰν 'whatever'
 
 ----------------
 
-# Mark 4:22: Non-Conditional
+# Mark 4:22
 
 
+* **Class:** 3
 * **Inverse:** True
 
 
@@ -1164,9 +1183,10 @@ NLT: For everything that is hidden will eventually be brought into the open, and
 
 ----------------
 
-# Mark 5:37: Non-Conditional
+# Mark 5:37
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1189,9 +1209,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 6:4: Non-Conditional
+# Mark 6:4
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1214,9 +1235,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 6:5: Non-Conditional
+# Mark 6:5
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1239,9 +1261,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 6:8: Non-Conditional
+# Mark 6:8
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1264,7 +1287,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 6:10: Non-Conditional
+# Mark 6:10
 
 
 
@@ -1289,7 +1312,7 @@ Greek: Ὅπου ἐὰν 'wherever'
 
 ----------------
 
-# Mark 6:22: Non-Conditional
+# Mark 6:22
 
 
 
@@ -1314,9 +1337,10 @@ Greek: ὃ ἐὰν 'whatever'
 
 ----------------
 
-# Mark 6:23: Non-Conditional
+# Mark 6:23
 
 
+* **Class:** 3
 
 
 ## English
@@ -1338,7 +1362,7 @@ Greek: Ὅ ἐάν 'whatever'
 
 ----------------
 
-# Mark 7:11b: Non-Conditional
+# Mark 7:11b
 
 
 
@@ -1361,9 +1385,10 @@ Greek: ὃ ἐὰν 'whatever'
 
 ----------------
 
-# Mark 8:12b: Non-Conditional
+# Mark 8:12b
 
 
+* **Class:** 1
 
 
 ## English
@@ -1387,9 +1412,10 @@ This construction seems to be a Greek rendering of a frozen Hebrew oath form. It
 
 ----------------
 
-# Mark 8:14: Non-Conditional
+# Mark 8:14
 
 
+* **Class:** 1
 
 
 ## English
@@ -1413,9 +1439,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 8:23b: Non-Conditional
+# Mark 8:23b
 
 
+* **Class:** 1
 
 
 ## English
@@ -1438,9 +1465,10 @@ Greek: εἴ τι 'if anything'. There is no two-clause relationship; rather, th
 
 ----------------
 
-# Mark 8:35: Non-Conditional
+# Mark 8:35
 
 
+* **Class:** 3
 
 
 ## English
@@ -1470,9 +1498,10 @@ Translator's notes treats these as true conditionals.
 
 ----------------
 
-# Mark 8:38: Non-Conditional
+# Mark 8:38
 
 
+* **Class:** 3
 
 
 ## English
@@ -1498,9 +1527,10 @@ Translator's notes treats it as a true conditional.
 
 ----------------
 
-# Mark 9:9: Non-Conditional
+# Mark 9:9
 
 
+* **Class:** 1
 
 
 ## English
@@ -1522,7 +1552,7 @@ Greek: εἰ μὴ ὅταν. This construction is closely related to the usage 
 
 ----------------
 
-# Mark 9:18: Non-Conditional
+# Mark 9:18
 
 
 
@@ -1546,9 +1576,10 @@ Greek: ὅπου ἐὰ 'whenever'
 
 ----------------
 
-# Mark 9:29: Non-Conditional
+# Mark 9:29
 
 
+* **Class:** 1
 
 
 ## English
@@ -1573,7 +1604,7 @@ This may need to be translated as a conditional in some languages: "This kind ca
 
 ----------------
 
-# Mark 10:2: Non-Conditional
+# Mark 10:2
 
 
 
@@ -1598,9 +1629,10 @@ Some Pharisees... began to question Him
 
 ----------------
 
-# Mark 10:18: Non-Conditional
+# Mark 10:18
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1625,9 +1657,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 10:29-30: Non-Conditional
+# Mark 10:29-30
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1653,7 +1686,7 @@ Greek: ἐὰν μὴ 'except'
 
 ----------------
 
-# Mark 10:35: Non-Conditional
+# Mark 10:35
 
 
 * **Inverse:** True
@@ -1678,9 +1711,10 @@ Greek: ὃ ἐὰν 'whatever'
 
 ----------------
 
-# Mark 11:13a: Non-Conditional
+# Mark 11:13a
 
 
+* **Class:** 1
 
 
 ## English
@@ -1704,7 +1738,7 @@ Greek: εἰ ἄρα 'if perhaps'. Here εἰ introduces a purpose statement, an
 
 ----------------
 
-# Mark 11:13b: Non-Conditional
+# Mark 11:13b
 
 
 
@@ -1729,7 +1763,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 13:11: Non-Conditional
+# Mark 13:11
 
 
 
@@ -1754,9 +1788,10 @@ Greek: ὃ ἐὰ 'whatever'
 
 ----------------
 
-# Mark 13:22: Non-Conditional
+# Mark 13:22
 
 
+* **Class:** 1
 
 
 ## English
@@ -1781,9 +1816,10 @@ See "if possible" constructions
 
 ----------------
 
-# Mark 13:32: Non-Conditional
+# Mark 13:32
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -1808,7 +1844,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Mark 14:9: Non-Conditional
+# Mark 14:9
 
 
 
@@ -1832,7 +1868,7 @@ Greek: ὅπου ἐὰν 'wherever'. This non-conditional functions as a comple
 
 ----------------
 
-# Mark 14:14: Non-Conditional
+# Mark 14:14
 
 
 
@@ -1857,9 +1893,10 @@ Greek: ὅπου ἐὰν 'wherever'
 
 ----------------
 
-# Mark 14:35: Non-Conditional
+# Mark 14:35
 
 
+* **Class:** 1
 
 
 ## English
@@ -1885,9 +1922,10 @@ See also "if possible" constructions.
 
 ----------------
 
-# Mark 15:36: Non-Conditional
+# Mark 15:36
 
 
+* **Class:** 1
 
 
 ## English
@@ -1910,7 +1948,7 @@ See note on Mark 10:2.
 
 ----------------
 
-# Mark 15:44: Non-Conditional
+# Mark 15:44
 
 
 
@@ -1935,7 +1973,7 @@ See note on Mark 10:2.
 
 ----------------
 
-# Luke 4:6: Non-Conditional
+# Luke 4:6
 
 
 
@@ -1959,9 +1997,10 @@ Greek: ᾧ ἐὰν 'hoever'
 
 ----------------
 
-# Luke 4:26: Non-Conditional
+# Luke 4:26
 
 
+* **Class:** 1
 
 
 ## English
@@ -1986,7 +2025,7 @@ Greek: εἰ μὴ 'except' is here better translated as "instead" or "but only"
 
 ----------------
 
-# Luke 4:27: Non-Conditional
+# Luke 4:27
 
 
 
@@ -2012,9 +2051,10 @@ See note at 4:26.
 
 ----------------
 
-# Luke 5:21: Non-Conditional
+# Luke 5:21
 
 
+* **Class:** 1
 
 
 ## English
@@ -2037,9 +2077,10 @@ Greek: εἰ μὴ 'except'. Boyer notes that this is an example of a sub-type o
 
 ----------------
 
-# Luke 6:4: Non-Conditional
+# Luke 6:4
 
 
+* **Class:** 1
 
 
 ## English
@@ -2063,7 +2104,7 @@ Greek: εἰ μὴ 'except'.
 
 ----------------
 
-# Luke 6:7: Non-Conditional
+# Luke 6:7
 
 
 
@@ -2087,7 +2128,7 @@ The use of εἰ here does not connect two related clauses, but introduces a cla
 
 ----------------
 
-# Luke 6:9: Non-Conditional
+# Luke 6:9
 
 
 
@@ -2109,7 +2150,7 @@ In contrast to 6:7, in this verse εἰ introduces a direct question and states 
 
 ----------------
 
-# Luke 7:23: Non-Conditional
+# Luke 7:23
 
 
 
@@ -2138,9 +2179,10 @@ Here ὃς ἐὰν is the phrase that is functioning together as "who"/"whoever
 
 ----------------
 
-# Luke 8:51: Non-Conditional
+# Luke 8:51
 
 
+* **Class:** 1
 
 
 ## English
@@ -2162,7 +2204,7 @@ Greek: εἰ μὴ 'except'.
 
 ----------------
 
-# Luke 9:48: Non-Conditional
+# Luke 9:48
 
 
 
@@ -2194,7 +2236,7 @@ This verse (and also Luk 17:33) compares two different kinds of people. The firs
 
 ----------------
 
-# Luke 9:57: Non-Conditional
+# Luke 9:57
 
 
 
@@ -2218,9 +2260,10 @@ q: (I will follow you)
 
 ----------------
 
-# Luke 10:22a: Non-Conditional
+# Luke 10:22a
 
 
+* **Class:** 1
 
 
 ## English
@@ -2242,9 +2285,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Luke 10:22b: Non-Conditional
+# Luke 10:22b
 
 
+* **Class:** 1
 
 
 ## English
@@ -2266,7 +2310,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Luke 10:22c: Non-Conditional
+# Luke 10:22c
 
 
 
@@ -2291,9 +2335,10 @@ q: (and anyone)
 
 ----------------
 
-# Luke 11:29: Non-Conditional
+# Luke 11:29
 
 
+* **Class:** 1
 
 
 ## English
@@ -2316,7 +2361,7 @@ Greek: εἰ μὴ 'except'.
 
 ----------------
 
-# Luke 12:49: Non-Conditional
+# Luke 12:49
 
 
 * **Inverse:** True
@@ -2340,7 +2385,7 @@ Marshall notes that this is a Semitism, θέλω εἰ meaning, ‘I wish that�
 
 ----------------
 
-# Luke 13:23: Non-Conditional
+# Luke 13:23
 
 
 
@@ -2362,7 +2407,7 @@ Marshall notes that this is a Semitism, θέλω εἰ meaning, ‘I wish that�
 
 ----------------
 
-# Luke 14:28: Non-Conditional
+# Luke 14:28
 
 
 
@@ -2387,7 +2432,7 @@ The use of εἰ here does not connect two related clauses, but introduces an in
 
 ----------------
 
-# Luke 14:31: Non-Conditional
+# Luke 14:31
 
 
 
@@ -2411,9 +2456,10 @@ See note at 14:28.
 
 ----------------
 
-# Luke 17:18: Non-Conditional
+# Luke 17:18
 
 
+* **Class:** 1
 
 
 ## English
@@ -2435,7 +2481,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Luke 17:33: Non-Conditional
+# Luke 17:33
 
 
 
@@ -2468,7 +2514,7 @@ See note on 9:48.
 
 ----------------
 
-# Luke 18:19: Non-Conditional
+# Luke 18:19
 
 
 
@@ -2494,7 +2540,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Luke 19:42: Non-Conditional
+# Luke 19:42
 
 
 
@@ -2520,7 +2566,7 @@ This is not a true conditional, as there is no q. Some English translations use 
 
 ----------------
 
-# Luke 22:49: Non-Conditional
+# Luke 22:49
 
 
 
@@ -2542,7 +2588,7 @@ The question in Greek begins with εἰ which usually indicates that the questio
 
 ----------------
 
-# Luke 23:06: Non-Conditional
+# Luke 23:06
 
 
 
@@ -2568,9 +2614,10 @@ The use of εἰ here does not connect two related clauses, but introduces an in
 
 ----------------
 
-# John 3:13: Non-Conditional
+# John 3:13
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2596,9 +2643,10 @@ Trail notes on this particular verse that "the phrase εἰ μή ‘except’ ca
 
 ----------------
 
-# John 6:22: Non-Conditional
+# John 6:22
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2625,9 +2673,10 @@ NASB follows the form of the Greek very closely: "there was no other small boat 
 
 ----------------
 
-# John 6:46: Non-Conditional
+# John 6:46
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2651,9 +2700,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# John 9:25: Non-Conditional
+# John 9:25
 
 
+* **Class:** 1
 
 
 ## English
@@ -2675,9 +2725,10 @@ p: (whether he is a sinner)
 
 ----------------
 
-# John 10:10: Non-Conditional
+# John 10:10
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2703,9 +2754,10 @@ Greek: "The thief does not come except so that he may steal and kill and destroy
 
 ----------------
 
-# John 13:10: Non-Conditional
+# John 13:10
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2731,9 +2783,10 @@ Some English translations use "only, e.g NASB": "He who has bathed needs only to
 
 ----------------
 
-# John 14:6: Non-Conditional
+# John 14:6
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2757,9 +2810,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# John 15:7b: Non-Conditional
+# John 15:7b
 
 
+* **Class:** 3
 
 
 ## English
@@ -2782,9 +2836,10 @@ Greek: ὃ ἐὰν 'whatever'
 
 ----------------
 
-# John 17:12: Non-Conditional
+# John 17:12
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2808,9 +2863,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# John 19:15: Non-Conditional
+# John 19:15
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -2833,7 +2889,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Acts 1:6: Non-Conditional
+# Acts 1:6
 
 
 
@@ -2851,7 +2907,7 @@ Lord, will you at this time restore the kingdom of Israel?
 
 ----------------
 
-# Acts 3:23: Non-Conditional
+# Acts 3:23
 
 
 
@@ -2877,7 +2933,7 @@ Greek ἥτις ἐὰν is best translated as a relative pronoun 'who, whoever'
 
 ----------------
 
-# Acts 5:8: Non-Conditional
+# Acts 5:8
 
 
 
@@ -2900,7 +2956,7 @@ While some of the English translations treat this more like an indirect question
 
 ----------------
 
-# Acts 5:15: Non-Conditional
+# Acts 5:15
 
 
 
@@ -2926,7 +2982,7 @@ This could be a case of an elipsed q, i.e. "if Peter's shadow fell on them [they
 
 ----------------
 
-# Acts 7:1: Non-Conditional
+# Acts 7:1
 
 
 
@@ -2944,7 +3000,7 @@ And the high priest said, "Are these things so?"
 
 ----------------
 
-# Acts 7:7: Non-Conditional
+# Acts 7:7
 
 
 
@@ -2965,7 +3021,7 @@ q: (and I will judge)
 
 ----------------
 
-# Acts 8:19: Non-Conditional
+# Acts 8:19
 
 
 
@@ -2991,7 +3047,7 @@ Greek: ᾧ ἐὰν 'whomever'
 
 ----------------
 
-# Acts 8:22: Non-Conditional
+# Acts 8:22
 
 
 
@@ -3016,7 +3072,7 @@ Greek: εἰ ἄρα 'if perhaps' (see 17:27)
 
 ----------------
 
-# Acts 10:18: Non-Conditional
+# Acts 10:18
 
 
 
@@ -3039,7 +3095,7 @@ indirect question marker
 
 ----------------
 
-# Acts 11:19: Non-Conditional
+# Acts 11:19
 
 
 
@@ -3064,7 +3120,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Acts 17:11: Non-Conditional
+# Acts 17:11
 
 
 
@@ -3087,7 +3143,7 @@ Indirect question; complementizer
 
 ----------------
 
-# Acts 17:27: Non-Conditional
+# Acts 17:27
 
 
 
@@ -3112,7 +3168,7 @@ Greek: εἰ ἄρα 'if perhaps' (see 8:22).
 
 ----------------
 
-# Acts 19:2: Non-Conditional
+# Acts 19:2
 
 
 
@@ -3130,7 +3186,7 @@ And he said to them, "Did you receive the Holy Spirit when you believed?"
 
 ----------------
 
-# Acts 20:16: Non-Conditional
+# Acts 20:16
 
 
 
@@ -3154,7 +3210,7 @@ Greek: εἰ δυνατὸν 'if possible'
 
 ----------------
 
-# Acts 21:37: Non-Conditional
+# Acts 21:37
 
 
 
@@ -3176,7 +3232,7 @@ Greek: Εἰ ἔξεστίν μοι εἰπεῖν τι πρὸς σέ? "If it i
 
 ----------------
 
-# Acts 25:20: Non-Conditional
+# Acts 25:20
 
 
 
@@ -3199,7 +3255,7 @@ Indirect question; complementizer
 
 ----------------
 
-# Acts 26:23: Non-Conditional
+# Acts 26:23
 
 
 
@@ -3221,7 +3277,7 @@ p1: (that Christ must suffer)
 
 ----------------
 
-# Acts 27:12: Non-Conditional
+# Acts 27:12
 
 
 
@@ -3245,7 +3301,7 @@ Greek: εἴ πως 'if somehow'
 
 ----------------
 
-# Acts 27:39: Non-Conditional
+# Acts 27:39
 
 
 
@@ -3270,9 +3326,10 @@ Greek: εἰ δυνατὸν 'if possible'
 
 ----------------
 
-# Rom 1:10: Non-Conditional
+# Rom 1:10
 
 
+* **Class:** 1
 
 
 ## English
@@ -3295,9 +3352,10 @@ NASB:
 
 ----------------
 
-# Rom 11:6b: Non-Conditional
+# Rom 11:6b
 
 
+* **Class:** 1
 
 
 ## English
@@ -3319,9 +3377,10 @@ p: (otherwise grace would no longer be grace)
 
 ----------------
 
-# Rom 11:22b: Non-Conditional
+# Rom 11:22b
 
 
+* **Class:** 1
 
 
 ## English
@@ -3342,9 +3401,10 @@ p: (otherwise you too will be cut off)
 
 ----------------
 
-# Rom 12:18: Non-Conditional
+# Rom 12:18
 
 
+* **Class:** 1
 
 
 ## English
@@ -3370,9 +3430,10 @@ See "if possible"constructions
 
 ----------------
 
-# Rom 13:1: Non-Conditional
+# Rom 13:1
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -3396,9 +3457,10 @@ q: (for there is no authority)
 
 ----------------
 
-# Rom 13:8: Non-Conditional
+# Rom 13:8
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -3421,9 +3483,10 @@ q: (owe no one anything)
 
 ----------------
 
-# Rom 14:14: Non-Conditional
+# Rom 14:14
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -3447,9 +3510,10 @@ q: (I know and am persuaded in the Lord Jesus that nothing is unclean in itself)
 
 ----------------
 
-# Rom 15:24: Non-Conditional
+# Rom 15:24
 
 
+* **Class:** 3
 * **Inverse:** True
 
 
@@ -3470,7 +3534,7 @@ q: (I hope to see you in passing as I go to Spain, and to be helped on my journe
 
 ----------------
 
-# 1 Cor 1:14: Non-Conditional
+# 1 Cor 1:14
 
 
 * **Inverse:** True
@@ -3495,7 +3559,7 @@ p: (except Crispus and Gaius)
 
 ----------------
 
-# 1 Cor 1:16: Non-Conditional
+# 1 Cor 1:16
 
 
 * **Inverse:** True
@@ -3522,7 +3586,7 @@ p: (...whether I baptized anyone else)
 
 ----------------
 
-# 1 Cor 2:2: Non-Conditional
+# 1 Cor 2:2
 
 
 * **Inverse:** True
@@ -3547,7 +3611,7 @@ p: (...except Jesus Christ and him crucified)
 
 ----------------
 
-# 1 Cor 2:11a: Non-Conditional
+# 1 Cor 2:11a
 
 
 * **Inverse:** True
@@ -3572,7 +3636,7 @@ p: (...except the spirit of that person, which is in him?)
 
 ----------------
 
-# 1 Cor 2:11b: Non-Conditional
+# 1 Cor 2:11b
 
 
 * **Inverse:** True
@@ -3597,7 +3661,7 @@ p: (...except the Spirit of God)
 
 ----------------
 
-# 1 Cor 3:22: Non-Conditional
+# 1 Cor 3:22
 
 
 
@@ -3621,7 +3685,7 @@ p: (whether Paul or Apollos or Cephas or the world or life or death or the prese
 
 ----------------
 
-# 1 Cor 6:18: Non-Conditional
+# 1 Cor 6:18
 
 
 
@@ -3648,7 +3712,7 @@ Possible translation: "all sin which, if a man might do [it], is outside the bod
 
 ----------------
 
-# 1 Cor 7:5: Non-Conditional
+# 1 Cor 7:5
 
 
 * **Inverse:** True
@@ -3675,9 +3739,10 @@ p: (...except perhaps by agreement for a limited time)
 
 ----------------
 
-# 1 Cor 7:16: Non-Conditional
+# 1 Cor 7:16
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -3705,7 +3770,7 @@ q: (For how do you know, wife)
 
 ----------------
 
-# 1 Cor 7:17: Non-Conditional
+# 1 Cor 7:17
 
 
 
@@ -3732,7 +3797,7 @@ q: (only let each person lead the life)
 
 ----------------
 
-# 1 Cor 8:4: Non-Conditional
+# 1 Cor 8:4
 
 
 * **Inverse:** True
@@ -3758,7 +3823,7 @@ q: (there is no God)
 
 ----------------
 
-# 1 Cor 8:5: Non-Conditional
+# 1 Cor 8:5
 
 
 
@@ -3782,7 +3847,7 @@ q: (there is no God)
 
 ----------------
 
-# 1 Cor 10:13: Non-Conditional
+# 1 Cor 10:13
 
 
 
@@ -3809,7 +3874,7 @@ p: (...except what is common to mankind)
 
 ----------------
 
-# 1 Cor 10:31: Non-Conditional
+# 1 Cor 10:31
 
 
 
@@ -3833,9 +3898,10 @@ p: (so, whether you eat or drink, or whatever you do)
 
 ----------------
 
-# 1 Cor 11:25: Non-Conditional
+# 1 Cor 11:25
 
 
+* **Class:** 3
 
 
 ## English
@@ -3858,9 +3924,10 @@ p: (as often as you drink)
 
 ----------------
 
-# 1 Cor 11:26: Non-Conditional
+# 1 Cor 11:26
 
 
+* **Class:** 3
 
 
 ## English
@@ -3884,7 +3951,7 @@ p: (as often as you eat this bread and drink the cup)
 
 ----------------
 
-# 1 Cor 11:29: Non-Conditional
+# 1 Cor 11:29
 
 
 
@@ -3910,7 +3977,7 @@ For anyone who eats and drinks without discerning the body eats and drinks judgm
 
 ----------------
 
-# 1 Cor 12:3: Non-Conditional
+# 1 Cor 12:3
 
 
 
@@ -3934,7 +4001,7 @@ p: (except in the Holy Spirit)
 
 ----------------
 
-# 1 Cor 12:13: Non-Conditional
+# 1 Cor 12:13
 
 
 
@@ -3958,9 +4025,10 @@ For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or
 
 ----------------
 
-# 1 Cor 13:8a: Non-Conditional
+# 1 Cor 13:8a
 
 
+* **Class:** 1
 
 
 ## English
@@ -3991,7 +4059,7 @@ Only NASB translates these as "if"; ESV and NRSV use "as for" and NIV uses "wher
 
 ----------------
 
-# 1 Cor 14:7a: Non-Conditional
+# 1 Cor 14:7a
 
 
 
@@ -4015,7 +4083,7 @@ either flute or the harp
 
 ----------------
 
-# 1 Cor 14:10: Non-Conditional
+# 1 Cor 14:10
 
 
 
@@ -4040,7 +4108,7 @@ There are doubtless many different languages in the world, and none is without m
 
 ----------------
 
-# 1 Cor 15:11: Non-Conditional
+# 1 Cor 15:11
 
 
 
@@ -4062,7 +4130,7 @@ Whether then it was I or they, so we preach and so you believed
 
 ----------------
 
-# 1 Cor 15:37: Non-Conditional
+# 1 Cor 15:37
 
 
 * **Inverse:** True
@@ -4088,9 +4156,10 @@ p: (...perhaps of wheat or of some other grain)
 
 ----------------
 
-# 1 Cor 16:2: Non-Conditional
+# 1 Cor 16:2
 
 
+* **Class:** 3
 
 
 ## English
@@ -4113,9 +4182,10 @@ p: (as he may prosper)
 
 ----------------
 
-# 1 Cor 16:3: Non-Conditional
+# 1 Cor 16:3
 
 
+* **Class:** 3
 
 
 ## English
@@ -4141,9 +4211,10 @@ p: (those whom you accredit...)
 
 ----------------
 
-# 1 Cor 16:6: Non-Conditional
+# 1 Cor 16:6
 
 
+* **Class:** 3
 * **Inverse:** True
 
 
@@ -4163,9 +4234,10 @@ q: (so that you may help me on my journey...)
 
 ----------------
 
-# 2 Cor 2:2b: Non-Conditional
+# 2 Cor 2:2b
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -4191,7 +4263,7 @@ Embedded in q of 2:2a
 
 ----------------
 
-# 2 Cor 2:9: Non-Conditional
+# 2 Cor 2:9
 
 
 
@@ -4216,9 +4288,10 @@ For this is why I wrote, that I might test you and know
 
 ----------------
 
-# 2 Cor 3:15: Non-Conditional
+# 2 Cor 3:15
 
 
+* **Class:** 3
 
 
 ## English
@@ -4241,9 +4314,10 @@ Verses 15 and 16 should be considered together. While v.15 contains the particle
 
 ----------------
 
-# 2 Cor 3:16: Non-Conditional
+# 2 Cor 3:16
 
 
+* **Class:** 3
 
 
 ## English
@@ -4266,9 +4340,10 @@ Verse 16 echos Exodus 34:34, that whenever Moses went in to meet with the LORD, 
 
 ----------------
 
-# 2 Cor 5:2-3: Non-Conditional
+# 2 Cor 5:2-3
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -4294,7 +4369,7 @@ There is a wide range of translations of the phrase εἴ γε καὶ, indicati
 
 ----------------
 
-# 2 Cor 5:9: Non-Conditional
+# 2 Cor 5:9
 
 
 
@@ -4318,7 +4393,7 @@ p: (so whether we are at home or away)
 
 ----------------
 
-# 2 Cor 8:12b: Non-Conditional
+# 2 Cor 8:12b
 
 
 
@@ -4340,7 +4415,7 @@ The Greek phrase καθὸ ἐὰν has the sense of "according to"
 
 ----------------
 
-# 2 Cor 8:23: Non-Conditional
+# 2 Cor 8:23
 
 
 
@@ -4362,7 +4437,7 @@ As for Titus, he is my partner and fellow worker for your benefit. And as for ou
 
 ----------------
 
-# 2 Cor 12:2: Non-Conditional
+# 2 Cor 12:2
 
 
 
@@ -4386,7 +4461,7 @@ p: (whether in the body or out of the body)
 
 ----------------
 
-# 2 Cor 12:3: Non-Conditional
+# 2 Cor 12:3
 
 
 
@@ -4410,9 +4485,10 @@ p: (whether in the body or out of the body)
 
 ----------------
 
-# 2 Cor 12:5: Non-Conditional
+# 2 Cor 12:5
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -4436,7 +4512,7 @@ q: (on my own behalf I will not boast)
 
 ----------------
 
-# 2 Cor 12:13: Non-Conditional
+# 2 Cor 12:13
 
 
 
@@ -4459,7 +4535,7 @@ For in what were you less favored than the rest of the churches, except that I m
 
 ----------------
 
-# 2 Cor 13:5a: Non-Conditional
+# 2 Cor 13:5a
 
 
 
@@ -4482,9 +4558,10 @@ Examine yourselves, to see whether you are in the faith.
 
 ----------------
 
-# Gal 1:7: Non-Conditional
+# Gal 1:7
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -4510,9 +4587,10 @@ q: (not that there is another one)
 
 ----------------
 
-# Gal 1:19: Non-Conditional
+# Gal 1:19
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -4536,7 +4614,7 @@ q: (but I saw none of the other apostles)
 
 ----------------
 
-# Gal 2:16: Non-Conditional
+# Gal 2:16
 
 
 * **Inverse:** True
@@ -4562,7 +4640,7 @@ q: (yet we know that a person is not justified by works of the law)
 
 ----------------
 
-# Gal 5:10: Non-Conditional
+# Gal 5:10
 
 
 
@@ -4588,7 +4666,7 @@ q: (and the one troubling you will bear the penalty)
 
 ----------------
 
-# Gal 5:17: Non-Conditional
+# Gal 5:17
 
 
 
@@ -4612,9 +4690,10 @@ for these are opposed to each other, to keep you from doing the things you want 
 
 ----------------
 
-# Gal 6:7: Non-Conditional
+# Gal 6:7
 
 
+* **Class:** 3
 
 
 ## English
@@ -4637,9 +4716,10 @@ p: (for whatever one sows)
 
 ----------------
 
-# Gal 6:14: Non-Conditional
+# Gal 6:14
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -4662,9 +4742,10 @@ q: (but far be it from me to boast)
 
 ----------------
 
-# Eph 3:2-5: Non-Conditional
+# Eph 3:2-5
 
 
+* **Class:** 1
 
 
 ## English
@@ -4690,9 +4771,10 @@ Some commentators (Hoehner 2008; Arnold 2010) suggest that p consists of vs.2-12
 
 ----------------
 
-# Eph 4:9: Non-Conditional
+# Eph 4:9
 
 
+* **Class:** 1
 
 
 ## English
@@ -4716,9 +4798,10 @@ p: (...but that he had also descended into the lower regions, the earth?)
 
 ----------------
 
-# Eph 4:29: Non-Conditional
+# Eph 4:29
 
 
+* **Class:** 1
 
 
 ## English
@@ -4741,7 +4824,7 @@ q: (let no corrupting talk come out of your mouths)
 
 ----------------
 
-# Eph 6:8: Non-Conditional
+# Eph 6:8
 
 
 * **Inverse:** True
@@ -4766,7 +4849,7 @@ q: (knowing that whatever good he does, this he will receive back from the Lord)
 
 ----------------
 
-# Phil 1:18b: Non-Conditional
+# Phil 1:18b
 
 
 
@@ -4790,7 +4873,7 @@ p: (whether in pretense or in truth)
 
 ----------------
 
-# Phil 1:20c: Non-Conditional
+# Phil 1:20c
 
 
 * **Inverse:** True
@@ -4815,7 +4898,7 @@ q: (with full courage now as always Christ will be honoured in my body)
 
 ----------------
 
-# Phil 1:27: Non-Conditional
+# Phil 1:27
 
 
 
@@ -4839,7 +4922,7 @@ p: (so that whether I come and see you or am absent)
 
 ----------------
 
-# Phil 3:11: Non-Conditional
+# Phil 3:11
 
 
 
@@ -4868,7 +4951,7 @@ The conditional is not "If I atttain resurrection from the dead" but "If there a
 
 ----------------
 
-# Phil 3:12: Non-Conditional
+# Phil 3:12
 
 
 * **Inverse:** True
@@ -4896,7 +4979,7 @@ Greek εἰ καὶ 'even if, if indeed'
 
 ----------------
 
-# Phil 4:15: Non-Conditional
+# Phil 4:15
 
 
 * **Inverse:** True
@@ -4923,7 +5006,7 @@ q: (no church entered into partnership with me in giving and receiving)
 
 ----------------
 
-# Col 1:16: Non-Conditional
+# Col 1:16
 
 
 
@@ -4948,7 +5031,7 @@ p: (whether thrones or dominions or rulers or authorities)
 
 ----------------
 
-# Col 1:20: Non-Conditional
+# Col 1:20
 
 
 * **Inverse:** True
@@ -4974,9 +5057,10 @@ q: (and through him to reconcile to himself all things)
 
 ----------------
 
-# Col 3:17: Non-Conditional
+# Col 3:17
 
 
+* **Class:** 3
 
 
 ## English
@@ -4998,9 +5082,10 @@ Greek ὅ τι ἐὰν 'whatever'
 
 ----------------
 
-# Col 3:23: Non-Conditional
+# Col 3:23
 
 
+* **Class:** 3
 
 
 ## English
@@ -5022,9 +5107,10 @@ Greek ὅ ἐὰν 'whatever'
 
 ----------------
 
-# 1 Thess 2:7: Non-Conditional
+# 1 Thess 2:7
 
 
+* **Class:** 3
 * **Inverse:** True
 
 
@@ -5055,7 +5141,7 @@ ESV:
 
 ----------------
 
-# 1 Thess 5:10: Non-Conditional
+# 1 Thess 5:10
 
 
 
@@ -5083,9 +5169,10 @@ This is an ‘alternative concessive conditional’ construction, in which the t
 
 ----------------
 
-# 2 Thess 1:5-7: Non-Conditional
+# 2 Thess 1:5-7
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -5111,7 +5198,7 @@ q: (this is the evidence of the righteous judgement of God, that you may be cons
 
 ----------------
 
-# 2 Thess 2:15: Non-Conditional
+# 2 Thess 2:15
 
 
 * **Inverse:** True
@@ -5138,9 +5225,10 @@ q: (stand firm and hold to the traditions that you were taught by us...)
 
 ----------------
 
-# 1 Tim 1:9-10: Non-Conditional
+# 1 Tim 1:9-10
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -5164,9 +5252,10 @@ Greek: εἴ τι ἕτερον 'if any other thing'. This does not state a cond
 
 ----------------
 
-# 2 Tim 2:5: Non-Conditional
+# 2 Tim 2:5
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -5207,9 +5296,10 @@ q: (an athlete wins the prize) p: [only if he competes according to the rules.)
 
 ----------------
 
-# 2 Tim 2:11: Non-Conditional
+# 2 Tim 2:11
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Encourage
@@ -5236,9 +5326,10 @@ The conditionals of 2:11-13 are a Christian hymn modified by Paul for this conte
 
 ----------------
 
-# 2 Tim 2:12a: Non-Conditional
+# 2 Tim 2:12a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort / Warn
@@ -5263,9 +5354,10 @@ Mounce (2000) claims that there is an implied warning in this verse. Unlike v.11
 
 ----------------
 
-# 2 Tim 2:12b: Non-Conditional
+# 2 Tim 2:12b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -5290,9 +5382,10 @@ Mounce (2000) claims that 2:12b refers to total apostasy whereas 2:13 refers to 
 
 ----------------
 
-# 2 Tim 2:13: Non-Conditional
+# 2 Tim 2:13
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -5319,9 +5412,10 @@ Q is true regardless of the validity of p, so this could be interpreted as a con
 
 ----------------
 
-# 2 Tim 2:21: Non-Conditional
+# 2 Tim 2:21
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -5349,9 +5443,10 @@ This conditional introduces the topic of people who are cleansed from moral wron
 
 ----------------
 
-# Titus 1:6: Non-Conditional
+# Titus 1:6
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -5378,9 +5473,10 @@ Paul is giving Titus a guideline for appointing elders. This conditional lists t
 
 ----------------
 
-# Phlm 1:17: Non-Conditional
+# Phlm 1:17
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -5405,9 +5501,10 @@ Philemon knows that Paul considers him a partner. Paul is making his request on 
 
 ----------------
 
-# Phlm 1:18: Non-Conditional
+# Phlm 1:18
 
 
+* **Class:** 1
 * **Probability:** Very Likely or Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -5432,9 +5529,10 @@ Paul is sending Onesimus, a slave, back to Philemon, his master. It is highly li
 
 ----------------
 
-# Heb 3:11: Non-Conditional
+# Heb 3:11
 
 
+* **Class:** 1
 
 
 ## English
@@ -5455,9 +5553,10 @@ p: (they shall not enter my rest)
 
 ----------------
 
-# Heb 3:18: Non-Conditional
+# Heb 3:18
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -5482,9 +5581,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Heb 4:3: Non-Conditional
+# Heb 4:3
 
 
+* **Class:** 1
 
 
 ## English
@@ -5505,9 +5605,10 @@ See note on 3:11.
 
 ----------------
 
-# Heb 4:5: Non-Conditional
+# Heb 4:5
 
 
+* **Class:** 1
 
 
 ## English
@@ -5528,9 +5629,10 @@ See note on 3:11.
 
 ----------------
 
-# Heb 6:14: Non-Conditional
+# Heb 6:14
 
 
+* **Class:** 1
 
 
 ## English
@@ -5551,9 +5653,10 @@ p: (surely I will bless you and multiply you)
 
 ----------------
 
-# James 4:4b: Non-Conditional
+# James 4:4b
 
 
+* **Class:** 3
 
 
 ## English
@@ -5577,7 +5680,7 @@ Greek: ὃς ἐὰν 'whoever'
 
 ----------------
 
-# 1Pe 2:13-14: Non-Conditional
+# 1Pe 2:13-14
 
 
 
@@ -5601,9 +5704,10 @@ p: (whether it be to the emperor as supreme, or to governors as sent by him to p
 
 ----------------
 
-# 1Jn 2:22: Non-Conditional
+# 1Jn 2:22
 
 
+* **Class:** 1
 
 
 ## English
@@ -5628,9 +5732,10 @@ Greek: εἰ μὴ "except"
 
 ----------------
 
-# 1Jn 2:28: Non-Conditional
+# 1Jn 2:28
 
 
+* **Class:** 3
 
 
 ## English
@@ -5653,9 +5758,10 @@ Greek: ἐὰν. BDAG cites this verse under definition 2 of ἐὰν, glossed a
 
 ----------------
 
-# 1Jn 3:2: Non-Conditional
+# 1Jn 3:2
 
 
+* **Class:** 3
 
 
 ## English
@@ -5678,9 +5784,10 @@ Greek: ἐὰν. BDAG cites this verse under definition 2 of ἐὰν, glossed a
 
 ----------------
 
-# 1Jn 3:22: Non-Conditional
+# 1Jn 3:22
 
 
+* **Class:** 3
 
 
 ## English
@@ -5703,9 +5810,10 @@ Greek: ὃ ἐὰν "whatever"
 
 ----------------
 
-# 1Jn 4:1: Non-Conditional
+# 1Jn 4:1
 
 
+* **Class:** 1
 
 
 ## English
@@ -5728,9 +5836,10 @@ This is an indirect question, not a conditional. The εἰ clause is not paired 
 
 ----------------
 
-# 1Jn 4:15: Non-Conditional
+# 1Jn 4:15
 
 
+* **Class:** 3
 
 
 ## English
@@ -5759,9 +5868,10 @@ Greek: ὃς ἐὰν "whoever"
 
 ----------------
 
-# 1Jn 5:5: Non-Conditional
+# 1Jn 5:5
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -5786,9 +5896,10 @@ Greek: εἰ μὴ "except"
 
 ----------------
 
-# 1Jn 5:15b: Non-Conditional
+# 1Jn 5:15b
 
 
+* **Class:** 3
 
 
 ## English
@@ -5811,9 +5922,10 @@ Greek: ὃ ἐὰν "whatever"
 
 ----------------
 
-# 3Jn 1:5: Non-Conditional
+# 3Jn 1:5
 
 
+* **Class:** 3
 * **Inverse:** True
 
 
@@ -5838,7 +5950,7 @@ Greek: ὃ ἐὰν "whatever"
 
 ----------------
 
-# Rev 2:17: Non-Conditional
+# Rev 2:17
 
 
 * **Inverse:** True
@@ -5865,9 +5977,10 @@ Greek: εἰ μή 'except'
 
 ----------------
 
-# Rev 3:19: Non-Conditional
+# Rev 3:19
 
 
+* **Class:** 3
 
 
 ## English
@@ -5890,7 +6003,7 @@ Greek: ὅσους ἐὰν 'as much/many as'
 
 ----------------
 
-# Rev 9:4: Non-Conditional
+# Rev 9:4
 
 
 * **Inverse:** True
@@ -5915,9 +6028,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Rev 11:6: Non-Conditional
+# Rev 11:6
 
 
+* **Class:** 3
 * **Inverse:** True
 
 
@@ -5940,9 +6054,10 @@ Greek: ὁσάκις ἐὰν 'whenever', 'as often as'
 
 ----------------
 
-# Rev 13:15: Non-Conditional
+# Rev 13:15
 
 
+* **Class:** 3
 
 
 ## English
@@ -5967,7 +6082,7 @@ Greek: ὅσοι ἐὰν 'as many as'
 
 ----------------
 
-# Rev 14:3: Non-Conditional
+# Rev 14:3
 
 
 * **Inverse:** True
@@ -5992,9 +6107,10 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Rev 14:11: Non-Conditional
+# Rev 14:11
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -6019,7 +6135,7 @@ Greek: εἴ τις 'if anyone' but here the sense is 'whoever' or 'those who'
 
 ----------------
 
-# Rev 19:12: Non-Conditional
+# Rev 19:12
 
 
 
@@ -6044,7 +6160,7 @@ Greek: εἰ μὴ 'except'
 
 ----------------
 
-# Rev 21:27: Non-Conditional
+# Rev 21:27
 
 
 * **Inverse:** True

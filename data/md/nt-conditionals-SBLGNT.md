@@ -1,8 +1,9 @@
 
 
-# Matt 4:3: First Class Condition
+# Matt 4:3
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -27,9 +28,10 @@ P presents a fact that the temptor knew to be true. The devil certainly knows Je
 
 ----------------
 
-# Matt 4:6: First Class Condition
+# Matt 4:6
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -54,9 +56,10 @@ As with 4:3, this conditional expresses no doubt about Jesus' identity, but is b
 
 ----------------
 
-# Matt 4:9: Third Class Condition
+# Matt 4:9
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Promise / Exhort
@@ -82,9 +85,10 @@ In 4:3 and 4:6 the exhortations (or temptations) are direct and occur in q; in t
 
 ----------------
 
-# Matt 5:13a: Third Class Condition
+# Matt 5:13a
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -109,9 +113,10 @@ This conditional must be read in its context of describing discipleship. The con
 
 ----------------
 
-# Matt 5:20: Third Class Condition
+# Matt 5:20
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -138,9 +143,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Matt 5:23-24: Third Class Condition
+# Matt 5:23-24
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -166,9 +172,10 @@ P consists of two clauses: 1) offering your gift at the altar, and 2) remember t
 
 ----------------
 
-# Matt 5:29: First Class Condition
+# Matt 5:29
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Exhort
@@ -195,9 +202,10 @@ The conditional is class 3 in Mark 9:47 and class 1 here in Matthew. It could be
 
 ----------------
 
-# Matt 5:30: First Class Condition
+# Matt 5:30
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Exhort
@@ -222,9 +230,10 @@ See note on 5:29.
 
 ----------------
 
-# Matt 5:46: Third Class Condition
+# Matt 5:46
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -249,9 +258,10 @@ In this verse, q is a rhetorical question that expects the answer "No reward at 
 
 ----------------
 
-# Matt 5:47: Third Class Condition
+# Matt 5:47
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -277,9 +287,10 @@ See note on 5:46.
 
 ----------------
 
-# Matt 6:1: First Class Condition
+# Matt 6:1
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -310,9 +321,10 @@ English translations express the constrcution εἰ δὲ μή γε in a variety
 
 ----------------
 
-# Matt 6:14: Third Class Condition
+# Matt 6:14
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise / Assert
@@ -333,9 +345,10 @@ p: (if you forgive others their trespasses)
 
 ----------------
 
-# Matt 6:15: Third Class Condition
+# Matt 6:15
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Assert
@@ -362,9 +375,10 @@ The situation described in this conditional is the opposite of 6:14.
 
 ----------------
 
-# Matt 6:22: Third Class Condition
+# Matt 6:22
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Assert
@@ -387,9 +401,10 @@ p: (if your eye is healthy)
 
 ----------------
 
-# Matt 6:23: Third Class Condition
+# Matt 6:23
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Assert
@@ -411,9 +426,10 @@ p: (if your eye is bad)
 
 ----------------
 
-# Matt 6:23: First Class Condition
+# Matt 6:23
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Assert
@@ -435,9 +451,10 @@ p: (if then the light in you is darkness)
 
 ----------------
 
-# Matt 6:30: First Class Condition
+# Matt 6:30
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue / Encourage
@@ -462,9 +479,10 @@ P is factual, and q is a rhetorical question expecting an affirmative response: 
 
 ----------------
 
-# Matt 7:9: (Unspecified) Class Condition
+# Matt 7:9
 
 
+* **Class:** None specified
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -491,9 +509,10 @@ Although there is no conditional marker in the Greek, the sense here is clearly 
 
 ----------------
 
-# Matt 7:10: (Unspecified) Class Condition
+# Matt 7:10
 
 
+* **Class:** None specified
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -518,9 +537,10 @@ See note at 7:9
 
 ----------------
 
-# Matt 7:11: First Class Condition
+# Matt 7:11
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -545,9 +565,10 @@ In the previous sentences, Jesus has just used rhetorical questions to highlight
 
 ----------------
 
-# Matt 8:2: Third Class Condition
+# Matt 8:2
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -572,9 +593,10 @@ Jesus is able to make the man clean regardless of his will to do so. Many commen
 
 ----------------
 
-# Matt 8:31: First Class Condition
+# Matt 8:31
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Request
@@ -599,9 +621,10 @@ The probability is listed as Very Likely and the time as Future because the demo
 
 ----------------
 
-# Matt 9:17: First Class Condition
+# Matt 9:17
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -630,9 +653,10 @@ See note on 6:1.
 
 ----------------
 
-# Matt 9:21: Third Class Condition
+# Matt 9:21
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Not applicable
@@ -657,9 +681,10 @@ The illocutionary force category is not applicable here as the woman is speaking
 
 ----------------
 
-# Matt 10:13a: Third Class Condition
+# Matt 10:13a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -680,9 +705,10 @@ p: (if the house is worthy)
 
 ----------------
 
-# Matt 10:13b: Third Class Condition
+# Matt 10:13b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -703,9 +729,10 @@ p: (if it is not worthy)
 
 ----------------
 
-# Matt 10:25: First Class Condition
+# Matt 10:25
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Warn / Argue
@@ -732,9 +759,10 @@ Jesus claims q is more likely than p. Since p is in fact a true condition, he is
 
 ----------------
 
-# Matt 11:14: First Class Condition
+# Matt 11:14
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -759,9 +787,10 @@ Q is a fact that is true regardless of p (i.e. whether the hearers are willing t
 
 ----------------
 
-# Matt 11:21: Second Class Condition
+# Matt 11:21
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -786,9 +815,10 @@ P did not, in fact, occur and neither did q. Jesus here uses the example of Tyre
 
 ----------------
 
-# Matt 11:23: Second Class Condition
+# Matt 11:23
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -813,9 +843,10 @@ P did not, in fact, occur and neither did q. Jesus here uses the example of Sodo
 
 ----------------
 
-# Matt 12:7: Second Class Condition
+# Matt 12:7
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -841,9 +872,10 @@ Jesus rebukes the pharisees by implying that they did not know the meaning of Sc
 
 ----------------
 
-# Matt 12:11: Third Class Condition
+# Matt 12:11
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Argue
@@ -871,9 +903,10 @@ Jesus' use of a rhetorical question in q assumes an affirmative answer.
 
 ----------------
 
-# Matt 12:26: First Class Condition
+# Matt 12:26
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -898,9 +931,10 @@ A false situation which Jesus presents as possible for the sake of argument in o
 
 ----------------
 
-# Matt 12:27: First Class Condition
+# Matt 12:27
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -925,9 +959,10 @@ See note on 12:26.
 
 ----------------
 
-# Matt 12:28: First Class Condition
+# Matt 12:28
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -952,9 +987,10 @@ P is factual, though Jesus' audience may not yet be convinced of it. Here Jesus 
 
 ----------------
 
-# Matt 12:29: Third Class Condition
+# Matt 12:29
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -986,9 +1022,10 @@ NLT: "For who is powerful enough to enter the house of a strong man and plunder 
 
 ----------------
 
-# Matt 14:28: First Class Condition
+# Matt 14:28
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -1009,9 +1046,10 @@ p: (if it is you)
 
 ----------------
 
-# Matt 15:14: Third Class Condition
+# Matt 15:14
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -1032,9 +1070,10 @@ p: (if the blind lead the blind)
 
 ----------------
 
-# Matt 16:24: First Class Condition
+# Matt 16:24
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -1062,9 +1101,10 @@ Probability is based on the fact that most of the audience Jesus is speaking to 
 
 ----------------
 
-# Matt 16:26: Third Class Condition
+# Matt 16:26
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -1091,9 +1131,10 @@ This verse contains two rhetorical questions (this conditional sentence, and a n
 
 ----------------
 
-# Matt 17:4: First Class Condition
+# Matt 17:4
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Request
@@ -1118,9 +1159,10 @@ Parallel verses do not have a conditional connective.
 
 ----------------
 
-# Matt 17:20: Third Class Condition
+# Matt 17:20
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -1141,9 +1183,10 @@ p: (if you have faith like a grain of mustard seed)
 
 ----------------
 
-# Matt 18:3: Third Class Condition
+# Matt 18:3
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -1170,9 +1213,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Matt 18:8: First Class Condition
+# Matt 18:8
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Exhort
@@ -1197,9 +1241,10 @@ See note on 5:30.
 
 ----------------
 
-# Matt 18:9: First Class Condition
+# Matt 18:9
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Exhort
@@ -1224,9 +1269,10 @@ See note on 5:29.
 
 ----------------
 
-# Matt 18:12: Third Class Condition
+# Matt 18:12
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -1251,9 +1297,10 @@ Jesus introduces a parable here that gets a more detailed and less conditional t
 
 ----------------
 
-# Matt 18:13: Third Class Condition
+# Matt 18:13
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -1274,9 +1321,10 @@ p: (if he finds it)
 
 ----------------
 
-# Matt 18:15a: Third Class Condition
+# Matt 18:15a
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -1301,9 +1349,10 @@ In this verse, Jesus brings up the topic of dealing with sin in the church. The 
 
 ----------------
 
-# Matt 18:15b: Third Class Condition
+# Matt 18:15b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -1328,9 +1377,10 @@ See note on 18:15.
 
 ----------------
 
-# Matt 18:16: Third Class Condition
+# Matt 18:16
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -1355,9 +1405,10 @@ See note on 18:15.
 
 ----------------
 
-# Matt 18:17a: Third Class Condition
+# Matt 18:17a
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -1382,9 +1433,10 @@ See note on 18:15.
 
 ----------------
 
-# Matt 18:17b: Third Class Condition
+# Matt 18:17b
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -1409,9 +1461,10 @@ See note on 18:15.
 
 ----------------
 
-# Matt 18:19a: Third Class Condition
+# Matt 18:19a
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -1432,9 +1485,10 @@ p: (if two of you agree on earth about anything they ask)
 
 ----------------
 
-# Matt 18:35: Third Class Condition
+# Matt 18:35
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -1462,9 +1516,10 @@ Greek: ἐὰν μὴ 'if not', 'unless'
 
 ----------------
 
-# Matt 19:10: First Class Condition
+# Matt 19:10
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -1489,9 +1544,10 @@ p: (if such is the case of a man with his wife)
 
 ----------------
 
-# Matt 19:17b: First Class Condition
+# Matt 19:17b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort / Command
@@ -1516,9 +1572,10 @@ In v.16 someone asked Jesus, “Teacher, what good deed must I do to have eterna
 
 ----------------
 
-# Matt 19:21: First Class Condition
+# Matt 19:21
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -1543,9 +1600,10 @@ In the previous verse, the young man told Jesus that he had kept all the command
 
 ----------------
 
-# Matt 21:3: Third Class Condition
+# Matt 21:3
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -1570,9 +1628,10 @@ Greek: εαν τις 'if anyone'
 
 ----------------
 
-# Matt 21:21a: Third Class Condition
+# Matt 21:21a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Promise
@@ -1597,9 +1656,10 @@ The probability is debatable here. Jesus is speaking to his closest disciples, w
 
 ----------------
 
-# Matt 21:21b: Third Class Condition
+# Matt 21:21b
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Promise
@@ -1628,9 +1688,10 @@ The conditional sentence of 21:21b is embedded into q of the conditional in 21:2
 
 ----------------
 
-# Matt 21:22: (Unspecified) Class Condition
+# Matt 21:22
 
 
+* **Class:** None specified
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -1656,9 +1717,10 @@ This is an implied conditional using the present participle of 'believe': "belie
 
 ----------------
 
-# Matt 21:24: Third Class Condition
+# Matt 21:24
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Request
@@ -1680,9 +1742,10 @@ p: (if you tell me the answer)
 
 ----------------
 
-# Matt 21:25: Third Class Condition
+# Matt 21:25
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Argue
@@ -1707,9 +1770,10 @@ The conditionals in v.25 and v.26 should be understood as a pair; together they 
 
 ----------------
 
-# Matt 21:26: Third Class Condition
+# Matt 21:26
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Argue
@@ -1734,9 +1798,10 @@ See note on 21:25. The parallel account in Luke 20:6 explains the fear more, as 
 
 ----------------
 
-# Matt 22:24: Third Class Condition
+# Matt 22:24
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Command
@@ -1761,9 +1826,10 @@ This conditional is a sumary of Deutoronomy 25:5-6. The Saducees use this to beg
 
 ----------------
 
-# Matt 22:45: First Class Condition
+# Matt 22:45
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -1789,9 +1855,10 @@ This is factual because Jesus has just quoted Psa 110:1 where David calls the Ch
 
 ----------------
 
-# Matt 23:30: Second Class Condition
+# Matt 23:30
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -1816,9 +1883,10 @@ Here Jesus is quoting the kind of thing that the Pharisees would say.
 
 ----------------
 
-# Matt 24:22: Second Class Condition
+# Matt 24:22
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -1848,9 +1916,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Matt 24:23: Third Class Condition
+# Matt 24:23
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -1877,9 +1946,10 @@ The probability is likely because Jesus states in the next verse that false chri
 
 ----------------
 
-# Matt 24:26a: Third Class Condition
+# Matt 24:26a
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -1904,9 +1974,10 @@ The two condiitonals in v.26 describe situations that might arise in which peopl
 
 ----------------
 
-# Matt 24:26b: Third Class Condition
+# Matt 24:26b
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -1935,9 +2006,10 @@ This conditional could be considered the same condtional with v24a having a more
 
 ----------------
 
-# Matt 24:43: Second Class Condition
+# Matt 24:43
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Warn
@@ -1962,9 +2034,10 @@ The sentence is referring to a past time situation, but it should be understood 
 
 ----------------
 
-# Matt 24:48-51: Third Class Condition
+# Matt 24:48-51
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -1989,9 +2062,10 @@ P is v.48-49 and q is v.50-51.
 
 ----------------
 
-# Matt 26:15: (Unspecified) Class Condition
+# Matt 26:15
 
 
+* **Class:** None specified
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Question
@@ -2018,9 +2092,10 @@ This is an implied conditional. The Greek says, "What are you willing to give me
 
 ----------------
 
-# Matt 26:24: Second Class Condition
+# Matt 26:24
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke / Warn
@@ -2043,9 +2118,10 @@ q: (it would have been better for him)
 
 ----------------
 
-# Matt 26:33: First Class Condition
+# Matt 26:33
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -2074,9 +2150,10 @@ The reality of this proposition is a bit complicated. In the preceding verses, J
 
 ----------------
 
-# Matt 26:35: Third Class Condition
+# Matt 26:35
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -2104,9 +2181,10 @@ The use of this concessive conditional indicates that Peter considered dying wit
 
 ----------------
 
-# Matt 26:42a: First Class Condition
+# Matt 26:42a
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -2131,9 +2209,10 @@ There is a general consensus among the commentaries (Hagner, Osbourne, and Morri
 
 ----------------
 
-# Matt 26:42b: Third Class Condition
+# Matt 26:42b
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -2163,9 +2242,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Matt 27:40: First Class Condition
+# Matt 27:40
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Mock
@@ -2190,9 +2270,10 @@ Though Jesus was indeed the Christ, in the minds of the speakers, they consider 
 
 ----------------
 
-# Matt 27:43: First Class Condition
+# Matt 27:43
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Mock
@@ -2220,9 +2301,10 @@ See note at 27:40. In the speakers' minds, God would not allow this injustice to
 
 ----------------
 
-# Matt 28:14: Third Class Condition
+# Matt 28:14
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -2243,9 +2325,10 @@ p: (if this comes to the governor's ears)
 
 ----------------
 
-# Mark 1:40: Third Class Condition
+# Mark 1:40
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -2270,9 +2353,10 @@ It seems that p could be merely a politeness strategy to make a request. However
 
 ----------------
 
-# Mark 2:21: First Class Condition
+# Mark 2:21
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -2299,9 +2383,10 @@ Greek: εἰ δὲ μή with an elided (understood) verb. Translator's Notes sta
 
 ----------------
 
-# Mark 2:22: First Class Condition
+# Mark 2:22
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -2328,9 +2413,10 @@ Greek: εἰ δὲ μή with an elided (understood) verb. See note on 2:21.
 
 ----------------
 
-# Mark 3:24: Third Class Condition
+# Mark 3:24
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -2352,9 +2438,10 @@ p: (if a kingdom is divided against itself)
 
 ----------------
 
-# Mark 3:25: Third Class Condition
+# Mark 3:25
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -2376,9 +2463,10 @@ p: (if a house is divided against itself)
 
 ----------------
 
-# Mark 3:26: (Unspecified) Class Condition
+# Mark 3:26
 
 
+* **Class:** None specified
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -2403,9 +2491,10 @@ Boyer (1981: 85) and Elliott (1981:206) cite this verse as class 1 whereas Gueli
 
 ----------------
 
-# Mark 3:27: Third Class Condition
+# Mark 3:27
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -2437,9 +2526,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Mark 4:23: First Class Condition
+# Mark 4:23
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -2465,9 +2555,10 @@ This seems to have the same meaning as the more common "He who has ears to hear,
 
 ----------------
 
-# Mark 5:28: Third Class Condition
+# Mark 5:28
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Not applicable
@@ -2492,9 +2583,10 @@ The illocutionary force category is not applicable here as the woman is speaking
 
 ----------------
 
-# Mark 7:3: Third Class Condition
+# Mark 7:3
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -2523,9 +2615,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Mark 7:4: Third Class Condition
+# Mark 7:4
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -2555,9 +2648,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Mark 7:11-12: Third Class Condition
+# Mark 7:11-12
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -2584,9 +2678,10 @@ Within p there is an additional ἐὰν meaning "whatever"; see 7:11b in the no
 
 ----------------
 
-# Mark 8:3: Third Class Condition
+# Mark 8:3
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -2607,9 +2702,10 @@ p: (if I send them away hungry to their homes)
 
 ----------------
 
-# Mark 8:34: First Class Condition
+# Mark 8:34
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -2638,9 +2734,10 @@ This probability is analyzed as likely because the crowd actually is there follo
 
 ----------------
 
-# Mark 9:22: First Class Condition
+# Mark 9:22
 
 
+* **Class:** 1
 * **Probability:** Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -2666,9 +2763,10 @@ Greek: εἴ τι. Even though in Mark 8:23 this construction was obviously non-
 
 ----------------
 
-# Mark 9:23: First Class Condition
+# Mark 9:23
 
 
+* **Class:** 1
 * **Probability:** Not applicable
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -2692,9 +2790,10 @@ Jesus is echoing the father's words in v.22 (NLT makes this clear: "What do you 
 
 ----------------
 
-# Mark 9:35: First Class Condition
+# Mark 9:35
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -2723,9 +2822,10 @@ Here, even though we know that the disciples were just arguing about which of th
 
 ----------------
 
-# Mark 9:42: First Class Condition
+# Mark 9:42
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Warn
@@ -2752,9 +2852,10 @@ The unlikely situation of someone having a heavy milstone hung around their neck
 
 ----------------
 
-# Mark 9:43: Third Class Condition
+# Mark 9:43
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Exhort
@@ -2779,9 +2880,10 @@ Jesus is warning and exhorting His listeners to take their sin seriously and dea
 
 ----------------
 
-# Mark 9:45: Third Class Condition
+# Mark 9:45
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Exhort
@@ -2806,9 +2908,10 @@ See note on 9:43.
 
 ----------------
 
-# Mark 9:47: Third Class Condition
+# Mark 9:47
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Exhort
@@ -2833,9 +2936,10 @@ See note on 9:43.
 
 ----------------
 
-# Mark 9:50: Third Class Condition
+# Mark 9:50
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -2860,9 +2964,10 @@ This conditional must be read in its context of describing discipleship. The con
 
 ----------------
 
-# Mark 10:12: Third Class Condition
+# Mark 10:12
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -2888,9 +2993,10 @@ The grammatically main verbs are "marry" and "commit adultery" with the part abo
 
 ----------------
 
-# Mark 11:3: Third Class Condition
+# Mark 11:3
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -2915,9 +3021,10 @@ Greek: εαν τις 'if anyone'
 
 ----------------
 
-# Mark 11:25: First Class Condition
+# Mark 11:25
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -2940,9 +3047,10 @@ q: (forgive)
 
 ----------------
 
-# Mark 11:31: Third Class Condition
+# Mark 11:31
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Argue
@@ -2967,9 +3075,10 @@ The alternative response "From men" in v.32 has no conditional (unlike the paral
 
 ----------------
 
-# Mark 12:19: Third Class Condition
+# Mark 12:19
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Command
@@ -2994,9 +3103,10 @@ This conditional is a sumary of Deutoronomy 25:5-6. The Saducees use this to beg
 
 ----------------
 
-# Mark 13:20: Second Class Condition
+# Mark 13:20
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert / Warn
@@ -3026,9 +3136,10 @@ If this is paraphrased to avoid multiple negatives in languages without 'unless'
 
 ----------------
 
-# Mark 13:21: Third Class Condition
+# Mark 13:21
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -3055,9 +3166,10 @@ This probability is very likely because Jesus states in the next verse that fals
 
 ----------------
 
-# Mark 14:21: Second Class Condition
+# Mark 14:21
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke / Warn
@@ -3086,9 +3198,10 @@ The verb in q (translated "would have been") is missing here but is present in t
 
 ----------------
 
-# Mark 14:29: First Class Condition
+# Mark 14:29
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -3117,9 +3230,10 @@ It is hard to determine how likely Peter thought the other disciples were to fal
 
 ----------------
 
-# Mark 14:31: Third Class Condition
+# Mark 14:31
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -3148,9 +3262,10 @@ It is difficult to determine how likely Peter thought it was that he would have 
 
 ----------------
 
-# Mark 16:18: Third Class Condition
+# Mark 16:18
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -3178,9 +3293,10 @@ Given the context that this is part of a list of of signs that Jesus says "will 
 
 ----------------
 
-# Luke 4:3: First Class Condition
+# Luke 4:3
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -3205,9 +3321,10 @@ Nolland notes that the devil (and Jesus) had no doubt about his identity as Son 
 
 ----------------
 
-# Luke 4:7: Third Class Condition
+# Luke 4:7
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Promise / Exhort
@@ -3232,9 +3349,10 @@ In 4:3 and 4:9 the exhortations (or temptations) are direct and occur in q; in t
 
 ----------------
 
-# Luke 4:9: First Class Condition
+# Luke 4:9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -3259,9 +3377,10 @@ Again, we may assume the devil is fully aware that Jesus is the Son of God, but 
 
 ----------------
 
-# Luke 5:12: Third Class Condition
+# Luke 5:12
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -3286,9 +3405,10 @@ Marshall considers the conditional here a mark of politeness, but it could also 
 
 ----------------
 
-# Luke 5:36b: First Class Condition
+# Luke 5:36b
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3315,9 +3435,10 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb. English translati
 
 ----------------
 
-# Luke 5:37: First Class Condition
+# Luke 5:37
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3344,9 +3465,10 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb; see note at 5:36.
 
 ----------------
 
-# Luke 6:32: First Class Condition
+# Luke 6:32
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3371,9 +3493,10 @@ This verse and the next two (vs.33-34) are a series of conditional statements po
 
 ----------------
 
-# Luke 6:33: Third Class Condition
+# Luke 6:33
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3398,9 +3521,10 @@ See note at 6:32.
 
 ----------------
 
-# Luke 6:34: Third Class Condition
+# Luke 6:34
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3425,9 +3549,10 @@ See note at 6:32.
 
 ----------------
 
-# Luke 7:39: Second Class Condition
+# Luke 7:39
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -3452,9 +3577,10 @@ While in truth, Jesus is a prophet and does know who the woman is, in the mind o
 
 ----------------
 
-# Luke 9:13: Third Class Condition
+# Luke 9:13
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -3485,9 +3611,10 @@ The NLT offers an alternative to using 'unless': “But we have only five loaves
 
 ----------------
 
-# Luke 9:23: First Class Condition
+# Luke 9:23
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -3513,9 +3640,10 @@ Jesus is speaking to disciples, so the likelihood that they wish to follow him i
 
 ----------------
 
-# Luke 10:6a: Third Class Condition
+# Luke 10:6a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -3540,9 +3668,10 @@ Jesus compares two different types of people, but unlike 9:48 and other similar 
 
 ----------------
 
-# Luke 10:6b: First Class Condition
+# Luke 10:6b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -3567,9 +3696,10 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb; see note at 5:36 
 
 ----------------
 
-# Luke 10:13: Second Class Condition
+# Luke 10:13
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -3595,9 +3725,10 @@ Jesus' miracles were not done in Tyre and Sidon, but he predicts how the people 
 
 ----------------
 
-# Luke 11:8: First Class Condition
+# Luke 11:8
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3623,9 +3754,10 @@ Greek: ει και; this is a "concessive conditional." Because p is factual, mo
 
 ----------------
 
-# Luke 11:11: (Unspecified) Class Condition
+# Luke 11:11
 
 
+* **Class:** None specified
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3652,9 +3784,10 @@ Although there is no conditional marker in the Greek, the sense here is clearly 
 
 ----------------
 
-# Luke 11:12: (Unspecified) Class Condition
+# Luke 11:12
 
 
+* **Class:** None specified
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3679,9 +3812,10 @@ See note at 11:11.
 
 ----------------
 
-# Luke 11:13: First Class Condition
+# Luke 11:13
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3707,9 +3841,10 @@ In verses 11 and 12 Jesus has just shown how human fathers give good things to t
 
 ----------------
 
-# Luke 11:18: First Class Condition
+# Luke 11:18
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -3734,9 +3869,10 @@ P describes a false situation which Jesus presents as possible for the sake of a
 
 ----------------
 
-# Luke 11:19: First Class Condition
+# Luke 11:19
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -3761,9 +3897,10 @@ See v.18.
 
 ----------------
 
-# Luke 11:20: First Class Condition
+# Luke 11:20
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -3788,9 +3925,10 @@ P is factual, though Jesus' audience may not yet be convinced of it.
 
 ----------------
 
-# Luke 11:36: First Class Condition
+# Luke 11:36
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -3811,9 +3949,10 @@ p: (if then your whole body is full of light, having no dark part)
 
 ----------------
 
-# Luke 12:26: First Class Condition
+# Luke 12:26
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -3835,9 +3974,10 @@ p: (if then you are not able to do as small a thing as that)
 
 ----------------
 
-# Luke 12:28: First Class Condition
+# Luke 12:28
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue / Encourage
@@ -3862,9 +4002,10 @@ Jesus is using a widely known fact in p to argue for the point he makes in q, th
 
 ----------------
 
-# Luke 12:38: Third Class Condition
+# Luke 12:38
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -3893,9 +4034,10 @@ Greek: καν...καν...; q is not dependent on when the master returns (the se
 
 ----------------
 
-# Luke 12:39: Second Class Condition
+# Luke 12:39
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Warn
@@ -3920,9 +4062,10 @@ The sentence is referring to a past time situation, but it should be understood 
 
 ----------------
 
-# Luke 12:45-46: Third Class Condition
+# Luke 12:45-46
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -3948,9 +4091,10 @@ P makes up v.45, while q makes up v.46.
 
 ----------------
 
-# Luke 13:3: Third Class Condition
+# Luke 13:3
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -3978,9 +4122,10 @@ These two (almost) identical sentences (13:3 and 13:5) have the regular order p>
 
 ----------------
 
-# Luke 13:5: Third Class Condition
+# Luke 13:5
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -4005,9 +4150,10 @@ See note at 13:3.
 
 ----------------
 
-# Luke 13:9a: Third Class Condition
+# Luke 13:9a
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert / Warn
@@ -4034,9 +4180,10 @@ The five English translations treat this as a conditional and supply q ("fine" o
 
 ----------------
 
-# Luke 13:9b: First Class Condition
+# Luke 13:9b
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert / Warn
@@ -4062,9 +4209,10 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb. See note at 5:36 
 
 ----------------
 
-# Luke 14:5: (Unspecified) Class Condition
+# Luke 14:5
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4095,9 +4243,10 @@ This is an implied conditional in Greek; the main verb in the protasis is missin
 
 ----------------
 
-# Luke 14:26: First Class Condition
+# Luke 14:26
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4123,9 +4272,10 @@ Jesus uses hyperbolic language in a conditional to introduce his discussion of t
 
 ----------------
 
-# Luke 14:32: First Class Condition
+# Luke 14:32
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -4152,9 +4302,10 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb. See note at 5:36 
 
 ----------------
 
-# Luke 14:34: Third Class Condition
+# Luke 14:34
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4179,9 +4330,10 @@ This conditional must be read in its context of describing discipleship. The con
 
 ----------------
 
-# Luke 15:8: Third Class Condition
+# Luke 15:8
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4207,9 +4359,10 @@ This conditional introduces the parable of the woman with the lost coin. While J
 
 ----------------
 
-# Luke 16:11: First Class Condition
+# Luke 16:11
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -4230,9 +4383,10 @@ p: (if then you have not been faithful with unrighteous wealth)
 
 ----------------
 
-# Luke 16:12: First Class Condition
+# Luke 16:12
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -4253,9 +4407,10 @@ p: (if you have not been faithful with that which is another's)
 
 ----------------
 
-# Luke 16:30: Third Class Condition
+# Luke 16:30
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4280,9 +4435,10 @@ The rich man seemed convinced that a visit from the dead would convince his fami
 
 ----------------
 
-# Luke 16:31a: First Class Condition
+# Luke 16:31a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4307,9 +4463,10 @@ P is factual because the rich man's relatives are not listening to the Law and P
 
 ----------------
 
-# Luke 16:31b: Third Class Condition
+# Luke 16:31b
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4336,9 +4493,10 @@ This conditional makes up the q of v.31a. Although Greek just has ἐάν 'if', 
 
 ----------------
 
-# Luke 17:2: First Class Condition
+# Luke 17:2
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Warn
@@ -4365,9 +4523,10 @@ The unlikely situation of someone having a heavy milstone hung around their neck
 
 ----------------
 
-# Luke 17:3a: Third Class Condition
+# Luke 17:3a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -4392,9 +4551,10 @@ The second person pronouns ('your', 'you') and the verbs 'rebuke' and 'forgive' 
 
 ----------------
 
-# Luke 17:3b: Third Class Condition
+# Luke 17:3b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -4416,9 +4576,10 @@ p: (if he repents)
 
 ----------------
 
-# Luke 17:4: Third Class Condition
+# Luke 17:4
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -4444,9 +4605,10 @@ Although the form of the conditional here is the same as in v.3 (ἐὰν 'if), 
 
 ----------------
 
-# Luke 17:6: (Unspecified) Class Condition
+# Luke 17:6
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -4474,9 +4636,10 @@ The probability is debatable here. In the parallel passage in Matthew 17:20, Jes
 
 ----------------
 
-# Luke 18:4-5: First Class Condition
+# Luke 18:4-5
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -4503,9 +4666,10 @@ This is a "concessive conditional." Because p is factual, most English translati
 
 ----------------
 
-# Luke 19:8: First Class Condition
+# Luke 19:8
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -4531,9 +4695,10 @@ From what is known about tax collectors at the time, it is highly likely that Za
 
 ----------------
 
-# Luke 19:31: Third Class Condition
+# Luke 19:31
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -4558,9 +4723,10 @@ Greek: εαν τις 'if anyone'
 
 ----------------
 
-# Luke 19:40: First Class Condition
+# Luke 19:40
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -4586,9 +4752,10 @@ The question of how to read the verbs has a great influence over the interpretat
 
 ----------------
 
-# Luke 20:5: Third Class Condition
+# Luke 20:5
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Argue
@@ -4613,9 +4780,10 @@ The conditionals in this verse and the next should be understood as a pair; toge
 
 ----------------
 
-# Luke 20:6: Third Class Condition
+# Luke 20:6
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Argue
@@ -4640,9 +4808,10 @@ See note on v.5.
 
 ----------------
 
-# Luke 20:28: Third Class Condition
+# Luke 20:28
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Command
@@ -4667,9 +4836,10 @@ This conditional is a sumary of Deutoronomy 25:5-6. The Saducees use this to beg
 
 ----------------
 
-# Luke 22:42: First Class Condition
+# Luke 22:42
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -4694,9 +4864,10 @@ There is a textual variant here that has an infinitive instead of an imperative,
 
 ----------------
 
-# Luke 22:67a: First Class Condition
+# Luke 22:67a
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command / Mock
@@ -4722,9 +4893,10 @@ The Jewish leaders are once again not really interested in genuinely discovering
 
 ----------------
 
-# Luke 22:67b: Third Class Condition
+# Luke 22:67b
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -4749,9 +4921,10 @@ The authorities have already shown in 20:1-8 that their desire is not to discove
 
 ----------------
 
-# Luke 22:68: Third Class Condition
+# Luke 22:68
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -4776,9 +4949,10 @@ As in v.67b, the Sanhedrin is not interested in truth, so if Jesus was to ask th
 
 ----------------
 
-# Luke 23:31: First Class Condition
+# Luke 23:31
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -4803,9 +4977,10 @@ In this verse, Jesus uses metephorical language to describe what is happening to
 
 ----------------
 
-# Luke 23:35: First Class Condition
+# Luke 23:35
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Mock
@@ -4830,9 +5005,10 @@ The challenges in this verse and in v.37 are not genuine, and the the speakers d
 
 ----------------
 
-# Luke 23:37: First Class Condition
+# Luke 23:37
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Mock
@@ -4857,9 +5033,10 @@ See note at 23:35.
 
 ----------------
 
-# John 1:25: First Class Condition
+# John 1:25
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -4885,9 +5062,10 @@ John confirms in the previous verses the truth of p. The question they ask is re
 
 ----------------
 
-# John 3:2: Third Class Condition
+# John 3:2
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4915,9 +5093,10 @@ This conditional presents Nicodemus's belief in Jesus' miracles being a sign tha
 
 ----------------
 
-# John 3:3: Third Class Condition
+# John 3:3
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4945,9 +5124,10 @@ This conditional (and the conditional in 3:5) is used by Jesus to specifically c
 
 ----------------
 
-# John 3:5: Third Class Condition
+# John 3:5
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -4975,9 +5155,10 @@ See note at 3:3.
 
 ----------------
 
-# John 3:12a: First Class Condition
+# John 3:12a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past / Future
 * **Illocutionary Force:** Rebuke
@@ -5003,9 +5184,10 @@ Trail discusses various options for what Jesus is implying by his rhetorical que
 
 ----------------
 
-# John 3:12b: Third Class Condition
+# John 3:12b
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Rebuke
@@ -5031,9 +5213,10 @@ Jesus could be saying that it is useless to teach about heavenly things or that 
 
 ----------------
 
-# John 3:27: Third Class Condition
+# John 3:27
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -5068,9 +5251,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# John 4:10: Second Class Condition
+# John 4:10
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert / Rebuke
@@ -5095,9 +5279,10 @@ Jesus uses the conditional to point out what the Samaritan women did not know an
 
 ----------------
 
-# John 4:48: Third Class Condition
+# John 4:48
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present / Future
 * **Illocutionary Force:** Rebuke
@@ -5124,9 +5309,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# John 5:19: Third Class Condition
+# John 5:19
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -5159,9 +5345,10 @@ Four of the five sample English translations do not translate this as a conditio
 
 ----------------
 
-# John 5:31: Third Class Condition
+# John 5:31
 
 
+* **Class:** 3
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -5186,9 +5373,10 @@ Though this is syntactically a class 3 conditional (which usually have neutral p
 
 ----------------
 
-# John 5:43: Third Class Condition
+# John 5:43
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn / Rebuke
@@ -5213,9 +5401,10 @@ Klink here notes that Jesus' point here is not to prophesy about another person 
 
 ----------------
 
-# John 5:46: Second Class Condition
+# John 5:46
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -5240,9 +5429,10 @@ Because Jesus has already stated that the audience does not believe him (see v.4
 
 ----------------
 
-# John 5:47: First Class Condition
+# John 5:47
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn / Rebuke
@@ -5268,9 +5458,10 @@ Based on the conclusion in the previous conditional, that belief in Moses equate
 
 ----------------
 
-# John 6:44: Third Class Condition
+# John 6:44
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -5296,9 +5487,10 @@ Paraphrase (to avoid multiple negatives for languages without 'unless' or 'excep
 
 ----------------
 
-# John 6:51: Third Class Condition
+# John 6:51
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -5325,9 +5517,10 @@ Greek: ἐάν τις "if anyone"
 
 ----------------
 
-# John 6:53: Third Class Condition
+# John 6:53
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -5352,9 +5545,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# John 6:62: Third Class Condition
+# John 6:62
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -5380,9 +5574,10 @@ Jesus' emphasis here is clearly not on a prediction of what they will or won't s
 
 ----------------
 
-# John 6:65: Third Class Condition
+# John 6:65
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -5408,9 +5603,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# John 7:4: First Class Condition
+# John 7:4
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Mock
@@ -5436,9 +5632,10 @@ Translator's Notes and Trail both acknowledge that there are two possible readin
 
 ----------------
 
-# John 7:17: Third Class Condition
+# John 7:17
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -5464,9 +5661,10 @@ Translator's Notes mentions that Jesus' statement here applies to anyone but esp
 
 ----------------
 
-# John 7:23: First Class Condition
+# John 7:23
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -5491,9 +5689,10 @@ It was true that baby boys were circumcised on the Sabbath if necessary, but Jes
 
 ----------------
 
-# John 7:37: Third Class Condition
+# John 7:37
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -5519,9 +5718,10 @@ Greek: ἐάν τις "if anyone"
 
 ----------------
 
-# John 7:51: Third Class Condition
+# John 7:51
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -5555,9 +5755,10 @@ Note also that the Greek literally says that the law judges and hears. If this i
 
 ----------------
 
-# John 8:14: Third Class Condition
+# John 8:14
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -5585,9 +5786,10 @@ Though this verse seems to contradict 5:31, Klink explains that "the Son is so d
 
 ----------------
 
-# John 8:16: Third Class Condition
+# John 8:16
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -5615,9 +5817,10 @@ Like v.14, this concessive conditional seems to contradict a previous assertion 
 
 ----------------
 
-# John 8:19: Second Class Condition
+# John 8:19
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -5643,9 +5846,10 @@ Jesus argues from the fact that the Pharisees do not "know" him, that is, have a
 
 ----------------
 
-# John 8:24: Third Class Condition
+# John 8:24
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -5672,9 +5876,10 @@ Klink classifies the Jews' lack of belief as "uncertain, though likely" and note
 
 ----------------
 
-# John 8:31-32: Third Class Condition
+# John 8:31-32
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -5701,9 +5906,10 @@ Though the verse states that Jesus was speaking to those who believed in him, th
 
 ----------------
 
-# John 8:36: Third Class Condition
+# John 8:36
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -5724,9 +5930,10 @@ p: (if the son sets you free)
 
 ----------------
 
-# John 8:39: First Class Condition
+# John 8:39
 
 
+* **Class:** 1
 * **Probability:** Factual / Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -5752,9 +5959,10 @@ It is heavily debated whether this is a factual condition (Jesus is echoing "Abr
 
 ----------------
 
-# John 8:42: Second Class Condition
+# John 8:42
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -5779,9 +5987,10 @@ This conditional is more clearly non-actual than v.39.
 
 ----------------
 
-# John 8:46: First Class Condition
+# John 8:46
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -5807,9 +6016,10 @@ This is clearly factual, as Jesus stated in v.45 "I tell the truth".
 
 ----------------
 
-# John 8:51: Third Class Condition
+# John 8:51
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -5836,9 +6046,10 @@ Greek: ἐάν τις 'if anyone'
 
 ----------------
 
-# John 8:52: Third Class Condition
+# John 8:52
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -5865,9 +6076,10 @@ This verse is a word-for-word quote of v.51; see note there.
 
 ----------------
 
-# John 8:54: Third Class Condition
+# John 8:54
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -5892,9 +6104,10 @@ In v.50 Jesus had said, "I do not seek my own glory," so this conditional repres
 
 ----------------
 
-# John 8:55: Third Class Condition
+# John 8:55
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -5921,9 +6134,10 @@ Jesus continues his arguement and declaration of who he is by asserting his own 
 
 ----------------
 
-# John 9:22: Third Class Condition
+# John 9:22
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -5949,9 +6163,10 @@ Greek: ἐάν τις 'if anyone'
 
 ----------------
 
-# John 9:31: Third Class Condition
+# John 9:31
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -5978,9 +6193,10 @@ Greek: ἐάν τις 'if anyone'
 
 ----------------
 
-# John 9:33: Second Class Condition
+# John 9:33
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -6007,9 +6223,10 @@ If possible, the negative conditional should be kept. If an affirmative wording 
 
 ----------------
 
-# John 9:41: Second Class Condition
+# John 9:41
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -6034,9 +6251,10 @@ Jesus uses figurative language here to rebuke the Pharisees for not believing in
 
 ----------------
 
-# John 10:9: Third Class Condition
+# John 10:9
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -6063,9 +6281,10 @@ Greek: ἐάν τις 'if anyone'
 
 ----------------
 
-# John 10:24: First Class Condition
+# John 10:24
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -6090,9 +6309,10 @@ Beasley-Murray and Trail agree that the intent of the speakers is likely hostile
 
 ----------------
 
-# John 10:35-36: First Class Condition
+# John 10:35-36
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -6117,9 +6337,10 @@ Jesus has just quoted Psa 82:6 that forms the basis for his claim in the protasi
 
 ----------------
 
-# John 10:37: First Class Condition
+# John 10:37
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke / Argue
@@ -6147,9 +6368,10 @@ The negative conditional should be kept, as the following verse provides the aff
 
 ----------------
 
-# John 10:38a: First Class Condition
+# John 10:38a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke / Exhort
@@ -6174,9 +6396,10 @@ This conditional is embedded within the conditional in 38b. See note there for f
 
 ----------------
 
-# John 10:38b: Third Class Condition
+# John 10:38b
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke / Exhort
@@ -6205,9 +6428,10 @@ This conditional should be interpreted as factual (or at least highly likely), a
 
 ----------------
 
-# John 11:9: Third Class Condition
+# John 11:9
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -6237,9 +6461,10 @@ This condtion and the one in v.10 together have a literal meaning and a figurati
 
 ----------------
 
-# John 11:10: Third Class Condition
+# John 11:10
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -6265,9 +6490,10 @@ Greek: ἐάν τις; see note at v.9.
 
 ----------------
 
-# John 11:12: First Class Condition
+# John 11:12
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -6292,9 +6518,10 @@ The disciples misunderstood Jesus by taking his statement as literally true when
 
 ----------------
 
-# John 11:21: Second Class Condition
+# John 11:21
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -6319,9 +6546,10 @@ Young says this is a rebuke softened with a conditonal. On the other hand, Beasl
 
 ----------------
 
-# John 11:25: Third Class Condition
+# John 11:25
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -6349,9 +6577,10 @@ Greek: κἂν; this is a "concessive conditional". The probability of death doe
 
 ----------------
 
-# John 11:32: Second Class Condition
+# John 11:32
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -6376,9 +6605,10 @@ This conditional is identical to that in v.21, however Jesus' reaction to Martha
 
 ----------------
 
-# John 11:40: Third Class Condition
+# John 11:40
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke / Promise
@@ -6404,9 +6634,10 @@ Trail notes that this verse is a "gentle reprimand" and a "challenge to her fait
 
 ----------------
 
-# John 11:48: Third Class Condition
+# John 11:48
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -6431,9 +6662,10 @@ The Sanhedrin are implying that they should not allow Jesus to continue performi
 
 ----------------
 
-# John 11:57: Third Class Condition
+# John 11:57
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -6461,9 +6693,10 @@ This is one of the few conditionals in reported speech.
 
 ----------------
 
-# John 12:24a: Third Class Condition
+# John 12:24a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -6490,9 +6723,10 @@ The negative conditional shouldbe kept; the following sentence provides the affi
 
 ----------------
 
-# John 12:24b: Third Class Condition
+# John 12:24b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -6518,9 +6752,10 @@ See note at v.24a.
 
 ----------------
 
-# John 12:26a: Third Class Condition
+# John 12:26a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -6549,9 +6784,10 @@ The first conditional in v.26 expresses a command, and the second conditional ex
 
 ----------------
 
-# John 12:26b: Third Class Condition
+# John 12:26b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -6581,9 +6817,10 @@ See note at v.26a
 
 ----------------
 
-# John 12:32: Third Class Condition
+# John 12:32
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise / Assert
@@ -6609,9 +6846,10 @@ Languages with an "if/when" category could use this here. Trail notes that the m
 
 ----------------
 
-# John 12:47: Third Class Condition
+# John 12:47
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -6640,9 +6878,10 @@ Jesus knows that many of those who heard him would not obey him, but the likelih
 
 ----------------
 
-# John 13:8: Third Class Condition
+# John 13:8
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -6668,9 +6907,10 @@ Tthe negative conditional should be kept if possible because Jesus' words "If I 
 
 ----------------
 
-# John 13:14: First Class Condition
+# John 13:14
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -6697,9 +6937,10 @@ Klink refers to this conditional as an "argument", but according to Young it is 
 
 ----------------
 
-# John 13:17a: First Class Condition
+# John 13:17a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -6725,9 +6966,10 @@ Boyer analyzes this conditional as sharing a single apodosis with 17b, however w
 
 ----------------
 
-# John 13:17b: Third Class Condition
+# John 13:17b
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -6754,9 +6996,10 @@ This conditonal is embedded in 17a; see note there. The conditonal here ("if you
 
 ----------------
 
-# John 13:32: First Class Condition
+# John 13:32
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -6782,9 +7025,10 @@ The time reference changes from aorist (past, completed) in p (and preceding con
 
 ----------------
 
-# John 13:35: Third Class Condition
+# John 13:35
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -6811,9 +7055,10 @@ The "this" (Greek τούτῳ ) in q refers forward to the whole of p. This may 
 
 ----------------
 
-# John 14:2: Second Class Condition
+# John 14:2
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Argue
@@ -6845,9 +7090,10 @@ The majority of translations (ESV, NRSV, NIV, NLT) treat q as a rhetorical quest
 
 ----------------
 
-# John 14:3: Third Class Condition
+# John 14:3
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -6873,9 +7119,10 @@ Although the Greek has a class 3 conditional, this is clearly factual; the force
 
 ----------------
 
-# John 14:7: (Unspecified) Class Condition
+# John 14:7
 
 
+* **Class:** None specified
 * **Probability:** Factual / Non-factual
 * **Time Orientation:** Present / Future / Past
 * **Illocutionary Force:** Exhort / Rebuke
@@ -6901,9 +7148,10 @@ We have chosen to analyze this as a factual conditional, based on the UBS Greek 
 
 ----------------
 
-# John 14:11: First Class Condition
+# John 14:11
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command / Exhort
@@ -6932,9 +7180,10 @@ NET:
 
 ----------------
 
-# John 14:14: Third Class Condition
+# John 14:14
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -6960,9 +7209,10 @@ This conditional is used to restate and reinforce the promise made in v.13, henc
 
 ----------------
 
-# John 14:15: Third Class Condition
+# John 14:15
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -6987,9 +7237,10 @@ The 'you' here is plural.
 
 ----------------
 
-# John 14:23: Third Class Condition
+# John 14:23
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -7019,9 +7270,10 @@ In v.15 Jesus was addressing his disciples, but here he is talking about "the wo
 
 ----------------
 
-# John 14:28: Second Class Condition
+# John 14:28
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Rebuke
@@ -7046,9 +7298,10 @@ Jesus indicates here that the disciples ought to view his departure positively (
 
 ----------------
 
-# John 15:4a: Third Class Condition
+# John 15:4a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -7082,9 +7335,10 @@ Digo translation: "Hold tightly* to me, and I will hold tightly to you. For a br
 
 ----------------
 
-# John 15:4b: Third Class Condition
+# John 15:4b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -7110,9 +7364,10 @@ See note at 15:4a. (See note at 15:6 for discussion of the implied conditional i
 
 ----------------
 
-# John 15:6: Third Class Condition
+# John 15:6
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -7142,9 +7397,10 @@ This verse provides the negative counterpart to v.5, which in Greek is "the one 
 
 ----------------
 
-# John 15:7a: Third Class Condition
+# John 15:7a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -7169,9 +7425,10 @@ Jesus repeats the promise given in 14:14 in q (so q has an implied condition); p
 
 ----------------
 
-# John 15:10: Third Class Condition
+# John 15:10
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -7197,9 +7454,10 @@ Klink notes that "obedience springs from love and is the response to love, not t
 
 ----------------
 
-# John 15:14: Third Class Condition
+# John 15:14
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -7225,9 +7483,10 @@ In light of the following vereses where Jesus elaborates on calling his disciple
 
 ----------------
 
-# John 15:18: First Class Condition
+# John 15:18
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -7252,9 +7511,10 @@ In 15:19b, Jesus states, "I chose you out of the world, so the world hates you."
 
 ----------------
 
-# John 15:19a: Second Class Condition
+# John 15:19a
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -7279,9 +7539,10 @@ Jesus uses a non-factual condtional to express the negative counterpart of v.19b
 
 ----------------
 
-# John 15:20b: First Class Condition
+# John 15:20b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past / Future
 * **Illocutionary Force:** Argue
@@ -7307,9 +7568,10 @@ In Jhn 15:18-19, Jesus has warned his disciples that the world will hate them, j
 
 ----------------
 
-# John 15:20c: First Class Condition
+# John 15:20c
 
 
+* **Class:** 1
 * **Probability:** Factual / Non-factual
 * **Time Orientation:** Past / Future
 * **Illocutionary Force:** Argue
@@ -7335,9 +7597,10 @@ An alternative interpretation, noted by Carson (1991) and Beasley-Murray (1999),
 
 ----------------
 
-# John 15:22: Second Class Condition
+# John 15:22
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -7362,9 +7625,10 @@ Both p and q are negative; Jesus is in effect saying "Because I came and spoke t
 
 ----------------
 
-# John 15:24: Second Class Condition
+# John 15:24
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -7389,9 +7653,10 @@ Both p and q are negative; Jesus is in effect saying "Because I did among them t
 
 ----------------
 
-# John 16:7a: Third Class Condition
+# John 16:7a
 
 
+* **Class:** 3
 * **Probability:** Non-factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -7419,9 +7684,10 @@ Although Jesus presents two alternative scenarios (the first of which he knows i
 
 ----------------
 
-# John 16:7b: Third Class Condition
+# John 16:7b
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -7446,9 +7712,10 @@ See note at 16:7a.
 
 ----------------
 
-# John 18:8: First Class Condition
+# John 18:8
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -7474,9 +7741,10 @@ It has been established in the context that they are indeed seeking Jesus; the c
 
 ----------------
 
-# John 18:23a: First Class Condition
+# John 18:23a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -7501,9 +7769,10 @@ Jesus is not admitting that he said something wrong; he is expressing what the T
 
 ----------------
 
-# John 18:23b: First Class Condition
+# John 18:23b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -7528,9 +7797,10 @@ Jesus knows tnat what he said was right, but this is presented as an alternative
 
 ----------------
 
-# John 18:30: Second Class Condition
+# John 18:30
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -7558,9 +7828,10 @@ Both p and q are negative; if it is difficult to keep two negatives in your tran
 
 ----------------
 
-# John 18:36: Second Class Condition
+# John 18:36
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -7585,9 +7856,10 @@ Jesus has just stated, "My kingdom is not of this world," so NIV and NLT reduce 
 
 ----------------
 
-# John 19:11: Second Class Condition
+# John 19:11
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -7616,9 +7888,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# John 19:12: Third Class Condition
+# John 19:12
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -7639,9 +7912,10 @@ p: (if you release this man)
 
 ----------------
 
-# John 20:15: First Class Condition
+# John 20:15
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -7662,9 +7936,10 @@ p: (if you have carried him away)
 
 ----------------
 
-# John 20:23a: Third Class Condition
+# John 20:23a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -7689,9 +7964,10 @@ There are two conditional sentences here, presenting alternative scenarios. The 
 
 ----------------
 
-# John 20:23b: Third Class Condition
+# John 20:23b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -7715,9 +7991,10 @@ There are two conditional sentences here, presenting alternative scenarios. The 
 
 ----------------
 
-# John 20:25: Third Class Condition
+# John 20:25
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -7745,9 +8022,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless'): “Only 
 
 ----------------
 
-# John 21:22: Third Class Condition
+# John 21:22
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -7772,9 +8050,10 @@ Jesus is not intending to imply any likelihood in this conditonal, which is made
 
 ----------------
 
-# John 21:23: Third Class Condition
+# John 21:23
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -7799,9 +8078,10 @@ Identical to v.22.
 
 ----------------
 
-# John 21:25: Third Class Condition
+# John 21:25
 
 
+* **Class:** 3
 * **Probability:** Non-factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -7828,9 +8108,10 @@ It is clear from the conclusion drawn in q that John does not expect this condit
 
 ----------------
 
-# Acts 4:9-10: First Class Condition
+# Acts 4:9-10
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -7856,9 +8137,10 @@ This is an example of a speech act conditional; q is true regardless of whether 
 
 ----------------
 
-# Acts 4:19: First Class Condition
+# Acts 4:19
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -7884,9 +8166,10 @@ When there is a choice within p, English often expresses this using 'whether' ra
 
 ----------------
 
-# Acts 5:38b: Third Class Condition
+# Acts 5:38b
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -7911,9 +8194,10 @@ Gamaliel uses the conditionals in v.38b and v.39a to present the two possible si
 
 ----------------
 
-# Acts 5:39a: First Class Condition
+# Acts 5:39a
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -7938,9 +8222,10 @@ See note at v38. Even though this conditional is class 1 (which typically expres
 
 ----------------
 
-# Acts 8:31: (Unspecified) Class Condition
+# Acts 8:31
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -7980,9 +8265,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless':
 
 ----------------
 
-# Acts 9:2: Third Class Condition
+# Acts 9:2
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Request
@@ -8008,9 +8294,10 @@ The conditinoal occurs in indirect speech. If this is not natural or clear, it c
 
 ----------------
 
-# Acts 11:17: First Class Condition
+# Acts 11:17
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -8032,9 +8319,10 @@ p: (if God then gave the same gift to them as he gave to us when we believed in 
 
 ----------------
 
-# Acts 13:15: First Class Condition
+# Acts 13:15
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -8059,9 +8347,10 @@ This conditional is a polite invitation to Paul and his companions to speak. If 
 
 ----------------
 
-# Acts 13:41: Third Class Condition
+# Acts 13:41
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -8088,9 +8377,10 @@ This is a "concessive conditional," occuring in a quotation of Old Testament pro
 
 ----------------
 
-# Acts 15:1: Third Class Condition
+# Acts 15:1
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -8119,9 +8409,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless'): "You can
 
 ----------------
 
-# Acts 16:15: First Class Condition
+# Acts 16:15
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -8146,9 +8437,10 @@ Lydia is not doubting whether she is a true believer; rather, she is using a con
 
 ----------------
 
-# Acts 18:14: Second Class Condition
+# Acts 18:14
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -8173,9 +8465,10 @@ This verse and the next (v.15) form a pair in which the speaker compares two sit
 
 ----------------
 
-# Acts 18:15: First Class Condition
+# Acts 18:15
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -8201,9 +8494,10 @@ See note at v.14.
 
 ----------------
 
-# Acts 19:38: First Class Condition
+# Acts 19:38
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -8228,9 +8522,10 @@ This is a speech act conditional; q is true regardless of whether p is true - p 
 
 ----------------
 
-# Acts 19:39: First Class Condition
+# Acts 19:39
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -8255,9 +8550,10 @@ Although the form of this conditional is the same as in v.38, it does not seem t
 
 ----------------
 
-# Acts 22:25: First Class Condition
+# Acts 22:25
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Question
@@ -8283,9 +8579,10 @@ Although none of the English translations listed translate this as a conditional
 
 ----------------
 
-# Acts 23:9: First Class Condition
+# Acts 23:9
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -8311,9 +8608,10 @@ Boyer and Elliot consider this a true condition with an elipsed q. They do not c
 
 ----------------
 
-# Acts 24:19: (Unspecified) Class Condition
+# Acts 24:19
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -8337,9 +8635,10 @@ NRSV:
 
 ----------------
 
-# Acts 25:5: First Class Condition
+# Acts 25:5
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -8364,9 +8663,10 @@ Although this is a class 1 conditional, which are often factual, there is eviden
 
 ----------------
 
-# Acts 25:11a: First Class Condition
+# Acts 25:11a
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8391,9 +8691,10 @@ Paul uses two conditionals in 11a and 11b to show the powo possible situations (
 
 ----------------
 
-# Acts 25:11b: First Class Condition
+# Acts 25:11b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8418,9 +8719,10 @@ See note at v.11a.
 
 ----------------
 
-# Acts 26:5: Third Class Condition
+# Acts 26:5
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -8446,9 +8748,10 @@ Q is true regardless of p. If this is not clear using a conditional construction
 
 ----------------
 
-# Acts 26:8: First Class Condition
+# Acts 26:8
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -8476,9 +8779,10 @@ Many English translations do not treat this as a conditional, but instead transl
 
 ----------------
 
-# Acts 26:32: Second Class Condition
+# Acts 26:32
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -8500,9 +8804,10 @@ q: (this man might have been set free)
 
 ----------------
 
-# Acts 27:31: Third Class Condition
+# Acts 27:31
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert / Warn
@@ -8529,9 +8834,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Rom 2:17-21: First Class Condition
+# Rom 2:17-21
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -8560,9 +8866,10 @@ Since p is vs.17-20, q could be considered to encompass all four rhetorical ques
 
 ----------------
 
-# Rom 2:25a: Third Class Condition
+# Rom 2:25a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8589,9 +8896,10 @@ Circumcision was a sign that set the Jews apart from the other nations, but Paul
 
 ----------------
 
-# Rom 2:25b: Third Class Condition
+# Rom 2:25b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8616,9 +8924,10 @@ Paul is presenting breaking the law as hypothetical, even though it is clear fro
 
 ----------------
 
-# Rom 2:26: Third Class Condition
+# Rom 2:26
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8643,9 +8952,10 @@ A rhetorical question intended to be answered positively (which Paul does in ver
 
 ----------------
 
-# Rom 3:3: First Class Condition
+# Rom 3:3
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Argue
@@ -8679,9 +8989,10 @@ q: (does their faithfulness nullify the faithfulness of God?)
 
 ----------------
 
-# Rom 3:5: First Class Condition
+# Rom 3:5
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8707,9 +9018,10 @@ In 3:5 and 3:7 Paul is presenting the kind of argument that his opponents might 
 
 ----------------
 
-# Rom 3:7: First Class Condition
+# Rom 3:7
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8737,9 +9049,10 @@ Q expects an answer, "There is no reason why I should be condemned as a sinner."
 
 ----------------
 
-# Rom 3:29-30: First Class Condition
+# Rom 3:29-30
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8768,9 +9081,10 @@ Because God created the whole of humankind the Jews cannot claim God for themsel
 
 ----------------
 
-# Rom 4:2: First Class Condition
+# Rom 4:2
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -8795,9 +9109,10 @@ Paul explains that this conditional is non-factual at the end of v3 "Abraham bel
 
 ----------------
 
-# Rom 4:14: First Class Condition
+# Rom 4:14
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -8822,9 +9137,10 @@ In v.13 Paul stated, the promise to Abraham ... that he would be heir of the wor
 
 ----------------
 
-# Rom 5:10: First Class Condition
+# Rom 5:10
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -8850,9 +9166,10 @@ Paul uses several of these "how much more" statements (5:10, 15, 17, 11:12, 24) 
 
 ----------------
 
-# Rom 5:15: First Class Condition
+# Rom 5:15
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -8878,9 +9195,10 @@ See 5:10
 
 ----------------
 
-# Rom 5:17: First Class Condition
+# Rom 5:17
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -8906,9 +9224,10 @@ See 5:10
 
 ----------------
 
-# Rom 6:5: First Class Condition
+# Rom 6:5
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -8934,9 +9253,10 @@ See 5:10
 
 ----------------
 
-# Rom 6:8: First Class Condition
+# Rom 6:8
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -8962,9 +9282,10 @@ This is another example of p and q being placed together for comparison (see not
 
 ----------------
 
-# Rom 7:2: Third Class Condition
+# Rom 7:2
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -8989,9 +9310,10 @@ This conditional (and the next two in 7:3) are examples to illustrate the point 
 
 ----------------
 
-# Rom 7:3a: Third Class Condition
+# Rom 7:3a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -9017,9 +9339,10 @@ Some translations (e.g. NASB, NIV) put p before q: "So then, if she has sexual r
 
 ----------------
 
-# Rom 7:3b: Third Class Condition
+# Rom 7:3b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -9044,9 +9367,10 @@ In Greek, the last part of v.3 contains a participle verb form γενομένη�
 
 ----------------
 
-# Rom 7:7a: Second Class Condition
+# Rom 7:7a
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -9075,9 +9399,10 @@ The phrase εἰ μὴ 'except' is usually treated as a "non-conditional" (see 1
 
 ----------------
 
-# Rom 7:7b: Second Class Condition
+# Rom 7:7b
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -9103,9 +9428,10 @@ The phrase εἰ μὴ is translated as "if... not" rather than as "except" by m
 
 ----------------
 
-# Rom 7:16: First Class Condition
+# Rom 7:16
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -9130,9 +9456,10 @@ The truth of p is stated in v.15: "I do not do what I want, but I do the very th
 
 ----------------
 
-# Rom 7:20: First Class Condition
+# Rom 7:20
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -9157,9 +9484,10 @@ This is a repetition - in abbreviated form - of vs.16-17.
 
 ----------------
 
-# Rom 8:9a: First Class Condition
+# Rom 8:9a
 
 
+* **Class:** 1
 * **Probability:** Factual / Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -9188,9 +9516,10 @@ The Greek connctive εἴπερ indicates a known fact, and is often translated 
 
 ----------------
 
-# Rom 8:9b: First Class Condition
+# Rom 8:9b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -9217,9 +9546,10 @@ This describes the opposite scenario to the previous (8:9a) conditional. Whereas
 
 ----------------
 
-# Rom 8:10: First Class Condition
+# Rom 8:10
 
 
+* **Class:** 1
 * **Probability:** Factual / Neutral
 * **Time Orientation:** Present / Gnomic
 * **Illocutionary Force:** Promise
@@ -9245,9 +9575,10 @@ The conditionals in 8:9a, 8:10, and 8:11 all describe the same reality and are a
 
 ----------------
 
-# Rom 8:11: First Class Condition
+# Rom 8:11
 
 
+* **Class:** 1
 * **Probability:** Factual / Neutral
 * **Time Orientation:** Present / Gnomic
 * **Illocutionary Force:** Promise
@@ -9273,9 +9604,10 @@ The conditionals in 8:9a, 8:10, and 8:11 all describe the same reality and are a
 
 ----------------
 
-# Rom 8:13a: First Class Condition
+# Rom 8:13a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -9300,9 +9632,10 @@ Paul's purpose here is to set out the consequences of living "according to the f
 
 ----------------
 
-# Rom 8:13b: First Class Condition
+# Rom 8:13b
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -9327,9 +9660,10 @@ p: (but if by the Spirit you put to death the deeds of the body)
 
 ----------------
 
-# Rom 8:17a: First Class Condition
+# Rom 8:17a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Promise
@@ -9355,9 +9689,10 @@ The previous verse states the truth of p: "The Spirit himself bears witness with
 
 ----------------
 
-# Rom 8:17b: First Class Condition
+# Rom 8:17b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Promise
@@ -9385,9 +9720,10 @@ The Greek connctive εἴπερ indicates a known fact, and is often translated 
 
 ----------------
 
-# Rom 8:25: First Class Condition
+# Rom 8:25
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present / Gnomic
 * **Illocutionary Force:** Exhort
@@ -9412,9 +9748,10 @@ This expresses an exhortation: If we hope for what we do not see (and we should 
 
 ----------------
 
-# Rom 8:31: First Class Condition
+# Rom 8:31
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present / Gnomic
 * **Illocutionary Force:** Assert
@@ -9439,9 +9776,10 @@ Q is a rhetorical question that is meant to be answered 'No one!'
 
 ----------------
 
-# Rom 9:22: First Class Condition
+# Rom 9:22
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -9466,9 +9804,10 @@ There is some debate as to whether this is an actual conditional or not, as it h
 
 ----------------
 
-# Rom 9:27: Third Class Condition
+# Rom 9:27
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -9493,9 +9832,10 @@ This conditional is part of a quote from Isaiah 10:22-23. Here, Ἐὰν has the
 
 ----------------
 
-# Rom 9:29: Second Class Condition
+# Rom 9:29
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -9521,9 +9861,10 @@ p: (if the Lord of hosts had not left us offspring)
 
 ----------------
 
-# Rom 10:9: Third Class Condition
+# Rom 10:9
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -9548,9 +9889,10 @@ This conditional applies to any person at any time (so the time orientation is g
 
 ----------------
 
-# Rom 10:15: Third Class Condition
+# Rom 10:15
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present / Gnomic
 * **Illocutionary Force:** Argue
@@ -9581,9 +9923,10 @@ It is best to keep the order Q>P, if possible, because this sentence forms part 
 
 ----------------
 
-# Rom 11:6a: First Class Condition
+# Rom 11:6a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -9609,9 +9952,10 @@ p: (but if it is by grace)
 
 ----------------
 
-# Rom 11:12: First Class Condition
+# Rom 11:12
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -9636,9 +9980,10 @@ The truth of p is asserted in v.11: "through their [the Jews'] trespass salvatio
 
 ----------------
 
-# Rom 11:13-14: First Class Condition
+# Rom 11:13-14
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -9670,9 +10015,10 @@ Q contains a "how much more" statement (see also 5:10, 15, 17, 11:24).
 
 ----------------
 
-# Rom 11:15: First Class Condition
+# Rom 11:15
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -9700,9 +10046,10 @@ The word 'but' in "but life from the dead" is a translation of εἰ μὴ 'exce
 
 ----------------
 
-# Rom 11:16a: First Class Condition
+# Rom 11:16a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -9728,9 +10075,10 @@ There are several interpretations as to what the dough is referring to. The firs
 
 ----------------
 
-# Rom 11:16b: First Class Condition
+# Rom 11:16b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -9755,9 +10103,10 @@ There are several interpretations as to what the root is referring to. Suggestio
 
 ----------------
 
-# Rom 11:17-18: First Class Condition
+# Rom 11:17-18
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Command
@@ -9783,9 +10132,10 @@ The branches that have been broken off represent the Jews who did not believe in
 
 ----------------
 
-# Rom 11:18: First Class Condition
+# Rom 11:18
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn / Rebuke
@@ -9811,9 +10161,10 @@ The Greek simply states, "but if you boast/exult, you do not carry/support the r
 
 ----------------
 
-# Rom 11:21: First Class Condition
+# Rom 11:21
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Warn
@@ -9838,9 +10189,10 @@ This verse continues the comparison between the Jews (natural branches) and the 
 
 ----------------
 
-# Rom 11:22: Third Class Condition
+# Rom 11:22
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn / Exhort
@@ -9869,9 +10221,10 @@ Verse 22 concludes with a warning that includes the non-conditional conjunction 
 
 ----------------
 
-# Rom 11:23: Third Class Condition
+# Rom 11:23
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present / Future
 * **Illocutionary Force:** Promise
@@ -9899,9 +10252,10 @@ P contains two negative elements: if they do NOT continue in their UNbelief. Thi
 
 ----------------
 
-# Rom 11:24: First Class Condition
+# Rom 11:24
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -9926,9 +10280,10 @@ P describes a known fact; q contains another  "how much more" statement (see als
 
 ----------------
 
-# Rom 12:6: First Class Condition
+# Rom 12:6
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -9958,9 +10313,10 @@ Each apodosis describes how to use the gift mentioned in p. The first apodosis b
 
 ----------------
 
-# Rom 12:7a: First Class Condition
+# Rom 12:7a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -9986,9 +10342,10 @@ See 12:6
 
 ----------------
 
-# Rom 12:7b: First Class Condition
+# Rom 12:7b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -10014,9 +10371,10 @@ See 12:6
 
 ----------------
 
-# Rom 12:8: First Class Condition
+# Rom 12:8
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -10042,9 +10400,10 @@ See 12:6. The three final gifts in the list (giving, leading, showing mercy) are
 
 ----------------
 
-# Rom 12:20a: Third Class Condition
+# Rom 12:20a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -10069,9 +10428,10 @@ Quotes Proverbs 25:22 but omits "and the Lord will reward you". Should be read i
 
 ----------------
 
-# Rom 12:20b: Third Class Condition
+# Rom 12:20b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -10096,9 +10456,10 @@ See notes on 12:20a
 
 ----------------
 
-# Rom 13:4: Third Class Condition
+# Rom 13:4
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -10119,9 +10480,10 @@ p: (but if you do wrong)
 
 ----------------
 
-# Rom 13:9: First Class Condition
+# Rom 13:9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -10149,9 +10511,10 @@ p: (and if there is any other commandment)
 
 ----------------
 
-# Rom 14:8a: Third Class Condition
+# Rom 14:8a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -10172,9 +10535,10 @@ p: (for if we live)
 
 ----------------
 
-# Rom 14:8b: Third Class Condition
+# Rom 14:8b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -10195,9 +10559,10 @@ p: (and if we die)
 
 ----------------
 
-# Rom 14:15: First Class Condition
+# Rom 14:15
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -10222,9 +10587,10 @@ This conditional is used to explain the previous verse (discussed in the non-con
 
 ----------------
 
-# Rom 14:23: Third Class Condition
+# Rom 14:23
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -10249,9 +10615,10 @@ ESV, NASB, NRSV, NIV, and NLT all express this as an inverted conditional, e.g. 
 
 ----------------
 
-# Rom 15:27: First Class Condition
+# Rom 15:27
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -10277,9 +10644,10 @@ The "saints at Jerusalem" (v.26) are Jews who have believed in Christ. In chapte
 
 ----------------
 
-# 1 Cor 2:8: Second Class Condition
+# 1 Cor 2:8
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -10304,9 +10672,10 @@ Paul uses a false p and q to prove the truthfulness of the previous statement, "
 
 ----------------
 
-# 1 Cor 3:12-13: First Class Condition
+# 1 Cor 3:12-13
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -10334,9 +10703,10 @@ The conditional elaborates on v.10-11 where Paul describes himself as laying the
 
 ----------------
 
-# 1 Cor 3:14: First Class Condition
+# 1 Cor 3:14
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -10363,9 +10733,10 @@ Those who build on the foundation will be tried and tested; the conditionals in 
 
 ----------------
 
-# 1 Cor 3:15: First Class Condition
+# 1 Cor 3:15
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -10390,9 +10761,10 @@ This shows the alternative to v.14.
 
 ----------------
 
-# 1 Cor 3:17: First Class Condition
+# 1 Cor 3:17
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -10414,9 +10786,10 @@ p: (if anyone destroys God's temple)
 
 ----------------
 
-# 1 Cor 3:18: First Class Condition
+# 1 Cor 3:18
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -10443,9 +10816,10 @@ ESV and NASB follow the Greek and use a 3rd person 'he' throughout; NRSV, NIV, a
 
 ----------------
 
-# 1 Cor 4:7: First Class Condition
+# 1 Cor 4:7
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -10470,9 +10844,10 @@ P presents a known fact (you received everything from God), and q is a rhetorica
 
 ----------------
 
-# 1 Cor 4:15: Third Class Condition
+# 1 Cor 4:15
 
 
+* **Class:** 3
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -10502,9 +10877,10 @@ Boyer notes that this has a concessive ('even if') sense even though ἐὰν is
 
 ----------------
 
-# 1 Cor 4:19: Third Class Condition
+# 1 Cor 4:19
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -10530,9 +10906,10 @@ Paul plans and desires to go to the Corinthians, but he remains submissive to Go
 
 ----------------
 
-# 1 Cor 5:11: Third Class Condition
+# 1 Cor 5:11
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -10559,9 +10936,10 @@ In Greek, ἐὰν 'if' comes before 'one who is called a brother'. A possible a
 
 ----------------
 
-# 1 Cor 6:2: First Class Condition
+# 1 Cor 6:2
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Future / Present
 * **Illocutionary Force:** Rebuke
@@ -10587,9 +10965,10 @@ Third in a line of rhetorical questions rebuking the Corinthians for how they, p
 
 ----------------
 
-# 1 Cor 6:4: Third Class Condition
+# 1 Cor 6:4
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -10610,9 +10989,10 @@ p: (if you have such cases)
 
 ----------------
 
-# 1 Cor 7:8: Third Class Condition
+# 1 Cor 7:8
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -10641,9 +11021,10 @@ In Greek, this is the first of a series of conditional sentences (vs.8, 9, 11, 1
 
 ----------------
 
-# 1 Cor 7:9: First Class Condition
+# 1 Cor 7:9
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort / Command
@@ -10668,9 +11049,10 @@ This and the previous conditional work together. The first conditional represent
 
 ----------------
 
-# 1 Cor 7:11: Third Class Condition
+# 1 Cor 7:11
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort / Command
@@ -10697,9 +11079,10 @@ The force of the 3rd person imperative μενέτω ἄγαμος is understood 
 
 ----------------
 
-# 1 Cor 7:12: First Class Condition
+# 1 Cor 7:12
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort / Command
@@ -10724,9 +11107,10 @@ The "if" here is situational and means "in the case that" (Ellingworth). A non-c
 
 ----------------
 
-# 1 Cor 7:13: First Class Condition
+# 1 Cor 7:13
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort / Command
@@ -10752,9 +11136,10 @@ This verse is parallel to v.12 but addresses a believing woman whose husband is 
 
 ----------------
 
-# 1 Cor 7:15: First Class Condition
+# 1 Cor 7:15
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Permit
@@ -10779,9 +11164,10 @@ Paired with the conditionals in 7:12,13 gives the unbeliever the choice - they c
 
 ----------------
 
-# 1 Cor 7:21b: First Class Condition
+# 1 Cor 7:21b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort / Permit
@@ -10809,9 +11195,10 @@ Boyer suggests that 7:21a could be an implied conditional: "If you were a bondse
 
 ----------------
 
-# 1 Cor 7:28a: Third Class Condition
+# 1 Cor 7:28a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert / Permit
@@ -10838,9 +11225,10 @@ The Greek ἐὰν καὶ  could be interpreted as "even if" (a 'concessive con
 
 ----------------
 
-# 1 Cor 7:28b: Third Class Condition
+# 1 Cor 7:28b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert / Permit
@@ -10865,9 +11253,10 @@ See 7:28a. NASB, NRSV abd NIV translate παρθένος as "virgin"; ESV transl
 
 ----------------
 
-# 1 Cor 7:36: (Unspecified) Class Condition
+# 1 Cor 7:36
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Permit
@@ -10895,9 +11284,10 @@ For p2, "if his passions are strong" is the majority interpretation (ESV, NRSV, 
 
 ----------------
 
-# 1 Cor 7:39: Third Class Condition
+# 1 Cor 7:39
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Permit
@@ -10922,9 +11312,10 @@ This condition describes teh situation when 7:39a no longer applies: "A wife is 
 
 ----------------
 
-# 1 Cor 7:40: Third Class Condition
+# 1 Cor 7:40
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -10951,9 +11342,10 @@ Paul emphasizes that this is his opinion.
 
 ----------------
 
-# 1 Cor 8:2: First Class Condition
+# 1 Cor 8:2
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -10984,9 +11376,10 @@ This knowing likely refers to the previous verse which talks about the knowledge
 
 ----------------
 
-# 1 Cor 8:3: First Class Condition
+# 1 Cor 8:3
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11014,9 +11407,10 @@ p: (but if anyone loves God)
 
 ----------------
 
-# 1 Cor 8:5-6: First Class Condition
+# 1 Cor 8:5-6
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11044,9 +11438,10 @@ p: (even though there may be so-called gods...)
 
 ----------------
 
-# 1 Cor 8:8a: Third Class Condition
+# 1 Cor 8:8a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11077,9 +11472,10 @@ The negative "if... not" should be kept in translation, if possible, because it 
 
 ----------------
 
-# 1 Cor 8:8b: Third Class Condition
+# 1 Cor 8:8b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11104,9 +11500,10 @@ This forms a contrastive pair with v.8a. In Greek p comes before q, and is intro
 
 ----------------
 
-# 1 Cor 8:10: Third Class Condition
+# 1 Cor 8:10
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -11133,9 +11530,10 @@ A very literal translation might look like this  "For if anyone should see you t
 
 ----------------
 
-# 1 Cor 8:13: First Class Condition
+# 1 Cor 8:13
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Instruct
@@ -11160,9 +11558,10 @@ Whether the food we eat is likely to cause a fellow believer to stumble will var
 
 ----------------
 
-# 1 Cor 9:2: First Class Condition
+# 1 Cor 9:2
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11189,9 +11588,10 @@ Boyer notes that this is one of the instances where the conditional is concessiv
 
 ----------------
 
-# 1 Cor 9:11a: First Class Condition
+# 1 Cor 9:11a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -11217,9 +11617,10 @@ Q here is the whole conditional statement in 9:11b. The image here is from farmi
 
 ----------------
 
-# 1 Cor 9:11b: First Class Condition
+# 1 Cor 9:11b
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -11246,9 +11647,10 @@ Some English translations express this without a conditional, which avoids havin
 
 ----------------
 
-# 1 Cor 9:12a: First Class Condition
+# 1 Cor 9:12a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -11273,9 +11675,10 @@ Elaborating on the previous verse, Paul reminds his readers in p that they have 
 
 ----------------
 
-# 1 Cor 9:16a: Third Class Condition
+# 1 Cor 9:16a
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11302,9 +11705,10 @@ This is something Paul is doing, so NIV has: "when I preach the gospel, I cannot
 
 ----------------
 
-# 1 Cor 9:16b: Third Class Condition
+# 1 Cor 9:16b
 
 
+* **Class:** 3
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11334,9 +11738,10 @@ In some languages, 'not proclaim' can be expressed as 'fail to proclaim': "If I 
 
 ----------------
 
-# 1 Cor 9:17a: First Class Condition
+# 1 Cor 9:17a
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11361,9 +11766,10 @@ p: (for if I do this of my own will)
 
 ----------------
 
-# 1 Cor 9:17b: First Class Condition
+# 1 Cor 9:17b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11389,9 +11795,10 @@ p: (but if not of my own will)
 
 ----------------
 
-# 1 Cor 10:27: First Class Condition
+# 1 Cor 10:27
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Permit
@@ -11412,9 +11819,10 @@ p: (if one of the unbelievers invites you to dinner and you are disposed to go)
 
 ----------------
 
-# 1 Cor 10:28: Third Class Condition
+# 1 Cor 10:28
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -11435,9 +11843,10 @@ p: (but if someone says to you "this has been offered in sacrifice")
 
 ----------------
 
-# 1 Cor 10:30: First Class Condition
+# 1 Cor 10:30
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -11458,9 +11867,10 @@ p: (if I partake with thankfulness)
 
 ----------------
 
-# 1 Cor 11:6a: First Class Condition
+# 1 Cor 11:6a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11487,9 +11897,10 @@ ESV translates γυνή as "wife" butthe other translations all have "woman".
 
 ----------------
 
-# 1 Cor 11:6b: First Class Condition
+# 1 Cor 11:6b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -11515,9 +11926,10 @@ Here Paul makes the same point as in v.6a, but he starts with the (then) commonl
 
 ----------------
 
-# 1 Cor 11:14: Third Class Condition
+# 1 Cor 11:14
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11544,9 +11956,10 @@ Vs14 and 15 together describe Paul's teaching about men and women's hair.
 
 ----------------
 
-# 1 Cor 11:15: Third Class Condition
+# 1 Cor 11:15
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11568,9 +11981,10 @@ p: (but if a woman has long hair)
 
 ----------------
 
-# 1 Cor 11:16: First Class Condition
+# 1 Cor 11:16
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11591,9 +12005,10 @@ p: (if anyone is inclined to be contentious)
 
 ----------------
 
-# 1 Cor 11:31: (Unspecified) Class Condition
+# 1 Cor 11:31
 
 
+* **Class:** None specified
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -11618,9 +12033,10 @@ In v.29 Paul has stated that some have been judged, so p is not true.
 
 ----------------
 
-# 1 Cor 11:34: First Class Condition
+# 1 Cor 11:34
 
 
+* **Class:** 1
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -11646,9 +12062,10 @@ This has ben interpreted as, "if anyone is so hungry that he cannot wait for eve
 
 ----------------
 
-# 1 Cor 12:15: Third Class Condition
+# 1 Cor 12:15
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -11673,9 +12090,10 @@ This is the first of a series of conditionals in which Paul develops the metapho
 
 ----------------
 
-# 1 Cor 12:16: Third Class Condition
+# 1 Cor 12:16
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -11696,9 +12114,10 @@ p: (and if the ear should say, "Because I am not an eye, I do not belong to the 
 
 ----------------
 
-# 1 Cor 12:17a: Second Class Condition
+# 1 Cor 12:17a
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -11719,9 +12138,10 @@ p: (if the whole body were an eye)
 
 ----------------
 
-# 1 Cor 12:17b: Second Class Condition
+# 1 Cor 12:17b
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -11742,9 +12162,10 @@ p: (if the whole body were an ear)
 
 ----------------
 
-# 1 Cor 12:19: Second Class Condition
+# 1 Cor 12:19
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -11765,9 +12186,10 @@ p: (if all were a single member)
 
 ----------------
 
-# 1 Cor 12:26a: First Class Condition
+# 1 Cor 12:26a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11792,9 +12214,10 @@ In Greek the form of both conditionals in v.26 is εἴτε, indicating that the
 
 ----------------
 
-# 1 Cor 12:26b: First Class Condition
+# 1 Cor 12:26b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11819,9 +12242,10 @@ p: (if one member is honoured)
 
 ----------------
 
-# 1 Cor 13:1: Third Class Condition
+# 1 Cor 13:1
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -11842,9 +12266,10 @@ p: (if I speak in the tongues of men and of angels, but have not love)
 
 ----------------
 
-# 1 Cor 13:2: Third Class Condition
+# 1 Cor 13:2
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -11871,9 +12296,10 @@ This verse has a complex protasis consisting of three positive statements (1) I 
 
 ----------------
 
-# 1 Cor 13:3: Third Class Condition
+# 1 Cor 13:3
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -11900,9 +12326,10 @@ This verse has a complex protasis consisting of two positive statements (1) I gi
 
 ----------------
 
-# 1 Cor 14:5b: First Class Condition
+# 1 Cor 14:5b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11932,9 +12359,10 @@ If a translation of of "unless", "except if", or "if not" is unclear or unnatura
 
 ----------------
 
-# 1 Cor 14:6a: Third Class Condition
+# 1 Cor 14:6a
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11959,9 +12387,10 @@ Q is the whole of 14:6b, which is itself a conditional. If necessary, this could
 
 ----------------
 
-# 1 Cor 14:6b: Third Class Condition
+# 1 Cor 14:6b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -11992,9 +12421,10 @@ NLT provides an alternative structure: "Dear brothers and sisters, if I should (
 
 ----------------
 
-# 1 Cor 14:7b: Third Class Condition
+# 1 Cor 14:7b
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -12026,9 +12456,10 @@ The question "how will it be known what is played on the flute or on the harp?" 
 
 ----------------
 
-# 1 Cor 14:8: Third Class Condition
+# 1 Cor 14:8
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -12053,9 +12484,10 @@ Note that 14:7b, 8, 9 are making basically the same argument. 14:7b & 8 provide 
 
 ----------------
 
-# 1 Cor 14:9: Third Class Condition
+# 1 Cor 14:9
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -12090,9 +12522,10 @@ NLT expresses thisas: "If you speak to people in words they don’t understand, 
 
 ----------------
 
-# 1 Cor 14:11: Third Class Condition
+# 1 Cor 14:11
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -12117,9 +12550,10 @@ p: (If I do not know the meaning of the language)
 
 ----------------
 
-# 1 Cor 14:14: Third Class Condition
+# 1 Cor 14:14
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -12140,9 +12574,10 @@ p: (if I pray in a tongue)
 
 ----------------
 
-# 1 Cor 14:16: Third Class Condition
+# 1 Cor 14:16
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -12168,9 +12603,10 @@ Q is a rhetorical question meant to be answered "they cannot".
 
 ----------------
 
-# 1 Cor 14:23: Third Class Condition
+# 1 Cor 14:23
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -12195,9 +12631,10 @@ Q is a rhetorical question meant to be answered "they will".
 
 ----------------
 
-# 1 Cor 14:24: Third Class Condition
+# 1 Cor 14:24
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -12218,9 +12655,10 @@ p: (if all prophesy, and an unbeliever or outsider enters)
 
 ----------------
 
-# 1 Cor 14:27: First Class Condition
+# 1 Cor 14:27
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -12246,9 +12684,10 @@ p: (if any speak in a tongue)
 
 ----------------
 
-# 1 Cor 14:28: Third Class Condition
+# 1 Cor 14:28
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -12273,9 +12712,10 @@ p: (if there is no one to interpret)
 
 ----------------
 
-# 1 Cor 14:30: Third Class Condition
+# 1 Cor 14:30
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -12296,9 +12736,10 @@ p: (if a revelation is made to another sitting there)
 
 ----------------
 
-# 1 Cor 14:35: First Class Condition
+# 1 Cor 14:35
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -12319,9 +12760,10 @@ p: (if there is anything they desire to learn)
 
 ----------------
 
-# 1 Cor 14:37: First Class Condition
+# 1 Cor 14:37
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -12348,9 +12790,10 @@ Similar to 3:18, 8:2 "If anyone thinks/imagines"
 
 ----------------
 
-# 1 Cor 14:38: First Class Condition
+# 1 Cor 14:38
 
 
+* **Class:** 1
 * **Probability:** Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -12377,9 +12820,10 @@ Refers back to 14:37
 
 ----------------
 
-# 1 Cor 15:2a: First Class Condition
+# 1 Cor 15:2a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -12405,9 +12849,10 @@ P is a continuation of v.1: "the gospel I preached to you, which you received, i
 
 ----------------
 
-# 1 Cor 15:2b: First Class Condition
+# 1 Cor 15:2b
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely / Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -12437,9 +12882,10 @@ An alternative interpretation treats 'if you hold fast...' and 'unless you belie
 
 ----------------
 
-# 1 Cor 15:12: First Class Condition
+# 1 Cor 15:12
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -12467,9 +12913,10 @@ The time reference in v.12 refers to "is being proclaimed" not to "raised from t
 
 ----------------
 
-# 1 Cor 15:13: First Class Condition
+# 1 Cor 15:13
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Argue
@@ -12496,9 +12943,10 @@ The two negatives (in p and q) plus the fact that this is non-factual may cause 
 
 ----------------
 
-# 1 Cor 15:14: First Class Condition
+# 1 Cor 15:14
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Argue
@@ -12523,9 +12971,10 @@ See note on 15:12.
 
 ----------------
 
-# 1 Cor 15:15b: First Class Condition
+# 1 Cor 15:15b
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -12553,9 +13002,10 @@ See note on 15:12.
 
 ----------------
 
-# 1 Cor 15:16: First Class Condition
+# 1 Cor 15:16
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -12582,9 +13032,10 @@ Lyman (1975) suggests the following: "If it is true that God does not bring dead
 
 ----------------
 
-# 1 Cor 15:17: First Class Condition
+# 1 Cor 15:17
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Argue
@@ -12611,9 +13062,10 @@ See note on 15:12.
 
 ----------------
 
-# 1 Cor 15:19: First Class Condition
+# 1 Cor 15:19
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -12638,9 +13090,10 @@ See note on 15:12.
 
 ----------------
 
-# 1 Cor 15:29: First Class Condition
+# 1 Cor 15:29
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -12666,9 +13119,10 @@ The rhetorical question of q implies that this is something the people of Corint
 
 ----------------
 
-# 1 Cor 15:32a: First Class Condition
+# 1 Cor 15:32a
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -12696,9 +13150,10 @@ Paul did battle "wild beasts" in Ephesus, but not for human reasons (NIV)
 
 ----------------
 
-# 1 Cor 15:32b: First Class Condition
+# 1 Cor 15:32b
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -12723,9 +13178,10 @@ Q is quoted from Isaiah 22:13.
 
 ----------------
 
-# 1 Cor 15:36: Third Class Condition
+# 1 Cor 15:36
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -12753,9 +13209,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# 1 Cor 15:44: First Class Condition
+# 1 Cor 15:44
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -12781,9 +13238,10 @@ p: (if there is a natural body)
 
 ----------------
 
-# 1 Cor 16:4: Third Class Condition
+# 1 Cor 16:4
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -12804,9 +13262,10 @@ p: (if it seems advisable that I should go also)
 
 ----------------
 
-# 1 Cor 16:7: Third Class Condition
+# 1 Cor 16:7
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -12828,9 +13287,10 @@ q: (I hope to spend some time with you)
 
 ----------------
 
-# 1 Cor 16:10: Third Class Condition
+# 1 Cor 16:10
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -12856,9 +13316,10 @@ Although it is not certain, Paul writes as if he fully expects Timothy to visit 
 
 ----------------
 
-# 1 Cor 16:22: First Class Condition
+# 1 Cor 16:22
 
 
+* **Class:** 1
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -12880,9 +13341,10 @@ p: (if anyone has no love for the Lord)
 
 ----------------
 
-# 2 Cor 1:6a: First Class Condition
+# 2 Cor 1:6a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -12910,9 +13372,10 @@ Vs.4-5 make it clear that Paul and Timothy were afflicted/troubled.
 
 ----------------
 
-# 2 Cor 1:6b: First Class Condition
+# 2 Cor 1:6b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -12940,9 +13403,10 @@ Vs.4-5 make it clear that Paul and Timothy were comorted/encouraged.
 
 ----------------
 
-# 2 Cor 2:2a: First Class Condition
+# 2 Cor 2:2a
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -12967,9 +13431,10 @@ In v.1 Paul refers to his last visit to the Corinthians and the pain it caused. 
 
 ----------------
 
-# 2 Cor 2:5: First Class Condition
+# 2 Cor 2:5
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -12997,9 +13462,10 @@ Similarly to 2:2, Paul is discussing the specific problems in Corinth and almost
 
 ----------------
 
-# 2 Cor 2:10: First Class Condition
+# 2 Cor 2:10
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -13029,9 +13495,10 @@ In this speech act conditional q is true regardless of the truth of p. Translato
 
 ----------------
 
-# 2 Cor 3:7-8: First Class Condition
+# 2 Cor 3:7-8
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -13057,9 +13524,10 @@ Paul compares the glory of the old covenant with the glory of the new convenant 
 
 ----------------
 
-# 2 Cor 3:9: First Class Condition
+# 2 Cor 3:9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -13084,9 +13552,10 @@ See note on v.7-8
 
 ----------------
 
-# 2 Cor 3:11: First Class Condition
+# 2 Cor 3:11
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -13111,9 +13580,10 @@ Paul once more continues his arguement for the superior glory of the new covanen
 
 ----------------
 
-# 2 Cor 4:3: First Class Condition
+# 2 Cor 4:3
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -13141,9 +13611,10 @@ The force of this conditional is expressed well by NLT: "If the Good News we pre
 
 ----------------
 
-# 2 Cor 4:16: First Class Condition
+# 2 Cor 4:16
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -13171,9 +13642,10 @@ This is a concessive conditional in which q is not dependent on the validity of 
 
 ----------------
 
-# 2 Cor 5:1: Third Class Condition
+# 2 Cor 5:1
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Encourage
@@ -13199,9 +13671,10 @@ Though the NLT has "when" here, implying a Factual condition, it is more likely 
 
 ----------------
 
-# 2 Cor 5:13a: First Class Condition
+# 2 Cor 5:13a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -13228,9 +13701,10 @@ The conditionals in v.13 together describe an exhaustive set of situations.
 
 ----------------
 
-# 2 Cor 5:13b: First Class Condition
+# 2 Cor 5:13b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -13257,9 +13731,10 @@ See notes on 15:13a.
 
 ----------------
 
-# 2 Cor 5:16: First Class Condition
+# 2 Cor 5:16
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -13288,9 +13763,10 @@ This is a concessive conditional in which q is not dependent on the validity of 
 
 ----------------
 
-# 2 Cor 5:17: First Class Condition
+# 2 Cor 5:17
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -13318,9 +13794,10 @@ Paul makes a general statement here that is not referencing a particular person 
 
 ----------------
 
-# 2 Cor 7:8a: First Class Condition
+# 2 Cor 7:8a
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -13349,9 +13826,10 @@ There are 3 occurrences of εἰ και in verse 8. Boyer and Martin both analyz
 
 ----------------
 
-# 2 Cor 7:8-9: First Class Condition
+# 2 Cor 7:8-9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -13385,9 +13863,10 @@ NRSV, NIV, and Martin interpret this conditional as spanning v.8-9, with conditi
 
 ----------------
 
-# 2 Cor 7:8c: First Class Condition
+# 2 Cor 7:8c
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -13416,9 +13895,10 @@ In Greek, p comes in the middle of q. A word-for-word translation with p in squa
 
 ----------------
 
-# 2 Cor 7:12: First Class Condition
+# 2 Cor 7:12
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert / Encourage
@@ -13447,9 +13927,10 @@ Because p is factual and is followed by a negative, most English translations us
 
 ----------------
 
-# 2 Cor 7:14: First Class Condition
+# 2 Cor 7:14
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -13481,9 +13962,10 @@ In p Paul admits that he boasted to Titus about the Corinthian believers and in 
 
 ----------------
 
-# 2 Cor 8:12a: First Class Condition
+# 2 Cor 8:12a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -13509,9 +13991,10 @@ Paul phrases this in a very general way, but he clearly intends to refer to the 
 
 ----------------
 
-# 2 Cor 9:4: Third Class Condition
+# 2 Cor 9:4
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -13537,9 +14020,10 @@ Paul refers to this possible future circumstance and its outcome. P has two part
 
 ----------------
 
-# 2 Cor 10:7: First Class Condition
+# 2 Cor 10:7
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -13567,9 +14051,10 @@ P has εἴ τις 'if anyone' but Paul has specific people in mind (his opponen
 
 ----------------
 
-# 2 Cor 10:8: Third Class Condition
+# 2 Cor 10:8
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -13595,9 +14080,10 @@ Based on the context, this this can be interpreted as a concessive ("even if") c
 
 ----------------
 
-# 2 Cor 11:4: First Class Condition
+# 2 Cor 11:4
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -13626,9 +14112,10 @@ There are three parts to p; although there is only one εἰ 'if' in Greek, most
 
 ----------------
 
-# 2 Cor 11:6: First Class Condition
+# 2 Cor 11:6
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -13656,9 +14143,10 @@ Paul seems to be accepting the description of himself in p (perhaps ironically),
 
 ----------------
 
-# 2 Cor 11:15: First Class Condition
+# 2 Cor 11:15
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -13685,9 +14173,10 @@ Paul gives a harsh warning to the Corinthians and a rebuke to the decievers, lin
 
 ----------------
 
-# 2 Cor 11:16: Third Class Condition
+# 2 Cor 11:16
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Request
@@ -13713,9 +14202,10 @@ Greek has two expressions that include conditional particles: εἰ δὲ μή �
 
 ----------------
 
-# 2 Cor 11:20: First Class Condition
+# 2 Cor 11:20
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -13749,9 +14239,10 @@ In the Greek, each clause listed in p is is introduced by its own ει τις 'i
 
 ----------------
 
-# 2 Cor 11:30: First Class Condition
+# 2 Cor 11:30
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -13776,9 +14267,10 @@ P is factual because Paul states in 12:1 that it is necessary for him to boast (
 
 ----------------
 
-# 2 Cor 12:6: Third Class Condition
+# 2 Cor 12:6
 
 
+* **Class:** 3
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -13804,9 +14296,10 @@ P is non-factual because Paul does not want to boast. However, if he did boast a
 
 ----------------
 
-# 2 Cor 12:11b: First Class Condition
+# 2 Cor 12:11b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -13834,9 +14327,10 @@ This is a "concessive conditional," in which q is not dependent on the validity 
 
 ----------------
 
-# 2 Cor 12:15b: First Class Condition
+# 2 Cor 12:15b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -13858,9 +14352,10 @@ p: (if I love you more)
 
 ----------------
 
-# 2 Cor 13:2b: Third Class Condition
+# 2 Cor 13:2b
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -13886,9 +14381,10 @@ In 13:1 Paul mentions his third visit to Corinth as if it has already been arran
 
 ----------------
 
-# 2 Cor 13:5b: First Class Condition
+# 2 Cor 13:5b
 
 
+* **Class:** 1
 * **Probability:** Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -13922,9 +14418,10 @@ The phrase "fail the test" is a translation of the Greek word ἀδόκιμοι 
 
 ----------------
 
-# Gal 1:8: Third Class Condition
+# Gal 1:8
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -13950,9 +14447,10 @@ p: (but even if we or an angel from heaven should preach to you a gospel contrar
 
 ----------------
 
-# Gal 1:9: First Class Condition
+# Gal 1:9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -13977,9 +14475,10 @@ Given that Paul wrote in v.6 that the Galatians "are turning to a different gosp
 
 ----------------
 
-# Gal 1:10: Second Class Condition
+# Gal 1:10
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -14004,9 +14503,10 @@ We know that Paul is a servant of Christ, so p cannot be true
 
 ----------------
 
-# Gal 2:14: First Class Condition
+# Gal 2:14
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -14033,9 +14533,10 @@ Paul is reminding Peter that he had been living like a Gentile. The phrase “th
 
 ----------------
 
-# Gal 2:17: First Class Condition
+# Gal 2:17
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -14061,9 +14562,10 @@ In p, Paul may be referring to the fact that the circumcision faction regarded h
 
 ----------------
 
-# Gal 2:18: First Class Condition
+# Gal 2:18
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -14088,9 +14590,10 @@ The "building" which Paul describes himself rebuilding or tearing down is the Je
 
 ----------------
 
-# Gal 2:21: (Unspecified) Class Condition
+# Gal 2:21
 
 
+* **Class:** None specified
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue / Rebuke
@@ -14115,9 +14618,10 @@ There is no verb in p, so it is not possible to determine whether this is a firs
 
 ----------------
 
-# Gal 3:4: First Class Condition
+# Gal 3:4
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -14148,9 +14652,10 @@ There is no cause-consequence or evidence-conclusion relation between p and q he
 
 ----------------
 
-# Gal 3:18: First Class Condition
+# Gal 3:18
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -14175,9 +14680,10 @@ The argument here rests on the assumption that inheritence can either come by th
 
 ----------------
 
-# Gal 3:21: (Unspecified) Class Condition
+# Gal 3:21
 
 
+* **Class:** None specified
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -14202,9 +14708,10 @@ Paul has already stated that righteousness does not come through the Jewish law 
 
 ----------------
 
-# Gal 3:29: First Class Condition
+# Gal 3:29
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -14230,9 +14737,10 @@ Paul has just stated (3:28) "you are all one in Christ Jesus," so it is clear th
 
 ----------------
 
-# Gal 4:7: First Class Condition
+# Gal 4:7
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -14258,9 +14766,10 @@ Paul has just stated "you are no longer a slave, but a son," so it is clear that
 
 ----------------
 
-# Gal 4:15: Second Class Condition
+# Gal 4:15
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -14286,9 +14795,10 @@ Like other "if possible" constructions, it signals the unlikeliness (or in this 
 
 ----------------
 
-# Gal 5:2: Third Class Condition
+# Gal 5:2
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue / Warn
@@ -14313,9 +14823,10 @@ For a Gentile to become circumcised is a sign that they were choosing the law ov
 
 ----------------
 
-# Gal 5:11: First Class Condition
+# Gal 5:11
 
 
+* **Class:** 1
 * **Probability:** Non-factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -14343,9 +14854,10 @@ The question "Why am I still being persecuted?" indicates that Paul is being per
 
 ----------------
 
-# Gal 5:15: First Class Condition
+# Gal 5:15
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -14370,9 +14882,10 @@ Paul is probably thinking of the divisions and fighting caused by the false teac
 
 ----------------
 
-# Gal 5:18: First Class Condition
+# Gal 5:18
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -14398,9 +14911,10 @@ Paul has instructed his readers to "walk by the Spirit" in v.16, so this is some
 
 ----------------
 
-# Gal 5:25: First Class Condition
+# Gal 5:25
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -14426,9 +14940,10 @@ p: (if we live by the Spirit)
 
 ----------------
 
-# Gal 6:1: Third Class Condition
+# Gal 6:1
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -14454,9 +14969,10 @@ Paul is not referring to a specific person. NASB "even if" treas the constructio
 
 ----------------
 
-# Gal 6:3: First Class Condition
+# Gal 6:3
 
 
+* **Class:** 1
 * **Probability:** Neutral / Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn / Rebuke
@@ -14481,9 +14997,10 @@ This may be a saying or proverb meant to warn all the Galatian believers not to 
 
 ----------------
 
-# Gal 6:9: (Unspecified) Class Condition
+# Gal 6:9
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Encourage / Promise
@@ -14508,9 +15025,10 @@ Implied conditional; the Greek has a participle verb μὴ ἐκλυόμενοι
 
 ----------------
 
-# Eph 4:20-21: First Class Condition
+# Eph 4:20-21
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -14547,9 +15065,10 @@ If εἴ γε is connected to v.20, then it either has a genuine conditional mea
 
 ----------------
 
-# Phil 1:22: (Unspecified) Class Condition
+# Phil 1:22
 
 
+* **Class:** None specified
 * **Probability:** Neutral / Factual
 * **Time Orientation:** Future / Present
 * **Illocutionary Force:** Assert
@@ -14583,9 +15102,10 @@ If p is 22a only, then the condition is hypothetical with a neutral probability 
 
 ----------------
 
-# Phil 2:1-2: (Unspecified) Class Condition
+# Phil 2:1-2
 
 
+* **Class:** None specified
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -14612,9 +15132,10 @@ In Greek, εἴ repeated before each "any" in v.1 (see NASB and NIV).
 
 ----------------
 
-# Phil 2:17: (Unspecified) Class Condition
+# Phil 2:17
 
 
+* **Class:** None specified
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -14639,9 +15160,10 @@ Greek εἰ καὶ 'even if'; this is a "concessive conditional"; q is asserted
 
 ----------------
 
-# Phil 3:4b: (Unspecified) Class Condition
+# Phil 3:4b
 
 
+* **Class:** None specified
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -14666,9 +15188,10 @@ This is a speech act conditional - q is always true, but is only relevant if p i
 
 ----------------
 
-# Phil 3:15b: (Unspecified) Class Condition
+# Phil 3:15b
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Rebuke
@@ -14693,9 +15216,10 @@ We have listed the probability as neutral becuase Paul is writing to "all the sa
 
 ----------------
 
-# Phil 4:8b: (Unspecified) Class Condition
+# Phil 4:8b
 
 
+* **Class:** None specified
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -14721,9 +15245,10 @@ The two clauses in p are either the last two items in a list of eight things tha
 
 ----------------
 
-# Col 1:22-23: First Class Condition
+# Col 1:22-23
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present / Future
 * **Illocutionary Force:** Exhort / Promise
@@ -14754,9 +15279,10 @@ Elliot: "The particle γε performs its usual emphatic function, strengthening t
 
 ----------------
 
-# Col 2:5: First Class Condition
+# Col 2:5
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -14782,9 +15308,10 @@ p: (for though I am absent in body)
 
 ----------------
 
-# Col 2:20: First Class Condition
+# Col 2:20
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Rebuke
@@ -14813,9 +15340,10 @@ The Greek has an aorist verb in p: ἀπεθάνετε 'you(pl) died'; ESV, NRSV
 
 ----------------
 
-# Col 3:1: First Class Condition
+# Col 3:1
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past / Present
 * **Illocutionary Force:** Command
@@ -14843,9 +15371,10 @@ The Greek has an aorist verb in p: συνηγέρθητε 'you(pl) were raised w
 
 ----------------
 
-# Col 3:13: Third Class Condition
+# Col 3:13
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -14876,9 +15405,10 @@ NIV follows the Greek in putting the whole of q before p. ESV, NRSV and NLT spli
 
 ----------------
 
-# Col 4:10c: Third Class Condition
+# Col 4:10c
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -14899,9 +15429,10 @@ p: (if he comes to you)
 
 ----------------
 
-# 1 Thess 3:8: (Unspecified) Class Condition
+# 1 Thess 3:8
 
 
+* **Class:** None specified
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -14929,9 +15460,10 @@ In Greek this is a mixed conditional (εαν + indicative).
 
 ----------------
 
-# 1 Thess 4:14: First Class Condition
+# 1 Thess 4:14
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert
@@ -14959,9 +15491,10 @@ There is an understood "we believe" in q (that the NLT makes explicit). Paul is 
 
 ----------------
 
-# 2 Thess 2:3: Third Class Condition
+# 2 Thess 2:3
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -14991,9 +15524,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# 2 Thess 3:10b: First Class Condition
+# 2 Thess 3:10b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command / Warn
@@ -15017,9 +15551,10 @@ p: (if anyone is not willing to work)
 
 ----------------
 
-# 2 Thess 3:14: First Class Condition
+# 2 Thess 3:14
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -15042,9 +15577,10 @@ p: (if anyone does not obey what we say in this letter)
 
 ----------------
 
-# 1 Tim 1:8: Third Class Condition
+# 1 Tim 1:8
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -15073,9 +15609,10 @@ If a conditional would be misleading or unnatural in translation (particularly i
 
 ----------------
 
-# 1 Tim 2:15: Third Class Condition
+# 1 Tim 2:15
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -15103,9 +15640,10 @@ The time reference depends on the exegesis of this puzzling and controversial te
 
 ----------------
 
-# 1 Tim 3:1: First Class Condition
+# 1 Tim 3:1
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -15133,9 +15671,10 @@ Here and in v.5, Paul is making a general statement about people who aspire to b
 
 ----------------
 
-# 1 Tim 3:5: First Class Condition
+# 1 Tim 3:5
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -15162,9 +15701,10 @@ See note on 1Ti 3:1.
 
 ----------------
 
-# 1 Tim 3:15: Third Class Condition
+# 1 Tim 3:15
 
 
+* **Class:** 3
 * **Probability:** Unlikely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Exhort
@@ -15191,9 +15731,10 @@ This is a speech act conditional, that is, q is true regardless of p (even if Pa
 
 ----------------
 
-# 1 Tim 5:4: First Class Condition
+# 1 Tim 5:4
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -15218,9 +15759,10 @@ Paul is making a general statement about the responsibilities of children and gr
 
 ----------------
 
-# 1 Tim 5:8: First Class Condition
+# 1 Tim 5:8
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -15248,9 +15790,10 @@ This conditional buolds on v.4 and applies the same principal moe generally.
 
 ----------------
 
-# 1 Tim 5:9-10: (Unspecified) Class Condition
+# 1 Tim 5:9-10
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -15285,9 +15828,10 @@ The five conditions in v.10 expressed with ει can be understood in two ways. N
 
 ----------------
 
-# 1 Tim 5:16: First Class Condition
+# 1 Tim 5:16
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort / Command
@@ -15312,9 +15856,10 @@ Translator's Notes claims that Paul knew this to be the case, which would make t
 
 ----------------
 
-# 1 Tim 5:19: First Class Condition
+# 1 Tim 5:19
 
 
+* **Class:** 1
 * **Inverse:** True
 
 
@@ -15344,9 +15889,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# 1 Tim 6:3-4: First Class Condition
+# 1 Tim 6:3-4
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -15373,9 +15919,10 @@ Translator's Notes claims that Paul knew that there were some people who were te
 
 ----------------
 
-# Heb 2:2-3: First Class Condition
+# Heb 2:2-3
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15402,9 +15949,10 @@ An argument is made by using a rhetorical question (implied response of "we can'
 
 ----------------
 
-# Heb 3:6: Third Class Condition
+# Heb 3:6
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Promise / Exhort
@@ -15432,9 +15980,10 @@ Q expresses a promise; p puts a limit on q, but more importantly it provides an 
 
 ----------------
 
-# Heb 3:7-10: Third Class Condition
+# Heb 3:7-10
 
 
+* **Class:** 3
 * **Probability:** Factual / Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -15460,9 +16009,10 @@ The command lies in q. The probability of this conditional is tricky because whe
 
 ----------------
 
-# Heb 3:14: Third Class Condition
+# Heb 3:14
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Assert / Exhort
@@ -15488,9 +16038,10 @@ Greek: ἐάνπερ 'if indeed'; this connective is found only in Hebrews in th
 
 ----------------
 
-# Heb 3:15: Third Class Condition
+# Heb 3:15
 
 
+* **Class:** 3
 * **Probability:** Factual / Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -15516,9 +16067,10 @@ See note at 3:7.
 
 ----------------
 
-# Heb 4:7: Third Class Condition
+# Heb 4:7
 
 
+* **Class:** 3
 * **Probability:** Factual / Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -15544,9 +16096,10 @@ See note at 3:7.
 
 ----------------
 
-# Heb 4:8: Second Class Condition
+# Heb 4:8
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15571,9 +16124,10 @@ Elliot mentions that αν has been ommitted in some manuscripts, which is rare f
 
 ----------------
 
-# Heb 6:3: Third Class Condition
+# Heb 6:3
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -15597,9 +16151,10 @@ q: (this we will do)
 
 ----------------
 
-# Heb 6:9: First Class Condition
+# Heb 6:9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -15630,9 +16185,10 @@ The NASB keeps the inverted order q before p, while the ESV, NRSV, NIV, and NLT 
 
 ----------------
 
-# Heb 7:11: Second Class Condition
+# Heb 7:11
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15653,9 +16209,10 @@ p: (if perfection had been attainable through the Levitical priesthood (for unde
 
 ----------------
 
-# Heb 7:15: First Class Condition
+# Heb 7:15
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15683,9 +16240,10 @@ q: (this becomes even more evident)
 
 ----------------
 
-# Heb 8:4: Second Class Condition
+# Heb 8:4
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15706,9 +16264,10 @@ p: (if he were on earth)
 
 ----------------
 
-# Heb 8:7: Second Class Condition
+# Heb 8:7
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15729,9 +16288,10 @@ p: (for if that first covenant had been faultless)
 
 ----------------
 
-# Heb 9:13-14: First Class Condition
+# Heb 9:13-14
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15754,9 +16314,10 @@ p: (if the blood of goats and bulls, and the sprinkling of defiled persons with 
 
 ----------------
 
-# Heb 10:38: Third Class Condition
+# Heb 10:38
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn / Exhort
@@ -15779,9 +16340,10 @@ p: (if he shrinks back)
 
 ----------------
 
-# Heb 11:15: Second Class Condition
+# Heb 11:15
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Argue
@@ -15806,9 +16368,10 @@ P is proven to be non-factual by v.16.
 
 ----------------
 
-# Heb 12:8: First Class Condition
+# Heb 12:8
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -15829,9 +16392,10 @@ p: (if you are left without discipline, in which all have participated)
 
 ----------------
 
-# Heb 12:20: Third Class Condition
+# Heb 12:20
 
 
+* **Class:** 3
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -15858,9 +16422,10 @@ This is not a typical "concessive conditional." The meaning is not that if an an
 
 ----------------
 
-# Heb 12:25: First Class Condition
+# Heb 12:25
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Warn
@@ -15881,9 +16446,10 @@ p: (if they did not escape when they refused him who warned them on earth)
 
 ----------------
 
-# Heb 13:23: Third Class Condition
+# Heb 13:23
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Promise
@@ -15912,9 +16478,10 @@ In the Greek, p occurs in the middle of q; most English translations put p befor
 
 ----------------
 
-# James 1:5: First Class Condition
+# James 1:5
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -15935,9 +16502,10 @@ p: (if any of you lacks wisdom)
 
 ----------------
 
-# James 1:23: First Class Condition
+# James 1:23
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -15961,9 +16529,10 @@ p: (for if anyone is a hearer of the word and not a doer)
 
 ----------------
 
-# James 1:26: First Class Condition
+# James 1:26
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -15999,9 +16568,10 @@ The idea of a worthwhile religion (1:27) is carried on in 2:14-25.
 
 ----------------
 
-# James 2:2-4: Third Class Condition
+# James 2:2-4
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -16030,9 +16600,10 @@ In Greek, ἐὰν 'if' occurs once at the start of v.2 and has scope over the w
 
 ----------------
 
-# James 2:8: First Class Condition
+# James 2:8
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Exhort
@@ -16058,9 +16629,10 @@ NRSV and NLT invert the order of p and q.
 
 ----------------
 
-# James 2:9: First Class Condition
+# James 2:9
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke
@@ -16085,9 +16657,10 @@ This contrasts with v.8.
 
 ----------------
 
-# James 2:11b: First Class Condition
+# James 2:11b
 
 
+* **Class:** 1
 * **Probability:** Very Unlikely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Argue
@@ -16112,9 +16685,10 @@ This illustrates the point of v.10 (whoever keeps the whole law but fails in one
 
 ----------------
 
-# James 2:14: Third Class Condition
+# James 2:14
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Argue
@@ -16136,9 +16710,10 @@ q: (what good is it)
 
 ----------------
 
-# James 2:15-16: Third Class Condition
+# James 2:15-16
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Argue
@@ -16165,9 +16740,10 @@ The structure of this onditional is similar to 2:2-4.
 
 ----------------
 
-# James 2:17: Third Class Condition
+# James 2:17
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -16194,9 +16770,10 @@ It may not be natural to keep p embedded within q; it may be necessary to restru
 
 ----------------
 
-# James 3:2: First Class Condition
+# James 3:2
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert
@@ -16219,9 +16796,10 @@ p: (and if anyone does not stumble in what he says)
 
 ----------------
 
-# James 3:3: First Class Condition
+# James 3:3
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -16244,9 +16822,10 @@ p: (if we put bits into the mouths of horses so that they obey us)
 
 ----------------
 
-# James 3:14: First Class Condition
+# James 3:14
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -16267,9 +16846,10 @@ p: (but if you have bitter jealousy and selfish ambition in your hearts)
 
 ----------------
 
-# James 4:11c: First Class Condition
+# James 4:11c
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn
@@ -16296,9 +16876,10 @@ Judging the law' in the verse is referring back to the first part of the verse w
 
 ----------------
 
-# James 4:15: Third Class Condition
+# James 4:15
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -16323,9 +16904,10 @@ James wants his audience to realize that God is in control, not them.
 
 ----------------
 
-# James 5:15: Third Class Condition
+# James 5:15
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -16353,9 +16935,10 @@ Boyer says there is no indication of probability.
 
 ----------------
 
-# James 5:19-20: Third Class Condition
+# James 5:19-20
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -16380,9 +16963,10 @@ The focus is on the "someone brings him back" section, not the "if anyone wander
 
 ----------------
 
-# 1Pe 1:6: First Class Condition
+# 1Pe 1:6
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Encourage
@@ -16409,9 +16993,10 @@ The condition acknowledges the trials the audience have suffered while also conf
 
 ----------------
 
-# 1Pe 1:17: First Class Condition
+# 1Pe 1:17
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -16438,9 +17023,10 @@ The fact that our heavenly Father "judges each person's work impartially" (that 
 
 ----------------
 
-# 1Pe 2:2-3: First Class Condition
+# 1Pe 2:2-3
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -16468,9 +17054,10 @@ There are various interpretations of where q starts. It could be argued that 2:1
 
 ----------------
 
-# 1Pe 2:19: First Class Condition
+# 1Pe 2:19
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -16502,9 +17089,10 @@ Note that "being aware of God" (ESV "mindful of God") is parenthetical and is no
 
 ----------------
 
-# 1Pe 2:20a: First Class Condition
+# 1Pe 2:20a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -16530,9 +17118,10 @@ This conditional forms a contrastive pair with v.20b. Together these have a chia
 
 ----------------
 
-# 1Pe 2:20b: First Class Condition
+# 1Pe 2:20b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -16557,9 +17146,10 @@ See note on v.20a.
 
 ----------------
 
-# 1Pe 3:1: First Class Condition
+# 1Pe 3:1
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Present
 * **Illocutionary Force:** Exhort
@@ -16586,9 +17176,10 @@ Greek: καὶ εἴ 'even if'; this is a "concessive conditional."
 
 ----------------
 
-# 1Pe 3:13: Third Class Condition
+# 1Pe 3:13
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -16614,9 +17205,10 @@ The entire conditional is a rhetorical question witth the assumed response being
 
 ----------------
 
-# 1Pe 3:14: Fourth Class Condition
+# 1Pe 3:14
 
 
+* **Class:** 4
 * **Probability:** Very Unlikely
 * **Time Orientation:** Present / Future
 * **Illocutionary Force:** Encourage
@@ -16645,9 +17237,10 @@ Boyer (1982b: 171) suggests that this could be an example of a class 4 condition
 
 ----------------
 
-# 1Pe 3:17: Fourth Class Condition
+# 1Pe 3:17
 
 
+* **Class:** 4
 * **Probability:** Unlikely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -16675,9 +17268,10 @@ Boyer (1982b: 171) suggests that this could be an example of a class 4 condition
 
 ----------------
 
-# 1Pe 4:11a: First Class Condition
+# 1Pe 4:11a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -16704,9 +17298,10 @@ Greek: εἴ τις 'if anyone'
 
 ----------------
 
-# 1Pe 4:11b: First Class Condition
+# 1Pe 4:11b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Command
@@ -16733,9 +17328,10 @@ Greek: εἴ τις 'if anyone'
 
 ----------------
 
-# 1Pe 4:14: First Class Condition
+# 1Pe 4:14
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -16760,9 +17356,10 @@ In Greek "you" here is plural.
 
 ----------------
 
-# 1Pe 4:16: First Class Condition
+# 1Pe 4:16
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -16789,9 +17386,10 @@ In Greek there is no verb in p; the verb 'suffer' from v.15 is understood, so En
 
 ----------------
 
-# 1Pe 4:17b: First Class Condition
+# 1Pe 4:17b
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -16816,9 +17414,10 @@ p: (if it begins with us)
 
 ----------------
 
-# 1Pe 4:18: First Class Condition
+# 1Pe 4:18
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -16843,9 +17442,10 @@ Quoted from Proverbs 11:31
 
 ----------------
 
-# 2Pe 2:4-9: First Class Condition
+# 2Pe 2:4-9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Promise
@@ -16873,9 +17473,10 @@ Although this long sentence reminds the readers of events where God demonstrated
 
 ----------------
 
-# 2Pe 2:20: First Class Condition
+# 2Pe 2:20
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Warn
@@ -16901,9 +17502,10 @@ This is classified as factual because v.19 states, "they themslves are slaves of
 
 ----------------
 
-# 1Jn 1:6: Third Class Condition
+# 1Jn 1:6
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Argue
@@ -16931,9 +17533,10 @@ The conditionals in ch.1 form contrastive pairs: 1:6 "if we... walk in darkness"
 
 ----------------
 
-# 1Jn 1:7: Third Class Condition
+# 1Jn 1:7
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage / Argue
@@ -16958,9 +17561,10 @@ See note on 1:6.
 
 ----------------
 
-# 1Jn 1:8: Third Class Condition
+# 1Jn 1:8
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Argue
@@ -16987,9 +17591,10 @@ See note on 1:6. Runge (2010) writes:
 
 ----------------
 
-# 1Jn 1:9: Third Class Condition
+# 1Jn 1:9
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage / Argue
@@ -17017,9 +17622,10 @@ Although q is encouraging, Haas et al. (1994) and Marshall (1978a) agree that p 
 
 ----------------
 
-# 1Jn 1:10: Third Class Condition
+# 1Jn 1:10
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Argue
@@ -17048,9 +17654,10 @@ Quotative thesis 2 revisited. 1:8-10 form a chiasm.
 
 ----------------
 
-# 1Jn 2:1b: Third Class Condition
+# 1Jn 2:1b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -17075,9 +17682,10 @@ Greek καὶ ἐάν sometimes expresses a "concessive conditional", but no maj
 
 ----------------
 
-# 1Jn 2:3: Third Class Condition
+# 1Jn 2:3
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -17108,9 +17716,10 @@ While the overall function of this conditional is to encourage, Haas et al. (199
 
 ----------------
 
-# 1Jn 2:15b: Third Class Condition
+# 1Jn 2:15b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Warn / Argue
@@ -17139,9 +17748,10 @@ John is not saying that loving the world causes a person not to love the Father 
 
 ----------------
 
-# 1Jn 2:19b: Second Class Condition
+# 1Jn 2:19b
 
 
+* **Class:** 2
 * **Probability:** Non-factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Assert
@@ -17167,9 +17777,10 @@ The context of 2:19a,c makes it clear that p is false.
 
 ----------------
 
-# 1Jn 2:24b: Third Class Condition
+# 1Jn 2:24b
 
 
+* **Class:** 3
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -17196,9 +17807,10 @@ Smalley (1984) and Haas et al. (1994) note that the fronted pronoun ὑμεῖς
 
 ----------------
 
-# 1Jn 2:29: Third Class Condition
+# 1Jn 2:29
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Argue
@@ -17224,9 +17836,10 @@ In 2:1 John has stated that Jesus Christ is righteous, and so this conditional i
 
 ----------------
 
-# 1Jn 3:13: First Class Condition
+# 1Jn 3:13
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present
 * **Illocutionary Force:** Encourage
@@ -17254,9 +17867,10 @@ Smalley (1984) and Haas et al. (1994) argue that this is a factual conditional, 
 
 ----------------
 
-# 1 Jn 3:20: Third Class Condition
+# 1 Jn 3:20
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -17299,9 +17913,10 @@ Taken together, we feel that NIV and ESV provides the best models.
 
 ----------------
 
-# 1Jn 3:21: Third Class Condition
+# 1Jn 3:21
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -17326,9 +17941,10 @@ This conditional presents the alternative to v.20.
 
 ----------------
 
-# 1Jn 4:11: First Class Condition
+# 1Jn 4:11
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Past
 * **Illocutionary Force:** Exhort
@@ -17354,9 +17970,10 @@ P refers back to the past events described in 4:9-10 and so this is a factual co
 
 ----------------
 
-# 1Jn 4:12: Third Class Condition
+# 1Jn 4:12
 
 
+* **Class:** 3
 * **Probability:** Likely
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Encourage
@@ -17381,9 +17998,10 @@ This conditional follows from v.11 and assumes that the audience do in fact love
 
 ----------------
 
-# 1Jn 4:20: Third Class Condition
+# 1Jn 4:20
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Rebuke / Argue
@@ -17411,9 +18029,10 @@ Greek: ἐάν τις 'if anyone'.
 
 ----------------
 
-# 1Jn 5:9: First Class Condition
+# 1Jn 5:9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Argue
@@ -17440,9 +18059,10 @@ Stott (1988) states that the background for this verse is the Jewish practice of
 
 ----------------
 
-# 1Jn 5:14b: Third Class Condition
+# 1Jn 5:14b
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Promise
@@ -17468,9 +18088,10 @@ This conditional is very similar to John 14:14. The Greek word τι 'anything' i
 
 ----------------
 
-# 1Jn 5:15a: (Unspecified) Class Condition
+# 1Jn 5:15a
 
 
+* **Class:** None specified
 * **Probability:** Factual
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Encourage
@@ -17500,9 +18121,10 @@ The Greek of this construction is slightly unusual because it employs ἐὰν +
 
 ----------------
 
-# 1Jn 5:16: Third Class Condition
+# 1Jn 5:16
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Assert / Exhort
@@ -17527,9 +18149,10 @@ The Greek ἐάν τις 'if anyone' is followed by an the verb αἰτήσει 
 
 ----------------
 
-# 2Jn 1:10: First Class Condition
+# 2Jn 1:10
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Command
@@ -17557,9 +18180,10 @@ Smalley (1984) points out that the NT as a whole and the apostle John in particu
 
 ----------------
 
-# 3Jn 1:10: Third Class Condition
+# 3Jn 1:10
 
 
+* **Class:** 3
 * **Probability:** Factual
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17585,9 +18209,10 @@ Smalley (1984), Haas et al. (1994), Persson (2000), and Marshall (1978a) argue t
 
 ----------------
 
-# Rev 2:5b: First Class Condition
+# Rev 2:5b
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17617,9 +18242,10 @@ Both condtionals in v.5 share the same q. The p of v.5b comes before q, and the 
 
 ----------------
 
-# Rev 2:5c: Third Class Condition
+# Rev 2:5c
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17648,9 +18274,10 @@ See note on 2.5b. Because NIV and NLT have "If you do not repent" in 2.5b, they 
 
 ----------------
 
-# Rev 2:16: First Class Condition
+# Rev 2:16
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17680,9 +18307,10 @@ This phrase presents the alternative to 'repent' in the previous clause (similar
 
 ----------------
 
-# Rev 2:22: Third Class Condition
+# Rev 2:22
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17710,9 +18338,10 @@ V.21 mentions 'repent' twice, so "unless they repent of her deeds" is meant to r
 
 ----------------
 
-# Rev 3:3: Third Class Condition
+# Rev 3:3
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17738,9 +18367,10 @@ Greek: ἐὰν μὴ 'unless' (i.e. 'if not')
 
 ----------------
 
-# Rev 3:20: Third Class Condition
+# Rev 3:20
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Gnomic
 * **Illocutionary Force:** Promise
@@ -17765,9 +18395,10 @@ There is a promise in q, but also an implied exhortation to "open the door" in p
 
 ----------------
 
-# Rev 11:5a: First Class Condition
+# Rev 11:5a
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17789,9 +18420,10 @@ NASB:
 
 ----------------
 
-# Rev 11:5b: (Unspecified) Class Condition
+# Rev 11:5b
 
 
+* **Class:** None specified
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17818,9 +18450,10 @@ Greek: ει + subjunctive
 
 ----------------
 
-# Rev 13:9: First Class Condition
+# Rev 13:9
 
 
+* **Class:** 1
 * **Probability:** Factual
 * **Time Orientation:** Present
 * **Illocutionary Force:** Command
@@ -17847,9 +18480,10 @@ Similar to the commandment given to each of the seven churches (2:7, 11, 17, 29;
 
 ----------------
 
-# Rev 13:10a: First Class Condition
+# Rev 13:10a
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present / Future
 * **Illocutionary Force:** Warn
@@ -17876,9 +18510,10 @@ Quoted from Isaiah 33:1, Jeremiah 15:2; 43:11; q restates and affirms p.
 
 ----------------
 
-# Rev 13:10b: First Class Condition
+# Rev 13:10b
 
 
+* **Class:** 1
 * **Probability:** Very Likely
 * **Time Orientation:** Present / Future
 * **Illocutionary Force:** Warn
@@ -17905,9 +18540,10 @@ The NASB and NRSV translate p as an active statement ("if anyone kills") rather 
 
 ----------------
 
-# Rev 13:17: First Class Condition
+# Rev 13:17
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Assert
@@ -17942,9 +18578,10 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 
 ----------------
 
-# Rev 14:9-10: First Class Condition
+# Rev 14:9-10
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17967,9 +18604,10 @@ p: (if anyone worships the beast and its image and receives a mark on his forehe
 
 ----------------
 
-# Rev 20:15: First Class Condition
+# Rev 20:15
 
 
+* **Class:** 1
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -17991,9 +18629,10 @@ p: (and if anyone's name was not found written in the book of life)
 
 ----------------
 
-# Rev 22:18: Third Class Condition
+# Rev 22:18
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn
@@ -18018,9 +18657,10 @@ The conditionals in 22:18-19 together warn of the consequences of changing anyth
 
 ----------------
 
-# Rev 22:19: Third Class Condition
+# Rev 22:19
 
 
+* **Class:** 3
 * **Probability:** Neutral
 * **Time Orientation:** Future
 * **Illocutionary Force:** Warn

@@ -3,15 +3,17 @@
 # Matt 4:3: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you are the Son of God)
 q: (command these stones to become bread)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -28,15 +30,17 @@ P presents a fact that the temptor knew to be true. The devil certainly knows Je
 # Matt 4:6: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you are the Son of God)
 q: (throw yourself down)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -53,15 +57,17 @@ As with 4:3, this conditional expresses no doubt about Jesus' identity, but is b
 # Matt 4:9: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Promise / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Promise / Exhort
 
 
 ## English
 q:(All these I will give you)
 p: (if you will fall down and worship me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -78,15 +84,17 @@ In 4:3 and 4:6 the exhortations (or temptations) are direct and occur in q; in t
 # Matt 5:13a: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if salt has lost its taste)
 q: (how shall its saltiness be restored?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -103,15 +111,17 @@ This conditional must be read in its context of describing discipleship. The con
 # Matt 5:20: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (unless your righteousness exceeds that of the scribes and Pharisees)
 q: (you will never enter the kingdom of heaven)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -129,16 +139,18 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Matt 5:23-24: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NIV, NLT: "if"
-NRSV: See Notes
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you are offering your gift at the altar and there remember that your brother has something against you,)
 q: (v.24 leave your gift there before the alter and go)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV: See Notes
 
 
 ## Greek (SBLGNT)
@@ -155,15 +167,17 @@ P consists of two clauses: 1) offering your gift at the altar, and 2) remember t
 # Matt 5:29: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 p: (if your right eye causes you to sin)
 q: (tear it out and throw it away)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -181,15 +195,17 @@ The conditional is class 3 in Mark 9:47 and class 1 here in Matthew. It could be
 # Matt 5:30: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 p: (if your right hand causes you to sin)
 q: (cut it off and throw it away)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -206,15 +222,17 @@ See note on 5:29.
 # Matt 5:46: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if you love those who love you)
 q: (what reward do you have?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -231,16 +249,18 @@ In this verse, q is a rhetorical question that expects the answer "No reward at 
 # Matt 5:47: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 modifications in brackets
 p: (if you greet only your brothers)
 q: (what more are you doing than others?) [you are not doing anything more than others]
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -257,19 +277,21 @@ See note on 5:46.
 # Matt 6:1: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NRSV: "for then"
-NASB: "otherwise"
-NIV: "If you do"
-NLT: "for"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 NIV, clarification in brackets
 p: (if you do) [practice your righteousness in front of others to be seen by them]
 q: (you will have no reward from your Father in heaven)
+
+
+* ESV, NRSV: "for then"
+NASB: "otherwise"
+NIV: "If you do"
+NLT: "for"
 
 
 ## Greek (SBLGNT)
@@ -287,10 +309,9 @@ English translations express the constrcution εἰ δὲ μή γε in a variety
 # Matt 6:14: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise / Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise / Assert
 
 
 ## English
@@ -298,13 +319,12 @@ p: (if you forgive others their trespasses)
 q: (your heavenly Father will also forgive you)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν γὰρ ἀφῆτε τοῖς ἀνθρώποις τὰ παραπτώματα αὐτῶν
 * _q1_: ἀφήσει καὶ ὑμῖν ὁ πατὴρ ὑμῶν ὁ οὐράνιος
-
-
-## Notes
-
 
 
 ----------------
@@ -312,17 +332,19 @@ q: (your heavenly Father will also forgive you)
 # Matt 6:15: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Assert
-* ESV, NRSV: "if...neither"
-NASB: "if...then"
-NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Assert
 
 
 ## English
 p: (if you do not forgive others their trespasses 
 q: (neither will your Father forgive your trespasses)
+
+
+* ESV, NRSV: "if...neither"
+NASB: "if...then"
+NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -339,12 +361,9 @@ The situation described in this conditional is the opposite of 6:14.
 # Matt 6:22: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Assert
-* ESV, NRSV, NIV: "if"
-NASB: "then if"
-NLT: "when"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Assert
 
 
 ## English
@@ -352,13 +371,14 @@ p: (if your eye is healthy)
 q: (your whole body will be full of light)
 
 
+* ESV, NRSV, NIV: "if"
+NASB: "then if"
+NLT: "when"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν οὖν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς
 * _q1_: ὅλον τὸ σῶμά σου φωτεινὸν ἔσται
-
-
-## Notes
-
 
 
 ----------------
@@ -366,11 +386,9 @@ q: (your whole body will be full of light)
 # Matt 6:23: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Assert
 
 
 ## English
@@ -378,13 +396,13 @@ p: (if your eye is bad)
 q: (your whole body will be full of darkness)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δὲ ὁ ὀφθαλμός σου πονηρὸς ᾖ
 * _q1_: ὅλον τὸ σῶμά σου σκοτεινὸν ἔσται
-
-
-## Notes
-
 
 
 ----------------
@@ -392,11 +410,9 @@ q: (your whole body will be full of darkness)
 # Matt 6:23: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Assert
-* ESV, NASB, NRSV, NIV: "if then"
-NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Assert
 
 
 ## English
@@ -404,13 +420,13 @@ p: (if then the light in you is darkness)
 q: (how great is the darkness)
 
 
+* ESV, NASB, NRSV, NIV: "if then"
+NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ οὖν τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν
 * _q1_: τὸ σκότος πόσον
-
-
-## Notes
-
 
 
 ----------------
@@ -418,15 +434,17 @@ q: (how great is the darkness)
 # Matt 6:30: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue / Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue / Encourage
 
 
 ## English
 p: (if God so clothes the grass of the field...)
 q: (will he not much more clothe you?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -443,17 +461,19 @@ P is factual, and q is a rhetorical question expecting an affirmative response: 
 # Matt 7:9: (Unspecified) Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NRSV, NIV, NLT: "if"
-NASB: "when"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 What man among you
 p: (if his son asks him for bread)
 q: (will give him a stone)?
+
+
+* ESV, NRSV, NIV, NLT: "if"
+NASB: "when"
 
 
 ## Greek (SBLGNT)
@@ -470,15 +490,17 @@ Although there is no conditional marker in the Greek, the sense here is clearly 
 # Matt 7:10: (Unspecified) Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: or (if he asks for an fish)
 q: (will give him a snake)?
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -495,15 +517,17 @@ See note at 7:9
 # Matt 7:11: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if you then, who are evil, know how to give good gifts to your children)
 q: (how much more will your Father who is in heaven give good things to those who ask him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -520,15 +544,17 @@ In the previous sentences, Jesus has just used rhetorical questions to highlight
 # Matt 8:2: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you will)
 q: (you can make me clean)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -545,15 +571,17 @@ Jesus is able to make the man clean regardless of his will to do so. Many commen
 # Matt 8:31: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you cast us out)
 q: (send us away into the herd of pigs)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -570,17 +598,19 @@ The probability is listed as Very Likely and the time as Future because the demo
 # Matt 9:17: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NIV: "if"
-NASB, NRSV: "otherwise"
-NLT: "for"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if it is)
 q: (the skins burst and the wine is spilled and the skins are destroyed)
+
+
+* ESV, NIV: "if"
+NASB, NRSV: "otherwise"
+NLT: "for"
 
 
 ## Greek (SBLGNT)
@@ -598,15 +628,17 @@ See note on 6:1.
 # Matt 9:21: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Not applicable
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Not applicable
 
 
 ## English
 p: (if I only touch his garment)
 q: (I will be made well)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -623,10 +655,9 @@ The illocutionary force category is not applicable here as the woman is speaking
 # Matt 10:13a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -634,13 +665,12 @@ p: (if the house is worthy)
 q: (let your peace come upon it)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν μὲν ᾖ ἡ οἰκία ἀξία
 * _q1_: ἐλθάτω ἡ εἰρήνη ὑμῶν ἐπ αὐτήν
-
-
-## Notes
-
 
 
 ----------------
@@ -648,10 +678,9 @@ q: (let your peace come upon it)
 # Matt 10:13b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -659,13 +688,12 @@ p: (if it is not worthy)
 q: (let your peace return to you)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δὲ μὴ ᾖ ἀξία
 * _q1_: ἡ εἰρήνη ὑμῶν πρὸς ὑμᾶς ἐπιστραφήτω
-
-
-## Notes
-
 
 
 ----------------
@@ -673,17 +701,19 @@ q: (let your peace return to you)
 # Matt 10:25: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Warn / Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Warn / Argue
 
 
 ## English
 modified to reflect the Greek more literally
 p: (if they have called the master of the house Beelzebul)
 q: (how much more the members of his household)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -700,15 +730,17 @@ Jesus claims q is more likely than p. Since p is in fact a true condition, he is
 # Matt 11:14: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if you are willing to accept it)
 q: (he is Elijah, who is to come)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -725,15 +757,17 @@ Q is a fact that is true regardless of p (i.e. whether the hearers are willing t
 # Matt 11:21: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if the mighty works done in you had been done in Tyre and Sidon)
 q: (they would have repented long ago)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -750,15 +784,17 @@ P did not, in fact, occur and neither did q. Jesus here uses the example of Tyre
 # Matt 11:23: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if the mighty works done in you had been done in Sodom)
 q: (it would have remained until this day)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -775,16 +811,18 @@ P did not, in fact, occur and neither did q. Jesus here uses the example of Sodo
 # Matt 12:7: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
-(NLT inverts p and q in translation)
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you had known what this means, "I desire mercy and not sacrifice")
 q: (you would not have condemned the guiltless)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
+(NLT inverts p and q in translation)
 
 
 ## Greek (SBLGNT)
@@ -801,16 +839,18 @@ Jesus rebukes the pharisees by implying that they did not know the meaning of Sc
 # Matt 12:11: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Argue
-* ESV, NASB, NIV, NLT: "if"
-NRSV: "suppose"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if it [a sheep] falls into a pit on the Sabbath)
 q: (will [he] not take hold of it and lift it out)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV: "suppose"
 
 
 ## Greek (SBLGNT)
@@ -828,15 +868,17 @@ Jesus' use of a rhetorical question in q assumes an affirmative answer.
 # Matt 12:26: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if Satan casts out Satan)
 q: (he is divided against himself)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -853,15 +895,17 @@ A false situation which Jesus presents as possible for the sake of argument in o
 # Matt 12:27: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if I cast out demons by Beelzebul)
 q: (by whom do your sons cast them out)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -878,15 +922,17 @@ See note on 12:26.
 # Matt 12:28: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if it is by the Spirit of God I cast out demons)
 q: (then the kingdom of God has come upon you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -903,17 +949,19 @@ P is factual, though Jesus' audience may not yet be convinced of it. Here Jesus 
 # Matt 12:29: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NIV, NASB: "unless"
-NRSV: "without"
-NLT: untranslated ("only")
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (how can someone enter a strong man's house and plunder his goods)
 p: (unless he first binds the strong man?)
+
+
+* ESV, NIV, NASB: "unless"
+NRSV: "without"
+NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -932,10 +980,9 @@ NLT: "For who is powerful enough to enter the house of a strong man and plunder 
 # Matt 14:28: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
@@ -943,13 +990,12 @@ p: (if it is you)
 q: (command me to come to you on the water)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ σὺ εἶ
 * _q1_: κέλευσόν με ἐλθεῖν πρὸς σὲ ἐπὶ τὰ ὕδατα
-
-
-## Notes
-
 
 
 ----------------
@@ -957,10 +1003,9 @@ q: (command me to come to you on the water)
 # Matt 15:14: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -968,13 +1013,12 @@ p: (if the blind lead the blind)
 q: (both will fall into a pit)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: τυφλὸς δὲ τυφλὸν ἐὰν ὁδηγῇ
 * _q1_: ἀμφότεροι εἰς βόθυνον πεσοῦνται
-
-
-## Notes
-
 
 
 ----------------
@@ -982,16 +1026,18 @@ q: (both will fall into a pit)
 # Matt 16:24: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "whoever"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone would come after me)
 q: (let him deny himself and take up his cross and follow me)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -1009,16 +1055,18 @@ Probability is based on the fact that most of the audience Jesus is speaking to 
 # Matt 16:26: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "What good will it be for someone to gain the whole world, yet..."
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 q: (what will it profit a man)
 p: (if he gains the whole world and forfeits his soul?)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "What good will it be for someone to gain the whole world, yet..."
 
 
 ## Greek (SBLGNT)
@@ -1035,15 +1083,17 @@ This verse contains two rhetorical questions (this conditional sentence, and a n
 # Matt 17:4: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you wish)
 q: (I will make three tents here)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1060,10 +1110,9 @@ Parallel verses do not have a conditional connective.
 # Matt 17:20: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
@@ -1071,13 +1120,12 @@ p: (if you have faith like a grain of mustard seed)
 q: (you will say to this mountain "Move..." and it will move)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως
 * _q1_: ἐρεῖτε τῷ ὄρει τούτῳ Μετάβα ἔνθεν ἐκεῖ καὶ μεταβήσεται
-
-
-## Notes
-
 
 
 ----------------
@@ -1085,15 +1133,17 @@ q: (you will say to this mountain "Move..." and it will move)
 # Matt 18:3: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (unless you turn and become like children)
 q: (you will never enter the kingdom of God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -1111,15 +1161,17 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Matt 18:8: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 p: (if your hand or foot causes you to sin)
 q: (cut it off and throw it away)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1136,15 +1188,17 @@ See note on 5:30.
 # Matt 18:9: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 p: (if your eye causes you to sin)
 q: (tear it out and throw it away)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1161,15 +1215,17 @@ See note on 5:29.
 # Matt 18:12: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if a man has a hundred sheep and one of them goes astray)
 q: (does he not leave the ninety-nine on the mountains and go in search of the one that never went astray?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1186,10 +1242,9 @@ Jesus introduces a parable here that gets a more detailed and less conditional t
 # Matt 18:13: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -1197,13 +1252,12 @@ p: (if he finds it)
 q: (he rejoices over it more than over the ninety-nine that never went astray)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν γένηται εὑρεῖν αὐτό
 * _q1_: ἀμὴν λέγω ὑμῖν ὅτι χαίρει ἐπ αὐτῷ μᾶλλον ἢ ἐπὶ τοῖς ἐνενήκοντα ἐννέα τοῖς μὴ πεπλανημένοις
-
-
-## Notes
-
 
 
 ----------------
@@ -1211,15 +1265,17 @@ q: (he rejoices over it more than over the ninety-nine that never went astray)
 # Matt 18:15a: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if your brother sins against you)
 q: (go and tell him his fault, between you and him alone)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1236,15 +1292,17 @@ In this verse, Jesus brings up the topic of dealing with sin in the church. The 
 # Matt 18:15b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if he listens to you)
 q: (you have gained your brother)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1261,15 +1319,17 @@ See note on 18:15.
 # Matt 18:16: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (but if he does not listen)
 q: (take one or two others along with you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1286,15 +1346,17 @@ See note on 18:15.
 # Matt 18:17a: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if he refuses to listen to them)
 q: (tell it to the church)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1311,15 +1373,17 @@ See note on 18:15.
 # Matt 18:17b: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if he refuses to listen to the church)
 q: (let him be to you as a Gentile and a tax collector)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1336,10 +1400,9 @@ See note on 18:15.
 # Matt 18:19a: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
@@ -1347,13 +1410,12 @@ p: (if two of you agree on earth about anything they ask)
 q: (it will be done for them by my Father in heaven)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δύο συμφωνήσωσιν ἐξ ὑμῶν ἐπὶ τῆς γῆς περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται
 * _q1_: γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς
-
-
-## Notes
-
 
 
 ----------------
@@ -1361,17 +1423,19 @@ q: (it will be done for them by my Father in heaven)
 # Matt 18:35: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV "if...not"
-NIV: "unless"
-NLT: "if you refuse..."
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 q: (so also my heavenly Father will do to every one of you)
 p: (if you do not forgive your brother from your heart)
+
+
+* ESV, NASB, NRSV "if...not"
+NIV: "unless"
+NLT: "if you refuse..."
 
 
 ## Greek (SBLGNT)
@@ -1388,15 +1452,17 @@ Greek: ἐὰν μὴ 'if not', 'unless'
 # Matt 19:10: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if such is the case of a man with his wife)
 q: (it is better not to marry)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1413,15 +1479,17 @@ q: (it is better not to marry)
 # Matt 19:17b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort / Command
 
 
 ## English
 p: (if you wish to enter into life)
 q: (keep the commandments) (NASB/NRSV)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1438,15 +1506,17 @@ In v.16 someone asked Jesus, “Teacher, what good deed must I do to have eterna
 # Matt 19:21: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if you would be perfect)
 q: (go, sell what you possess and give to the poor...)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1463,15 +1533,17 @@ In the previous verse, the young man told Jesus that he had kept all the command
 # Matt 21:3: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone says anything to you)
 q: (you shall say, "the Lord needs them")
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1488,15 +1560,17 @@ Greek: εαν τις 'if anyone'
 # Matt 21:21a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Promise
-* ESV, NASB, NRSV, NIV, NLT: "if you have faith and do not doubt..."
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Promise
 
 
 ## English
 p: (if you have faith and don't doubt)
 q: (you will not only do what has been done to the fig tree, but even if you say to this mountain, "Be taken up and thrown into the sea", it will happen)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if you have faith and do not doubt..."
 
 
 ## Greek (SBLGNT)
@@ -1513,17 +1587,19 @@ The probability is debatable here. Jesus is speaking to his closest disciples, w
 # Matt 21:21b: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Promise
-* ESV, NASB, NRSV: "even if"
-NIV: "also you can..." 
-NLT: "You can even..."
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Promise
 
 
 ## English
 p: (even if you say to this mountain, "Be taken up and thrown into the sea")
 q: (it will happen)
+
+
+* ESV, NASB, NRSV: "even if"
+NIV: "also you can..." 
+NLT: "You can even..."
 
 
 ## Greek (SBLGNT)
@@ -1541,16 +1617,18 @@ The conditional sentence of 21:21b is embedded into q of the conditional in 21:2
 # Matt 21:22: (Unspecified) Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NIV, NLT: "if"
-NASB, NRSV: no conditional
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (If you believe)
 q: (you will receive whatever you ask for in prayer) (NIV)
+
+
+* ESV, NIV, NLT: "if"
+NASB, NRSV: no conditional
 
 
 ## Greek (SBLGNT)
@@ -1567,11 +1645,9 @@ This is an implied conditional using the present participle of 'believe': "belie
 # Matt 21:24: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
-NLT inverts p and q
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Request
 
 
 ## English
@@ -1579,13 +1655,13 @@ p: (if you tell me the answer)
 q: (then I also will tell you by what authority I do these things)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+NLT inverts p and q
+
+
 ## Greek (SBLGNT)
 * _p1_: ὃν ἐὰν εἴπητέ μοι
 * _q1_: κἀγὼ ὑμῖν ἐρῶ ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ
-
-
-## Notes
-
 
 
 ----------------
@@ -1593,15 +1669,17 @@ q: (then I also will tell you by what authority I do these things)
 # Matt 21:25: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if we say 'from heaven')
 q: (he will say to us 'Why then, did you not believe him?')
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1618,15 +1696,17 @@ The conditionals in v.25 and v.26 should be understood as a pair; together they 
 # Matt 21:26: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if we say 'from man')
 q: (we are afraid of the crowd - implies 'the crowd will attack us')
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1643,15 +1723,17 @@ See note on 21:25. The parallel account in Luke 20:6 explains the fear more, as 
 # Matt 22:24: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Command
 
 
 ## English
 p: (if a man dies having no children)
 q: (his brother must marry the widow and raise up offspring for his brother)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1668,16 +1750,18 @@ This conditional is a sumary of Deutoronomy 25:5-6. The Saducees use this to beg
 # Matt 22:45: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if then David calls him Lord)
 q: (how is he his son?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -1694,15 +1778,17 @@ This is factual because Jesus has just quoted Psa 110:1 where David calls the Ch
 # Matt 23:30: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if we had lived in the days of our fathers)
 q: (we would not have taken part with them in shedding the blood of the prophets)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1719,16 +1805,18 @@ Here Jesus is quoting the kind of thing that the Pharisees would say.
 # Matt 24:22: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NRSV, NIV: "if... not"
-NASB, NLT: "unless"
+* *Probability:* Non-factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (unless that time of calamity is shortened)
 q: (not a single person will survive) (NLT)
+
+
+* ESV, NRSV, NIV: "if... not"
+NASB, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -1747,15 +1835,17 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Matt 24:23: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone says to you "Look here is the Christ" or "there he is!")
 q: (do not believe it)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1773,15 +1863,17 @@ The probability is likely because Jesus states in the next verse that false chri
 # Matt 24:26a: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if they say to you "Look, he is in the wilderness")
 q: (do not go out)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1798,17 +1890,19 @@ The two condiitonals in v.26 describe situations that might arise in which peopl
 # Matt 24:26b: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NRSV: include "if they say"
-NASB, NIV, NLT: preserve the ellision
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 Square brackets show what is elided in the Greek text:
 p: ([if they say] "Look, he is in the inner rooms")
 q: (do not believe it"
+
+
+* ESV, NRSV: include "if they say"
+NASB, NIV, NLT: preserve the ellision
 
 
 ## Greek (SBLGNT)
@@ -1826,15 +1920,17 @@ This conditional could be considered the same condtional with v24a having a more
 # Matt 24:43: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if the master of the house had known in what part of the night the thief was coming)
 q: (he would have stayed awake and would not have let his house be broken into)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1851,15 +1947,17 @@ The sentence is referring to a past time situation, but it should be understood 
 # Matt 24:48-51: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if that wicked servant says to himself 'My master is delayed', and begins to beat his fellow servants, and eats and drinks with drunkards)
 q: (the master of the servant will come on a day when he does not expect him and at an hour he does not know and will cut him in pieces with the hypocrites.)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1876,16 +1974,18 @@ P is v.48-49 and q is v.50-51.
 # Matt 26:15: (Unspecified) Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Question
-* ESV, NRSV, NIV: "if"
-NASB, NLT: "to" infinitive
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Question
 
 
 ## English
 q: (What will you give me)
 p: (if I deliver him over to you)?
+
+
+* ESV, NRSV, NIV: "if"
+NASB, NLT: "to" infinitive
 
 
 ## Greek (SBLGNT)
@@ -1902,11 +2002,9 @@ This is an implied conditional. The Greek says, "What are you willing to give me
 # Matt 26:24: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke / Warn
-* ESV, NASB, NIV, NLT: "if"
-NRSV: "to" infinitive
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke / Warn
 
 
 ## English
@@ -1914,13 +2012,13 @@ q: (it would have been better for him)
 p: (if he had not been born)
 
 
+* ESV, NASB, NIV, NLT: "if"
+NRSV: "to" infinitive
+
+
 ## Greek (SBLGNT)
 * _q1_: καλὸν ἦν αὐτῷ
 * _p1_: εἰ οὐκ ἐγεννήθη ὁ ἄνθρωπος ἐκεῖνος
-
-
-## Notes
-
 
 
 ----------------
@@ -1928,17 +2026,19 @@ p: (if he had not been born)
 # Matt 26:33: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NRSV: "though"
-NASB: "even though"
-NIV, NLT: "even if"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (though/even if they all fall away because of you)
 q: (I will never fall away)
+
+
+* ESV, NRSV: "though"
+NASB: "even though"
+NIV, NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -1956,16 +2056,18 @@ The reality of this proposition is a bit complicated. In the preceding verses, J
 # Matt 26:35: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NIV, NLT: "even if"
-NRSV: "even though"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (even if I must die with you)
 q: (I will not deny you)
+
+
+* ESV, NASB, NIV, NLT: "even if"
+NRSV: "even though"
 
 
 ## Greek (SBLGNT)
@@ -1983,15 +2085,17 @@ The use of this concessive conditional indicates that Peter considered dying wit
 # Matt 26:42a: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if this cannot pass unless I drink it)
 q: (your will be done)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2008,15 +2112,17 @@ There is a general consensus among the commentaries (Hagner, Osbourne, and Morri
 # Matt 26:42b: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (this cannot pass)
 p: (unless I drink it)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -2035,15 +2141,17 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Matt 27:40: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Mock
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Mock
 
 
 ## English
 p: (if you are the Son of God)
 q: (come down from the cross)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2060,17 +2168,19 @@ Though Jesus was indeed the Christ, in the minds of the speakers, they consider 
 # Matt 27:43: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Mock
-* ESV, NIV, NLT: "if he desires/wants him"
-NASB: "if he delights in him"
-NRSV: "if he wants to"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Mock
 
 
 ## English
 q: (let God deliver him now)
 p: (if he desires him)
+
+
+* ESV, NIV, NLT: "if he desires/wants him"
+NASB: "if he delights in him"
+NRSV: "if he wants to"
 
 
 ## Greek (SBLGNT)
@@ -2087,10 +2197,9 @@ See note at 27:40. In the speakers' minds, God would not allow this injustice to
 # Matt 28:14: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -2098,13 +2207,12 @@ p: (if this comes to the governor's ears)
 q: (we will satisfy him and keep you out of trouble)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν ἀκουσθῇ τοῦτο ἐπὶ τοῦ ἡγεμόνος
 * _q1_: ἡμεῖς πείσομεν αὐτὸν καὶ ὑμᾶς ἀμερίμνους ποιήσομεν
-
-
-## Notes
-
 
 
 ----------------
@@ -2112,15 +2220,17 @@ q: (we will satisfy him and keep you out of trouble)
 # Mark 1:40: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (If you will) 
 q: (you can make me clean)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2137,17 +2247,19 @@ It seems that p could be merely a politeness strategy to make a request. However
 # Mark 2:21: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV: "if he does"
-NASB, NRSV, NIV: "otherwise"
-NLT: "for"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (If he does) 
 q: (the patch tears away from it, the new from the old, and a worse tear is made)
+
+
+* ESV: "if he does"
+NASB, NRSV, NIV: "otherwise"
+NLT: "for"
 
 
 ## Greek (SBLGNT)
@@ -2164,17 +2276,19 @@ Greek: εἰ δὲ μή with an elided (understood) verb. Translator's Notes sta
 # Mark 2:22: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV: "if he does"
-NASB, NRSV, NIV: "otherwise"
-NLT: "for"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (If he does) 
 q: (the wine will burst the skins—and the wine is destroyed, and so are the skins)
+
+
+* ESV: "if he does"
+NASB, NRSV, NIV: "otherwise"
+NLT: "for"
 
 
 ## Greek (SBLGNT)
@@ -2191,11 +2305,9 @@ Greek: εἰ δὲ μή with an elided (understood) verb. See note on 2:21.
 # Mark 3:24: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: untranslated
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -2203,13 +2315,13 @@ p: (if a kingdom is divided against itself)
 q: (that kingdom cannot stand)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: untranslated
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν βασιλεία ἐφ ἑαυτὴν μερισθῇ
 * _q1_: οὐ δύναται σταθῆναι ἡ βασιλεία ἐκείνη
-
-
-## Notes
-
 
 
 ----------------
@@ -2217,11 +2329,9 @@ q: (that kingdom cannot stand)
 # Mark 3:25: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: untranslated
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -2229,13 +2339,13 @@ p: (if a house is divided against itself)
 q: (that house will not be able to stand)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: untranslated
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν οἰκία ἐφ ἑαυτὴν μερισθῇ
 * _q1_: οὐ δυνήσεται ἡ οἰκία ἐκείνη σταθῆναι
-
-
-## Notes
-
 
 
 ----------------
@@ -2243,15 +2353,17 @@ q: (that house will not be able to stand)
 # Mark 3:26: (Unspecified) Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if Satan has risen up against himself and is divided)
 q: (he cannot stand, but is coming to an end)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2268,17 +2380,19 @@ Boyer (1981: 85) and Elliott (1981:206) cite this verse as class 1 whereas Gueli
 # Mark 3:27: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB: "unless"
-NRSV, NIV: "without"
-NLT: untranslated ("only")
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (no one can enter a strong man’s house and plunder his goods)
 p: (unless he first binds the strong man)
+
+
+* ESV, NASB: "unless"
+NRSV, NIV: "without"
+NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -2297,16 +2411,18 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Mark 4:23: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NIV: "if"
-NRSV, NLT: untranslated
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (If anyone has ears to hear,)
 q: (let him hear.)
+
+
+* ESV, NASB, NIV: "if"
+NRSV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2323,15 +2439,17 @@ This seems to have the same meaning as the more common "He who has ears to hear,
 # Mark 5:28: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Not applicable
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Not applicable
 
 
 ## English
 p: (If I touch even his garments) 
 q: (I will be made well)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2348,16 +2466,18 @@ The illocutionary force category is not applicable here as the woman is speaking
 # Mark 7:3: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "unless"
-NLT: "until"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (the Pharisees and all the Jews do not eat) 
 p: (unless they wash their hands properly, holding to the tradition of the elders)
+
+
+* ESV, NASB, NRSV, NIV: "unless"
+NLT: "until"
 
 
 ## Greek (SBLGNT)
@@ -2375,18 +2495,20 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Mark 7:4: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* All English translations reverse the Greek order of p and q, thus matching 7:3.
-ESV, NASB, NRSV, NIV: "unless"
-NLT: "until"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (unless they wash)
 q: (they do not eat)
 (p and q match the order of the Greek)
+
+
+* All English translations reverse the Greek order of p and q, thus matching 7:3.
+ESV, NASB, NRSV, NIV: "unless"
+NLT: "until"
 
 
 ## Greek (SBLGNT)
@@ -2404,17 +2526,19 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Mark 7:11-12: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NRSV, NIV: "if... then" (vv 11-12)
-NASB: "if"
-NLT: untranslated
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (If a man tells his father or his mother, “Whatever you would have gained from me is Corban” (that is, given to God) )
 q: (then you no longer permit him to do anything for his father or mother)
+
+
+* ESV, NRSV, NIV: "if... then" (vv 11-12)
+NASB: "if"
+NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2431,10 +2555,9 @@ Within p there is an additional ἐὰν meaning "whatever"; see 7:11b in the no
 # Mark 8:3: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -2442,13 +2565,12 @@ p: (if I send them away hungry to their homes)
 q: (they will faint on the way)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν ἀπολύσω αὐτοὺς νήστεις εἰς οἶκον αὐτῶν
 * _q1_: ἐκλυθήσονται ἐν τῇ ὁδῷ
-
-
-## Notes
-
 
 
 ----------------
@@ -2456,17 +2578,19 @@ q: (they will faint on the way)
 # Mark 8:34: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* "ESV, NASB: ""if anyone""
-NRSV, NLT: "if any (of you)"
-NIV: "whoever"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (If anyone would come after me) 
 q: (let him deny himself and take up his cross and follow me)
+
+
+* "ESV, NASB: ""if anyone""
+NRSV, NLT: "if any (of you)"
+NIV: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -2484,16 +2608,18 @@ This probability is analyzed as likely because the crowd actually is there follo
 # Mark 9:22: First Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
-NLT: p and q are reversed
+* *Probability:* Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you can do anything)
 q: (have compassion on us and help us)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
+NLT: p and q are reversed
 
 
 ## Greek (SBLGNT)
@@ -2510,15 +2636,17 @@ Greek: εἴ τι. Even though in Mark 8:23 this construction was obviously non-
 # Mark 9:23: First Class Condition
 
 
-* Probability: Not applicable
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Not applicable
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you can)
 q: missing
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2534,17 +2662,19 @@ Jesus is echoing the father's words in v.22 (NLT makes this clear: "What do you 
 # Mark 9:35: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* NASB, NRSV, ESV: "if anyone"
-NIV: "anyone"
-NLT: "whoever"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if anyone would be first)
 q: (he must be last of all and servant of all)
+
+
+* NASB, NRSV, ESV: "if anyone"
+NIV: "anyone"
+NLT: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -2562,16 +2692,18 @@ Here, even though we know that the disciples were just arguing about which of th
 # Mark 9:42: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Warn
-* ESV, NSAB, NRSV, NIV: "if"
-NLT: no conditional, "to" infinitive
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Warn
 
 
 ## English
 q: (it would be better for him)
 p: (if a great millstone were hung around his neck and he were thrown into the sea)
+
+
+* ESV, NSAB, NRSV, NIV: "if"
+NLT: no conditional, "to" infinitive
 
 
 ## Greek (SBLGNT)
@@ -2588,15 +2720,17 @@ The unlikely situation of someone having a heavy milstone hung around their neck
 # Mark 9:43: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 p: (if your hand causes you to sin)
 q: (cut it off)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2613,15 +2747,17 @@ Jesus is warning and exhorting His listeners to take their sin seriously and dea
 # Mark 9:45: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 p: (if your foot causes you to sin) 
 q; (cut it off)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2638,15 +2774,17 @@ See note on 9:43.
 # Mark 9:47: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 p: (if your eye causes you to sin)
 q: (tear it out)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2663,15 +2801,17 @@ See note on 9:43.
 # Mark 9:50: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if the salt has lost its saltiness)
 q: (how will you make it salty again)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2688,16 +2828,18 @@ This conditional must be read in its context of describing discipleship. The con
 # Mark 10:12: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 Modified from ESV to show Greek syntactic structure:
 p: (if she {having divorced her husband} marries another)
 q: (she commits adultery)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2714,15 +2856,17 @@ The grammatically main verbs are "marry" and "commit adultery" with the part abo
 # Mark 11:3: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone says to you, ‘Why are you doing this?’)
 q: (say, ‘The Lord has need of it and will send it back here immediately.’)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2739,11 +2883,9 @@ Greek: εαν τις 'if anyone'
 # Mark 11:25: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -2751,13 +2893,13 @@ q: (forgive)
 p: (if you have anything against anyone)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
+
+
 ## Greek (SBLGNT)
 * _q1_: ἀφίετε
 * _p1_: εἴ τι ἔχετε κατά τινος
-
-
-## Notes
-
 
 
 ----------------
@@ -2765,15 +2907,17 @@ p: (if you have anything against anyone)
 # Mark 11:31: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if we say, ‘From heaven’) 
 q: (he will say, ‘Why then did you not believe him?')
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2790,15 +2934,17 @@ The alternative response "From men" in v.32 has no conditional (unlike the paral
 # Mark 12:19: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Command
 
 
 ## English
 p: (if a man’s brother dies and leaves a wife, but leaves no child)
 q: (the man must take the widow and raise up offspring for his brother)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2815,16 +2961,18 @@ This conditional is a sumary of Deutoronomy 25:5-6. The Saducees use this to beg
 # Mark 13:20: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Future
-* Illocutionary Force: Assert / Warn
-* ESV, NRSV, NIV: "if...not"
-NASB, NLT: "unless"
+* *Probability:* Non-factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert / Warn
 
 
 ## English
 p: (if the Lord had not [decided to] cut short the days)
 q: (no flesh [i.e. human being] would be saved)
+
+
+* ESV, NRSV, NIV: "if...not"
+NASB, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -2843,15 +2991,17 @@ If this is paraphrased to avoid multiple negatives in languages without 'unless'
 # Mark 13:21: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if anyone"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone says to you, ‘Look, here is the Christ!’ or ‘Look, there he is!’) 
 q: (do not believe it)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if anyone"
 
 
 ## Greek (SBLGNT)
@@ -2869,16 +3019,18 @@ This probability is very likely because Jesus states in the next verse that fals
 # Mark 14:21: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke / Warn
-* ESV, NASB, NIV, NLT: "if"
-NRSV: no conditional, "to" infinitive
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke / Warn
 
 
 ## English
 q: (It would have been better for that man)
 p: (if he had not been born)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV: no conditional, "to" infinitive
 
 
 ## Greek (SBLGNT)
@@ -2896,17 +3048,19 @@ The verb in q (translated "would have been") is missing here but is present in t
 # Mark 14:29: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV: "even though"
-NIV, NLT: "even if"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 NIV:
 p: (even if all fall away)
 q: (I will not)
+
+
+* ESV, NASB, NRSV: "even though"
+NIV, NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -2924,17 +3078,19 @@ It is hard to determine how likely Peter thought the other disciples were to fal
 # Mark 14:31: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV: "if"
-NASB, NIV, NLT: "even if"
-NRSV: "even though"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (If I must die with you) 
 q: (I will not deny you)
+
+
+* ESV: "if"
+NASB, NIV, NLT: "even if"
+NRSV: "even though"
 
 
 ## Greek (SBLGNT)
@@ -2952,16 +3108,18 @@ It is difficult to determine how likely Peter thought it was that he would have 
 # Mark 16:18: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NLT: "and if"
-NIV: "and when"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if they drink any deadly poison)
 q: (it will not hurt them)
+
+
+* ESV, NASB, NRSV, NLT: "and if"
+NIV: "and when"
 
 
 ## Greek (SBLGNT)
@@ -2979,15 +3137,17 @@ Given the context that this is part of a list of of signs that Jesus says "will 
 # Luke 4:3: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you are the Son of God)
 q: (command this stone to become bread)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3004,15 +3164,17 @@ Nolland notes that the devil (and Jesus) had no doubt about his identity as Son 
 # Luke 4:7: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Promise / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Promise / Exhort
 
 
 ## English
 p: (if you then will worship me)
 q: (it will all be yours)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3029,15 +3191,17 @@ In 4:3 and 4:9 the exhortations (or temptations) are direct and occur in q; in t
 # Luke 4:9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you are the Son of God)
 q: (throw yourself down from here)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3054,15 +3218,17 @@ Again, we may assume the devil is fully aware that Jesus is the Son of God, but 
 # Luke 5:12: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you will)
 q: (you can make me clean)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3079,17 +3245,19 @@ Marshall considers the conditional here a mark of politeness, but it could also 
 # Luke 5:36b: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* NASB, NRSV, NIV: "otherwise"
-ESV: "if he does"
-NLT: "for then"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if he does)
 q: (he willl tear the new and the piece from the new will not match the old)
+
+
+* NASB, NRSV, NIV: "otherwise"
+ESV: "if he does"
+NLT: "for then"
 
 
 ## Greek (SBLGNT)
@@ -3106,17 +3274,19 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb. English translati
 # Luke 5:37: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* NASB, NRSV, NIV: "otherwise"
-ESV: "if he does"
-NLT: "for"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if he does)
 q: (the new wine will burst the skins and it will be spilled, and the skins will be destroyed)
+
+
+* NASB, NRSV, NIV: "otherwise"
+ESV: "if he does"
+NLT: "for"
 
 
 ## Greek (SBLGNT)
@@ -3133,15 +3303,17 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb; see note at 5:36.
 # Luke 6:32: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if you love those who love you)
 q: (what benefit is that to you?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3158,15 +3330,17 @@ This verse and the next two (vs.33-34) are a series of conditional statements po
 # Luke 6:33: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if you do good to those who do good to you)
 q: (what benefit is that to you?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3183,15 +3357,17 @@ See note at 6:32.
 # Luke 6:34: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if you lend to those from whom you expect to receive)
 q: (what credit is that to you?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3208,15 +3384,17 @@ See note at 6:32.
 # Luke 7:39: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if this man were a prophet)
 q: (he would have known who and what sort of woman this is, for she is a sinner)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3233,16 +3411,18 @@ While in truth, Jesus is a prophet and does know who the woman is, in the mind o
 # Luke 9:13: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "unless"
-NLT: "Or are you expecting...?"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (we have no more than five loaves and two fish)
 p: (unless we are to go and buy food for all these people)
+
+
+* ESV, NASB, NRSV, NIV: "unless"
+NLT: "Or are you expecting...?"
 
 
 ## Greek (SBLGNT)
@@ -3261,16 +3441,18 @@ The NLT offers an alternative to using 'unless': “But we have only five loaves
 # Luke 9:23: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* NASB, ESV, RSV, NLT: "if"
-NIV: "whoever"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone would come after me)
 q: (let him deny himself and take up his cross daily and follow me)
+
+
+* NASB, ESV, RSV, NLT: "if"
+NIV: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -3287,15 +3469,17 @@ Jesus is speaking to disciples, so the likelihood that they wish to follow him i
 # Luke 10:6a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if a son of peace is there)
 q: (your peace will rest on him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3312,15 +3496,17 @@ Jesus compares two different types of people, but unlike 9:48 and other similar 
 # Luke 10:6b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if not"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if not) [i.e. if there is not a son of peace there]
 q: (your peace will return to you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if not"
 
 
 ## Greek (SBLGNT)
@@ -3337,16 +3523,18 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb; see note at 5:36 
 # Luke 10:13: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV: "if...they would have..."
-NLT: "if...their people would have..."
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if the mighty works done in you had been done in Tyre and Sidon)
 q: (they would have repented long ago, sitting in sackcloth and ashes)
+
+
+* ESV, NASB, NRSV, NIV: "if...they would have..."
+NLT: "if...their people would have..."
 
 
 ## Greek (SBLGNT)
@@ -3363,16 +3551,18 @@ Jesus' miracles were not done in Tyre and Sidon, but he predicts how the people 
 # Luke 11:8: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NLT: "though"
-NASB, NRSV, NIV: "even though"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (though he will not get up and give him anything because he is his friend)
 q: (yet because of his impudence he will rise and give him whatever he needs)
+
+
+* ESV, NLT: "though"
+NASB, NRSV, NIV: "even though"
 
 
 ## Greek (SBLGNT)
@@ -3389,17 +3579,19 @@ Greek: ει και; this is a "concessive conditional." Because p is factual, mo
 # Luke 11:11: (Unspecified) Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NRSV, NIV, NLT: "if"
-NASB: "suppose"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 What father
 p: (if his son ask for a fish)
 q: (will give him a snake)?
+
+
+* ESV, NRSV, NIV, NLT: "if"
+NASB: "suppose"
 
 
 ## Greek (SBLGNT)
@@ -3416,15 +3608,17 @@ Although there is no conditional marker in the Greek, the sense here is clearly 
 # Luke 11:12: (Unspecified) Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: or (if his son ask for an egg)
 q: (will give him a scorpion)?
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3441,16 +3635,18 @@ See note at 11:11.
 # Luke 11:13: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 Note: in UBS Greek text, q is not a rhetorical question but rather a statement
 p: (if you then, being evil, know how to give good gifts to your children)
 q: (how much more will the heavenly Father give the Holy Spirit to those who ask Him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3467,15 +3663,17 @@ In verses 11 and 12 Jesus has just shown how human fathers give good things to t
 # Luke 11:18: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if Satan also is divided against himself)
 q: (how will his kingdom stand?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3492,15 +3690,17 @@ P describes a false situation which Jesus presents as possible for the sake of a
 # Luke 11:19: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (and if I cast out demons by Beelzebul)
 q: (by whom do your sons cast them out?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3517,15 +3717,17 @@ See v.18.
 # Luke 11:20: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if I cast out demons by the finger of God)
 q: (then the kingdom of God has come upon you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3542,10 +3744,9 @@ P is factual, though Jesus' audience may not yet be convinced of it.
 # Luke 11:36: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
@@ -3553,13 +3754,12 @@ p: (if then your whole body is full of light, having no dark part)
 q: (it will be wholly bright)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ οὖν τὸ σῶμά σου ὅλον φωτεινόν μὴ ἔχον μέρος τι σκοτεινόν
 * _q1_: ἔσται φωτεινὸν ὅλον
-
-
-## Notes
-
 
 
 ----------------
@@ -3567,11 +3767,9 @@ q: (it will be wholly bright)
 # Luke 12:26: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "since"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -3579,13 +3777,13 @@ p: (if then you are not able to do as small a thing as that)
 q: (why are you anxious about the rest?)
 
 
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "since"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ οὖν οὐδὲ ἐλάχιστον δύνασθε
 * _q1_: τί περὶ τῶν λοιπῶν μεριμνᾶτε
-
-
-## Notes
-
 
 
 ----------------
@@ -3593,15 +3791,17 @@ q: (why are you anxious about the rest?)
 # Luke 12:28: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue / Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue / Encourage
 
 
 ## English
 p: (if God so clothes the grass, which is alive in the field today and tomorrow is thrown into the oven)
 q: (how much more will he clothe you, oh you of little faith!)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3618,19 +3818,21 @@ Jesus is using a widely known fact in p to argue for the point he makes in q, th
 # Luke 12:38: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NRSV: "if"
-NASB: "whether... or even"
-NIV: "even if"
-NLT: untranslated ("may")
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 ESV with modifications in brackets to reflect the Greek structure:
 p: ([even] if he comes in the second watch, [even if] he comes in the third watch and finds them awake)
 q: (blessed are those servants)
+
+
+* ESV, NRSV: "if"
+NASB: "whether... or even"
+NIV: "even if"
+NLT: untranslated ("may")
 
 
 ## Greek (SBLGNT)
@@ -3647,15 +3849,17 @@ Greek: καν...καν...; q is not dependent on when the master returns (the se
 # Luke 12:39: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if the master of the house had known at what hour the thief was coming)
 q: (he would not have left his house to be broken into)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3672,16 +3876,18 @@ The sentence is referring to a past time situation, but it should be understood 
 # Luke 12:45-46: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "suppose"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (but if that servant says, "my master is delayed in coming", and begins to beat the male and female servants, and to eat and drink and get drunk)
 q: (the master of that servant will come on a day he does not expect and an hour he does not know, and will cut him in pieces and put him with the unfaithful)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "suppose"
 
 
 ## Greek (SBLGNT)
@@ -3698,16 +3904,18 @@ P makes up v.45, while q makes up v.46.
 # Luke 13:3: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
-(NLT inverts p and q)
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if you do not repent)
 q: (you will all likewise perish)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
+(NLT inverts p and q)
 
 
 ## Greek (SBLGNT)
@@ -3725,15 +3933,17 @@ These two (almost) identical sentences (13:3 and 13:5) have the regular order p>
 # Luke 13:5: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* NASB, ESV, RSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if you do not repent)
 q: (you will all likewise perish)
+
+
+* NASB, ESV, RSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -3750,16 +3960,18 @@ See note at 13:3.
 # Luke 13:9a: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Future
-* Illocutionary Force: Assert / Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert / Warn
 
 
 ## English
 Note: q is elided in the Greek
 p: (if it should bear fruit next year)
 q: [elided]
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3776,16 +3988,18 @@ The five English translations treat this as a conditional and supply q ("fine" o
 # Luke 13:9b: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Assert / Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert / Warn
 
 
 ## English
 Clarification in brackets
 p: (if not) [if it does not bear fruit]
 q: (you can cut it down)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3802,12 +4016,9 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb. See note at 5:36 
 # Luke 14:5: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV: gerund "having"
-NASB: future "will have"
-NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -3817,6 +4028,11 @@ q: (will not immediately pull him out?)
 NIV:
 p: (If one of you has a child or an ox that falls into a well on the Sabbath day
 q: (will you not immediately pull it out?)
+
+
+* ESV: gerund "having"
+NASB: future "will have"
+NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3833,16 +4049,18 @@ This is an implied conditional in Greek; the main verb in the protasis is missin
 # Luke 14:26: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NIV, NLT: "if"
-NRSV: "whoever"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes even his own life)
 q: (he cannot be my disciple)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -3859,17 +4077,19 @@ Jesus uses hyperbolic language in a conditional to introduce his discussion of t
 # Luke 14:32: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NRSV, NIV, NLT: "if...not"
-NASB: "or else"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 Clarification in brackets
 p: (if not) [if the king is not able to afford going to battle]
 q: (while the other is still a great way off, he sends a delegation and asks for terms of peace)
+
+
+* ESV, NRSV, NIV, NLT: "if...not"
+NASB: "or else"
 
 
 ## Greek (SBLGNT)
@@ -3886,15 +4106,17 @@ Greek: εἰ δὲ μή γε with an elided (understood) verb. See note at 5:36 
 # Luke 14:34: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if salt has lost its taste)
 q: (how shall its saltiness be restored?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3911,16 +4133,18 @@ This conditional must be read in its context of describing discipleship. The con
 # Luke 15:8: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "suppose"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if she loses a coin)
 q: ([what woman] does not light a lamp and sweep the house and seek diligently until she finds it)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "suppose"
 
 
 ## Greek (SBLGNT)
@@ -3937,10 +4161,9 @@ This conditional introduces the parable of the woman with the lost coin. While J
 # Luke 16:11: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -3948,13 +4171,12 @@ p: (if then you have not been faithful with unrighteous wealth)
 q: (who will entrust to you the true riches?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ οὖν ἐν τῷ ἀδίκῳ μαμωνᾷ πιστοὶ οὐκ ἐγένεσθε
 * _q1_: τὸ ἀληθινὸν τίς ὑμῖν πιστεύσει
-
-
-## Notes
-
 
 
 ----------------
@@ -3962,10 +4184,9 @@ q: (who will entrust to you the true riches?)
 # Luke 16:12: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -3973,13 +4194,12 @@ p: (if you have not been faithful with that which is another's)
 q: (who will give you that which is your own?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ ἐν τῷ ἀλλοτρίῳ πιστοὶ οὐκ ἐγένεσθε
 * _q1_: τὸ ὑμέτερον τίς δώσει ὑμῖν
-
-
-## Notes
-
 
 
 ----------------
@@ -3987,15 +4207,17 @@ q: (who will give you that which is your own?)
 # Luke 16:30: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if someone goes to them from the dead)
 q: (they will repent)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4012,15 +4234,17 @@ The rich man seemed convinced that a visit from the dead would convince his fami
 # Luke 16:31a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if they do not hear Moses and the prophets)
 q: (neither will they be convinced if someone should rise from the dead)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4037,17 +4261,19 @@ P is factual because the rich man's relatives are not listening to the Law and P
 # Luke 16:31b: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV: "if"
-NASB, NRSV, NIV, NLT: "even if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 Order modified to reflect the Greek
 p: ([neither] if someone should rise from the dead)
 q: (will they be convinced)
+
+
+* ESV: "if"
+NASB, NRSV, NIV, NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -4064,16 +4290,18 @@ This conditional makes up the q of v.31a. Although Greek just has ἐάν 'if', 
 # Luke 17:2: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Warn
-* ESV, NASB, NRSV: "if"
-NIV, NLT: untranslated
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Warn
 
 
 ## English
 q: (it would be better for him)
 p: (if a milstone were hung around his neck and he were cast into the sea)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -4090,15 +4318,17 @@ The unlikely situation of someone having a heavy milstone hung around their neck
 # Luke 17:3a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if your brother sins)
 q: (rebuke him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4115,11 +4345,9 @@ The second person pronouns ('your', 'you') and the verbs 'rebuke' and 'forgive' 
 # Luke 17:3b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NIV, NLT: "even if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -4127,13 +4355,13 @@ p: (if he repents)
 q: (forgive him)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NIV, NLT: "even if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν μετανοήσῃ
 * _q1_: ἄφες αὐτῷ
-
-
-## Notes
-
 
 
 ----------------
@@ -4141,16 +4369,18 @@ q: (forgive him)
 # Luke 17:4: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "even if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if he sins against you seven times in the day and turns to you seven times, saying, "I repent")
 q: (you must forgive him)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -4167,16 +4397,18 @@ Although the form of the conditional here is the same as in v.3 (ἐὰν 'if), 
 # Luke 17:6: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 Modified to better reflect the verb tense/aspect of the Greek
 p: (if you have faith like a grain of mustard seed)
 q: (you could have been saying to the mulberry tree, "..." and it would have obeyed you.)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4194,17 +4426,19 @@ The probability is debatable here. In the parallel passage in Matthew 17:20, Jes
 # Luke 18:4-5: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NRSV: "though"
-NIV, NASB: "even though"
-NLT: untranslated
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (though I neither fear God nor respect man)
 q: (yet because this widow keeps bothering me, I will give her justice)
+
+
+* ESV, NRSV: "though"
+NIV, NASB: "even though"
+NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -4221,16 +4455,18 @@ This is a "concessive conditional." Because p is factual, most English translati
 # Luke 19:8: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 NASB:
 p: (if I have defrauded anyone of anything)
 q: (I will give back four times as much)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4247,15 +4483,17 @@ From what is known about tax collectors at the time, it is highly likely that Za
 # Luke 19:31: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (If anyone asks you, 'why are you untying it?')
 q: (you shall say this: 'The Lord has need of it.')
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4272,16 +4510,18 @@ Greek: εαν τις 'if anyone'
 # Luke 19:40: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 NASB:
 p: (if these become silent)
 q: (the stones will cry out)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4298,15 +4538,17 @@ The question of how to read the verbs has a great influence over the interpretat
 # Luke 20:5: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if we say 'from heaven')
 q: (he will say 'why did you not believe him')
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4323,15 +4565,17 @@ The conditionals in this verse and the next should be understood as a pair; toge
 # Luke 20:6: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if we say 'from man')
 q: (all the people will stone us to death)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4348,15 +4592,17 @@ See note on v.5.
 # Luke 20:28: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Command
 
 
 ## English
 p: (if a man's brother dies, having a wife but no children)
 q: (the man must take the widow and raise up offspring for his brother)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4373,15 +4619,17 @@ This conditional is a sumary of Deutoronomy 25:5-6. The Saducees use this to beg
 # Luke 22:42: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you are willing)
 q: (remove this cup from me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4398,16 +4646,18 @@ There is a textual variant here that has an infinitive instead of an imperative,
 # Luke 22:67a: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Command / Mock
-* ESV, NASB, NRSV, NIV: "if"
-NLT: treated as direct question marker ("Tell us, are you the Messiah?")
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command / Mock
 
 
 ## English
 p: (if you are the Christ)
 q: (tell us)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: treated as direct question marker ("Tell us, are you the Messiah?")
 
 
 ## Greek (SBLGNT)
@@ -4424,15 +4674,17 @@ The Jewish leaders are once again not really interested in genuinely discovering
 # Luke 22:67b: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I tell you)
 q: (you will not believe)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4449,15 +4701,17 @@ The authorities have already shown in 20:1-8 that their desire is not to discove
 # Luke 22:68: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I ask you)
 q: (you will not answer)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4474,15 +4728,17 @@ As in v.67b, the Sanhedrin is not interested in truth, so if Jesus was to ask th
 # Luke 23:31: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if they do these things when the wood is green)
 q: (what will happen when it is dry?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4499,15 +4755,17 @@ In this verse, Jesus uses metephorical language to describe what is happening to
 # Luke 23:35: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Mock
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Mock
 
 
 ## English
 q: (let him save himself)
 p: (if he is the Christ of God, his Chosen One)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4524,15 +4782,17 @@ The challenges in this verse and in v.37 are not genuine, and the the speakers d
 # Luke 23:37: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Mock
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Mock
 
 
 ## English
 p: (if you are the King of the Jews)
 q: (save yourself)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4549,15 +4809,17 @@ See note at 23:35.
 # John 1:25: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 q: (then why are you baptizing?)
 p: (if you are neither the Christ, nor Elijah, nor the the Prophet)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4574,17 +4836,19 @@ John confirms in the previous verses the truth of p. The question they ask is re
 # John 3:2: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB: "unless"
-NRSV, NLT: untranslated
-NIV: "if...not"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (no one can do these signs you do)
 p: (unless God is with him)
+
+
+* ESV, NASB: "unless"
+NRSV, NLT: untranslated
+NIV: "if...not"
 
 
 ## Greek (SBLGNT)
@@ -4601,16 +4865,18 @@ This conditional presents Nicodemus's belief in Jesus' miracles being a sign tha
 # John 3:3: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NIV, NLT: "unless"
-NRSV: "without"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (unless one is born again)
 q: (he cannot see the kingdom of God)
+
+
+* ESV, NASB, NIV, NLT: "unless"
+NRSV: "without"
 
 
 ## Greek (SBLGNT)
@@ -4628,16 +4894,18 @@ This conditional (and the conditional in 3:5) is used by Jesus to specifically c
 # John 3:5: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NIV: "unless"
-NRSV, NLT: "without"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (unless one is born of water and the Spirit)
 q: (he cannot enter the kingdom of God)
+
+
+* ESV, NASB, NIV: "unless"
+NRSV, NLT: "without"
 
 
 ## Greek (SBLGNT)
@@ -4655,16 +4923,18 @@ See note at 3:3.
 # John 3:12a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past / Future
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NLT: "if"
-NIV: untranslated
+* *Probability:* Factual
+* *Time Orientation:* Past / Future
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if I have told you of earthly things and you do not believe)
 q: (how can you believe if I tell you heavenly things?)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: untranslated
 
 
 ## Greek (SBLGNT)
@@ -4681,15 +4951,17 @@ Trail discusses various options for what Jesus is implying by his rhetorical que
 # John 3:12b: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 q: (how can you believe?)
 p: (if I tell you about heavenly things)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4706,12 +4978,9 @@ Jesus could be saying that it is useless to teach about heavenly things or that 
 # John 3:27: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NLT: "unless"
-NRSV: "except"
-NIV: "only"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -4722,6 +4991,11 @@ p: (unless it is given to him from heaven)
 NRSV:
 q: (no one can receive anything)
 p: (except what has been given from heaven)
+
+
+* ESV, NASB, NLT: "unless"
+NRSV: "except"
+NIV: "only"
 
 
 ## Greek (SBLGNT)
@@ -4739,15 +5013,17 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # John 4:10: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert / Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert / Rebuke
 
 
 ## English
 p: (if you knew the gift of God and who it is that is saying to you "Give me a drink")
 q: (you would have asked him and he would have given you living water.)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4764,15 +5040,17 @@ Jesus uses the conditional to point out what the Samaritan women did not know an
 # John 4:48: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present / Future
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Present / Future
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (unless you see signs and wonders)
 q: (you will not believe)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -4790,12 +5068,9 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # John 5:19: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NRSV: "but only"
-NASB: "unless"
-NIV, NLT: separate independent clauses, p has "only"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -4806,6 +5081,11 @@ p: (unless it is something he sees the father doing)
 NRSV:
 q: (the son can do nothing on his own)
 p: (but only what he sees the Father doing)
+
+
+* ESV, NRSV: "but only"
+NASB: "unless"
+NIV, NLT: separate independent clauses, p has "only"
 
 
 ## Greek (SBLGNT)
@@ -4822,15 +5102,17 @@ Four of the five sample English translations do not translate this as a conditio
 # John 5:31: Third Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I alone bear witness to myself)
 q: (my testimony is not true)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4847,15 +5129,17 @@ Though this is syntactically a class 3 conditional (which usually have neutral p
 # John 5:43: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn / Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn / Rebuke
 
 
 ## English
 p: (if another comes in his own name)
 q: (you will receive him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4872,15 +5156,17 @@ Klink here notes that Jesus' point here is not to prophesy about another person 
 # John 5:46: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you believed Moses)
 q: (you would believe me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4897,16 +5183,18 @@ Because Jesus has already stated that the audience does not believe him (see v.4
 # John 5:47: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn / Rebuke
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn / Rebuke
 
 
 ## English
 p: (if you do not believe his writings)
 q: (how will you believe my words?)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -4923,15 +5211,17 @@ Based on the conclusion in the previous conditional, that belief in Moses equate
 # John 6:44: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (no one can come to me)
 p: (unless the Father, who sent me, draws him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -4948,17 +5238,19 @@ Paraphrase (to avoid multiple negatives for languages without 'unless' or 'excep
 # John 6:51: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB: "if anyone"
-NRSV, NIV: "whoever"
-NLT: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if anyone eats of this bread)
 q: (he will live forever)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NIV: "whoever"
+NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -4975,15 +5267,17 @@ Greek: ἐάν τις "if anyone"
 # John 6:53: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (unless you eat the flesh of the Son of Man and drink his blood)
 q: (you have no life in you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -5000,16 +5294,18 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # John 6:62: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 ESV (q is in brackets to show that it is not in the Greek)
 q [what]
 p: (if you were to see the Son of Man ascending to where he was before?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5026,15 +5322,17 @@ Jesus' emphasis here is clearly not on a prediction of what they will or won't s
 # John 6:65: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 q: (no one can come to me)
 p: (unless it is granted by the Father)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -5051,16 +5349,18 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # John 7:4: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Mock
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Mock
 
 
 ## English
 p: (if you do these things)
 q: (show yourself to the world)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "since"
 
 
 ## Greek (SBLGNT)
@@ -5077,16 +5377,18 @@ Translator's Notes and Trail both acknowledge that there are two possible readin
 # John 7:17: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB: "if anyone"
-NRSV, NIV, NLT: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if anyone's will is to do God's will)
 q: (he will know whether the teaching is from God or whether I am speaking on my own authority)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NIV, NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -5103,15 +5405,17 @@ Translator's Notes mentions that Jesus' statement here applies to anyone but esp
 # John 7:23: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if on the Sabbath a man receives circumcision, so that the law of Moses may not be broken)
 q: (are you angry with me because on the Sabbath I made a man's whole body well?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5128,16 +5432,18 @@ It was true that baby boys were circumcised on the Sabbath if necessary, but Jes
 # John 7:37: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB: "if"
-NRSV, NIV, NLT: no conditional used
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if anyone thirsts)
 q: (let him come to me and drink)
+
+
+* ESV, NASB: "if"
+NRSV, NIV, NLT: no conditional used
 
 
 ## Greek (SBLGNT)
@@ -5154,17 +5460,19 @@ Greek: ἐάν τις "if anyone"
 # John 7:51: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* NASB: "unless"
-ESV, NRSV, NIV: "without" (no conditional)
-NLT: "before" (no conditional)
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 q: (our law does not judge a man / does our law judge a man)
 p: (unless it first hears from him and knows what he is doing)
+
+
+* NASB: "unless"
+ESV, NRSV, NIV: "without" (no conditional)
+NLT: "before" (no conditional)
 
 
 ## Greek (SBLGNT)
@@ -5184,16 +5492,18 @@ Note also that the Greek literally says that the law judges and hears. If this i
 # John 8:14: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* NASB, ESV, RSV, NIV: "even if"
-NLT: "even though" (inverted)
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (Even if I do bear witness about myself)
 q: (my testimony is true)
+
+
+* NASB, ESV, RSV, NIV: "even if"
+NLT: "even though" (inverted)
 
 
 ## Greek (SBLGNT)
@@ -5211,16 +5521,18 @@ Though this verse seems to contradict 5:31, Klink explains that "the Son is so d
 # John 8:16: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "even if"
-NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even if I do judge)
 q: (my judgement is true)
+
+
+* ESV, NASB, NRSV, NIV: "even if"
+NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5238,16 +5550,18 @@ Like v.14, this concessive conditional seems to contradict a previous assertion 
 # John 8:19: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since" + negation
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if you knew me)
 q: (you would know the Father also)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since" + negation
 
 
 ## Greek (SBLGNT)
@@ -5264,17 +5578,19 @@ Jesus argues from the fact that the Pharisees do not "know" him, that is, have a
 # John 8:24: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NLT: "unless" (NRSV inverts)
-NIV: "if...not"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 ESV:
 p: (unless you believe that I am he)
 q: (you will die in your sins)
+
+
+* ESV, NASB, NRSV, NLT: "unless" (NRSV inverts)
+NIV: "if...not"
 
 
 ## Greek (SBLGNT)
@@ -5291,17 +5607,19 @@ Klink classifies the Jews' lack of belief as "uncertain, though likely" and note
 # John 8:31-32: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
-(NLT inverts)
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you abide by my word)
 q v.31: (you are truly my disciples)
 q v.32: (and you will know the truth, and the truth will set you free)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
+(NLT inverts)
 
 
 ## Greek (SBLGNT)
@@ -5318,10 +5636,9 @@ Though the verse states that Jesus was speaking to those who believed in him, th
 # John 8:36: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
@@ -5329,13 +5646,12 @@ p: (if the son sets you free)
 q: (you will be free indeed)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν οὖν ὁ υἱὸς ὑμᾶς ἐλευθερώσῃ
 * _q1_: ὄντως ἐλεύθεροι ἔσεσθε
-
-
-## Notes
-
 
 
 ----------------
@@ -5343,16 +5659,18 @@ q: (you will be free indeed)
 # John 8:39: First Class Condition
 
 
-* Probability: Factual / Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual / Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 modification in brackets to reflect the Greek
 p: (if you [are/were] Abraham's children)
 q: (you would be doing the works Abraham did)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5369,15 +5687,17 @@ It is heavily debated whether this is a factual condition (Jesus is echoing "Abr
 # John 8:42: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if God were your Father)
 q: (you would love me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5394,16 +5714,18 @@ This conditional is more clearly non-actual than v.39.
 # John 8:46: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if I tell the truth)
 q: (why do you not believe me?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -5420,17 +5742,19 @@ This is clearly factual, as Jesus stated in v.45 "I tell the truth".
 # John 8:51: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB: "if anyone..."
-NIV, NRSV: "whoever"
-NLT: "anyone who..."
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if anyone obeys my word)
 q: (he will never see death)
+
+
+* ESV, NASB: "if anyone..."
+NIV, NRSV: "whoever"
+NLT: "anyone who..."
 
 
 ## Greek (SBLGNT)
@@ -5447,17 +5771,19 @@ Greek: ἐάν τις 'if anyone'
 # John 8:52: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB: "if anyone..."
-NIV, NRSV: "whoever"
-NLT: "anyone who..."
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if anyone obeys my word)
 q: (he will never see death)
+
+
+* ESV, NASB: "if anyone..."
+NIV, NRSV: "whoever"
+NLT: "anyone who..."
 
 
 ## Greek (SBLGNT)
@@ -5474,15 +5800,17 @@ This verse is a word-for-word quote of v.51; see note there.
 # John 8:54: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if [as you imply] I glorify myself)
 q: (my glory is nothing)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5499,15 +5827,17 @@ In v.50 Jesus had said, "I do not seek my own glory," so this conditional repres
 # John 8:55: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if I were to say that I do not know him)
 q: (I would be a liar like you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5525,16 +5855,18 @@ Jesus continues his arguement and declaration of who he is by asserting his own 
 # John 9:22: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB: "if anyone..."
-NRSV, NIV, NLT: "anyone who..."
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone should confess Jesus to be Christ)
 q: (he was to be put out of the synagogue)
+
+
+* ESV, NASB: "if anyone..."
+NRSV, NIV, NLT: "anyone who..."
 
 
 ## Greek (SBLGNT)
@@ -5551,17 +5883,19 @@ Greek: ἐάν τις 'if anyone'
 # John 9:31: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB: "if anyone..."
-NRSV: "the one who..."
-NIV, NLT: untranslated/paraphrased as a non-conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if anyone is a worshiper of God and does his will)
 q: (God listens to him)
+
+
+* ESV, NASB: "if anyone..."
+NRSV: "the one who..."
+NIV, NLT: untranslated/paraphrased as a non-conditional
 
 
 ## Greek (SBLGNT)
@@ -5578,15 +5912,17 @@ Greek: ἐάν τις 'if anyone'
 # John 9:33: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if this man were not from God)
 q: (he could do nothing)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5604,15 +5940,17 @@ If possible, the negative conditional should be kept. If an affirmative wording 
 # John 9:41: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you were blind)
 q: (you would have no guilt)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5629,17 +5967,19 @@ Jesus uses figurative language here to rebuke the Pharisees for not believing in
 # John 10:9: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB: "if anyone..."
-NRSV, NIV: "whoever"
-NLT: "those who..."
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if anyone enters by me)
 q: (he will be saved and will go in and out and find pasture)
+
+
+* ESV, NASB: "if anyone..."
+NRSV, NIV: "whoever"
+NLT: "those who..."
 
 
 ## Greek (SBLGNT)
@@ -5656,15 +5996,17 @@ Greek: ἐάν τις 'if anyone'
 # John 10:24: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if you are the Christ)
 q: (tell us plainly)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5681,15 +6023,17 @@ Beasley-Murray and Trail agree that the intent of the speakers is likely hostile
 # John 10:35-36: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if he called them 'gods' to whom the word of God came...)
 q: (do you say of him whom the Father consecrated and sent into the world, 'You are blaspheming' because I said 'I am the Son of God'?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5706,16 +6050,18 @@ Jesus has just quoted Psa 82:6 that forms the basis for his claim in the protasi
 # John 10:37: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Rebuke / Argue
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "unless"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
 p: (if I am not doing the works of my Father)
 q: (then do not believe me)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -5733,15 +6079,17 @@ The negative conditional should be kept, as the following verse provides the aff
 # John 10:38a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke / Exhort
 
 
 ## English
 p: (if I do them)
 q: (even though you do not believe me, believe the works)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5758,17 +6106,19 @@ This conditional is embedded within the conditional in 38b. See note there for f
 # John 10:38b: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke / Exhort
-* ESV, NRSV, NIV: "even though"
-NASB: "though"
-NLT: "even if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke / Exhort
 
 
 ## English
 p: (even though you do not believe me)
 q: (believe the works)
+
+
+* ESV, NRSV, NIV: "even though"
+NASB: "though"
+NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -5786,18 +6136,20 @@ This conditional should be interpreted as factual (or at least highly likely), a
 # John 11:9: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB: "if anyone"
-NRSV: "those who"
-NIV: "anyone who"
-NLT: non-conditional statement
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if anyone walks in the day)
 q: (he does not stumble because he sees the light of this world)
+
+
+* ESV, NASB: "if anyone"
+NRSV: "those who"
+NIV: "anyone who"
+NLT: non-conditional statement
 
 
 ## Greek (SBLGNT)
@@ -5815,16 +6167,18 @@ This condtion and the one in v.10 together have a literal meaning and a figurati
 # John 11:10: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB: "if anyone"
-NRSV, NIV, NLT: untranslated/paraphrased as a non-conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if anyone walks in the night)
 q: (he stumbles because the light is not in him)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NIV, NLT: untranslated/paraphrased as a non-conditional
 
 
 ## Greek (SBLGNT)
@@ -5841,15 +6195,17 @@ Greek: ἐάν τις; see note at v.9.
 # John 11:12: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if he has fallen asleep)
 q: (he will recover)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5866,15 +6222,17 @@ The disciples misunderstood Jesus by taking his statement as literally true when
 # John 11:21: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you had been here)
 q: (my brother would not have died)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5891,17 +6249,19 @@ Young says this is a rebuke softened with a conditonal. On the other hand, Beasl
 # John 11:25: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NRSV, NIV: "(even) though"
-NASB: "even if"
-NLT: "even after"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (he who believes in me shall live)
 p: (even if he dies)
+
+
+* ESV, NRSV, NIV: "(even) though"
+NASB: "even if"
+NLT: "even after"
 
 
 ## Greek (SBLGNT)
@@ -5918,15 +6278,17 @@ Greek: κἂν; this is a "concessive conditional". The probability of death doe
 # John 11:32: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you had been here)
 q: (my brother would not have died)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5943,16 +6305,18 @@ This conditional is identical to that in v.21, however Jesus' reaction to Martha
 # John 11:40: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Rebuke / Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke / Promise
 
 
 ## English
 NASB
 p: (if you believe)
 q: (you will see the glory of God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5969,15 +6333,17 @@ Trail notes that this verse is a "gentle reprimand" and a "challenge to her fait
 # John 11:48: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if we let him go on like this)
 q: (everyone will believe in him and the Romans will come and take away both our place and our nation)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5994,16 +6360,18 @@ The Sanhedrin are implying that they should not allow Jesus to continue performi
 # John 11:57: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB: "if anyone"
-NRSV, NIV, NLT: "anyone (who)"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone knew where he was)
 q: (he should let them know)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NIV, NLT: "anyone (who)"
 
 
 ## Greek (SBLGNT)
@@ -6021,15 +6389,17 @@ This is one of the few conditionals in reported speech.
 # John 12:24a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (unless a grain of wheat falls into the earth and dies)
 q: (it remains alone)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -6047,16 +6417,18 @@ The negative conditional shouldbe kept; the following sentence provides the affi
 # John 12:24b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: untranslated/paraphrased as a non-conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if it dies)
 q: (it bears much fruit)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: untranslated/paraphrased as a non-conditional
 
 
 ## Greek (SBLGNT)
@@ -6073,17 +6445,19 @@ See note at v.24a.
 # John 12:26a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB: "if anyone"
-NRSV, NIV: "whoever"
-NLT: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone serves me)
 q: (he must follow me)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NIV: "whoever"
+NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -6101,18 +6475,20 @@ The first conditional in v.26 expresses a command, and the second conditional ex
 # John 12:26b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB: "if anyone'"
-NRSV: "whoever"
-NIV: "the one who"
-NLT: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if anyone serves me)
 q: (the Father will honor him)
+
+
+* ESV, NASB: "if anyone'"
+NRSV: "whoever"
+NIV: "the one who"
+NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -6130,16 +6506,18 @@ See note at v.26a
 # John 12:32: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Future
-* Illocutionary Force: Promise / Assert
-* ESV, NRSV, NIV, NLT: "when"
-NASB: "if"
+* *Probability:* Factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise / Assert
 
 
 ## English
 p: (and I, when I am lifted up from the earth)
 q: (will draw all people to myself)
+
+
+* ESV, NRSV, NIV, NLT: "when"
+NASB: "if"
 
 
 ## Greek (SBLGNT)
@@ -6156,17 +6534,19 @@ Languages with an "if/when" category could use this here. Trail notes that the m
 # John 12:47: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NIV: "if anyone"
-NRSV: "anyone who"
-NLT: untranslated/paraphrased as a non-conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if anyone hears my words and does not keep them)
 q: (I do not judge him)
+
+
+* ESV, NASB, NIV: "if anyone"
+NRSV: "anyone who"
+NLT: untranslated/paraphrased as a non-conditional
 
 
 ## Greek (SBLGNT)
@@ -6184,16 +6564,18 @@ Jesus knows that many of those who heard him would not obey him, but the likelih
 # John 13:8: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB: "if...not"
-NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I do not wash you)
 q: (you have no share with me)
+
+
+* ESV, NASB: "if...not"
+NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -6210,17 +6592,19 @@ Tthe negative conditional should be kept if possible because Jesus' words "If I 
 # John 13:14: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV: "if"
-NIV: "now that"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if I then, your Lord and Teacher have washed your feet)
 q: (you also ought to wash one another's feet)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "now that"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -6237,16 +6621,18 @@ Klink refers to this conditional as an "argument", but according to Young it is 
 # John 13:17a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "now that"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if you know these things)
 q: (blessed are you if you do them)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "now that"
 
 
 ## Greek (SBLGNT)
@@ -6263,16 +6649,18 @@ Boyer analyzes this conditional as sharing a single apodosis with 17b, however w
 # John 13:17b: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV: "if"
-NLT: untranslated/paraphrased as a non-conditional
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 q: (blessed are you)
 p: (if you do them)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: untranslated/paraphrased as a non-conditional
 
 
 ## Greek (SBLGNT)
@@ -6289,16 +6677,18 @@ This conditonal is embedded in 17a; see note there. The conditonal here ("if you
 # John 13:32: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if God is glorified in him)
 q: (God will also glorify him in himself, and glorify him at once)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -6315,16 +6705,18 @@ The time reference changes from aorist (past, completed) in p (and preceding con
 # John 13:35: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV: "if"
-NLT: non-conditional staement
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 q: (by this all people will know you are my disciples)
 p: (if you have love for one another)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: non-conditional staement
 
 
 ## Greek (SBLGNT)
@@ -6341,10 +6733,9 @@ The "this" (Greek τούτῳ ) in q refers forward to the whole of p. This may 
 # John 14:2: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if...not"
+* *Probability:* Non-factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -6355,6 +6746,9 @@ q: (would I have told you that I go and prepare a place for you?)
 NASB:
 p: (if it were not so)
 q: (I would have told you) for/because I go to prepare a place for you
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if...not"
 
 
 ## Greek (SBLGNT)
@@ -6372,16 +6766,18 @@ The majority of translations (ESV, NRSV, NIV, NLT) treat q as a rhetorical quest
 # John 14:3: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if I go and prepare a place for you)
 q: (I will come again and take you to myself, that where I am you may be also)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -6398,16 +6794,18 @@ Although the Greek has a class 3 conditional, this is clearly factual; the force
 # John 14:7: (Unspecified) Class Condition
 
 
-* Probability: Factual / Non-factual
-* Time Orientation: Present / Future / Past
-* Illocutionary Force: Exhort / Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual / Non-factual
+* *Time Orientation:* Present / Future / Past
+* *Illocutionary Force:* Exhort / Rebuke
 
 
 ## English
 Our own translation:
 p: (if you have known me)
 q: (you know my Father also)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6424,19 +6822,21 @@ We have chosen to analyze this as a factual conditional, based on the UBS Greek 
 # John 14:11: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Command / Exhort
-* ESV: "or else"
-NASB: "otherwise"
-NRSV: "but if...not"
-NIV, NLT: "or at least"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command / Exhort
 
 
 ## English
 NET:
 p: (if you do not believe me)
 q: (believe because of the miraculous deeds themselves)
+
+
+* ESV: "or else"
+NASB: "otherwise"
+NRSV: "but if...not"
+NIV, NLT: "or at least"
 
 
 ## Greek (SBLGNT)
@@ -6453,16 +6853,18 @@ q: (believe because of the miraculous deeds themselves)
 # John 14:14: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV: "if"
-NIV, NLT: implied conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if you ask me anything in my name)
 q: (I will do it)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: implied conditional
 
 
 ## Greek (SBLGNT)
@@ -6479,15 +6881,17 @@ This conditional is used to restate and reinforce the promise made in v.13, henc
 # John 14:15: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you love me)
 q: (you will keep my commandments)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6504,18 +6908,20 @@ The 'you' here is plural.
 # John 14:23: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB: "if anyone"
-NRSV: "those who"
-NIV: "anyone who"
-NLT: "all who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if anyone loves me)
 q: (he will keep my word, and my Father will love him, and we will come to him and make our home with him)
+
+
+* ESV, NASB: "if anyone"
+NRSV: "those who"
+NIV: "anyone who"
+NLT: "all who"
 
 
 ## Greek (SBLGNT)
@@ -6533,15 +6939,17 @@ In v.15 Jesus was addressing his disciples, but here he is talking about "the wo
 # John 14:28: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you loved me)
 q: (you would have rejoiced [that] I am going to the Father, for the Father is greater than I)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6558,17 +6966,19 @@ Jesus indicates here that the disciples ought to view his departure positively (
 # John 15:4a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV: "unless"
-NIV: non-conditional statement
-NLT: "if it is severed..." (antonymical verb)
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (as the branch cannot bear fruit by itself)
 p: (unless it abides in the vine)
+
+
+* ESV, NASB, NRSV: "unless"
+NIV: non-conditional statement
+NLT: "if it is severed..." (antonymical verb)
 
 
 ## Greek (SBLGNT)
@@ -6588,15 +6998,17 @@ Digo translation: "Hold tightly* to me, and I will hold tightly to you. For a br
 # John 15:4b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (neither can you)
 p: (unless you abide in me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -6613,18 +7025,20 @@ See note at 15:4a. (See note at 15:6 for discussion of the implied conditional i
 # John 15:6: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB: "if anyone does not"
-NIV: "if you do not"
-NRSV: "whoever does not"
-NLT: "anyone who does not"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone does not abide in me)
 q: (he is thrown away like a branch and withers)
+
+
+* ESV, NASB: "if anyone does not"
+NIV: "if you do not"
+NRSV: "whoever does not"
+NLT: "anyone who does not"
 
 
 ## Greek (SBLGNT)
@@ -6642,15 +7056,17 @@ This verse provides the negative counterpart to v.5, which in Greek is "the one 
 # John 15:7a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if you abide in me and my words abide in you)
 q: (ask whatever you wish and it will be done for you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6667,16 +7083,18 @@ Jesus repeats the promise given in 14:14 in q (so q has an implied condition); p
 # John 15:10: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if you keep my commandments)
 q: (you will abide in my love)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -6693,15 +7111,17 @@ Klink notes that "obedience springs from love and is the response to love, not t
 # John 15:14: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (you are my friends)
 p: (if you do what I command you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6718,15 +7138,17 @@ In light of the following vereses where Jesus elaborates on calling his disciple
 # John 15:18: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if the world hates you)
 q: (know that it has hated me before it hated you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6743,15 +7165,17 @@ In 15:19b, Jesus states, "I chose you out of the world, so the world hates you."
 # John 15:19a: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if you were of the world)
 q: (the world would love you as its own)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6768,16 +7192,18 @@ Jesus uses a non-factual condtional to express the negative counterpart of v.19b
 # John 15:20b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past / Future
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past / Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if they persecuted me)
 q: (they will also persecute you)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -6794,14 +7220,16 @@ In Jhn 15:18-19, Jesus has warned his disciples that the world will hate them, j
 # John 15:20c: First Class Condition
 
 
-* Probability: Factual / Non-factual
-* Time Orientation: Past / Future
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual / Non-factual
+* *Time Orientation:* Past / Future
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if they kept my word) q: (they will also keep yours)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6819,15 +7247,17 @@ An alternative interpretation, noted by Carson (1991) and Beasley-Murray (1999),
 # John 15:22: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I had not come and spoken to them)
 q: (they would not have been guilty of sin)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6844,15 +7274,17 @@ Both p and q are negative; Jesus is in effect saying "Because I came and spoke t
 # John 15:24: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I had not done among them the works that no one else did)
 q: (they would not be guilty of sin)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6869,16 +7301,18 @@ Both p and q are negative; Jesus is in effect saying "Because I did among them t
 # John 16:7a: Third Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "unless"
+* *Probability:* Non-factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if I do not go away)
 q: (the Helper will not come to you)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "unless"
 
 
 ## Greek (SBLGNT)
@@ -6896,15 +7330,17 @@ Although Jesus presents two alternative scenarios (the first of which he knows i
 # John 16:7b: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if I go)
 q: (I will send him to you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6921,16 +7357,18 @@ See note at 16:7a.
 # John 18:8: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if you seek me)
 q: (let these men go)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -6947,15 +7385,17 @@ It has been established in the context that they are indeed seeking Jesus; the c
 # John 18:23a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if what I said is wrong)
 q: (bear witness about the wrong)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6972,15 +7412,17 @@ Jesus is not admitting that he said something wrong; he is expressing what the T
 # John 18:23b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if what I said is right)
 q: (why do you strike me?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -6997,16 +7439,18 @@ Jesus knows tnat what he said was right, but this is presented as an alternative
 # John 18:30: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
-(NLT inverts p and q)
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if this man were not a criminal)
 q: (we would not have handed him over to you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
+(NLT inverts p and q)
 
 
 ## Greek (SBLGNT)
@@ -7024,15 +7468,17 @@ Both p and q are negative; if it is difficult to keep two negatives in your tran
 # John 18:36: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if my kingdom were of this world)
 q: (my servants would have been fighting, that I might not be delivered over to the Jews)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7049,16 +7495,18 @@ Jesus has just stated, "My kingdom is not of this world," so NIV and NLT reduce 
 # John 19:11: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NLT: "unless"
-NIV: "if...not"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (you would have no authority over me at all)
 p: (unless it had been given you from above)
+
+
+* ESV, NASB, NRSV, NLT: "unless"
+NIV: "if...not"
 
 
 ## Greek (SBLGNT)
@@ -7076,10 +7524,9 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # John 19:12: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -7087,13 +7534,12 @@ p: (if you release this man)
 q: (you are not Caesar's friend)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: Ἐὰν τοῦτον ἀπολύσῃς
 * _q1_: οὐκ εἶ φίλος τοῦ Καίσαρος
-
-
-## Notes
-
 
 
 ----------------
@@ -7101,10 +7547,9 @@ q: (you are not Caesar's friend)
 # John 20:15: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
@@ -7112,13 +7557,12 @@ p: (if you have carried him away)
 q: (tell me where you have laid him, and I will take him away)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ σὺ ἐβάστασας αὐτόν
 * _q1_: εἰπέ μοι ποῦ ἔθηκας αὐτόν κἀγὼ αὐτὸν ἀρῶ
-
-
-## Notes
-
 
 
 ----------------
@@ -7126,15 +7570,17 @@ q: (tell me where you have laid him, and I will take him away)
 # John 20:23a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLY: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (If you forgive the sins of any)
 q: (they are forgiven them)
+
+
+* ESV, NASB, NRSV, NIV, NLY: "if"
 
 
 ## Greek (SBLGNT)
@@ -7151,14 +7597,16 @@ There are two conditional sentences here, presenting alternative scenarios. The 
 # John 20:23b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLY: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if you withold forgiveness from any) q: (it is withheld)
+
+
+* ESV, NASB, NRSV, NIV, NLY: "if"
 
 
 ## Greek (SBLGNT)
@@ -7175,16 +7623,18 @@ There are two conditional sentences here, presenting alternative scenarios. The 
 # John 20:25: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "unless"
-(NLT inverted)
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (unless I see in his hands the mark of the nails, and place my finger into the mark of the nails, and place my hand into his side)
 q: (I will never believe)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
+(NLT inverted)
 
 
 ## Greek (SBLGNT)
@@ -7202,15 +7652,17 @@ Paraphrase (to avoid multiple negatives in languages without 'unless'): “Only 
 # John 21:22: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if it is my will that he remain until I come)
 q: (what is that to you?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7227,15 +7679,17 @@ Jesus is not intending to imply any likelihood in this conditonal, which is made
 # John 21:23: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if it is my will that he remain until I come)
 q: (what is that to you?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7252,17 +7706,19 @@ Identical to v.22.
 # John 21:25: Third Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV: "were [they] to be written"
-NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 NASB
 p: (if they were written in detail)
 q: (I suppose that even the world itself would not contain the books that would be written)
+
+
+* ESV: "were [they] to be written"
+NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7279,16 +7735,18 @@ It is clear from the conclusion drawn in q that John does not expect this condit
 # Acts 4:9-10: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: untranslated/paraphrased as a non-conditional in the form of a direct question marker
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if we are being examined today concerning a good deed done to a crippled man, by what means this man has been healed)
 q: (let it be known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth... this man is standing before you well.)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: untranslated/paraphrased as a non-conditional in the form of a direct question marker
 
 
 ## Greek (SBLGNT)
@@ -7305,16 +7763,18 @@ This is an example of a speech act conditional; q is true regardless of whether 
 # Acts 4:19: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "whether"
-NIV, NLT: translated as a direct question
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (Whether it is right in the sight of God to listen to you rather than to God)
 q: (you must judge)
+
+
+* ESV, NASB, NRSV: "whether"
+NIV, NLT: translated as a direct question
 
 
 ## Greek (SBLGNT)
@@ -7331,15 +7791,17 @@ When there is a choice within p, English often expresses this using 'whether' ra
 # Acts 5:38b: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if this plan or this undertaking is of man)
 q: (it will fail)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7356,15 +7818,17 @@ Gamaliel uses the conditionals in v.38b and v.39a to present the two possible si
 # Acts 5:39a: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if it is of God)
 q: (you will not be able to overthrow them)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7381,15 +7845,17 @@ See note at v38. Even though this conditional is class 1 (which typically expres
 # Acts 8:31: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 q: (how can I [understand what I am reading])
 p: (unless someone guides me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -7413,16 +7879,18 @@ Paraphrase (to avoid multiple negatives in languages without 'unless':
 # Acts 9:2: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV: "if"
-NLT: untranslated/paraphrased as a non-conditional in the form of indirect speech
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if he found any belonging to the Way, men or women)
 q: (he might bring them bound to Jerusalem)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: untranslated/paraphrased as a non-conditional in the form of indirect speech
 
 
 ## Greek (SBLGNT)
@@ -7439,11 +7907,9 @@ The conditinoal occurs in indirect speech. If this is not natural or clear, it c
 # Acts 11:17: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -7451,13 +7917,13 @@ p: (if God then gave the same gift to them as he gave to us when we believed in 
 q: (who was I that I could stand in God's way?)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ οὖν τὴν ἴσην δωρεὰν ἔδωκεν αὐτοῖς ὁ θεὸς ὡς καὶ ἡμῖν πιστεύσασιν ἐπὶ τὸν κύριον Ἰησοῦν Χριστόν
 * _q1_: ἐγὼ τίς ἤμην δυνατὸς κωλῦσαι τὸν θεόν
-
-
-## Notes
-
 
 
 ----------------
@@ -7465,15 +7931,17 @@ q: (who was I that I could stand in God's way?)
 # Acts 13:15: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you have any word of encouragement for the people)
 q: (say it)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7490,16 +7958,18 @@ This conditional is a polite invitation to Paul and his companions to speak. If 
 # Acts 13:41: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NRSV, NIV, NLT: "even if"
-NASB: "though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (I am doing a work in your days, a work that you will not believe)
 p: (even if one tells it to you)
+
+
+* ESV, NRSV, NIV, NLT: "even if"
+NASB: "though"
 
 
 ## Greek (SBLGNT)
@@ -7516,15 +7986,17 @@ This is a "concessive conditional," occuring in a quotation of Old Testament pro
 # Acts 15:1: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (unless you are circumcised according to the custom of Moses)
 q: (you cannot be saved)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -7543,15 +8015,17 @@ Paraphrase (to avoid multiple negatives in languages without 'unless'): "You can
 # Acts 16:15: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (if you have judged me to be faithful to the Lord)
 q: (come to my house and stay)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7568,15 +8042,17 @@ Lydia is not doubting whether she is a true believer; rather, she is using a con
 # Acts 18:14: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if this were a matter of wrongdoing or vicious crime)
 q: (I would have reason to accept your complaint)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7593,16 +8069,18 @@ This verse and the next (v.15) form a pair in which the speaker compares two sit
 # Acts 18:15: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NRSV, NIV, NLT: "since"
-NASB: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (since it is a matter of questions and words and names and your own law)
 q: (see to it yourselves)
+
+
+* ESV, NRSV, NIV, NLT: "since"
+NASB: "if"
 
 
 ## Greek (SBLGNT)
@@ -7619,15 +8097,17 @@ See note at v.14.
 # Acts 19:38: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if therefore Demetrius and the craftsmen with him have a complaint against anyone)
 q: (the courts are open and there are proconsuls)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7644,15 +8124,17 @@ This is a speech act conditional; q is true regardless of whether p is true - p 
 # Acts 19:39: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (but if you seek anything further)
 q: (it shall be settled in a regular assembly)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7669,16 +8151,18 @@ Although the form of this conditional is the same as in v.38, it does not seem t
 # Acts 22:25: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Question
-* ESV, NASB, NRSV, NIV, NLT: translated as a relative clause "who is..."
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Question
 
 
 ## English
 Greek:
 p: (if a man [is] a Roman citizen and uncondemned)
 q: (Ιs it lawful for you to flog [him]?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: translated as a relative clause "who is..."
 
 
 ## Greek (SBLGNT)
@@ -7695,17 +8179,19 @@ Although none of the English translations listed translate this as a conditional
 # Acts 23:9: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NRSV, NIV: "what if"
-NASB: "suppose"
-NLT: "perhaps"
+* *Probability:* Likely
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (what if a spirit or an angel spoke to him?)
 q: missing
+
+
+* ESV, NRSV, NIV: "what if"
+NASB: "suppose"
+NLT: "perhaps"
 
 
 ## Greek (SBLGNT)
@@ -7721,11 +8207,9 @@ Boyer and Elliot consider this a true condition with an elipsed q. They do not c
 # Acts 24:19: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV: "should they have" (conditional sense)
-NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -7734,13 +8218,13 @@ q: (they ought to be here before you to make accusation)
 p: (if they have anything against me)
 
 
+* ESV: "should they have" (conditional sense)
+NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _q1_: τινὲς δὲ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι οὓς ἔδει ἐπὶ σοῦ παρεῖναι καὶ κατηγορεῖν
 * _p1_: εἴ τι ἔχοιεν πρὸς ἐμέ
-
-
-## Notes
-
 
 
 ----------------
@@ -7748,15 +8232,17 @@ p: (if they have anything against me)
 # Acts 25:5: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if there is anything wrong about the man)
 q: (let them bring charges against him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7773,15 +8259,17 @@ Although this is a class 1 conditional, which are often factual, there is eviden
 # Acts 25:11a: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if then I am a wrongdoer and have committed anything for which I deserve to die)
 q: (I do not seek to escape death)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7798,15 +8286,17 @@ Paul uses two conditionals in 11a and 11b to show the powo possible situations (
 # Acts 25:11b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if there is nothing to their charges against me)
 q: (no one can give me up to them)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7823,16 +8313,18 @@ See note at v.11a.
 # Acts 26:5: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 NLT:
 p: (if they would admit it)
 q: (they know that I have been a member of the Pharisees, the strictest sect of our religion)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -7849,17 +8341,19 @@ Q is true regardless of p. If this is not clear using a conditional construction
 # Acts 26:8: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NRSV, NIV, NLT: "that"
-NASB: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 NASB: 
 q: (why is it considered incredible among you)
 p: (if God does raise the dead?)
+
+
+* ESV, NRSV, NIV, NLT: "that"
+NASB: "if"
 
 
 ## Greek (SBLGNT)
@@ -7876,10 +8370,9 @@ Many English translations do not treat this as a conditional, but instead transl
 # Acts 26:32: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -7887,13 +8380,12 @@ q: (this man might have been set free)
 p: (if he had not appealed to Caesar)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _q1_: Ἀπολελύσθαι ἐδύνατο ὁ ἄνθρωπος οὗτος
 * _p1_: εἰ μὴ ἐπεκέκλητο Καίσαρα
-
-
-## Notes
-
 
 
 ----------------
@@ -7901,15 +8393,17 @@ p: (if he had not appealed to Caesar)
 # Acts 27:31: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert / Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert / Warn
 
 
 ## English
 p: (unless these men stay in the ship = if these men do not stay in the ship)
 q: (you cannot be saved)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -7927,15 +8421,17 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Rom 2:17-21: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you call yourself a Jew and rely on the law and boast in God and know his will and approve what is excellent, because you are intructed from the law; and if you are sure that you yourself are a guide to the blind, a light to those who are in darkness, an instructor of the foolish, a teacher of children, having in the law the embodiment of truth)
 q: (you then who teach others, do not teach yourself)
+
+
+* ESV, NASB, NRSV, NIV: "if"
 
 
 ## Greek (SBLGNT)
@@ -7954,16 +8450,18 @@ Since p is vs.17-20, q could be considered to encompass all four rhetorical ques
 # Rom 2:25a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "only if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (For circumcision indeed is of value)
 p: (if you obey the law)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "only if"
 
 
 ## Greek (SBLGNT)
@@ -7980,15 +8478,17 @@ Circumcision was a sign that set the Jews apart from the other nations, but Paul
 # Rom 2:25b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if you break the law)
 q: (your circumcision becomes uncircumcision)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8005,15 +8505,17 @@ Paul is presenting breaking the law as hypothetical, even though it is clear fro
 # Rom 2:26: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (so, if a man who is uncircumcised keeps the precepts of the law)
 q: (will not his uncircumcision be regarded as circumcision?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8030,18 +8532,20 @@ A rhetorical question intended to be answered positively (which Paul does in ver
 # Rom 3:3: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Argue
-* NASB: "if"
-ESV, NRSV, NIV: "what if"
-NLT: "just because"
+* *Probability:* Factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 What then?
 p: (If some did not believe,)
 q: (their unbelief will not nullify the faithfulness of God, will it?) (NASB)
+
+
+* NASB: "if"
+ESV, NRSV, NIV: "what if"
+NLT: "just because"
 
 
 ## Greek (SBLGNT)
@@ -8061,16 +8565,18 @@ q: (does their faithfulness nullify the faithfulness of God?)
 # Rom 3:5: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: not translated
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if our unrighteousness serves to show the righteousness of God,)
 q: (what shall we say? That God is unrighteous to inflict wrath on us?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: not translated
 
 
 ## Greek (SBLGNT)
@@ -8087,16 +8593,18 @@ In 3:5 and 3:7 Paul is presenting the kind of argument that his opponents might 
 # Rom 3:7: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT : "some might say"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (But if through my lie God's truth abounds to his glory)
 q: (why am I still being condemned as a sinner?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT : "some might say"
 
 
 ## Greek (SBLGNT)
@@ -8114,16 +8622,18 @@ Q expects an answer, "There is no reason why I should be condemned as a sinner."
 # Rom 3:29-30: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "since"
-NLT: not translated
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: ([He is God] of the Gentiles also)
 p: (since God is one)
+
+
+* ESV, NASB, NRSV, NIV: "since"
+NLT: not translated
 
 
 ## Greek (SBLGNT)
@@ -8141,15 +8651,17 @@ Because God created the whole of humankind the Jews cannot claim God for themsel
 # Rom 4:2: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if Abraham was justified by works)
 q: (he has something to boast about)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8166,15 +8678,17 @@ Paul explains that this conditional is non-factual at the end of v3 "Abraham bel
 # Rom 4:14: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if it is the adherents of the law who are to be the heirs)
 q: (faith is null and the promise is void)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8191,16 +8705,18 @@ In v.13 Paul stated, the promise to Abraham ... that he would be heir of the wor
 # Rom 5:10: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (for if while we were enemies we were reconciled to God by the death of his Son)
 q: (much more, now that we are reconciled, shall we be saved by his life)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -8217,16 +8733,18 @@ Paul uses several of these "how much more" statements (5:10, 15, 17, 11:12, 24) 
 # Rom 5:15: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: q is introduced by "but"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (for if many died through one man's trespass)
 q: (much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: q is introduced by "but"
 
 
 ## Greek (SBLGNT)
@@ -8243,16 +8761,18 @@ See 5:10
 # Rom 5:17: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: q is introduced by "but"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (for if, because of one man's trespass, death reigned through that one man)
 q: (how much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: q is introduced by "but"
 
 
 ## Greek (SBLGNT)
@@ -8269,16 +8789,18 @@ See 5:10
 # Rom 6:5: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (for if we have been united with him in a death like his)
 q: (we shall certainly be united with him in a resurrection like his)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -8295,16 +8817,18 @@ See 5:10
 # Rom 6:8: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (now if we have died with Christ)
 q: (we believe that we will also live with him)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -8321,15 +8845,17 @@ This is another example of p and q being placed together for comparison (see not
 # Rom 7:2: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (but if her husband dies)
 q: (she is released from the law of marriage)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8346,15 +8872,17 @@ This conditional (and the next two in 7:3) are examples to illustrate the point 
 # Rom 7:3a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (she will be called an adulteress)
 p: (if she lives with another man while her husband is alive)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8371,15 +8899,17 @@ Some translations (e.g. NASB, NIV) put p before q: "So then, if she has sexual r
 # Rom 7:3b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (but if her husband dies)
 q: (she is free from that law)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8396,18 +8926,20 @@ In Greek, the last part of v.3 contains a participle verb form γενομένη�
 # Rom 7:7a: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NRSV: "if... not"
-NASB: "except"
-NIV: subject-verb inversion "had it not been"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (I would not have known sin)
 p: (if it had not been for the law)
 (Greek q p order is changed to p q in ESV)
+
+
+* ESV, NRSV: "if... not"
+NASB: "except"
+NIV: subject-verb inversion "had it not been"
 
 
 ## Greek (SBLGNT)
@@ -8424,15 +8956,17 @@ The phrase εἰ μὴ 'except' is usually treated as a "non-conditional" (see 1
 # Rom 7:7b: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if... not"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (for I would not have known what it is to covet)
 p: (if the law had not said, "You shall not covet")
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if... not"
 
 
 ## Greek (SBLGNT)
@@ -8449,15 +8983,17 @@ The phrase εἰ μὴ is translated as "if... not" rather than as "except" by m
 # Rom 7:16: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (now if I do what I do not want)
 q: (I agree with the law, that it is good)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8474,15 +9010,17 @@ The truth of p is stated in v.15: "I do not do what I want, but I do the very th
 # Rom 7:20: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (now if I do what I do not want)
 q: (it is no longer I who do it, but sin that dwells within me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8499,18 +9037,20 @@ This is a repetition - in abbreviated form - of vs.16-17.
 # Rom 8:9a: First Class Condition
 
 
-* Probability: Factual / Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, RSV: "If in fact"
-NASB, NIV: "If indeed"
-NRSV: "since"
-NLT: "if"
+* *Probability:* Factual / Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (you, however, are not in the flesh but in the Spirit)
 p: (if in fact/since the Spirit of God dwells in you)
+
+
+* ESV, RSV: "If in fact"
+NASB, NIV: "If indeed"
+NRSV: "since"
+NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8527,17 +9067,19 @@ The Greek connctive εἴπερ indicates a known fact, and is often translated 
 # Rom 8:9b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NRSV: "anyone who"
-NASB, NIV: "if anyone"
-NLT: "those who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if anyone does not have the Spirit of Christ)
 q: (he does not belong to him) (NASB)
+
+
+* ESV, NRSV: "anyone who"
+NASB, NIV: "if anyone"
+NLT: "those who"
 
 
 ## Greek (SBLGNT)
@@ -8554,16 +9096,18 @@ This describes the opposite scenario to the previous (8:9a) conditional. Whereas
 # Rom 8:10: First Class Condition
 
 
-* Probability: Factual / Neutral
-* Time Orientation: Present / Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV: "if"
-NLT: statement "Christ lives within you, so..."
+* *Probability:* Factual / Neutral
+* *Time Orientation:* Present / Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (but if Christ is in you)
 q: (although the body is dead because of sin, the Spirit is life because of righteousness)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: statement "Christ lives within you, so..."
 
 
 ## Greek (SBLGNT)
@@ -8580,16 +9124,18 @@ The conditionals in 8:9a, 8:10, and 8:11 all describe the same reality and are a
 # Rom 8:11: First Class Condition
 
 
-* Probability: Factual / Neutral
-* Time Orientation: Present / Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV: "if"
-NLT: statement "The Spirit of God... lives in you."
+* *Probability:* Factual / Neutral
+* *Time Orientation:* Present / Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if the Spirit of him who raised Jesus from the dead dwells in you)
 q: (he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: statement "The Spirit of God... lives in you."
 
 
 ## Greek (SBLGNT)
@@ -8606,15 +9152,17 @@ The conditionals in 8:9a, 8:10, and 8:11 all describe the same reality and are a
 # Rom 8:13a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (for if you live according to the flesh)
 q: (you will die)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8631,15 +9179,17 @@ Paul's purpose here is to set out the consequences of living "according to the f
 # Rom 8:13b: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (but if by the Spirit you put to death the deeds of the body)
 q: (you will live)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8656,16 +9206,18 @@ q: (you will live)
 # Rom 8:17a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (and if children)
 q: (then heirs)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -8682,17 +9234,19 @@ The previous verse states the truth of p: "The Spirit himself bears witness with
 # Rom 8:17b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Promise
-* ESV, RSV: "provided"
-NASB, NIV: "if indeed"
-NRSV: "if, in fact"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Promise
 
 
 ## English
 q: (heirs of God and fellow heirs with Christ)
 p: (if indeed/provided we suffer with him in order that we may also be glorified with him)
+
+
+* ESV, RSV: "provided"
+NASB, NIV: "if indeed"
+NRSV: "if, in fact"
 
 
 ## Greek (SBLGNT)
@@ -8709,15 +9263,17 @@ The Greek connctive εἴπερ indicates a known fact, and is often translated 
 # Rom 8:25: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present / Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present / Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (but if we hope for what we do not see)
 q: (we wait for it with patience)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8734,15 +9290,17 @@ This expresses an exhortation: If we hope for what we do not see (and we should 
 # Rom 8:31: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present / Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present / Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if God is for us)
 q: (who can be against us?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8759,15 +9317,17 @@ Q is a rhetorical question that is meant to be answered 'No one!'
 # Rom 9:22: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "what if"
-NLT: "even though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (what if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath prepared for destruction...)
+
+
+* ESV, NASB, NRSV, NIV: "what if"
+NLT: "even though"
 
 
 ## Greek (SBLGNT)
@@ -8784,15 +9344,17 @@ There is some debate as to whether this is an actual conditional or not, as it h
 # Rom 9:27: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (Though the number of the sons of Israel be as the sand of the sea)
 q: (only a remanant of them will be saved)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "though"
 
 
 ## Greek (SBLGNT)
@@ -8809,16 +9371,18 @@ This conditional is part of a quote from Isaiah 10:22-23. Here, Ἐὰν has the
 # Rom 9:29: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NRSV, NLT: "if... not"
-NASB, NIV: "unless"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if the Lord of hosts had not left us offspring)
 q: (we would have been like Sodom and become like Gomorrah)
+
+
+* ESV, NRSV, NLT: "if... not"
+NASB, NIV: "unless"
 
 
 ## Greek (SBLGNT)
@@ -8835,15 +9399,17 @@ q: (we would have been like Sodom and become like Gomorrah)
 # Rom 10:9: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead)
 q: (you will be saved)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8860,16 +9426,18 @@ This conditional applies to any person at any time (so the time orientation is g
 # Rom 10:15: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present / Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "unless"
-NLT: "without being sent"
+* *Probability:* Neutral
+* *Time Orientation:* Present / Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (how are they to preach? ~ implies: they can not preach)
 p: (unless they are sent = if they are not sent)
+
+
+* ESV, NASB, NRSV, NIV: "unless"
+NLT: "without being sent"
 
 
 ## Greek (SBLGNT)
@@ -8888,16 +9456,18 @@ It is best to keep the order Q>P, if possible, because this sentence forms part 
 # Rom 11:6a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if it is by grace)
 q: (it is no longer on the basis of works)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -8914,15 +9484,17 @@ q: (it is no longer on the basis of works)
 # Rom 11:12: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (now if their trespass means riches for the world, and if their faliure means riches for the Gentiles)
 q: (how much more will their full inclusion mean)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -8939,19 +9511,21 @@ The truth of p is asserted in v.11: "through their [the Jews'] trespass salvatio
 # Rom 11:13-14: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV: "in order somehow"
-NASB: "if somehow"
-NRSV: "in order"
-NIV: "in the hope that"
-NLT: "for I want somehow"
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p v.13: (I magnify my ministry)
 q v.14: (if somehow I might move to jealousy my fellow countrymen and save some of them) (NASB)
+
+
+* ESV: "in order somehow"
+NASB: "if somehow"
+NRSV: "in order"
+NIV: "in the hope that"
+NLT: "for I want somehow"
 
 
 ## Greek (SBLGNT)
@@ -8969,16 +9543,18 @@ Q contains a "how much more" statement (see also 5:10, 15, 17, 11:24).
 # Rom 11:15: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (For if their rejection means reconciliation of the world)
 q: (what will their acceptance mean but life from the dead)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -8996,16 +9572,18 @@ The word 'but' in "but life from the dead" is a translation of εἰ μὴ 'exce
 # Rom 11:16a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if the dough offered as firstfruits is holy)
 q: (so is the whole lump)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -9022,15 +9600,17 @@ There are several interpretations as to what the dough is referring to. The firs
 # Rom 11:16b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (and if the root is holy)
 q: (so are the branches)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9047,16 +9627,18 @@ There are several interpretations as to what the root is referring to. Suggestio
 # Rom 11:17-18: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: statements
+* *Probability:* Factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p v.17: (but if some of the branches were broken off, and you, although a wild olive shoot were grafted in among the others and now share in the nourishing root of the olive tree)
 q v.18a: (do not be arrogant toward the branches)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: statements
 
 
 ## Greek (SBLGNT)
@@ -9073,16 +9655,18 @@ The branches that have been broken off represent the Jews who did not believe in
 # Rom 11:18: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Warn / Rebuke
-* ESV, NASB, NRSV, NIV: "if"
-NLT: negative command "you must not brag"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn / Rebuke
 
 
 ## English
 p: (if you are arrogant)
 q: ([remember that] it is not you who support the root, but the root that supports you)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: negative command "you must not brag"
 
 
 ## Greek (SBLGNT)
@@ -9099,15 +9683,17 @@ The Greek simply states, "but if you boast/exult, you do not carry/support the r
 # Rom 11:21: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (for if God did not spare the natural branches)
 q: (neither will he spare you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9124,16 +9710,18 @@ This verse continues the comparison between the Jews (natural branches) and the 
 # Rom 11:22: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Warn / Exhort
-* ESV, NRSV, NIV: "provided"
-NASB, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
 q: (Behold then the kindness and severity of God; to those who fell, severity, but to you, God’s kindness)
 p: (if you contine in his kindness) (NASB)
+
+
+* ESV, NRSV, NIV: "provided"
+NASB, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9151,16 +9739,18 @@ Verse 22 concludes with a warning that includes the non-conditional conjunction 
 # Rom 11:23: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present / Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "if they turn from" (see Notes)
+* *Probability:* Neutral
+* *Time Orientation:* Present / Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (and even they, if they do not continue in their unbelief)
 q: (will be grafted in)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "if they turn from" (see Notes)
 
 
 ## Greek (SBLGNT)
@@ -9178,15 +9768,17 @@ P contains two negative elements: if they do NOT continue in their UNbelief. Thi
 # Rom 11:24: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if you were cut from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree)
 q: (how much more will these, the natural branches, be grafted back into their own olive tree)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9203,16 +9795,18 @@ P describes a known fact; q contains another  "how much more" statement (see als
 # Rom 12:6: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NIV, NLT: "if"
-NRSV, not translated
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if prophecy)
 q: (in proportion to our faith);
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV, not translated
 
 
 ## Greek (SBLGNT)
@@ -9231,16 +9825,18 @@ Each apodosis describes how to use the gift mentioned in p. The first apodosis b
 # Rom 12:7a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NIV, NLT: "if"
-NRSV, not translated
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if service) 
 q: (in our serving)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV, not translated
 
 
 ## Greek (SBLGNT)
@@ -9257,16 +9853,18 @@ See 12:6
 # Rom 12:7b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* NIV, NLT: "if"
-ESV, NASB, NRSV, not translated
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if it is teaching)
 q: (then teach) (NIV)
+
+
+* NIV, NLT: "if"
+ESV, NASB, NRSV, not translated
 
 
 ## Greek (SBLGNT)
@@ -9283,16 +9881,18 @@ See 12:6
 # Rom 12:8: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* NIV, NLT: "if"
-ESV, NASB, NRSV, not translated
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if it is to encourage)
 q: (then give encouragement) (NIV)
+
+
+* NIV, NLT: "if"
+ESV, NASB, NRSV, not translated
 
 
 ## Greek (SBLGNT)
@@ -9309,15 +9909,17 @@ See 12:6. The three final gifts in the list (giving, leading, showing mercy) are
 # Rom 12:20a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if your enemy is hungry)
 q: (feed him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9334,15 +9936,17 @@ Quotes Proverbs 25:22 but omits "and the Lord will reward you". Should be read i
 # Rom 12:20b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if he is thirsty)
 q: (give him something to drink)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9359,10 +9963,9 @@ See notes on 12:20a
 # Rom 13:4: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -9370,13 +9973,12 @@ p: (but if you do wrong)
 q: (be afraid)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δὲ τὸ κακὸν ποιῇς
 * _q1_: φοβοῦ
-
-
-## Notes
-
 
 
 ----------------
@@ -9384,18 +9986,20 @@ q: (be afraid)
 # Rom 13:9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* NASB: "if there is any other"
-ESV, NRSV: "any other"
-NIV: "whatever other"
-NLT: "other such"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (and if there is any other commandment)
 q: (it is summed up in this saying "you shall love your neighbor as yourself) (NASB)
+
+
+* NASB: "if there is any other"
+ESV, NRSV: "any other"
+NIV: "whatever other"
+NLT: "other such"
 
 
 ## Greek (SBLGNT)
@@ -9412,10 +10016,9 @@ q: (it is summed up in this saying "you shall love your neighbor as yourself) (N
 # Rom 14:8a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -9423,13 +10026,12 @@ p: (for if we live)
 q: (we live to the Lord)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐάν τε γὰρ ζῶμεν
 * _q1_: τῷ κυρίῳ ζῶμεν
-
-
-## Notes
-
 
 
 ----------------
@@ -9437,10 +10039,9 @@ q: (we live to the Lord)
 # Rom 14:8b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -9448,13 +10049,12 @@ p: (and if we die)
 q: (we die to the Lord)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐάν τε ἀποθνῄσκωμεν
 * _q1_: τῷ κυρίῳ ἀποθνῄσκομεν
-
-
-## Notes
-
 
 
 ----------------
@@ -9462,15 +10062,17 @@ q: (we die to the Lord)
 # Rom 14:15: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if your brother is grieved by what you eat)
 q: (you are no longer walking in love)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9487,15 +10089,17 @@ This conditional is used to explain the previous verse (discussed in the non-con
 # Rom 14:23: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (the one doubting, if he eats)
 q: (he has been condemned) (literal translation)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9512,16 +10116,18 @@ ESV, NASB, NRSV, NIV, and NLT all express this as an inverted conditional, e.g. 
 # Rom 15:27: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if the Gentiles have come to share in their spiritual blessings)
 q: (they ought also to be of service to them in material blessings)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -9538,15 +10144,17 @@ The "saints at Jerusalem" (v.26) are Jews who have believed in Christ. In chapte
 # 1 Cor 2:8: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if they had,)
 q: (they would not have crucified the Lord of glory)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9563,16 +10171,18 @@ Paul uses a false p and q to prove the truthfulness of the previous statement, "
 # 1 Cor 3:12-13: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, straw)
 q: (each one's work will become manifest)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -9590,15 +10200,17 @@ The conditional elaborates on v.10-11 where Paul describes himself as laying the
 # 1 Cor 3:14: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if the work that anyone has built on the foundation survives)
 q: (he will receive a reward)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9616,15 +10228,17 @@ Those who build on the foundation will be tried and tested; the conditionals in 
 # 1 Cor 3:15: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone's work is burned up)
 q: (he will suffer loss, though he himself will be saved, but only as through fire)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9641,11 +10255,9 @@ This shows the alternative to v.14.
 # 1 Cor 3:17: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Very Unlikely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -9653,13 +10265,13 @@ p: (if anyone destroys God's temple)
 q: (God will destroy him)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
+
+
 ## Greek (SBLGNT)
 * _p1_: εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει
 * _q1_: φθερεῖ τοῦτον ὁ θεός
-
-
-## Notes
-
 
 
 ----------------
@@ -9667,15 +10279,17 @@ q: (God will destroy him)
 # 1 Cor 3:18: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if anyone among you thinks that he is wise in this age)
 q: (let him become a fool that he may become wise)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9693,15 +10307,17 @@ ESV and NASB follow the Greek and use a 3rd person 'he' throughout; NRSV, NIV, a
 # 1 Cor 4:7: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if then you received it)
 q: (why do you boast as if you did not receive it?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9718,18 +10334,20 @@ P presents a known fact (you received everything from God), and q is a rhetorica
 # 1 Cor 4:15: Third Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV: "though you have"
-NASB: "if you were to have"
-NRSV: "though you might have"
-NIV, NLT: "even if you had"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even if you had ten thousand guardians in Christ)
 q: (you do not have many fathers) (NIV)
+
+
+* ESV: "though you have"
+NASB: "if you were to have"
+NRSV: "though you might have"
+NIV, NLT: "even if you had"
 
 
 ## Greek (SBLGNT)
@@ -9747,15 +10365,17 @@ Boyer notes that this has a concessive ('even if') sense even though ἐὰν is
 # 1 Cor 4:19: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
 q: (But I will come to you soon)
 p: (if the Lord wills)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9772,16 +10392,18 @@ Paul plans and desires to go to the Corinthians, but he remains submissive to Go
 # 1 Cor 5:11: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, RSV: "if"
-NRSV, NIV, NLT: no conditional
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 q: (But now I am writing to you not to associate with anyone who bears the name of brother)
 p: (if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler)
+
+
+* ESV, NASB, RSV: "if"
+NRSV, NIV, NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -9798,16 +10420,18 @@ In Greek, ἐὰν 'if' comes before 'one who is called a brother'. A possible a
 # 1 Cor 6:2: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Future / Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Future / Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if the world is to be judged by you)
 q: (are you incompetent to try trivial cases?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -9824,10 +10448,9 @@ Third in a line of rhetorical questions rebuking the Corinthians for how they, p
 # 1 Cor 6:4: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
@@ -9835,13 +10458,12 @@ p: (if you have such cases)
 q: (why so you lay them before those who have no standing in the church?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε
 * _q1_: τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ τούτους καθίζετε
-
-
-## Notes
-
 
 
 ----------------
@@ -9849,16 +10471,18 @@ q: (why so you lay them before those who have no standing in the church?)
 # 1 Cor 7:8: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* NASB: "if"
-ESV, NRSV, NIV, NLT: no conditional
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 q: (it is good for them [the unmarried and widows)
 p: (if they remain even as I [am]) (NASB)
+
+
+* NASB: "if"
+ESV, NRSV, NIV, NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -9876,15 +10500,17 @@ In Greek, this is the first of a series of conditional sentences (vs.8, 9, 11, 1
 # 1 Cor 7:9: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort / Command
 
 
 ## English
 p: (But if they cannot exercise self-control)
 q: (they should marry)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9901,15 +10527,17 @@ This and the previous conditional work together. The first conditional represent
 # 1 Cor 7:11: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort / Command
 
 
 ## English
 p: (but if she does leave)
 q: (she must remain unmarried, or else be reconciled to her husband) (NASB)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9927,15 +10555,17 @@ The force of the 3rd person imperative μενέτω ἄγαμος is understood 
 # 1 Cor 7:12: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort / Command
 
 
 ## English
 p: (if any brother has a wife who is an unbeliever, and she consents to live with him)
 q: (he should not divorce her)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -9952,16 +10582,18 @@ The "if" here is situational and means "in the case that" (Ellingworth). A non-c
 # 1 Cor 7:13: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort / Command
-* ESV, NRSV, NIV, NLT: "if"
-NASB: no conditional
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort / Command
 
 
 ## English
 p: (if any woman has a husband who is an unbeliever, and he consents to live with her)
 q: (she should not divorce him)
+
+
+* ESV, NRSV, NIV, NLT: "if"
+NASB: no conditional
 
 
 ## Greek (SBLGNT)
@@ -9978,15 +10610,17 @@ This verse is parallel to v.12 but addresses a believing woman whose husband is 
 # 1 Cor 7:15: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Permit
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Permit
 
 
 ## English
 p: (but if the unbelieving partner seperates)
 q: (let it be so)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10003,16 +10637,18 @@ Paired with the conditionals in 7:12,13 gives the unbeliever the choice - they c
 # 1 Cor 7:21b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort / Permit
-* ESV, NASB, NIV, NLT: "if"
-NRSV: "even if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort / Permit
 
 
 ## English
 p: (but if you can gain your freedom)
 q: (avail yourself of that opportunity)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV: "even if"
 
 
 ## Greek (SBLGNT)
@@ -10030,15 +10666,17 @@ Boyer suggests that 7:21a could be an implied conditional: "If you were a bondse
 # 1 Cor 7:28a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert / Permit
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert / Permit
 
 
 ## English
 p: (but if you do marry)
 q: (you have not sinned)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10056,15 +10694,17 @@ The Greek ἐὰν καὶ  could be interpreted as "even if" (a 'concessive con
 # 1 Cor 7:28b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert / Permit
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert / Permit
 
 
 ## English
 p: (and if a virgin marries)
 q: (she has not sinned) (NASB, NIV)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10081,16 +10721,18 @@ See 7:28a. NASB, NRSV abd NIV translate παρθένος as "virgin"; ESV transl
 # 1 Cor 7:36: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Permit
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Permit
 
 
 ## English
 p1: (if anyone thinks that he is not behaving properly toward his betrothed)
 p2: (if his passions are strong, and it has to be)
 q: (let him do as he wishes: let them marry)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10108,15 +10750,17 @@ For p2, "if his passions are strong" is the majority interpretation (ESV, NRSV, 
 # 1 Cor 7:39: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Permit
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Permit
 
 
 ## English
 p: (but if her husband dies)
 q: (she is free to be married to whom she wishes, only in the Lord)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10133,16 +10777,18 @@ This condition describes teh situation when 7:39a no longer applies: "A wife is 
 # 1 Cor 7:40: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (she is happier)
 p: (if she remains as she is)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -10159,17 +10805,19 @@ Paul emphasizes that this is his opinion.
 # 1 Cor 8:2: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB: "if anyone"
-NRSV, NLT: "anyone who"
-NIV: "those who"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if anyone imagines that he knows something)
 q: (he does not yet know as he ought to know)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NLT: "anyone who"
+NIV: "those who"
 
 
 ## Greek (SBLGNT)
@@ -10188,18 +10836,20 @@ This knowing likely refers to the previous verse which talks about the knowledge
 # 1 Cor 8:3: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB: "if anyone"
-NRSV: "anyone"
-NIV: "whoever"
-NLT: "the person who"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (but if anyone loves God)
 q: (he is known by God)
+
+
+* ESV, NASB: "if anyone"
+NRSV: "anyone"
+NIV: "whoever"
+NLT: "the person who"
 
 
 ## Greek (SBLGNT)
@@ -10216,18 +10866,20 @@ q: (he is known by God)
 # 1 Cor 8:5-6: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV: "although"
-NASB, NIV: "even if"
-NRSV: "even though"
-NLT: "there may be"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even though there may be so-called gods...)
 q: (yet for us there is one God...) (NRSV)
+
+
+* ESV: "although"
+NASB, NIV: "even if"
+NRSV: "even though"
+NLT: "there may be"
 
 
 ## Greek (SBLGNT)
@@ -10244,15 +10896,17 @@ q: (yet for us there is one God...) (NRSV)
 # 1 Cor 8:8a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* 
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (we are no worse off)
 p: (if we do not eat)
+
+
+* 
 
 
 ## Greek (SBLGNT)
@@ -10272,15 +10926,17 @@ The negative "if... not" should be kept in translation, if possible, because it 
 # 1 Cor 8:8b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (and no better of)
 p: (if we do)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10297,15 +10953,17 @@ This forms a contrastive pair with v.8a. In Greek p comes before q, and is intro
 # 1 Cor 8:10: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (for if anyone sees you who have knowledge eating in an idol's temple)
 q: (will he not be encouraged if his conscience is weak to eat food offered to idols)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10323,15 +10981,17 @@ A very literal translation might look like this  "For if anyone should see you t
 # 1 Cor 8:13: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Instruct
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Instruct
 
 
 ## English
 p: (if food makes my brother stumble)
 q: (I will never eat meat)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10348,17 +11008,19 @@ Whether the food we eat is likely to cause a fellow believer to stumble will var
 # 1 Cor 9:2: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "if"
-NIV: "even though"
-NLT: "even if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if to others I am not an apostle)
 q: (at least I am to you)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "even though"
+NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -10375,16 +11037,18 @@ Boyer notes that this is one of the instances where the conditional is concessiv
 # 1 Cor 9:11a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if we have sown spiritual things among you)
 q: 11b
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -10401,16 +11065,18 @@ Q here is the whole conditional statement in 9:11b. The image here is from farmi
 # 1 Cor 9:11b: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (is it too much)
 p: (if we reap material things from you?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -10427,15 +11093,17 @@ Some English translations express this without a conditional, which avoids havin
 # 1 Cor 9:12a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (If others share this rightful claim on you)
 q: (do not we even more?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10452,17 +11120,19 @@ Elaborating on the previous verse, Paul reminds his readers in p that they have 
 # 1 Cor 9:16a: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "if"
-NIV: "when"
-NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (If I preach the gospel)
 q: (that gives me no ground for boasting)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "when"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -10479,15 +11149,17 @@ This is something Paul is doing, so NIV has: "when I preach the gospel, I cannot
 # 1 Cor 9:16b: Third Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (Woe to me)
 p: (if I do [did] not preach the gospel)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10506,15 +11178,17 @@ In some languages, 'not proclaim' can be expressed as 'fail to proclaim': "If I 
 # 1 Cor 9:17a: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (for if I do this of my own will)
 q: (I have a reward)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10531,16 +11205,18 @@ q: (I have a reward)
 # 1 Cor 9:17b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (but if not of my own will)
 q: (I am still entrusted with a stewardship)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -10557,10 +11233,9 @@ q: (I am still entrusted with a stewardship)
 # 1 Cor 10:27: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Permit
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Permit
 
 
 ## English
@@ -10568,13 +11243,12 @@ p: (if one of the unbelievers invites you to dinner and you are disposed to go)
 q: (eat whatever is set before you without raising any question on the ground of conscience)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἴ τις καλεῖ ὑμᾶς τῶν ἀπίστων καὶ θέλετε πορεύεσθαι
 * _q1_: πᾶν τὸ παρατιθέμενον ὑμῖν ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν
-
-
-## Notes
-
 
 
 ----------------
@@ -10582,10 +11256,9 @@ q: (eat whatever is set before you without raising any question on the ground of
 # 1 Cor 10:28: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -10593,13 +11266,12 @@ p: (but if someone says to you "this has been offered in sacrifice")
 q: (then do not eat it)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δέ τις ὑμῖν εἴπῃ Τοῦτο ἱερόθυτόν ἐστιν
 * _q1_: μὴ ἐσθίετε
-
-
-## Notes
-
 
 
 ----------------
@@ -10607,10 +11279,9 @@ q: (then do not eat it)
 # 1 Cor 10:30: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -10618,13 +11289,12 @@ p: (if I partake with thankfulness)
 q: (why am I denounced beacuase of that for which I give thanks?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ ἐγὼ χάριτι μετέχω
 * _q1_: τί βλασφημοῦμαι ὑπὲρ οὗ ἐγὼ εὐχαριστῶ
-
-
-## Notes
-
 
 
 ----------------
@@ -10632,15 +11302,17 @@ q: (why am I denounced beacuase of that for which I give thanks?)
 # 1 Cor 11:6a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (for if a woman does not cover her head)
 q: (let her also have her hair cut off) (NASB)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10658,16 +11330,18 @@ ESV translates γυνή as "wife" butthe other translations all have "woman".
 # 1 Cor 11:6b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NLT: "since"
-NASB, NRSV, NIV: "if"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (but if it is disgraceful for a woman to have her hair cut off or her head shaved)
 q: (let her cover her head) (NASB)
+
+
+* ESV, NLT: "since"
+NASB, NRSV, NIV: "if"
 
 
 ## Greek (SBLGNT)
@@ -10684,17 +11358,19 @@ Here Paul makes the same point as in v.6a, but he starts with the (then) commonl
 # 1 Cor 11:14: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 Does not nature itself teach you that
 p: (if a man wears long hair)
 q: (it is a disgrace for him)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -10711,11 +11387,9 @@ Vs14 and 15 together describe Paul's teaching about men and women's hair.
 # 1 Cor 11:15: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -10723,13 +11397,13 @@ p: (but if a woman has long hair)
 q: (it is her glory?)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
+
+
 ## Greek (SBLGNT)
 * _p1_: γυνὴ δὲ ἐὰν κομᾷ
 * _q1_: δόξα αὐτῇ ἐστιν
-
-
-## Notes
-
 
 
 ----------------
@@ -10737,10 +11411,9 @@ q: (it is her glory?)
 # 1 Cor 11:16: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -10748,13 +11421,12 @@ p: (if anyone is inclined to be contentious)
 q: (we have no such practice, nor do the churches of God)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ δέ τις δοκεῖ φιλόνεικος εἶναι
 * _q1_: ἡμεῖς τοιαύτην συνήθειαν οὐκ ἔχομεν οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ
-
-
-## Notes
-
 
 
 ----------------
@@ -10762,15 +11434,17 @@ q: (we have no such practice, nor do the churches of God)
 # 1 Cor 11:31: (Unspecified) Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (but if we judged ourselves truly)
 q: (we would not be judged)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10787,16 +11461,18 @@ In v.29 Paul has stated that some have been judged, so p is not true.
 # 1 Cor 11:34: First Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NLT: "if"
-NIV: no conditional
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone is hungry)
 q: (let him eat at home)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: no conditional
 
 
 ## Greek (SBLGNT)
@@ -10813,15 +11489,17 @@ This has ben interpreted as, "if anyone is so hungry that he cannot wait for eve
 # 1 Cor 12:15: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if the foot should say "because I am not a hand, I do not belong to the body")
 q: (that would not make it any less a part of the body)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10838,10 +11516,9 @@ This is the first of a series of conditionals in which Paul develops the metapho
 # 1 Cor 12:16: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -10849,13 +11526,12 @@ p: (and if the ear should say, "Because I am not an eye, I do not belong to the 
 q: (that would not make it any less a part of the body)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: καὶ ἐὰν εἴπῃ τὸ οὖς Ὅτι οὐκ εἰμὶ ὀφθαλμός οὐκ εἰμὶ ἐκ τοῦ σώματος
 * _q1_: οὐ παρὰ τοῦτο οὐκ ἔστιν ἐκ τοῦ σώματος
-
-
-## Notes
-
 
 
 ----------------
@@ -10863,10 +11539,9 @@ q: (that would not make it any less a part of the body)
 # 1 Cor 12:17a: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -10874,13 +11549,12 @@ p: (if the whole body were an eye)
 q: (where would be the sense of hearing?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ ὅλον τὸ σῶμα ὀφθαλμός
 * _q1_: ποῦ ἡ ἀκοή
-
-
-## Notes
-
 
 
 ----------------
@@ -10888,10 +11562,9 @@ q: (where would be the sense of hearing?)
 # 1 Cor 12:17b: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -10899,13 +11572,12 @@ p: (if the whole body were an ear)
 q: (where would be the sense of smell?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ ὅλον ἀκοή
 * _q1_: ποῦ ἡ ὄσφρησις
-
-
-## Notes
-
 
 
 ----------------
@@ -10913,10 +11585,9 @@ q: (where would be the sense of smell?)
 # 1 Cor 12:19: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -10924,13 +11595,12 @@ p: (if all were a single member)
 q: (where would the body be?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ δὲ ἦν τὰ πάντα ἓν μέλος
 * _q1_: ποῦ τὸ σῶμα
-
-
-## Notes
-
 
 
 ----------------
@@ -10938,15 +11608,17 @@ q: (where would the body be?)
 # 1 Cor 12:26a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if one member suffers)
 q: (all suffer together)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10963,15 +11635,17 @@ In Greek the form of both conditionals in v.26 is εἴτε, indicating that the
 # 1 Cor 12:26b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if one member is honoured)
 q: (all rejoice together)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -10988,10 +11662,9 @@ q: (all rejoice together)
 # 1 Cor 13:1: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -10999,13 +11672,12 @@ p: (if I speak in the tongues of men and of angels, but have not love)
 q: (I am a noisy gong or a clanging cymbal)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: Ἐὰν ταῖς γλώσσαις τῶν ἀνθρώπων λαλῶ καὶ τῶν ἀγγέλων ἀγάπην δὲ μὴ ἔχω
 * _q1_: γέγονα χαλκὸς ἠχῶν ἢ κύμβαλον ἀλαλάζον
-
-
-## Notes
-
 
 
 ----------------
@@ -11013,16 +11685,18 @@ q: (I am a noisy gong or a clanging cymbal)
 # 1 Cor 13:2: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p1: (and if I have prophetic powers, and understand all mysteries and all knowledge [...but have not love])
 p2: (and if I have all faith, so as to remove mountains, but have not love)
 q: (I am nothing)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11040,16 +11714,18 @@ This verse has a complex protasis consisting of three positive statements (1) I 
 # 1 Cor 13:3: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p1: (if I give away all I have [...but have not love])
 p2: (and if I deliver up my body to be burned, but have not love)
 q: (I gain nothing)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11067,15 +11743,17 @@ This verse has a complex protasis consisting of two positive statements (1) I gi
 # 1 Cor 14:5b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (The one who prophesies is greater than the one who speaks in tongues)
 p: (unless someone [he] interprets)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -11094,15 +11772,17 @@ If a translation of of "unless", "except if", or "if not" is unclear or unnatura
 # 1 Cor 14:6a: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I come to you speaking in tongues)
 q: (14:6b)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11119,16 +11799,18 @@ Q is the whole of 14:6b, which is itself a conditional. If necessary, this could
 # 1 Cor 14:6b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "unless"
-NLT: no conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (how will I benefit you ~ implies: I will not benefit you)
 p: (unless I bring you [= if I do not bring you] some revelation or knowledge or prophecy or teaching)
+
+
+* ESV, NASB, NRSV, NIV: "unless"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -11147,18 +11829,20 @@ NLT provides an alternative structure: "Dear brothers and sisters, if I should (
 # 1 Cor 14:7b: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV: "if... not"
-NIV: "unless"
-NLT: no conditional
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 It is the same way with lifeless instruments that produce sound, such as the flute or the harp
 p: (If they do not give distinct notes,)
 q: ( how will anyone know what is being played?) (NRSV)
+
+
+* ESV, NASB, NRSV: "if... not"
+NIV: "unless"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -11177,15 +11861,17 @@ The question "how will it be known what is played on the flute or on the harp?" 
 # 1 Cor 14:8: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if the bugle gives an indistinct sound)
 q: (who will get ready for battle?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11202,11 +11888,9 @@ Note that 14:7b, 8, 9 are making basically the same argument. 14:7b & 8 provide 
 # 1 Cor 14:9: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NRSV, NLT: "if... not"
-NASB, NIV: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -11215,6 +11899,10 @@ q: (how will anyone know what is said?) (ESV)
 Or:
 p: (unless you speak intelligible words with your tongue,)
 q: (how will anyone know what you are saying?) (NIV)
+
+
+* ESV, NRSV, NLT: "if... not"
+NASB, NIV: "unless"
 
 
 ## Greek (SBLGNT)
@@ -11234,15 +11922,17 @@ NLT expresses thisas: "If you speak to people in words they don’t understand, 
 # 1 Cor 14:11: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if... not"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (If I do not know the meaning of the language)
 q: (I will be a foreigner to the speaker and the speaker [will be] a foreigner to me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if... not"
 
 
 ## Greek (SBLGNT)
@@ -11259,10 +11949,9 @@ q: (I will be a foreigner to the speaker and the speaker [will be] a foreigner t
 # 1 Cor 14:14: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -11270,13 +11959,12 @@ p: (if I pray in a tongue)
 q: (my spirit prays but my mind is unfruitful)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν γὰρ προσεύχωμαι γλώσσῃ
 * _q1_: τὸ πνεῦμά μου προσεύχεται ὁ δὲ νοῦς μου ἄκαρπός ἐστιν
-
-
-## Notes
-
 
 
 ----------------
@@ -11284,16 +11972,18 @@ q: (my spirit prays but my mind is unfruitful)
 # 1 Cor 14:16: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "when"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you give thanks with your spirit)
 q: (how can anyone in the position of an outsider say 'amen' to your thanksgiving when he does not know what you are saying?)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "when"
 
 
 ## Greek (SBLGNT)
@@ -11310,15 +12000,17 @@ Q is a rhetorical question meant to be answered "they cannot".
 # 1 Cor 14:23: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if the whole church comes together and all speak in tongues, and outsiders or unbelievers enter)
 q: (will they not say that you are out of your minds?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11335,10 +12027,9 @@ Q is a rhetorical question meant to be answered "they will".
 # 1 Cor 14:24: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -11346,13 +12037,12 @@ p: (if all prophesy, and an unbeliever or outsider enters)
 q: (he is convicted by all, his is called to account by all...)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δὲ πάντες προφητεύωσιν
 * _q1_: ἐλέγχεται ὑπὸ πάντων ἀνακρίνεται
-
-
-## Notes
-
 
 
 ----------------
@@ -11360,16 +12050,18 @@ q: (he is convicted by all, his is called to account by all...)
 # 1 Cor 14:27: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if any speak in a tongue)
 q: (let there be only two or at most three, and each in turn, and let someone interpret)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -11386,15 +12078,17 @@ q: (let there be only two or at most three, and each in turn, and let someone in
 # 1 Cor 14:28: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if there is no one to interpret)
 q: (let each of them keep silent in church and speak to himself and to God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11411,10 +12105,9 @@ q: (let each of them keep silent in church and speak to himself and to God)
 # 1 Cor 14:30: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -11422,13 +12115,12 @@ p: (if a revelation is made to another sitting there)
 q: (let the first be silent)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δὲ ἄλλῳ ἀποκαλυφθῇ καθημένῳ
 * _q1_: ὁ πρῶτος σιγάτω
-
-
-## Notes
-
 
 
 ----------------
@@ -11436,10 +12128,9 @@ q: (let the first be silent)
 # 1 Cor 14:35: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -11447,13 +12138,12 @@ p: (if there is anything they desire to learn)
 q: (let them ask their husbands at home)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ δέ τι μαθεῖν θέλουσιν
 * _q1_: ἐν οἴκῳ τοὺς ἰδίους ἄνδρας ἐπερωτάτωσαν
-
-
-## Notes
-
 
 
 ----------------
@@ -11461,17 +12151,19 @@ q: (let them ask their husbands at home)
 # 1 Cor 14:37: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NIV: "if anyone"
-NRSV: "anyone who"
-NLT: "if you"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone thinks that he is a prophet, or spiritual)
 q: (he should acknowledge that the things I am writing to you are a command of the Lord)
+
+
+* ESV, NASB, NIV: "if anyone"
+NRSV: "anyone who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -11488,17 +12180,19 @@ Similar to 3:18, 8:2 "If anyone thinks/imagines"
 # 1 Cor 14:38: First Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NIV: "if anyone"
-NRSV: "anyone who"
-NLT: "if you"
+* *Probability:* Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone does not recognize this)
 q: (he is not recognized)
+
+
+* ESV, NASB, NIV: "if anyone"
+NRSV: "anyone who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -11515,15 +12209,17 @@ Refers back to 14:37
 # 1 Cor 15:2a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* 
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: ([the gospel] by which you are being saved)
 p: (if you hold fast the word which I preached to you)
+
+
+* 
 
 
 ## Greek (SBLGNT)
@@ -11540,16 +12236,18 @@ P is a continuation of v.1: "the gospel I preached to you, which you received, i
 # 1 Cor 15:2b: First Class Condition
 
 
-* Probability: Very Unlikely / Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NLT: "unless" 
-NIV: "otherwise"
+* *Probability:* Very Unlikely / Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (implied: you are being saved by the gospel)
 p: (unless you believed in vain)
+
+
+* ESV, NASB, NRSV, NLT: "unless" 
+NIV: "otherwise"
 
 
 ## Greek (SBLGNT)
@@ -11567,16 +12265,18 @@ An alternative interpretation treats 'if you hold fast...' and 'unless you belie
 # 1 Cor 15:12: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (now if Christ is proclaimed as raised from the dead)
 q: (how can some of you say that there is no resurrection of the dead?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -11594,15 +12294,17 @@ The time reference in v.12 refers to "is being proclaimed" not to "raised from t
 # 1 Cor 15:13: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if there is no resurrection of the dead)
 q: (then not even Christ has been raised)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11620,15 +12322,17 @@ The two negatives (in p and q) plus the fact that this is non-factual may cause 
 # 1 Cor 15:14: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (and if Christ has not been raised)
 q: (then our preaching is in vain and your faith is in vain)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11645,15 +12349,17 @@ See note on 15:12.
 # 1 Cor 15:15b: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (But he did not raise him [Christ])
 p: (if in fact the dead are not raised.) (NIV)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11671,15 +12377,17 @@ See note on 15:12.
 # 1 Cor 15:16: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: for (if the dead are not raised)
 q: (not even Christ has been raised)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11697,15 +12405,17 @@ Lyman (1975) suggests the following: "If it is true that God does not bring dead
 # 1 Cor 15:17: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (and if Christ has not been raised)
 q: (your faith is futile and you are still in your sins)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11723,15 +12433,17 @@ See note on 15:12.
 # 1 Cor 15:19: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if in Christ we have hope in this life only)
 q: (we are of all people most to be pitied)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11748,16 +12460,18 @@ See note on 15:12.
 # 1 Cor 15:29: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if the dead are not raised at all)
 q: (why are people baptized on their behalf?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -11774,16 +12488,18 @@ The rhetorical question of q implies that this is something the people of Corint
 # 1 Cor 15:32a: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (If from human motives I fought with wild beasts at Ephesus
 q: (what does it profit me?) (NASB)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -11801,15 +12517,17 @@ Paul did battle "wild beasts" in Ephesus, but not for human reasons (NIV)
 # 1 Cor 15:32b: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if the dead are not raised)
 q: (let us eat and drink, for tomorrow we die)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -11826,15 +12544,17 @@ Q is quoted from Isaiah 22:13.
 # 1 Cor 15:36: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (What you sow does not come to life)
 p: (unless it dies = if it does not die)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -11852,16 +12572,18 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # 1 Cor 15:44: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "just as"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if there is a natural body)
 q: (there is also a spiritual body)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "just as"
 
 
 ## Greek (SBLGNT)
@@ -11878,10 +12600,9 @@ q: (there is also a spiritual body)
 # 1 Cor 16:4: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -11889,13 +12610,12 @@ p: (if it seems advisable that I should go also)
 q: (they will accompany me)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν δὲ ἄξιον ᾖ τοῦ κἀμὲ πορεύεσθαι
 * _q1_: σὺν ἐμοὶ πορεύσονται
-
-
-## Notes
-
 
 
 ----------------
@@ -11903,10 +12623,9 @@ q: (they will accompany me)
 # 1 Cor 16:7: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -11914,13 +12633,12 @@ q: (I hope to spend some time with you)
 p: (if the Lord permits)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _q1_: ἐλπίζω γὰρ χρόνον τινὰ ἐπιμεῖναι πρὸς ὑμᾶς
 * _p1_: ἐὰν ὁ κύριος ἐπιτρέψῃ
-
-
-## Notes
-
 
 
 ----------------
@@ -11928,16 +12646,18 @@ p: (if the Lord permits)
 # 1 Cor 16:10: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Command
-* NASB, NRSV: "if"
-ESV, NIV, NLT: "when"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (when Timothy comes)
 q: (see that you put him at ease among you)
+
+
+* NASB, NRSV: "if"
+ESV, NIV, NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -11954,11 +12674,9 @@ Although it is not certain, Paul writes as if he fully expects Timothy to visit 
 # 1 Cor 16:22: First Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NIV, NLT: "if"
-NRSV: no conditional
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -11966,13 +12684,13 @@ p: (if anyone has no love for the Lord)
 q: (let him be accursed)
 
 
+* ESV, NASB, NIV, NLT: "if"
+NRSV: no conditional
+
+
 ## Greek (SBLGNT)
 * _p1_: εἴ τις οὐ φιλεῖ τὸν κύριον
 * _q1_: ἤτω ἀνάθεμα
-
-
-## Notes
-
 
 
 ----------------
@@ -11980,16 +12698,18 @@ q: (let him be accursed)
 # 2 Cor 1:6a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "even when"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if we are afflicted)
 q: (it is for your comfort and salvation)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "even when"
 
 
 ## Greek (SBLGNT)
@@ -12007,16 +12727,18 @@ Vs.4-5 make it clear that Paul and Timothy were afflicted/troubled.
 # 2 Cor 1:6b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (and if we are comforted)
 q: (it is for your comfort)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -12034,15 +12756,17 @@ Vs.4-5 make it clear that Paul and Timothy were comorted/encouraged.
 # 2 Cor 2:2a: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (for if I cause you pain)
 q: (who is there to make me glad but the one whom I have pained?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12059,16 +12783,18 @@ In v.1 Paul refers to his last visit to the Corinthians and the pain it caused. 
 # 2 Cor 2:5: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: paraphrased in a relative clause
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if anyone has caused pain)
 q: (he has caused it not to me but... to all of you)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: paraphrased in a relative clause
 
 
 ## Greek (SBLGNT)
@@ -12086,16 +12812,18 @@ Similarly to 2:2, Paul is discussing the specific problems in Corinth and almost
 # 2 Cor 2:10: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "whatever"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I have forgiven anything)
 q: (what I have forgiven has been for your sake in the presence of Christ)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -12114,16 +12842,18 @@ In this speech act conditional q is true regardless of the truth of p. Translato
 # 2 Cor 3:7-8: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (Now if the ministry of death, carved in letters of stone, came with such glory...)
 q: (will not the ministry of the Spirit have even more glory?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -12140,15 +12870,17 @@ Paul compares the glory of the old covenant with the glory of the new convenant 
 # 2 Cor 3:9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (For if there was glory in the ministry of condemnation)
 q:(the minsitry of righteousness must far exceed it in glory)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12165,15 +12897,17 @@ See note on v.7-8
 # 2 Cor 3:11: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if what was being brought to an end came with glory)
 q: (much more will what is permanent have glory)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12190,16 +12924,18 @@ Paul once more continues his arguement for the superior glory of the new covanen
 # 2 Cor 4:3: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "even if"
-NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even if our gospel is veiled)
 q: (it is veiled to those who are perishing)
+
+
+* ESV, NASB, NRSV, NIV: "even if"
+NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12217,16 +12953,18 @@ The force of this conditional is expressed well by NLT: "If the Good News we pre
 # 2 Cor 4:16: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NIV, NLT: "though"
-NRSV, "even though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (though our outer self is wasting away)
 q: (our inner self is being renewed day by day)
+
+
+* ESV, NASB, NIV, NLT: "though"
+NRSV, "even though"
 
 
 ## Greek (SBLGNT)
@@ -12244,16 +12982,18 @@ This is a concessive conditional in which q is not dependent on the validity of 
 # 2 Cor 5:1: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if the tent that is our earthly home is destroyed)
 q: (we have a building from God)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -12270,15 +13010,17 @@ Though the NLT has "when" here, implying a Factual condition, it is more likely 
 # 2 Cor 5:13a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if we are beside ourselves)
 q: (it is for God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12296,15 +13038,17 @@ The conditionals in v.13 together describe an exhaustive set of situations.
 # 2 Cor 5:13b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if we are in our right minds)
 q: (it is for you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12322,17 +13066,19 @@ See notes on 15:13a.
 # 2 Cor 5:16: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "even though"
-NIV: "though"
-NLT: no condtional
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even though we once regarded Christ according to the flesh)
 q: (we regard him thus no longer)
+
+
+* ESV, NASB, NRSV: "even though"
+NIV: "though"
+NLT: no condtional
 
 
 ## Greek (SBLGNT)
@@ -12350,16 +13096,18 @@ This is a concessive conditional in which q is not dependent on the validity of 
 # 2 Cor 5:17: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV: "if anyone"
-NLT: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (Therefore, if anyone is in Christ)
 q: (he is a new creation)
+
+
+* ESV, NASB, NRSV, NIV: "if anyone"
+NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -12377,17 +13125,19 @@ Paul makes a general statement here that is not referencing a particular person 
 # 2 Cor 7:8a: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NRSV, NIV: "even if"
-NASB: "though"
-NLT: no condtional
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even if I made you grieve with my letter)
 q: (I do not regret it)
+
+
+* ESV, NRSV, NIV: "even if"
+NASB: "though"
+NLT: no condtional
 
 
 ## Greek (SBLGNT)
@@ -12405,10 +13155,9 @@ There are 3 occurrences of εἰ και in verse 8. Boyer and Martin both analyz
 # 2 Cor 7:8-9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "though"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -12417,6 +13166,9 @@ p: (though I did regret it) (ESV)
 
 p: (though I did regret it)
 q: (...v.9 yet now I am happy) (NIV)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "though"
 
 
 ## Greek (SBLGNT)
@@ -12436,17 +13188,19 @@ NRSV, NIV, and Martin interpret this conditional as spanning v.8-9, with conditi
 # 2 Cor 7:8c: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "though only"
-NIV: "but only"
-NLT: no condtional or concessive
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (that letter grieved you)
 p: (though only for a while)
+
+
+* ESV, NASB, NRSV: "though only"
+NIV: "but only"
+NLT: no condtional or concessive
 
 
 ## Greek (SBLGNT)
@@ -12464,17 +13218,19 @@ In Greek, p comes in the middle of q. A word-for-word translation with p in squa
 # 2 Cor 7:12: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert / Encourage
-* ESV, RSV, NASB: "although"
-NIV: "even though"
-NLT: no conditional or concessive
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert / Encourage
 
 
 ## English
 p: (although I wrote to you)
 q: (it was not for the sake  of the one who did wrong, nor the one who suffered the wrong, but in order that your earnestness for us might be revealed to you in the sight of God)
+
+
+* ESV, RSV, NASB: "although"
+NIV: "even though"
+NLT: no conditional or concessive
 
 
 ## Greek (SBLGNT)
@@ -12492,12 +13248,9 @@ Because p is factual and is followed by a negative, most English translations us
 # 2 Cor 7:14: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* NASB, NRSV: "if"
-ESV: "whatever"
-NIV, NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -12506,6 +13259,11 @@ q: (I was not put to shame) (ESV)
 
 p: (if in anything I have boasted to him about you,)
 q: (I was not put to shame) (NASB)
+
+
+* NASB, NRSV: "if"
+ESV: "whatever"
+NIV, NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -12523,16 +13281,18 @@ In p Paul admits that he boasted to Titus about the Corinthian believers and in 
 # 2 Cor 8:12a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "if" (2nd person, inverted)
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if the readiness is there)
 q: (it is acceptable)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "if" (2nd person, inverted)
 
 
 ## Greek (SBLGNT)
@@ -12549,16 +13309,18 @@ Paul phrases this in a very general way, but he clearly intends to refer to the 
 # 2 Cor 9:4: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV: "if" 
-NLT: "if" (inverted)
+* *Probability:* Unlikely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if some Macedonians come with me and find that you are not ready)
 q: (we would be humiliated--to say nothing of you-- for being so confident.
+
+
+* ESV, NASB, NRSV, NIV: "if" 
+NLT: "if" (inverted)
 
 
 ## Greek (SBLGNT)
@@ -12575,16 +13337,18 @@ Paul refers to this possible future circumstance and its outcome. P has two part
 # 2 Cor 10:7: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV: "if" 
-NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone is confident that he is Christ's)
 q: (let him remind himself that just as he is Christ's, so also are we)
+
+
+* ESV, NASB, NRSV, NIV: "if" 
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -12602,16 +13366,18 @@ P has εἴ τις 'if anyone' but Paul has specific people in mind (his opponen
 # 2 Cor 10:8: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "even if" 
-NLT: no conditional
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even if I boast a little too much of our authority...)
 q: (I will not be ashamed)
+
+
+* ESV, NASB, NRSV, NIV: "even if" 
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -12628,11 +13394,9 @@ Based on the context, this this can be interpreted as a concessive ("even if") c
 # 2 Cor 11:4: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV: "if" 
-NLT: "even if" (inverted)
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
@@ -12641,6 +13405,10 @@ p1: (if someone comes and proclaims another Jesus than the one we proclaimed,)
 p2: (or [if] you receive a different spirit from the one you received,)
 p3: (or [if you accept] a different gospel from the one you accepted)
 q: (you put up with it readily enough)
+
+
+* ESV, NASB, NRSV, NIV: "if" 
+NLT: "even if" (inverted)
 
 
 ## Greek (SBLGNT)
@@ -12657,16 +13425,18 @@ There are three parts to p; although there is only one εἰ 'if' in Greek, most
 # 2 Cor 11:6: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB: "even if" 
-NRSV, NIV, NLT: "I may (indeed) be... but"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even if I am unskilled in speaking)
 q: (I am not so in knowledge)
+
+
+* ESV, NASB: "even if" 
+NRSV, NIV, NLT: "I may (indeed) be... but"
 
 
 ## Greek (SBLGNT)
@@ -12684,16 +13454,18 @@ Paul seems to be accepting the description of himself in p (perhaps ironically),
 # 2 Cor 11:15: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV: "if" 
-NLT: no conditional ("it is no wonder that...")
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 q: (it is no surprise)
 p: (if his servants, also, disguise themselves as servants of righteousness)
+
+
+* ESV, NASB, NRSV, NIV: "if" 
+NLT: no conditional ("it is no wonder that...")
 
 
 ## Greek (SBLGNT)
@@ -12710,16 +13482,18 @@ Paul gives a harsh warning to the Corinthians and a rebuke to the decievers, lin
 # 2 Cor 11:16: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NIV, NLT: "even if"
-NASB, NRSV: "if"
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (but even if you do [think me foolish])
 q: (accept me as a fool, so that I too may boast a little)
+
+
+* ESV, NIV, NLT: "even if"
+NASB, NRSV: "if"
 
 
 ## Greek (SBLGNT)
@@ -12736,14 +13510,9 @@ Greek has two expressions that include conditional particles: εἰ δὲ μή �
 # 2 Cor 11:20: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV: "if someone" for first clause, "or" for next four
-NASB: "if anyone" for first clause, "anyone" for next four
-NRSV: "when someone" for first clause, "or" for next four
-NIV: "even...anyone who" for first clause, "or" for next four
-NLT: "when someone" only for first clause
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
@@ -12753,6 +13522,13 @@ or [if someone] devours you,
 or [if someone] takes advantage of you, 
 or [if someone] puts on airs, 
 or [if someone] strikes you in the face)
+
+
+* ESV: "if someone" for first clause, "or" for next four
+NASB: "if anyone" for first clause, "anyone" for next four
+NRSV: "when someone" for first clause, "or" for next four
+NIV: "even...anyone who" for first clause, "or" for next four
+NLT: "when someone" only for first clause
 
 
 ## Greek (SBLGNT)
@@ -12769,15 +13545,17 @@ In the Greek, each clause listed in p is is introduced by its own ει τις 'i
 # 2 Cor 11:30: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I must boast)
 q: (I will boast of the things that show my weakness)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12794,16 +13572,18 @@ P is factual because Paul states in 12:1 that it is necessary for him to boast (
 # 2 Cor 12:6: Third Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NLT: "if"
-NIV: "even if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if I should wish to boast)
 q: (I would not be a fool, for I would be speaking the truth)
+
+
+* ESV, NASB, NRSV, NLT: "if"
+NIV: "even if"
 
 
 ## Greek (SBLGNT)
@@ -12820,15 +13600,17 @@ P is non-factual because Paul does not want to boast. However, if he did boast a
 # 2 Cor 12:11b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "even though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (I was not at all inferior to these super apostles)
 p: (even though I am nothing)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "even though"
 
 
 ## Greek (SBLGNT)
@@ -12846,11 +13628,9 @@ This is a "concessive conditional," in which q is not dependent on the validity 
 # 2 Cor 12:15b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "even though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
@@ -12858,13 +13638,13 @@ p: (if I love you more)
 q: (am I to be loved less?)
 
 
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "even though"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ περισσοτέρως ὑμᾶς ἀγαπῶν
 * _q1_: ἧσσον ἀγαπῶμαι
-
-
-## Notes
-
 
 
 ----------------
@@ -12872,16 +13652,18 @@ q: (am I to be loved less?)
 # 2 Cor 13:2b: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV: "if"
-NLT, NIV: no conditional
+* *Probability:* Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if I come again)
 q: (I will not spare them)
+
+
+* ESV, NASB, NRSV: "if"
+NLT, NIV: no conditional
 
 
 ## Greek (SBLGNT)
@@ -12898,17 +13680,19 @@ In 13:1 Paul mentions his third visit to Corinth as if it has already been arran
 # 2 Cor 13:5b: First Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, RSV: "unless indeed"
-NIV: "unless, of course"
-NLT: "if not"
+* *Probability:* Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 q: (Or do you not realize this about yourselves, that Jesus Christ is in you?)
 p: (unless indeed you fail to meet the test!)
+
+
+* ESV, NASB, RSV: "unless indeed"
+NIV: "unless, of course"
+NLT: "if not"
 
 
 ## Greek (SBLGNT)
@@ -12928,16 +13712,18 @@ The phrase "fail the test" is a translation of the Greek word ἀδόκιμοι 
 # Gal 1:8: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NRSV, NIV, NASB: "even if"
-NLT: Let God’s curse fall on anyone, including us or even an angel from heaven, who..."
+* *Probability:* Very Unlikely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (but even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you)
 q: (let him be accursed)
+
+
+* ESV, NRSV, NIV, NASB: "even if"
+NLT: Let God’s curse fall on anyone, including us or even an angel from heaven, who..."
 
 
 ## Greek (SBLGNT)
@@ -12954,15 +13740,17 @@ q: (let him be accursed)
 # Gal 1:9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone is preaching to you a gospel contrary to the one you received)
 q: (let him be accursed)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -12979,15 +13767,17 @@ Given that Paul wrote in v.6 that the Galatians "are turning to a different gosp
 # Gal 1:10: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if I were still trying to please man)
 q: (I would not be a servant of God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13004,17 +13794,19 @@ We know that Paul is a servant of Christ, so p cannot be true
 # Gal 2:14: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV: "if"
-NIV: no conditional
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if you, though a Jew, live like a Gentile and not a Jew)
 q: (how can you force the Gentiles to live like Jews)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: no conditional
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -13031,16 +13823,18 @@ Paul is reminding Peter that he had been living like a Gentile. The phrase “th
 # Gal 2:17: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "suppose"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if, in our endeavor to be justified in Christ, we too were found to be sinners)
 q: (is Christ then a servant of sin?)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "suppose"
 
 
 ## Greek (SBLGNT)
@@ -13057,15 +13851,17 @@ In p, Paul may be referring to the fact that the circumcision faction regarded h
 # Gal 2:18: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if I rebuild what I tore down)
 q: (I prove myself to be a transgressor)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13082,15 +13878,17 @@ The "building" which Paul describes himself rebuilding or tearing down is the Je
 # Gal 2:21: (Unspecified) Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue / Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue / Rebuke
 
 
 ## English
 p: (for if righteousness were through the law)
 q: (then Christ died for no purpose)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13107,18 +13905,20 @@ There is no verb in p, so it is not possible to determine whether this is a firs
 # Gal 3:4: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB: "if indeed"
-NRSV, NIV: "if... really"
-NLT: "Surely it was not in vain, was it?"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 NRSV:
 Did you experience so much for nothing?
 p: (- if it really was for nothing)
+
+
+* ESV, NASB: "if indeed"
+NRSV, NIV: "if... really"
+NLT: "Surely it was not in vain, was it?"
 
 
 ## Greek (SBLGNT)
@@ -13136,15 +13936,17 @@ There is no cause-consequence or evidence-conclusion relation between p and q he
 # Gal 3:18: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if inheritance comes by the law)
 q: (it no longer comes by promise)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13161,15 +13963,17 @@ The argument here rests on the assumption that inheritence can either come by th
 # Gal 3:21: (Unspecified) Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if a law had been given that could give life)
 q: (then righteousness would indeed be by the law)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13186,16 +13990,18 @@ Paul has already stated that righteousness does not come through the Jewish law 
 # Gal 3:29: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "now that you belong to Christ"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (and if you are Christ's)
 q: (then you are Abraham's offspring, heirs according to promise)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "now that you belong to Christ"
 
 
 ## Greek (SBLGNT)
@@ -13212,16 +14018,18 @@ Paul has just stated (3:28) "you are all one in Christ Jesus," so it is clear th
 # Gal 4:7: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (and if a son)
 q: (then [also] an heir through God)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -13238,16 +14046,18 @@ Paul has just stated "you are no longer a slave, but a son," so it is clear that
 # Gal 4:15: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, RSV, NIV, NLT: "if"
-NRSV: "had it been possible"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if possible)
 q: (you would have gouged out your eyes and given them to me)
+
+
+* ESV, NASB, RSV, NIV, NLT: "if"
+NRSV: "had it been possible"
 
 
 ## Greek (SBLGNT)
@@ -13264,15 +14074,17 @@ Like other "if possible" constructions, it signals the unlikeliness (or in this 
 # Gal 5:2: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Argue / Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue / Warn
 
 
 ## English
 p: (if you accept circumcision)
 q: (Christ will be of no advantage to you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13289,10 +14101,9 @@ For a Gentile to become circumcised is a sign that they were choosing the law ov
 # Gal 5:11: First Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -13300,6 +14111,9 @@ NASB:
 p: (if I still preach circumcision)
 q1: (why am I still persecuted?)
 q2: (then teh stumbling block of the cross has been abolished)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13317,15 +14131,17 @@ The question "Why am I still being persecuted?" indicates that Paul is being per
 # Gal 5:15: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (but if you bite and devour one another)
 q: (watch out that you are consumed by one another)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13342,16 +14158,18 @@ Paul is probably thinking of the divisions and fighting caused by the false teac
 # Gal 5:18: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (but if you are led by the Spirit)
 q: (you are not under the law)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -13368,16 +14186,18 @@ Paul has instructed his readers to "walk by the Spirit" in v.16, so this is some
 # Gal 5:25: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if we live by the Spirit)
 q: (let us also keep in step with the Spirit)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -13394,16 +14214,18 @@ q: (let us also keep in step with the Spirit)
 # Gal 6:1: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NRSV, NIV, NLT: "if"
-NASB: "even if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone is caught in transgression)
 q: (you who are spiritual should restore him in a spirit of gentleness)
+
+
+* ESV, NRSV, NIV, NLT: "if"
+NASB: "even if"
 
 
 ## Greek (SBLGNT)
@@ -13420,15 +14242,17 @@ Paul is not referring to a specific person. NASB "even if" treas the constructio
 # Gal 6:3: First Class Condition
 
 
-* Probability: Neutral / Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn / Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral / Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn / Rebuke
 
 
 ## English
 p: (for if anyone thinks he is something, when he is nothing)
 q: (he deceives himself)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13445,14 +14269,16 @@ This may be a saying or proverb meant to warn all the Galatian believers not to 
 # Gal 6:9: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Encourage / Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Encourage / Promise
 
 
 ## English
 
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13469,20 +14295,22 @@ Implied conditional; the Greek has a participle verb μὴ ἐκλυόμενοι
 # Eph 4:20-21: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV: "assuming"
-NASB: "if indeed"
-NRSV: "For surely"
-NIV: "when"
-NLT: "Since" (see Note)
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 NASB:
 q: (you did not learn Christ in this way)
 p: (if indeed you have heard Him and have been taught in Him, just as truth is in Jesus...)
+
+
+* ESV: "assuming"
+NASB: "if indeed"
+NRSV: "For surely"
+NIV: "when"
+NLT: "Since" (see Note)
 
 
 ## Greek (SBLGNT)
@@ -13502,10 +14330,9 @@ If εἴ γε is connected to v.20, then it either has a genuine conditional mea
 # Phil 1:22: (Unspecified) Class Condition
 
 
-* Probability: Neutral / Factual
-* Time Orientation: Future / Present
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral / Factual
+* *Time Orientation:* Future / Present
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -13514,6 +14341,9 @@ q: (that means fruitful labour for me)
 Or
 p: (if to live means fruitful work for me)
 q: (then I don’t know what to choose)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13534,17 +14364,19 @@ If p is 22a only, then the condition is hypothetical with a neutral probability 
 # Phil 2:1-2: (Unspecified) Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, RSV, NIV, NASB: "if"
-NLT: each clause in p is expressed as a rhetorical question
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 NASB:
 p: (if there is any encouragement in Christ, if there is any consolation of love, if there is any fellowship of the Spirit, if any affection and compassion)
 q: (make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose)
+
+
+* ESV, RSV, NIV, NASB: "if"
+NLT: each clause in p is expressed as a rhetorical question
 
 
 ## Greek (SBLGNT)
@@ -13561,15 +14393,17 @@ In Greek, εἴ repeated before each "any" in v.1 (see NASB and NIV).
 # Phil 2:17: (Unspecified) Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV, NLT: "even if"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (even if I am to be poured out as a drink offering upon the sacrificial offering of your faith)
 q: (I am glad and rejoice with you all)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -13586,15 +14420,17 @@ Greek εἰ καὶ 'even if'; this is a "concessive conditional"; q is asserted
 # Phil 3:4b: (Unspecified) Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if anyone else thinks he has reason for confidence in the flesh)
 q: (I have more)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13611,15 +14447,17 @@ This is a speech act conditional - q is always true, but is only relevant if p i
 # Phil 3:15b: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if in anything you think otherwise)
 q: (God will reveal that also to you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -13636,16 +14474,18 @@ We have listed the probability as neutral becuase Paul is writing to "all the sa
 # Phil 4:8b: (Unspecified) Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: expressed as a statment
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if there is any excellence, if there is anything worthy of praise)
 q: (think about these things)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: expressed as a statment
 
 
 ## Greek (SBLGNT)
@@ -13662,18 +14502,20 @@ The two clauses in p are either the last two items in a list of eight things tha
 # Col 1:22-23: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present / Future
-* Illocutionary Force: Exhort / Promise
-* ESV, NASB: "if indeed"
-NRSV: "provided that"
-NIV: "if"
-NLT: "But you must"
+* *Probability:* Very Likely
+* *Time Orientation:* Present / Future
+* *Illocutionary Force:* Exhort / Promise
 
 
 ## English
 q: v.22 (he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him)
 p: v.23 (if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard)
+
+
+* ESV, NASB: "if indeed"
+NRSV: "provided that"
+NIV: "if"
+NLT: "But you must"
 
 
 ## Greek (SBLGNT)
@@ -13691,16 +14533,18 @@ Elliot: "The particle γε performs its usual emphatic function, strengthening t
 # Col 2:5: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NRSV, NIV, NLT: "though"
-NASB: "even though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (for though I am absent in body)
 q: (yet I am with you in spirit)
+
+
+* ESV, NRSV, NIV, NLT: "though"
+NASB: "even though"
 
 
 ## Greek (SBLGNT)
@@ -13717,17 +14561,19 @@ q: (yet I am with you in spirit)
 # Col 2:20: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV: "if"
-NIV: "since"
-NLT: No conditional - statement
+* *Probability:* Factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if with Christ you died to the elemental spirits of the world)
 q: (why, as if you were still alive in the world, do you submit to regulations?)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "since"
+NLT: No conditional - statement
 
 
 ## Greek (SBLGNT)
@@ -13745,16 +14591,18 @@ The Greek has an aorist verb in p: ἀπεθάνετε 'you(pl) died'; ESV, NRSV
 # Col 3:1: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past / Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past / Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if then you have been raised with Christ)
 q: (seek the things that are above, where Christ is, seated at the right hand of God)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -13772,18 +14620,20 @@ The Greek has an aorist verb in p: συνηγέρθητε 'you(pl) were raised w
 # Col 3:13: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NRSV, NIV: "if"
-NASB: "whoever"
-NLT: "anyone"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 NIV:
 q: (bear with each other and forgive one another)
 q: (if any of you has a grievance against someone)
+
+
+* ESV, NRSV, NIV: "if"
+NASB: "whoever"
+NLT: "anyone"
 
 
 ## Greek (SBLGNT)
@@ -13801,10 +14651,9 @@ NIV follows the Greek in putting the whole of q before p. ESV, NRSV and NLT spli
 # Col 4:10c: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -13812,13 +14661,12 @@ p: (if he comes to you)
 q: (welcome him)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: ἐὰν ἔλθῃ πρὸς ὑμᾶς
 * _q1_: δέξασθε αὐτόν
-
-
-## Notes
-
 
 
 ----------------
@@ -13826,17 +14674,19 @@ q: (welcome him)
 # 1 Thess 3:8: (Unspecified) Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV: "if"
-NIV: "since"
-NLT: untranslated/paraphrased
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 q: (for now we live)
 p: (if you are standing fast in the Lord)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "since"
+NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -13853,18 +14703,20 @@ In Greek this is a mixed conditional (εαν + indicative).
 # 1 Thess 4:14: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV, NRSV, NLT: "since"
-NASB: "if"
-NIV: p and q are statements joined by "and so"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 NLT:
 p: (For since we believe that Jesus died and was raised to life again)
 q: (we also believe that when Jesus returns, God will bring back with him the believers who have died)
+
+
+* ESV, NRSV, NLT: "since"
+NASB: "if"
+NIV: p and q are statements joined by "and so"
 
 
 ## Greek (SBLGNT)
@@ -13881,16 +14733,18 @@ There is an understood "we believe" in q (that the NLT makes explicit). Paul is 
 # 2 Thess 2:3: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "unless"
-NIV, NLT: "until"
+* *Probability:* Factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
 q: (for that day will not come)
 p: (unless the rebellion comes first, and the man of lawlessness is revealed, the son of destruction...)
+
+
+* ESV, NASB, NRSV: "unless"
+NIV, NLT: "until"
 
 
 ## Greek (SBLGNT)
@@ -13909,13 +14763,9 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # 2 Thess 3:10b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command / Warn
-* ESV, NASB: "if anyone"
-NRSV: "anyone"
-NIV: "the one who"
-NLT: "those"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command / Warn
 
 
 ## English
@@ -13923,13 +14773,15 @@ p: (if anyone is not willing to work)
 q: (let him not eat)
 
 
+* ESV, NASB: "if anyone"
+NRSV: "anyone"
+NIV: "the one who"
+NLT: "those"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἴ τις οὐ θέλει ἐργάζεσθαι
 * _q1_: μηδὲ ἐσθιέτω
-
-
-## Notes
-
 
 
 ----------------
@@ -13937,12 +14789,9 @@ q: (let him not eat)
 # 2 Thess 3:14: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB: "if anyone"
-NRSV, NLT: "those who"
-NIV: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -13950,13 +14799,14 @@ p: (if anyone does not obey what we say in this letter)
 q: (take note of that person, and have nothing to do with him, that he may be ashamed)
 
 
+* ESV, NASB: "if anyone"
+NRSV, NLT: "those who"
+NIV: "anyone who"
+
+
 ## Greek (SBLGNT)
 * _p1_: Εἰ δέ τις οὐχ ὑπακούει τῷ λόγῳ ἡμῶν διὰ τῆς ἐπιστολῆς
 * _q1_: τοῦτον σημειοῦσθε μὴ συναναμίγνυσθαι αὐτῷ ἵνα ἐντραπῇ
-
-
-## Notes
-
 
 
 ----------------
@@ -13964,16 +14814,18 @@ q: (take note of that person, and have nothing to do with him, that he may be as
 # 1 Tim 1:8: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (we know that the law is good)
 p: (if one uses it lawfully)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -13991,17 +14843,19 @@ If a conditional would be misleading or unnatural in translation (particularly i
 # 1 Tim 2:15: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NIV: "if"
-NRSV: "provided they..." 
-NLT: "assuming they..."
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 q: (she will be saved through childbearing)
 p: (if they continue in faith and love and holiness, with self-control)
+
+
+* ESV, NASB, NIV: "if"
+NRSV: "provided they..." 
+NLT: "assuming they..."
 
 
 ## Greek (SBLGNT)
@@ -14018,18 +14872,20 @@ The time reference depends on the exegesis of this puzzling and controversial te
 # 1 Tim 3:1: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV: "if anyone"
-NASB: "if any man"
-NRSV, NIV: "whoever"
-NLT: "if someone"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (If anyone aspires to the office of overseer)
 q: (he desires a noble task)
+
+
+* ESV: "if anyone"
+NASB: "if any man"
+NRSV, NIV: "whoever"
+NLT: "if someone"
 
 
 ## Greek (SBLGNT)
@@ -14046,17 +14902,19 @@ Here and in v.5, Paul is making a general statement about people who aspire to b
 # 1 Tim 3:5: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NRSV: "if someone"
-NASB, NLT: "if a man"
-NIV: "if anyone"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (if someone does not know how to manage his own household) 
 q: (how will he care for God’s church?)
+
+
+* ESV, NRSV: "if someone"
+NASB, NLT: "if a man"
+NIV: "if anyone"
 
 
 ## Greek (SBLGNT)
@@ -14073,17 +14931,19 @@ See note on 1Ti 3:1.
 # 1 Tim 3:15: Third Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Future
-* Illocutionary Force: Exhort
-* ESV, NRSV, NIV, NLT: "if"
-NASB: "in case"
+* *Probability:* Unlikely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if I delay)
 q: ([I write] so that you may know how one ought to behave in the household of God)
 Square brackets added to supply implied information
+
+
+* ESV, NRSV, NIV, NLT: "if"
+NASB: "in case"
 
 
 ## Greek (SBLGNT)
@@ -14100,15 +14960,17 @@ This is a speech act conditional, that is, q is true regardless of p (even if Pa
 # 1 Tim 5:4: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (But if a widow has children or grandchildren)
 q: (let them first learn to show godliness to their own household and to make some return to their parents)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14125,18 +14987,20 @@ Paul is making a general statement about the responsibilities of children and gr
 # 1 Tim 5:8: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB: "if anyone"
-NRSV: "whoever"
-NIV: "anyone who"
-NLT: "those who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone does not provide for his relatives, and especially for members of his household)
 q: (he has denied the faith and is worse than an unbeliever)
+
+
+* ESV, NASB: "if anyone"
+NRSV: "whoever"
+NIV: "anyone who"
+NLT: "those who"
 
 
 ## Greek (SBLGNT)
@@ -14153,12 +15017,9 @@ This conditional buolds on v.4 and applies the same principal moe generally.
 # 1 Tim 5:9-10: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV:  "if"
-NIV: "unless"
-NLT relative clause ("who... must be")
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -14167,6 +15028,11 @@ p1: (if she is not less than sixty years of age)
 p2: (if she has been the wife of one husband)
 p3: (if she has a reputation for good deeds)
 p5-8 are either an elaboration of 'good deeds' or additional conditions
+
+
+* ESV, NASB, NRSV:  "if"
+NIV: "unless"
+NLT relative clause ("who... must be")
 
 
 ## Greek (SBLGNT)
@@ -14185,15 +15051,17 @@ The five conditions in v.10 expressed with ει can be understood in two ways. N
 # 1 Tim 5:16: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort / Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort / Command
 
 
 ## English
 p: (If any believing woman has relatives who are widows)
 q: (let her care for them)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14210,8 +15078,6 @@ Translator's Notes claims that Paul knew this to be the case, which would make t
 # 1 Tim 5:19: First Class Condition
 
 
-* ESV, NASB, NRSV, "except"
-NIV, NLT: "unless"
 
 
 ## English
@@ -14221,6 +15087,10 @@ p: (except on the evidence of two or three witnesses)
 NIV:
 q: (do not entertain an accusation against an elder)
 p: (unless it is brought by two or three witnesses)
+
+
+* ESV, NASB, NRSV, "except"
+NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -14238,17 +15108,19 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # 1 Tim 6:3-4: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NIV: "if anyone"
-NRSV: "those who" 
-NLT: "some people may..."
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (If anyone teaches a different doctrine and does not agree with the sound words of our Lord Jesus Christ and the teaching that accords with godliness)
 q: (he is puffed up with conceit and understands nothing)
+
+
+* ESV, NASB, NIV: "if anyone"
+NRSV: "those who" 
+NLT: "some people may..."
 
 
 ## Greek (SBLGNT)
@@ -14265,17 +15137,19 @@ Translator's Notes claims that Paul knew that there were some people who were te
 # Heb 2:2-3: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NIV: "since"
-NASB, NRSV: "for if"
-NLT: non-conditional statement
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for since the message declared by angels proved to be reliable, and every transgression or disobedience received just retribution)
 q: (how shall we escape if we neglect such a great salvation?)
+
+
+* ESV, NIV: "since"
+NASB, NRSV: "for if"
+NLT: non-conditional statement
 
 
 ## Greek (SBLGNT)
@@ -14292,15 +15166,17 @@ An argument is made by using a rhetorical question (implied response of "we can'
 # Heb 3:6: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Present
-* Illocutionary Force: Promise / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Promise / Exhort
 
 
 ## English
 q: (and we are his house)
 p: (if indeed we hold fast our confidence and our boasting in our hope)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14318,16 +15194,18 @@ Q expresses a promise; p puts a limit on q, but more importantly it provides an 
 # Heb 3:7-10: Third Class Condition
 
 
-* Probability: Factual / Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Factual / Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: today (if you hear his voice)
 q: (do not harden your hearts as in the rebellion, on the day of testing in the wilderness, where your fathers put me to the test and saw my works for forty years)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -14344,15 +15222,17 @@ The command lies in q. The probability of this conditional is tricky because whe
 # Heb 3:14: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Assert / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert / Exhort
 
 
 ## English
 q: (we have come to share in Christ)
 p: (if indeed we hold our original confidence firm to the end)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14369,16 +15249,18 @@ Greek: ἐάνπερ 'if indeed'; this connective is found only in Hebrews in th
 # Heb 3:15: Third Class Condition
 
 
-* Probability: Factual / Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Factual / Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (today if you hear his voice)
 q: (do not harden your hearts as in the rebellion)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -14395,16 +15277,18 @@ See note at 3:7.
 # Heb 4:7: Third Class Condition
 
 
-* Probability: Factual / Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Factual / Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (today if you hear his voice)
 q: (do not harden your hearts as in the rebellion))
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -14421,15 +15305,17 @@ See note at 3:7.
 # Heb 4:8: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (for if Joshua had given them rest)
 q: (God would not have spoken of another day later on)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14446,12 +15332,9 @@ Elliot mentions that αν has been ommitted in some manuscripts, which is rare f
 # Heb 6:3: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV: "if"
-NIV: "God permitting" 
-NLT: "God willing"
+* *Probability:* Very Likely
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -14459,13 +15342,14 @@ q: (this we will do)
 p: (if God permits)
 
 
+* ESV, NASB, NRSV: "if"
+NIV: "God permitting" 
+NLT: "God willing"
+
+
 ## Greek (SBLGNT)
 * _q1_: καὶ τοῦτο ποιήσομεν
 * _p1_: ἐάνπερ ἐπιτρέπῃ ὁ θεός
-
-
-## Notes
-
 
 
 ----------------
@@ -14473,16 +15357,18 @@ p: (if God permits)
 # Heb 6:9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV: "though"
-NRSV, NIV, NLT: "even though"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 q: (yet in your case, beloved, we feel sure of better things—things that belong to salvation)
 p: (though we speak this way)
+
+
+* ESV, NASB, NRSV: "though"
+NRSV, NIV, NLT: "even though"
 
 
 ## Greek (SBLGNT)
@@ -14501,10 +15387,9 @@ The NASB keeps the inverted order q before p, while the ESV, NRSV, NIV, and NLT 
 # Heb 7:11: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -14512,13 +15397,12 @@ p: (if perfection had been attainable through the Levitical priesthood (for unde
 q: (what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: Εἰ μὲν οὖν τελείωσις διὰ τῆς Λευιτικῆς ἱερωσύνης ἦν ὁ λαὸς γὰρ ἐπ αὐτῆς νενομοθέτηται
 * _q1_: τίς ἔτι χρεία κατὰ τὴν τάξιν Μελχισέδεκ ἕτερον ἀνίστασθαι ἱερέα καὶ οὐ κατὰ τὴν τάξιν Ἀαρὼν λέγεσθαι
-
-
-## Notes
-
 
 
 ----------------
@@ -14526,17 +15410,19 @@ q: (what further need would there have been for another priest to arise after th
 # Heb 7:15: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NRSV: "when"
-NASB, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (this becomes even more evident)
 p: (if/when another priest arises in the likeness of Melchizedek...)
+
+
+* ESV, NRSV: "when"
+NASB, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -14553,10 +15439,9 @@ p: (if/when another priest arises in the likeness of Melchizedek...)
 # Heb 8:4: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -14564,13 +15449,12 @@ p: (if he were on earth)
 q: (he would not be a priest at all)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ μὲν οὖν ἦν ἐπὶ γῆς
 * _q1_: οὐδ ἂν ἦν ἱερεύς
-
-
-## Notes
-
 
 
 ----------------
@@ -14578,10 +15462,9 @@ q: (he would not be a priest at all)
 # Heb 8:7: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -14589,13 +15472,12 @@ p: (for if that first covenant had been faultless)
 q: (there would have been no occasion to look for a second)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: Εἰ γὰρ ἡ πρώτη ἐκείνη ἦν ἄμεμπτος
 * _q1_: οὐκ ἂν δευτέρας ἐζητεῖτο τόπος
-
-
-## Notes
-
 
 
 ----------------
@@ -14603,12 +15485,9 @@ q: (there would have been no occasion to look for a second)
 # Heb 9:13-14: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV: "if"
-NIV: p (v.13) is a statement, q (v.14) has "then"
-NLT: non-conditional
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -14616,13 +15495,14 @@ p: (if the blood of goats and bulls, and the sprinkling of defiled persons with 
 q: (how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve a living God)
 
 
+* ESV, NASB, NRSV: "if"
+NIV: p (v.13) is a statement, q (v.14) has "then"
+NLT: non-conditional
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ γὰρ τὸ αἷμα τράγων καὶ ταύρων καὶ σποδὸς δαμάλεως ῥαντίζουσα τοὺς κεκοινωμένους ἁγιάζει πρὸς τὴν τῆς σαρκὸς καθαρότητα
 * _q1_: πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ ὃς διὰ πνεύματος αἰωνίου ἑαυτὸν προσήνεγκεν ἄμωμον τῷ θεῷ καθαριεῖ τὴν συνείδησιν ἡμῶν
-
-
-## Notes
-
 
 
 ----------------
@@ -14630,12 +15510,9 @@ q: (how much more will the blood of Christ, who through the eternal Spirit offer
 # Heb 10:38: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Warn / Exhort
-* ESV, NASB: "if"
-NRSV, NLT: "anyone who"
-NIV:  "the one who"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn / Exhort
 
 
 ## English
@@ -14643,13 +15520,14 @@ p: (if he shrinks back)
 q: (my soul has no pleasure in him)
 
 
+* ESV, NASB: "if"
+NRSV, NLT: "anyone who"
+NIV:  "the one who"
+
+
 ## Greek (SBLGNT)
 * _p1_: καὶ ἐὰν ὑποστείληται
 * _q1_: οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ
-
-
-## Notes
-
 
 
 ----------------
@@ -14657,15 +15535,17 @@ q: (my soul has no pleasure in him)
 # Heb 11:15: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (if they had been thinking of that land from which they had gone out)
 q: (they would have had an opportunity to return)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14682,10 +15562,9 @@ P is proven to be non-factual by v.16.
 # Heb 12:8: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -14693,13 +15572,12 @@ p: (if you are left without discipline, in which all have participated)
 q: (then you are illegitimate children and not sons)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ δὲ χωρίς ἐστε παιδείας ἧς μέτοχοι γεγόνασι πάντες
 * _q1_: ἄρα νόθοι καὶ οὐχ υἱοί ἐστε
-
-
-## Notes
-
 
 
 ----------------
@@ -14707,15 +15585,17 @@ q: (then you are illegitimate children and not sons)
 # Heb 12:20: Third Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if even a beast touches the mountain)
 q: (it shall be stoned)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14733,10 +15613,9 @@ This is not a typical "concessive conditional." The meaning is not that if an an
 # Heb 12:25: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -14744,13 +15623,12 @@ p: (if they did not escape when they refused him who warned them on earth)
 q: (much less will we escape if we reject him who warns from heaven)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ γὰρ ἐκεῖνοι οὐκ ἐξέφυγον ἐπὶ γῆς παραιτησάμενοι τὸν χρηματίζοντα
 * _q1_: πολὺ μᾶλλον ἡμεῖς οἱ τὸν ἀπ οὐρανῶν ἀποστρεφόμενοι
-
-
-## Notes
-
 
 
 ----------------
@@ -14758,10 +15636,9 @@ q: (much less will we escape if we reject him who warns from heaven)
 # Heb 13:23: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Promise
 
 
 ## English
@@ -14769,6 +15646,9 @@ NASB (following Greek):
 q: (with whom...)
 p: (if he comes soon)
 q: (...I shall see you...)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14786,10 +15666,9 @@ In the Greek, p occurs in the middle of q; most English translations put p befor
 # James 1:5: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
@@ -14797,13 +15676,12 @@ p: (if any of you lacks wisdom)
 q: (let him ask God, who gives generously to all without reproach)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: Εἰ δέ τις ὑμῶν λείπεται σοφίας
 * _q1_: αἰτείτω παρὰ τοῦ διδόντος θεοῦ πᾶσιν ἁπλῶς καὶ μὴ ὀνειδίζοντος καὶ δοθήσεται αὐτῷ
-
-
-## Notes
-
 
 
 ----------------
@@ -14811,13 +15689,9 @@ q: (let him ask God, who gives generously to all without reproach)
 # James 1:23: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NASB: "if anyone"
-NRSV: "if any"
-NIV: "anyone who"
-NLT: "if you"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
@@ -14825,13 +15699,15 @@ p: (for if anyone is a hearer of the word and not a doer)
 q: (he is like a man who looks intently at his natural face in the mirror. For he looks at himself and goes away and at once forgets what he was like)
 
 
+* ESV, NASB: "if anyone"
+NRSV: "if any"
+NIV: "anyone who"
+NLT: "if you"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἴ τις ἀκροατὴς λόγου ἐστὶν καὶ οὐ ποιητής
 * _q1_: οὗτος ἔοικεν ἀνδρὶ κατανοοῦντι τὸ πρόσωπον τῆς γενέσεως αὐτοῦ ἐν ἐσόπτρῳ
-
-
-## Notes
-
 
 
 ----------------
@@ -14839,13 +15715,9 @@ q: (he is like a man who looks intently at his natural face in the mirror. For h
 # James 1:26: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NASB: "if anyone"
-NRSV: "if any"
-NIV: "those who"
-NLT: "if you"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
@@ -14855,6 +15727,12 @@ q: (this person's religion is worthless)
 NIV:
 p: (those who consider themselves religious and yet do not keep a tight rein on their tongues)
 q: (deceive themselves, and their religion is worthless)
+
+
+* ESV, NASB: "if anyone"
+NRSV: "if any"
+NIV: "those who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -14873,17 +15751,19 @@ The idea of a worthwhile religion (1:27) is carried on in 2:14-25.
 # James 2:2-4: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NRSV: "if" in v.2 and v.3
-NASB: "if" once in v.2
-NIV, NLT: "suppose" in v.2 and "if" in v.3
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (for if a man wearing a gold ring and fine clothing comes into you assembly, and a poor man in shabby clothing also comes in, and [if] you pay attention to the one who wears the fine clothing ans say, "you sit here in a good place," while you say to the poor man, "you stand over there," or, "sit down at my feet")
 q: (have you not then made distinctions among yourselves and become judges with evil thoughts?)
+
+
+* ESV, NRSV: "if" in v.2 and v.3
+NASB: "if" once in v.2
+NIV, NLT: "suppose" in v.2 and "if" in v.3
 
 
 ## Greek (SBLGNT)
@@ -14901,16 +15781,18 @@ In Greek, ἐὰν 'if' occurs once at the start of v.2 and has scope over the w
 # James 2:8: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if you really fulfill the royal law according to the Scripture, "you shall love your neighbour as yourself,")
 q: (you are doing well)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -14927,15 +15809,17 @@ NRSV and NLT invert the order of p and q.
 # James 2:9: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke
 
 
 ## English
 p: (but if you show partiality)
 q: (you are committing sin and are convicted by the law as transgressors)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14952,15 +15836,17 @@ This contrasts with v.8.
 # James 2:11b: First Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
 p: (if you do not commit adultery but do murder)
 q: (you have become a transgressor of the law)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -14977,10 +15863,9 @@ This illustrates the point of v.10 (whoever keeps the whole law but fails in one
 # James 2:14: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
@@ -14988,13 +15873,12 @@ q: (what good is it)
 p: (if someone says he has faith but does not have works?)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _q1_: Τί ὄφελος
 * _p1_: ἐὰν πίστιν λέγῃ τις ἔχειν ἔργα δὲ μὴ ἔχῃ
-
-
-## Notes
-
 
 
 ----------------
@@ -15002,17 +15886,19 @@ p: (if someone says he has faith but does not have works?)
 # James 2:15-16: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Argue
-* ESV, NASB, NRSV: "if"
-NIV: "suppose" (v.15), "if" (v.16)
-NLT: "suppose"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
 p: (if a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, "go in peace, be warmed and filled," without giving them the things needed for the body)
 q: (what good is it?)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "suppose" (v.15), "if" (v.16)
+NLT: "suppose"
 
 
 ## Greek (SBLGNT)
@@ -15029,17 +15915,19 @@ The structure of this onditional is similar to 2:2-4.
 # James 2:17: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if...no(t)"
-NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (faith by itself)
 p: (if it does not have works)
 q: (is dead)
+
+
+* ESV, NASB, NRSV, NIV: "if...no(t)"
+NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -15056,12 +15944,9 @@ It may not be natural to keep p embedded within q; it may be necessary to restru
 # James 3:2: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert
-* ESV, NASB: "if anyone"
-NRSV, NIV: "anyone who"
-NLT: "if we"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -15069,13 +15954,14 @@ p: (and if anyone does not stumble in what he says)
 q: (he is a perfect man, able also to bridle [control] his whole body)
 
 
+* ESV, NASB: "if anyone"
+NRSV, NIV: "anyone who"
+NLT: "if we"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἴ τις ἐν λόγῳ οὐ πταίει
 * _q1_: οὗτος τέλειος ἀνήρ δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα
-
-
-## Notes
-
 
 
 ----------------
@@ -15083,12 +15969,9 @@ q: (he is a perfect man, able also to bridle [control] his whole body)
 # James 3:3: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV: "if"
-NIV: "when"
-NLT: non-conditional statement
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
@@ -15096,13 +15979,14 @@ p: (if we put bits into the mouths of horses so that they obey us)
 q: (we can guide their whole bodies as well)
 
 
+* ESV, NASB, NRSV: "if"
+NIV: "when"
+NLT: non-conditional statement
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ δὲ τῶν ἵππων τοὺς χαλινοὺς εἰς τὰ στόματα βάλλομεν εἰς τὸ πείθεσθαι αὐτοὺς ἡμῖν
 * _q1_: καὶ ὅλον τὸ σῶμα αὐτῶν μετάγομεν
-
-
-## Notes
-
 
 
 ----------------
@@ -15110,10 +15994,9 @@ q: (we can guide their whole bodies as well)
 # James 3:14: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
@@ -15121,13 +16004,12 @@ p: (but if you have bitter jealousy and selfish ambition in your hearts)
 q: (do not boast and be false to the truth)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν
 * _q1_: μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας
-
-
-## Notes
-
 
 
 ----------------
@@ -15135,17 +16017,19 @@ q: (do not boast and be false to the truth)
 # James 4:11c: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV: "if"
-NIV: "when"
-NLT: non-conditional statement (but "if" is used in the previous clause)
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if you judge the law)
 q: (you are not a doer of the law, but a judge)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "when"
+NLT: non-conditional statement (but "if" is used in the previous clause)
 
 
 ## Greek (SBLGNT)
@@ -15162,15 +16046,17 @@ Judging the law' in the verse is referring back to the first part of the verse w
 # James 4:15: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if the Lord wills)
 q: (we will live and do this or that)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15187,16 +16073,18 @@ James wants his audience to realize that God is in control, not them.
 # James 5:15: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NIV, NLT: "if"
-NRSV: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (if he has committed sins)
 q: (he will be forgiven)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -15214,15 +16102,17 @@ Boyer says there is no indication of probability.
 # James 5:19-20: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if anyone among you wanders from the truth and someone brings him back)
 q: (let him know that whoever brings back a sinner from his wandering will save his soul from death and will cover a multitude of sins)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15239,17 +16129,19 @@ The focus is on the "someone brings him back" section, not the "if anyone wander
 # 1Pe 1:6: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Encourage
-* ESV, NASB: "if necessary"
-NRSV: "even if" (applied to q)
-NIV, NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (though now for a little while, if necessary)
 q: (you have been grieved by various trials)
+
+
+* ESV, NASB: "if necessary"
+NRSV: "even if" (applied to q)
+NIV, NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -15266,17 +16158,19 @@ The condition acknowledges the trials the audience have suffered while also conf
 # 1Pe 1:17: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV: "if"
-NIV: "since"
-NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (and if you call on him as Father who judges impartially according to each one's deeds)
 q: (conduct yourselves with fear throughout the time of your exile...)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: "since"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -15293,17 +16187,19 @@ The fact that our heavenly Father "judges each person's work impartially" (that 
 # 1Pe 2:2-3: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NRSV: "if indeed"
-NASB: "if"
-NIV, NLT: "now that"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 q: (like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation...)
 p: (if you have tasted that the Lord is good)
+
+
+* ESV, NRSV: "if indeed"
+NASB: "if"
+NIV, NLT: "now that"
 
 
 ## Greek (SBLGNT)
@@ -15320,11 +16216,9 @@ There are various interpretations of where q starts. It could be argued that 2:1
 # 1Pe 2:19: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NLT: "when"
-NASB, NRSV, NIV: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
@@ -15335,6 +16229,10 @@ p: (if, being aware of God, you endure pain while suffering unjustly)
 NIV::
 q: (it is commendable)
 p: (if someone bears up under the pain of unjust suffering because they are conscious of God)
+
+
+* ESV, NLT: "when"
+NASB, NRSV, NIV: "if"
 
 
 ## Greek (SBLGNT)
@@ -15351,15 +16249,17 @@ Note that "being aware of God" (ESV "mindful of God") is parenthetical and is no
 # 1Pe 2:20a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 q: (what credit is it)
 p: (if, when you sin and you are beaten for it, you endure?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15376,15 +16276,17 @@ This conditional forms a contrastive pair with v.20b. Together these have a chia
 # 1Pe 2:20b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (but if when you do good and suffer for it you endure)
 q: (this is a gracious thing in the sight of God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15401,17 +16303,19 @@ See note on v.20a.
 # 1Pe 3:1: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Exhort
-* ESV, NASB, NRSV, NLT: "even if"
-NIV: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Exhort
 
 
 ## English
 so that 
 p: (even if some do not obey the word)
 q: (they may be won without a word by the conduct of their wives, when they see your respectful and pure conduct)
+
+
+* ESV, NASB, NRSV, NLT: "even if"
+NIV: "if"
 
 
 ## Greek (SBLGNT)
@@ -15428,15 +16332,17 @@ Greek: καὶ εἴ 'even if'; this is a "concessive conditional."
 # 1Pe 3:13: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 q: (who is there to harm you)
 p: (if you are zealous for what is good)?
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15453,15 +16359,17 @@ The entire conditional is a rhetorical question witth the assumed response being
 # 1Pe 3:14: Fourth Class Condition
 
 
-* Probability: Very Unlikely
-* Time Orientation: Present / Future
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "even if"
+* *Probability:* Very Unlikely
+* *Time Orientation:* Present / Future
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (but even if you should suffer for righteousness' sake)
 q: ([you will be] blessed)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -15480,16 +16388,18 @@ Boyer (1982b: 171) suggests that this could be an example of a class 4 condition
 # 1Pe 3:17: Fourth Class Condition
 
 
-* Probability: Unlikely
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Unlikely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 q: (for it is better to suffer for doing good...)
 p: (...if that should be God's will...)
 q: (...than for doing evil)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15507,17 +16417,19 @@ Boyer (1982b: 171) suggests that this could be an example of a class 4 condition
 # 1Pe 4:11a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV: "whoever"
-NIV: "if anyone"
-NLT: no conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (whoever speaks)
 q: (as one who speaks oracles of God)
+
+
+* ESV, NASB, NRSV: "whoever"
+NIV: "if anyone"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -15534,17 +16446,19 @@ Greek: εἴ τις 'if anyone'
 # 1Pe 4:11b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Command
-* ESV, NASB, NRSV: "whoever"
-NIV: "if anyone"
-NLT: no conditional
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (whoever serves)
 q: (as one who serves by the strength that God supplies)
+
+
+* ESV, NASB, NRSV: "whoever"
+NIV: "if anyone"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -15561,15 +16475,17 @@ Greek: εἴ τις 'if anyone'
 # 1Pe 4:14: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if you are insulted for the name of Christ)
 q: (you are blessed, because the Spirit of God rests upon you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15586,17 +16502,19 @@ In Greek "you" here is plural.
 # 1Pe 4:16: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional 
-(NIV and NLT have "if you suffer" in v.15)
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (yet if [anyone suffers] as a Christian)
 q: (let him not be ashamed, but let him glorify God in that name)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional 
+(NIV and NLT have "if you suffer" in v.15)
 
 
 ## Greek (SBLGNT)
@@ -15613,15 +16531,17 @@ In Greek there is no verb in p; the verb 'suffer' from v.15 is understood, so En
 # 1Pe 4:17b: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if it begins with us)
 q: (what will be the outcome for those who do not obey the gospel of God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15638,15 +16558,17 @@ q: (what will be the outcome for those who do not obey the gospel of God)
 # 1Pe 4:18: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if the righteous is scarcely saved)
 q: (what will become of the ungodly and the sinner?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15663,16 +16585,18 @@ Quoted from Proverbs 11:31
 # 2Pe 2:4-9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV: "if"
-NLT: no conditional
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (for if God did not spare angels when they sinned, but cast them into hell and committed them to chains of gloomy darkness to be kept until the judgment; if he did not spare the ancient world, but preserved Noah, a herald of righteousness, with seven others, when he brought a flood upon the world of the ungodly; if by turning the cities of Sodom and Gomorrah to ashes he condemned them to extinction, making them an example of what is going to happen to the ungodly; and if he rescued righteous Lot, greatly distressed by the sensual conduct of the wicked (for as that righteous man lived among them day after day, he was tormenting his righteous soul over their lawless deeds that he saw and heard)
 q: (then the Lod knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -15690,16 +16614,18 @@ Although this long sentence reminds the readers of events where God demonstrated
 # 2Pe 2:20: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "when"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (for if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome)
 q: (the last state has become worse for them than the first)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -15716,16 +16642,18 @@ This is classified as factual because v.19 states, "they themslves are slaves of
 # 1Jn 1:6: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
-(NLT partially inverts)
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
 p: (If we say we have fellowship with him while we walk in darkness)
 q: (we lie and do not practice the truth)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
+(NLT partially inverts)
 
 
 ## Greek (SBLGNT)
@@ -15743,15 +16671,17 @@ The conditionals in ch.1 form contrastive pairs: 1:6 "if we... walk in darkness"
 # 1Jn 1:7: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage / Argue
-* ESV, NASB, NRSV, NIV, NLT: "but if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage / Argue
 
 
 ## English
 p: (But if we walk in the light, as he is in the light) 
 q: (we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "but if"
 
 
 ## Greek (SBLGNT)
@@ -15768,15 +16698,17 @@ See note on 1:6.
 # 1Jn 1:8: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
 p: (If we say we have no sin) 
 q: (we deceive ourselves, and the truth is not in us.)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15794,16 +16726,18 @@ See note on 1:6. Runge (2010) writes:
 # 1Jn 1:9: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage / Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "but if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage / Argue
 
 
 ## English
 p: (If we confess our sins) 
 q: (he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "but if"
 
 
 ## Greek (SBLGNT)
@@ -15821,15 +16755,17 @@ Although q is encouraging, Haas et al. (1994) and Marshall (1978a) agree that p 
 # 1Jn 1:10: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Argue
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
 p: (If we say we have not sinned) 
 q: (we make him a liar, and his word is not in us.)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15848,15 +16784,17 @@ Quotative thesis 2 revisited. 1:8-10 form a chiasm.
 # 1Jn 2:1b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if anyone does sin) 
 q: (we have an advocate with the Father, Jesus Christ the righteous.)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15873,16 +16811,18 @@ Greek καὶ ἐάν sometimes expresses a "concessive conditional", but no maj
 # 1Jn 2:3: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 NIV:
 q: (We know that we have come to know him) 
 p: (if we keep his commands)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15901,17 +16841,19 @@ While the overall function of this conditional is to encourage, Haas et al. (199
 # 1Jn 2:15b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn / Argue
-* ESV, NASB, NIV: "if anyone"
-NRSV: "those who"
-NLT: "when"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn / Argue
 
 
 ## English
 p: (If anyone loves the world,) 
 q: (the love of the Father is not in him.)
+
+
+* ESV, NASB, NIV: "if anyone"
+NRSV: "those who"
+NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -15929,16 +16871,18 @@ John is not saying that loving the world causes a person not to love the Father 
 # 1Jn 2:19b: Second Class Condition
 
 
-* Probability: Non-factual
-* Time Orientation: Past
-* Illocutionary Force: Assert
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "otherwise"
+* *Probability:* Non-factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (if they had been of us,) 
 q: (they would have continued with us)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "otherwise"
 
 
 ## Greek (SBLGNT)
@@ -15955,15 +16899,17 @@ The context of 2:19a,c makes it clear that p is false.
 # 1Jn 2:24b: Third Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (If what you heard from the beginning abides in you,) 
 q: (then you too will abide in the Son and in the Father.)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -15981,16 +16927,18 @@ Smalley (1984) and Haas et al. (1994) note that the fronted pronoun ὑμεῖς
 # 1Jn 2:29: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (If you know that he is righteous,) 
 q: (you may be sure that everyone who practices righteousness has been born of him)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -16007,17 +16955,19 @@ In 2:1 John has stated that Jesus Christ is righteous, and so this conditional i
 # 1Jn 3:13: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present
-* Illocutionary Force: Encourage
-* ESV, NRSV: "that"
-NASB, NIV, NLT: "if"
+* *Probability:* Very Likely
+* *Time Orientation:* Present
+* *Illocutionary Force:* Encourage
 
 
 ## English
 NASB
 q: (Do not be surprised, brethren,) 
 p: (if the world hates you)
+
+
+* ESV, NRSV: "that"
+NASB, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -16034,13 +16984,9 @@ Smalley (1984) and Haas et al. (1994) argue that this is a factual conditional, 
 # 1 Jn 3:20: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NRSV: "whenever"
-NASB: "in whatever"
-NIV: "if"
-NLT: "even if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
@@ -16055,6 +17001,12 @@ or
 NRSV:
 q: (we will know that we are from the truth and will reassure our hearts before him)
 p: (whenever our hearts condemn us)
+
+
+* ESV, NRSV: "whenever"
+NASB: "in whatever"
+NIV: "if"
+NLT: "even if"
 
 
 ## Greek (SBLGNT)
@@ -16074,15 +17026,17 @@ Taken together, we feel that NIV and ESV provides the best models.
 # 1Jn 3:21: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if our heart does not condemn us)
 q: (we have confidence before God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -16099,16 +17053,18 @@ This conditional presents the alternative to v.20.
 # 1Jn 4:11: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Exhort
-* ESV, NASB: "if"
-NRSV, NIV, NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Exhort
 
 
 ## English
 p: (if God so loved us)
 q: (we also ought to love one another)
+
+
+* ESV, NASB: "if"
+NRSV, NIV, NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -16125,15 +17081,17 @@ P refers back to the past events described in 4:9-10 and so this is a factual co
 # 1Jn 4:12: Third Class Condition
 
 
-* Probability: Likely
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Likely
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Encourage
 
 
 ## English
 p: (if we love one another)
 q: (God abides in us and his love is perfected in us)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -16150,18 +17108,20 @@ This conditional follows from v.11 and assumes that the audience do in fact love
 # 1Jn 4:20: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Rebuke / Argue
-* ESV, "if anyone"
-NASB, NLT: "if someone"
-NRSV: "those who"
-NIV: "whoever"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Rebuke / Argue
 
 
 ## English
 p: (If anyone says, “I love God,” and hates his brother)
 q: (he is a liar)
+
+
+* ESV, "if anyone"
+NASB, NLT: "if someone"
+NRSV: "those who"
+NIV: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -16178,17 +17138,19 @@ Greek: ἐάν τις 'if anyone'.
 # 1Jn 5:9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Argue
-* ESV, NASB, NRSV: "if"
-NIV: rephrased as statement
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Argue
 
 
 ## English
 p: (If we receive the testimony of men)
 q: (the testimony of God is greater)
+
+
+* ESV, NASB, NRSV: "if"
+NIV: rephrased as statement
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -16205,16 +17167,18 @@ Stott (1988) states that the background for this verse is the Jewish practice of
 # 1Jn 5:14b: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Promise
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "whenever"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Promise
 
 
 ## English
 p: (if we ask anything according to his will)
 q: (he hears us.)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "whenever"
 
 
 ## Greek (SBLGNT)
@@ -16231,16 +17195,18 @@ This conditional is very similar to John 14:14. The Greek word τι 'anything' i
 # 1Jn 5:15a: (Unspecified) Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV: "if"
-NLT: "since"
+* *Probability:* Factual
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if we know that he hears us in whatever we ask)
 q: (we know that we have the requests that we have asked of him)
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: "since"
 
 
 ## Greek (SBLGNT)
@@ -16259,15 +17225,17 @@ The Greek of this construction is slightly unusual because it employs ἐὰν +
 # 1Jn 5:16: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Assert / Exhort
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Assert / Exhort
 
 
 ## English
 p: (If anyone sees his brother committing a sin not leading to death)
 q: (he shall ask, and God will give him life—to those who commit sins that do not lead to death)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -16284,16 +17252,18 @@ The Greek ἐάν τις 'if anyone' is followed by an the verb αἰτήσει 
 # 2Jn 1:10: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Command
-* ESV, NASB, NIV, NLT: "if"
-NRSV: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (If anyone comes to you and does not bring this teaching,)
 q: (do not receive him into your house or give him any greeting)
+
+
+* ESV, NASB, NIV, NLT: "if"
+NRSV: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -16311,16 +17281,18 @@ Smalley (1984) points out that the NT as a whole and the apostle John in particu
 # 3Jn 1:10: Third Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV: "if"
-NIV, NLT: "when"
+* *Probability:* Factual
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if I come,) 
 q: (I will bring up what he is doing, talking wicked nonsense against us)
+
+
+* ESV, NASB, NRSV: "if"
+NIV, NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -16337,16 +17309,18 @@ Smalley (1984), Haas et al. (1994), Persson (2000), and Marshall (1978a) argue t
 # Rev 2:5b: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NRSV, NIV, NLT: "if...not"
-NASB: "or else"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if not)
 q: (I will come to you and remove your lampstand from its place)
+
+
+* ESV, NRSV, NIV, NLT: "if...not"
+NASB: "or else"
 
 
 ## Greek (SBLGNT)
@@ -16365,16 +17339,18 @@ Both condtionals in v.5 share the same q. The p of v.5b comes before q, and the 
 # Rev 2:5c: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV: "unless"
-NIV, NLT: untranslated (in 2.5b)
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 q: (I will come to you and remove your lampstand from its place)
 p: (unless you repent)
+
+
+* ESV, NASB, NRSV: "unless"
+NIV, NLT: untranslated (in 2.5b)
 
 
 ## Greek (SBLGNT)
@@ -16392,18 +17368,20 @@ See note on 2.5b. Because NIV and NLT have "If you do not repent" in 2.5b, they 
 # Rev 2:16: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NRSV: "if not"
-NASB: "or else"
-NIV: "otherwise"
-NLT: "or"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if not)
 q: (I will come to you soon and war against them with the sword of my mouth)
+
+
+* ESV, NRSV: "if not"
+NASB: "or else"
+NIV: "otherwise"
+NLT: "or"
 
 
 ## Greek (SBLGNT)
@@ -16421,15 +17399,17 @@ This phrase presents the alternative to 'repent' in the previous clause (similar
 # Rev 2:22: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "unless"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 q: those who commit adultery with her I will throw into great tribulation)
 p: (unless they repent of her works)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -16447,16 +17427,18 @@ V.21 mentions 'repent' twice, so "unless they repent of her deeds" is meant to r
 # Rev 3:3: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if... not"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 NASB:
 p: (if you do not wake up) [ESV: if you will not wake up]
 q: (I will come like a thief, and you will not know at what hour I will come to you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if... not"
 
 
 ## Greek (SBLGNT)
@@ -16473,15 +17455,17 @@ Greek: ἐὰν μὴ 'unless' (i.e. 'if not')
 # Rev 3:20: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Promise
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Promise
 
 
 ## English
 p: (If anyone hears my voice and opens the door)
 q: (I will come in to him and eat with him, and him with me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -16498,10 +17482,9 @@ There is a promise in q, but also an implied exhortation to "open the door" in p
 # Rev 11:5a: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if anyone"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -16510,13 +17493,12 @@ p: (if anyone wants to harm them)
 q: (fire flows out of their mouth and devours their enemies)
 
 
+* ESV, NASB, NRSV, NIV, NLT: "if anyone"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἴ τις αὐτοὺς θέλει ἀδικῆσαι
 * _q1_: πῦρ ἐκπορεύεται ἐκ τοῦ στόματος αὐτῶν καὶ κατεσθίει τοὺς ἐχθροὺς αὐτῶν
-
-
-## Notes
-
 
 
 ----------------
@@ -16524,17 +17506,19 @@ q: (fire flows out of their mouth and devours their enemies)
 # Rev 11:5b: (Unspecified) Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB: "if anyone"
-NRSV, NIV, NLT: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 NASB:
 p: (If anyone wants to harm them)
 q: (he must be killed in this way)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NIV, NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -16551,17 +17535,19 @@ Greek: ει + subjunctive
 # Rev 13:9: First Class Condition
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB: "if anyone"
-NRSV, NLT: "anyone (who)" 
-NIV: "whoever"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if anyone has an ear)
 q: (let him hear)
+
+
+* ESV, NASB: "if anyone"
+NRSV, NLT: "anyone (who)" 
+NIV: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -16578,17 +17564,19 @@ Similar to the commandment given to each of the seven churches (2:7, 11, 17, 29;
 # Rev 13:10a: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present / Future
-* Illocutionary Force: Warn
-* ESV, NASB, NIV: "if anyone"
-NRSV: "if you"
-NLT: "anyone who"
+* *Probability:* Very Likely
+* *Time Orientation:* Present / Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone is to be taken captive)
 q: (to captivity he goes)
+
+
+* ESV, NASB, NIV: "if anyone"
+NRSV: "if you"
+NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -16605,17 +17593,19 @@ Quoted from Isaiah 33:1, Jeremiah 15:2; 43:11; q restates and affirms p.
 # Rev 13:10b: First Class Condition
 
 
-* Probability: Very Likely
-* Time Orientation: Present / Future
-* Illocutionary Force: Warn
-* ESV, NASB, NIV: "if anyone"
-NRSV: "if you"
-NLT: "anyone"
+* *Probability:* Very Likely
+* *Time Orientation:* Present / Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone is to be slain with the sword)
 q: (with the sword must he be slain)
+
+
+* ESV, NASB, NIV: "if anyone"
+NRSV: "if you"
+NLT: "anyone"
 
 
 ## Greek (SBLGNT)
@@ -16632,13 +17622,9 @@ The NASB and NRSV translate p as an active statement ("if anyone kills") rather 
 # Rev 13:17: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Assert
-* ESV, NIV: "unless"
-NASB: "except"
-NRSV: "who does not" 
-NLT: "without"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Assert
 
 
 ## English
@@ -16648,6 +17634,12 @@ p: (unless he has the mark)
 NASB:
 p: (no one will be able to buy or to sell)
 q: (except the one who has the mark)
+
+
+* ESV, NIV: "unless"
+NASB: "except"
+NRSV: "who does not" 
+NLT: "without"
 
 
 ## Greek (SBLGNT)
@@ -16665,12 +17657,9 @@ Paraphrase (to avoid multiple negatives in languages without 'unless' or 'except
 # Rev 14:9-10: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NIV: "if anyone"
-NRSV: "those who"
-NLT: "anyone who"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -16678,13 +17667,14 @@ p: (if anyone worships the beast and its image and receives a mark on his forehe
 q: (he also will drink the wine of God's wrath...)
 
 
+* ESV, NASB, NIV: "if anyone"
+NRSV: "those who"
+NLT: "anyone who"
+
+
 ## Greek (SBLGNT)
 * _p1_: Εἴ τις προσκυνεῖ τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ καὶ λαμβάνει χάραγμα ἐπὶ τοῦ μετώπου αὐτοῦ ἢ ἐπὶ τὴν χεῖρα αὐτοῦ
 * _q1_: καὶ αὐτὸς πίεται ἐκ τοῦ οἴνου τοῦ θυμοῦ τοῦ θεοῦ τοῦ κεκερασμένου ἀκράτου ἐν τῷ ποτηρίῳ τῆς ὀργῆς αὐτοῦ καὶ βασανισθήσεται ἐν πυρὶ καὶ θείῳ ἐνώπιον ἀγγέλων ἁγίων καὶ ἐνώπιον τοῦ ἀρνίου
-
-
-## Notes
-
 
 
 ----------------
@@ -16692,11 +17682,9 @@ q: (he also will drink the wine of God's wrath...)
 # Rev 20:15: First Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB: "if anyone's name"
-NRSV, NIV, NLT: "anyone whose name"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
@@ -16704,13 +17692,13 @@ p: (and if anyone's name was not found written in the book of life)
 q: (he was thrown in to the lake of fire)
 
 
+* ESV, NASB: "if anyone's name"
+NRSV, NIV, NLT: "anyone whose name"
+
+
 ## Greek (SBLGNT)
 * _p1_: καὶ εἴ τις οὐχ εὑρέθη ἐν τῇ βίβλῳ τῆς ζωῆς γεγραμμένος
 * _q1_: ἐβλήθη εἰς τὴν λίμνην τοῦ πυρός
-
-
-## Notes
-
 
 
 ----------------
@@ -16718,15 +17706,17 @@ q: (he was thrown in to the lake of fire)
 # Rev 22:18: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if anyone"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if anyone adds to them)
 q: (God will add to him the plagues described in this book)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if anyone"
 
 
 ## Greek (SBLGNT)
@@ -16743,15 +17733,17 @@ The conditionals in 22:18-19 together warn of the consequences of changing anyth
 # Rev 22:19: Third Class Condition
 
 
-* Probability: Neutral
-* Time Orientation: Future
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if anyone"
+* *Probability:* Neutral
+* *Time Orientation:* Future
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (and if anyone takes away from the words of the book of this prophecy)
 q: (God will take away his share in the tree of life and in the holy city, which are described in this book)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if anyone"
 
 
 ## Greek (SBLGNT)

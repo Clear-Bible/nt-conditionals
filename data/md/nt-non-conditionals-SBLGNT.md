@@ -3,14 +3,16 @@
 # Matt 5:13b: Non-Conditional
 
 
-* ESV, NASB, NIV: "except"
-NRSV: "It is no longer good for anything, but is thrown out and trampled under foot."
-NLT similar to NRSV but exceptive clause is lost
 
 
 ## English
 q: (it is no longer good for anything)
 p: (except to be thrown out and trampled under people's feet)
+
+
+* ESV, NASB, NIV: "except"
+NRSV: "It is no longer good for anything, but is thrown out and trampled under foot."
+NLT similar to NRSV but exceptive clause is lost
 
 
 ## Greek (SBLGNT)
@@ -27,9 +29,6 @@ Greek: ει μη 'except'
 # Matt 5:19: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whoever..."
-NIV: "anyone who"
-NLT: "if you"
 
 
 ## English
@@ -37,6 +36,11 @@ NLT:
 p: (if you ignore the least commandment
 and teach others to do the same)
 q: (you will be called least in the Kingdom of Heaven)
+
+
+* ESV, NASB, NRSV: "whoever..."
+NIV: "anyone who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -54,13 +58,15 @@ This verse (and also Mat 12:32; 16:25; 18:5-6; 20:26-27) compares two different 
 # Matt 5:32: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whoever"
-NIV, NLT: "anyone who"
 
 
 ## English
 p: (whoever marries a divorced woman)
 q: (commits adultery)
+
+
+* ESV, NASB, NRSV: "whoever"
+NIV, NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -77,16 +83,18 @@ Greek: ος εαν 'whoever'
 # Matt 7:12: Non-Conditional
 
 
-* ESV: "whatever"
-NASB: "in everything...treat people the same way..."
-NRSV: "In everything do to others as you would have them do to you"
-NIV: similar to NRSV
-NLT: p and q inverted, "whatever"
 
 
 ## English
 p: (so whatever you wish that others would do to you)
 q: (do also to them)
+
+
+* ESV: "whatever"
+NASB: "in everything...treat people the same way..."
+NRSV: "In everything do to others as you would have them do to you"
+NIV: similar to NRSV
+NLT: p and q inverted, "whatever"
 
 
 ## Greek (SBLGNT)
@@ -103,12 +111,14 @@ Greek: ὅσα ἐὰν. Here ἐὰν is used to mean "whatever." This word is 
 # Matt 8:19: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## English
 q: ("Teacher, I will follow you)
 p: (wherever you go")
+
+
+* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## Greek (SBLGNT)
@@ -125,15 +135,17 @@ Greek: ὅπου ἐὰν. This phrase is translated together as 'wherever'. (Se
 # Matt 11:6: Non-Conditional
 
 
-* ESV: "the one who"
-NASB: "he *who" with textual note at *lit. whoever 
-NRSV, NIV: "anyone who"
-NLT: "those who"
 
 
 ## English
 q: (And blessed is the one)
 p: (who is not offended by me)
+
+
+* ESV: "the one who"
+NASB: "he *who" with textual note at *lit. whoever 
+NRSV, NIV: "anyone who"
+NLT: "those who"
 
 
 ## Greek (SBLGNT)
@@ -150,12 +162,14 @@ Greek: ος εαν 'whoever'
 # Matt 11:27a: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (and no one knows the Son)
 p: (except the Father)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -172,12 +186,14 @@ Greek: εἰ μὴ 'except'
 # Matt 11:27b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (and no one knows the Father)
 p: (except the Son)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -194,12 +210,14 @@ Greek: εἰ μὴ 'except'
 # Matt 11:27c: Non-Conditional
 
 
-* ESV, NASB, NRSV: "anyone to whom"
-NIV, NLT: "those to whom"
 
 
 ## English
 and to anyone to whom the Son chooses to reveal him
+
+
+* ESV, NASB, NRSV: "anyone to whom"
+NIV, NLT: "those to whom"
 
 
 ## Greek (SBLGNT)
@@ -215,13 +233,15 @@ Greek: ᾧ ἐὰν
 # Matt 12:4: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "but only"
-NLT: untranslated ("that only")
 
 
 ## English
 q: (how he entered the house of God and ate the bread of the Presence, which it was not lawful for him to eat nor for those who were with him)
 p: (but only for the priests)
+
+
+* ESV, NASB, NRSV, NIV: "but only"
+NLT: untranslated ("that only")
 
 
 ## Greek (SBLGNT)
@@ -238,11 +258,13 @@ Greek: εἰ μὴ 'except', 'only'
 # Matt 12:10: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: use direct quotation and do not translate the particle
 
 
 ## English
 And they asked him "Is it lawful to heal on the Sabbath?"
+
+
+* ESV, NASB, NRSV, NIV, NLT: use direct quotation and do not translate the particle
 
 
 ## Greek (SBLGNT)
@@ -258,13 +280,15 @@ Elliot lists this verse as a prime example of introducing direct speech, ει se
 # Matt 12:24: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated ("only by Beelzebul...")
 
 
 ## English
 Our own translation, in order to reflect the Greek structure:
 q: (This one does not cast out demons)
 p: (except by Beelzebul, ruler of demons)
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated ("only by Beelzebul...")
 
 
 ## Greek (SBLGNT)
@@ -281,13 +305,15 @@ Greek: εἰ μὴ 'except', 'only'
 # Matt 12:32: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whoever"
-NIV, NLT: "anyone who..."
 
 
 ## English
 p: (and whoever speaks a word against the Son of Man)
 q: (will be forgiven)
+
+
+* ESV, NASB, NRSV: "whoever"
+NIV, NLT: "anyone who..."
 
 
 ## Greek (SBLGNT)
@@ -305,14 +331,16 @@ See note on 5:19.
 # Matt 12:39: Non-Conditional
 
 
-* ESV, NRSV, NIV: "except"
-NASB: "but"
-NLT: "but the only"
 
 
 ## English
 q: (but no sign will be given to it)
 p: (except the sign of the prophet Jonah)
+
+
+* ESV, NRSV, NIV: "except"
+NASB: "but"
+NLT: "but the only"
 
 
 ## Greek (SBLGNT)
@@ -329,12 +357,14 @@ Greek: εἰ μὴ 'except'
 # Matt 13:57: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (a prophet is not without honour)
 p: (except in his hometown and in his own household)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -351,12 +381,14 @@ Greek: εἰ μὴ 'except'
 # Matt 14:7: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whatever"
-NLT: "anything"
 
 
 ## English
 so he promised with an oath to give her whatever she might ask
+
+
+* ESV, NASB, NRSV, NIV: "whatever"
+NLT: "anything"
 
 
 ## Greek (SBLGNT)
@@ -372,12 +404,14 @@ Greek:  ὃ ἐὰν
 # Matt 14:17: Non-Conditional
 
 
-* NASB, NIV, NLT, all similar to ESV: "We have here only..."
-NRSV: "We have nothing here but..."
 
 
 ## English
 we have only five loaves here and two fish
+
+
+* NASB, NIV, NLT, all similar to ESV: "We have here only..."
+NRSV: "We have nothing here but..."
 
 
 ## Greek (SBLGNT)
@@ -393,12 +427,14 @@ Greek: εἰ μὴ 'except'
 # Matt 15:5: Non-Conditional
 
 
-* ESV, NIV, NLT: "what"
-NASB, NRSV: "whatever"
 
 
 ## English
 But you say "If anyone tells his father or his mother 'What you would have gained from me is given to God' he need not honour his father"
+
+
+* ESV, NIV, NLT: "what"
+NASB, NRSV: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -414,11 +450,13 @@ Greek:  ὃ ἐὰν
 # Matt 15:24: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated ("only")
 
 
 ## English
 I was sent only to the lost sheep of the house of Israel
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -434,12 +472,14 @@ Greek: εἰ μὴ
 # Matt 16:19a: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (whatever you bind on earth)
 q: (shall be bound in heaven)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -456,12 +496,14 @@ Greek: ὃ ἐὰν
 # Matt 16:19b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (and whatever you loose on earth)
 q: (shall be loosed in heaven)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -478,14 +520,16 @@ Greek: ὃ ἐὰν
 # Matt 16:25: Non-Conditional
 
 
-* ESV, NASB, NIV: "whoever"
-NRSV: "those who"
-NLT: "if you"
 
 
 ## English
 p: (for whoever would save his life)
 q: (will lose it)
+
+
+* ESV, NASB, NIV: "whoever"
+NRSV: "those who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -503,14 +547,16 @@ See note on 5:19.
 # Matt 17:8: Non-Conditional
 
 
-* ESV: "no one but Jesus only"
-NASB, NRSV, NIV: "no one except Jesus (HImself alone)"
-NLT: untranslated ("only")
 
 
 ## English
 q: (they saw no one)
 p: (but Jesus only)
+
+
+* ESV: "no one but Jesus only"
+NASB, NRSV, NIV: "no one except Jesus (HImself alone)"
+NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -527,13 +573,15 @@ Greek: εἰ μὴ 'except'
 # Matt 18:5: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whoever"
-NLT: "anyone who"
 
 
 ## English
 p: (Whoever receives one such child in my name)
 q: (receives me)
+
+
+* ESV, NASB, NRSV, NIV: "whoever"
+NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -551,12 +599,14 @@ See note on 5:19.
 # Matt 18:18a: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (whatever you bind on earth)
 q: (shall be bound in heaven)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -573,12 +623,14 @@ Greek: ὃ ἐὰν
 # Matt 18:18b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (and whatever you loose on earth)
 q: (shall be loosed in heaven)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -595,11 +647,13 @@ Greek: ὃ ἐὰν
 # Matt 18:19b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "anything"
 
 
 ## English
 ...anything they ask
+
+
+* ESV, NASB, NRSV, NIV, NLT: "anything"
 
 
 ## Greek (SBLGNT)
@@ -615,13 +669,15 @@ Greek: ὃ ἐὰν
 # Matt 18:28: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "what"
-NLT: untranslated (reported speech is paraphrased)
 
 
 ## English
 q: (repay)
 p: (what you owe)
+
+
+* ESV, NASB, NRSV, NIV: "what"
+NLT: untranslated (reported speech is paraphrased)
 
 
 ## Greek (SBLGNT)
@@ -638,11 +694,13 @@ Greek: εἴ τι 'if anything' or 'whatever'
 # Matt 19:3: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated (direct quotations used)
 
 
 ## English
 "Is it lawful to divorce one's wife for any cause?"
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated (direct quotations used)
 
 
 ## Greek (SBLGNT)
@@ -658,12 +716,14 @@ This usage of εἰ is not conditional but is the marker of a Yes/No question in
 # Matt 20:4: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (and whatever is right)
 q: (I will give to you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -680,12 +740,14 @@ Greek: ὃ ἐὰν
 # Matt 20:26: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whoever"
 
 
 ## English
 p: (but whoever would be great among you)
 q: (must be your servant)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whoever"
 
 
 ## Greek (SBLGNT)
@@ -703,13 +765,15 @@ See note on 5:19.
 # Matt 21:19: Non-Conditional
 
 
-* ESV, NRSV, NLT: "but (only)"
-NASB, NIV: "except"
 
 
 ## English
 q: (and found nothing on it)
 p: (but only leaves)
+
+
+* ESV, NRSV, NLT: "but (only)"
+NASB, NIV: "except"
 
 
 ## Greek (SBLGNT)
@@ -726,13 +790,15 @@ Greek: ει μη; see note at 12:39.
 # Matt 22:9: Non-Conditional
 
 
-* ESV, NASB: "as many as"
-NRSV, NLT: "everyone"
-NIV: "anyone"
 
 
 ## English
 Go therefore to the main roads and invite to the wedding feast as many as you find
+
+
+* ESV, NASB: "as many as"
+NRSV, NLT: "everyone"
+NIV: "anyone"
 
 
 ## Greek (SBLGNT)
@@ -748,14 +814,16 @@ Osbourne notes that the Greek here, ὅσους ἐὰν is an idiom for "any pe
 # Matt 23:3: Non-Conditional
 
 
-* ESV, NRSV, NLT: "whatever"
-NASB: "all"
-NIV: "everything"
 
 
 ## English
 q: (so do and observe)
 p: (whatever they tell you)
+
+
+* ESV, NRSV, NLT: "whatever"
+NASB: "all"
+NIV: "everything"
 
 
 ## Greek (SBLGNT)
@@ -773,12 +841,14 @@ As noted on 22:9, Osbourne takes this phrase as an idiomatic expression. He says
 # Matt 24:24: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "if possible"
 
 
 ## English
 p: (if possible)
 q: (to lead astray the elect)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if possible"
 
 
 ## Greek (SBLGNT)
@@ -795,8 +865,6 @@ See "if possible" constructions. A possible paraphrase is: "If it were possible 
 # Matt 24:28: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "wherever"
-NLT: untranslated/"nearby"
 
 
 ## English
@@ -804,13 +872,13 @@ p: (wherever the corpse is)
 q: (there the vultures will gather)
 
 
+* ESV, NASB, NRSV, NIV: "wherever"
+NLT: untranslated/"nearby"
+
+
 ## Greek (SBLGNT)
 * _p1_: ὅπου ἐὰν ᾖ τὸ πτῶμα
 * _q1_: ἐκεῖ συναχθήσονται οἱ ἀετοί
-
-
-## Notes
-
 
 
 ----------------
@@ -818,13 +886,15 @@ q: (there the vultures will gather)
 # Matt 24:36: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "but (only/alone)"
-NLT: untranslated ("only")
 
 
 ## English
 q: (but concerning that day and hour no one knows, not even the angels of heaven, nor the Son)
 p: (but the Father only)
+
+
+* ESV, NASB, NRSV, NIV: "but (only/alone)"
+NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -841,12 +911,14 @@ Greek: εἰ μὴ 'except'
 # Matt 26:13: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## English
 p: (wherever this gospel is proclaimed in the whole world)
 q: (what she has done will also be told in memory of her)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## Greek (SBLGNT)
@@ -863,12 +935,14 @@ Greek: ὅπου ἐὰν. This phrase is translated together as "wherever". (Se
 # Matt 26:39: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "if...possible"
 
 
 ## English
 p: (if it be possible)
 q: (let this cup pass from me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if...possible"
 
 
 ## Greek (SBLGNT)
@@ -886,8 +960,6 @@ See "if possible" constructions.
 # Matt 26:63: Non-Conditional
 
 
-* ESV, NRSV, NIV, NLT: "if"
-NASB: "whether"
 
 
 ## English
@@ -895,13 +967,13 @@ q: (tell us)
 p: (if you are the Christ, the Son of God)
 
 
+* ESV, NRSV, NIV, NLT: "if"
+NASB: "whether"
+
+
 ## Greek (SBLGNT)
 * _q1_: ἡμῖν εἴπῃς
 * _p1_: εἰ σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ
-
-
-## Notes
-
 
 
 ----------------
@@ -909,13 +981,15 @@ p: (if you are the Christ, the Son of God)
 # Matt 27:49: Non-Conditional
 
 
-* ESV, NASB, NRSV, NLT: "whether"
-NIV: "if"
 
 
 ## English
 q: (let us see)
 p: (whether Elijah will come to save him)
+
+
+* ESV, NASB, NRSV, NLT: "whether"
+NIV: "if"
 
 
 ## Greek (SBLGNT)
@@ -932,14 +1006,16 @@ This non-conditional functions as a complementizer.
 # Mark 2:7: Non-Conditional
 
 
-* ESV, NRSV, NIV: "but God alone"
-NASB "*but God alone" with textual note at *lit. if not one, God
-NLT: untranslated ("only God")
 
 
 ## English
 q: (who can forgive sins)
 p: (but God alone?)
+
+
+* ESV, NRSV, NIV: "but God alone"
+NASB "*but God alone" with textual note at *lit. if not one, God
+NLT: untranslated ("only God")
 
 
 ## Greek (SBLGNT)
@@ -956,14 +1032,16 @@ Greek: εἰ μὴ 'except'. Same wording as Mark 10:18.
 # Mark 2:26: Non-Conditional
 
 
-* ESV, NRSV: "any but the priests"
-NASB: "except the priests"
-NIV, NLT: untranslated ("only [for] the priests")
 
 
 ## English
 q: (which it is not lawful)
 p: (for any but the priests to eat)
+
+
+* ESV, NRSV: "any but the priests"
+NASB: "except the priests"
+NIV, NLT: untranslated ("only [for] the priests")
 
 
 ## Greek (SBLGNT)
@@ -980,12 +1058,14 @@ Greek: εἰ μὴ 'except'
 # Mark 3:2: Non-Conditional
 
 
-* ESV, NRSV: "whether"
-NASB, NIV, NLT: "if"
 
 
 ## English
 And they watched Jesus to see whether he would heal him on the Sabbath, so that they might accuse him.
+
+
+* ESV, NRSV: "whether"
+NASB, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1001,13 +1081,15 @@ This is non-conditional because the εἰ clause is subordinate to the preceding
 # Mark 3:28: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whatever"
-NIV, NLT: untranslated
 
 
 ## English
 q: (all sins will be forgiven the children of man)
 p: (and whatever blasphemies they utter)
+
+
+* ESV, NASB, NRSV: "whatever"
+NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -1024,14 +1106,16 @@ Greek: ὅσα ἐὰν 'whatever'
 # Mark 4:22: Non-Conditional
 
 
-* ESV, NASB, NRSV: "except"
-NIV: "whatever"
-NLT: untranslated
 
 
 ## English
 q: (for nothing is hidden)
 q: (except to be made manifest)
+
+
+* ESV, NASB, NRSV: "except"
+NIV: "whatever"
+NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -1052,12 +1136,14 @@ NLT: For everything that is hidden will eventually be brought into the open, and
 # Mark 5:37: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (and he allowed no one to follow him)
 p: (except Peter and James and John the brother of James)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -1074,12 +1160,14 @@ Greek: εἰ μὴ 'except'
 # Mark 6:4: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (a prophet is not without honour)
 p: (except in his hometown and among his relatives and in his own household)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -1096,12 +1184,14 @@ Greek: εἰ μὴ 'except'
 # Mark 6:5: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (and he could do no mighty work there)
 p: (except that he laid his hands on a few sick people and healed them)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -1118,12 +1208,14 @@ Greek: εἰ μὴ 'except'
 # Mark 6:8: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (he charged them to take nothing for their journey)
 p: (except a staff)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -1140,13 +1232,15 @@ Greek: εἰ μὴ 'except'
 # Mark 6:10: Non-Conditional
 
 
-* ESV, NIV: "whenever"
-NASB, NRSV, NLT: "wherever"
 
 
 ## English
 p: (whenever you enter a house)
 q: (stay there until you depart)
+
+
+* ESV, NIV: "whenever"
+NASB, NRSV, NLT: "wherever"
 
 
 ## Greek (SBLGNT)
@@ -1163,13 +1257,15 @@ Greek: Ὅπου ἐὰν 'wherever'
 # Mark 6:22: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whatever"
-NIV, NLT: "anything"
 
 
 ## English
 p: (ask me whatever you wish)
 p: (and I will give it to you)
+
+
+* ESV, NASB, NRSV: "whatever"
+NIV, NLT: "anything"
 
 
 ## Greek (SBLGNT)
@@ -1186,12 +1282,14 @@ Greek: ὃ ἐὰν 'whatever'
 # Mark 6:23: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (whatever you ask me)
 q: (I will give you, up to half my kingdom)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -1208,12 +1306,14 @@ Greek: Ὅ ἐάν 'whatever'
 # Mark 7:11b: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whatever"
-NIV, NLT: "what"
 
 
 ## English
 Whatever you would have gained from me is Corban.
+
+
+* ESV, NASB, NRSV: "whatever"
+NIV, NLT: "what"
 
 
 ## Greek (SBLGNT)
@@ -1229,8 +1329,6 @@ Greek: ὃ ἐὰν 'whatever'
 # Mark 8:12b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: negative assertion, untranslated conditional 
-ESV: "no sign will be given"
 
 
 ## English
@@ -1238,6 +1336,10 @@ No sign will be given to this generation.
 Lit: 
 p: (If will be given to this generation a sign.)
 q: missing
+
+
+* ESV, NASB, NRSV, NIV, NLT: negative assertion, untranslated conditional 
+ESV: "no sign will be given"
 
 
 ## Greek (SBLGNT)
@@ -1253,14 +1355,16 @@ This construction seems to be a Greek rendering of a frozen Hebrew oath form. It
 # Mark 8:14: Non-Conditional
 
 
-* ESV, NRSV, NLT: untranslated ("only")
-NIV: "except"
-NASB: "not...more than"
 
 
 ## English
 q: (now they had forgotten to bring bread)
 p: (and they only had one loaf with them in the boat)
+
+
+* ESV, NRSV, NLT: untranslated ("only")
+NIV: "except"
+NASB: "not...more than"
 
 
 ## Greek (SBLGNT)
@@ -1277,7 +1381,6 @@ Greek: εἰ μὴ 'except'
 # Mark 8:23b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: no conditional
 
 
 ## English
@@ -1285,6 +1388,9 @@ Do you see anything?
 Lit:
 p: (If anything you see?)
 q: missing
+
+
+* ESV, NASB, NRSV, NIV, NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -1300,9 +1406,6 @@ Greek: εἴ τι 'if anything'. There is no two-clause relationship; rather, th
 # Mark 8:35: Non-Conditional
 
 
-* ESV, NASB, NIV: "whoever"
-NRSV: "those who"
-NLT: "if" (both clauses in the verse translated as conditionals, despite Greek lacking a conditional particle)
 
 
 ## English
@@ -1310,6 +1413,11 @@ p1: (whoever would save his life
 q1: (will lose it)
 p2: (whoever loses his life for my sake and the gospel’s)
 q2: (will save it)
+
+
+* ESV, NASB, NIV: "whoever"
+NRSV: "those who"
+NLT: "if" (both clauses in the verse translated as conditionals, despite Greek lacking a conditional particle)
 
 
 ## Greek (SBLGNT)
@@ -1329,14 +1437,16 @@ Translator's notes treats these as true conditionals.
 # Mark 8:38: Non-Conditional
 
 
-* ESV, NASB: "whoever"
-NRSV: "those who"
-NIV, NLT: "if anyone"
 
 
 ## English
 p: (whoever is ashamed of me and of my words in this adulterous and sinful generation) 
 q: (of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels)
+
+
+* ESV, NASB: "whoever"
+NRSV: "those who"
+NIV, NLT: "if anyone"
 
 
 ## Greek (SBLGNT)
@@ -1354,12 +1464,14 @@ Translator's notes treats it as a true conditional.
 # Mark 9:9: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "until"
 
 
 ## English
 q: (he charged them to tell no one what they had seen)
 p: (until the Son of Man had risen from the dead)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "until"
 
 
 ## Greek (SBLGNT)
@@ -1376,12 +1488,14 @@ Greek: εἰ μὴ ὅταν. This construction is closely related to the usage 
 # Mark 9:18: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whenever"
 
 
 ## English
 p: (whenever it seizes him)
 q: (it throws him down, and he foams and grinds his teeth and becomes rigid)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whenever"
 
 
 ## Greek (SBLGNT)
@@ -1398,13 +1512,15 @@ Greek: ὅπου ἐὰ 'whenever'
 # Mark 9:29: Non-Conditional
 
 
-* ESV, NASB: "but"
-NRSV, NIV, NLT: untranslated ("only")
 
 
 ## English
 q: (this kind cannot be driven our by anything)
 p: (but prayer)
+
+
+* ESV, NASB: "but"
+NRSV, NIV, NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -1422,13 +1538,15 @@ This may need to be translated as a conditional in some languages: "This kind ca
 # Mark 10:2: Non-Conditional
 
 
-* ESV, NRSV, NIV, NLT: direct speech with no conditional
-NASB: indirect speech, "whether"
 
 
 ## English
 Some Pharisees... began to question Him
 p: (whether it was lawful for a man to divorce a wife)
+
+
+* ESV, NRSV, NIV, NLT: direct speech with no conditional
+NASB: indirect speech, "whether"
 
 
 ## Greek (SBLGNT)
@@ -1445,14 +1563,16 @@ p: (whether it was lawful for a man to divorce a wife)
 # Mark 10:18: Non-Conditional
 
 
-* ESV, NASB, NIV: "except"
-NRSV: "but"
-NLT: untranslated ("only")
 
 
 ## English
 q: (no one is good)
 p: (except God alone)
+
+
+* ESV, NASB, NIV: "except"
+NRSV: "but"
+NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -1469,15 +1589,17 @@ Greek: εἰ μὴ 'except'
 # Mark 10:29-30: Non-Conditional
 
 
-* ESV, NRSV, NIV: "who"
-NASB: "but"
-NLT: uses positives: "everyone... will receive..."
 
 
 ## English
 q v.29: (there is no one who has left house or brothers or sisters or mother or father or children or farms, for My sake and for the gospel’s sake)
 p v.30: (but that he will receive a hundred times as much now in the present age, houses and brothers and sisters and mothers and children and farms, along with persecutions; and in the age to come, eternal life)
 NLT rephrases the two negatives as positives: "everyone who has given up...for my sake and for the Good News, will receive..."
+
+
+* ESV, NRSV, NIV: "who"
+NASB: "but"
+NLT: uses positives: "everyone... will receive..."
 
 
 ## Greek (SBLGNT)
@@ -1494,12 +1616,14 @@ Greek: ἐὰν μὴ 'except'
 # Mark 10:35: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 q: (Teacher, we want you to do for us)
 p: (whatever we ask of you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -1516,14 +1640,16 @@ Greek: ὃ ἐὰν 'whatever'
 # Mark 11:13a: Non-Conditional
 
 
-* ESV, NIV, NLT: "if"
-NASB: "if perhaps"
-NRSV: "whether"
 
 
 ## English
 And seeing in the distance a fig tree in leaf, he went to see
 p: (if he could find anything on it)
+
+
+* ESV, NIV, NLT: "if"
+NASB: "if perhaps"
+NRSV: "whether"
 
 
 ## Greek (SBLGNT)
@@ -1540,13 +1666,15 @@ Greek: εἰ ἄρα 'if perhaps'. Here εἰ introduces a purpose statement, an
 # Mark 11:13b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "nothing but leaves"
-NLT: "only leaves"
 
 
 ## English
 q: (he found nothing)
 p: (but leaves)
+
+
+* ESV, NASB, NRSV, NIV: "nothing but leaves"
+NLT: "only leaves"
 
 
 ## Greek (SBLGNT)
@@ -1563,13 +1691,15 @@ Greek: εἰ μὴ 'except'
 # Mark 13:11: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whatever"
-NLT: "what"
 
 
 ## English
 q: (but say)
 p: (whatever is given to you in that hour)
+
+
+* ESV, NASB, NRSV, NIV: "whatever"
+NLT: "what"
 
 
 ## Greek (SBLGNT)
@@ -1586,13 +1716,15 @@ Greek: ὃ ἐὰ 'whatever'
 # Mark 13:22: Non-Conditional
 
 
-* ESV, NASB, NRSV: "to lead astray, if possible..."
-NIV, NLT: "to deceive, if possible, even..."
 
 
 ## English
 q: (for false christs and false prophets will arise and perform signs and wonders to lead astray)
 p: (if possible, the elect)
+
+
+* ESV, NASB, NRSV: "to lead astray, if possible..."
+NIV, NLT: "to deceive, if possible, even..."
 
 
 ## Greek (SBLGNT)
@@ -1610,14 +1742,16 @@ See "if possible" constructions
 # Mark 13:32: Non-Conditional
 
 
-* ESV, NRSV, NIV: "but only"
-NASB: "but... alone"
-NLT: untranslated ("only")
 
 
 ## English
 q: (but concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son)
 p: (but only the Father)
+
+
+* ESV, NRSV, NIV: "but only"
+NASB: "but... alone"
+NLT: untranslated ("only")
 
 
 ## Greek (SBLGNT)
@@ -1634,12 +1768,14 @@ Greek: εἰ μὴ 'except'
 # Mark 14:9: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## English
 p: (wherever the gospel is proclaimed in the whole worlds)
 q: (what she has done will be told in memory of her)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## Greek (SBLGNT)
@@ -1656,13 +1792,15 @@ Greek: ὅπου ἐὰν 'wherever'. This non-conditional functions as a comple
 # Mark 14:14: Non-Conditional
 
 
-* ESV, NASB, NRSV: "wherever"
-NIV, NLT: untranslated
 
 
 ## English
 p: (and wherever he enters)
 q: (say to the master of the house, "The teacher says, Where is my guest room, where I may eat Passover with my disciples?")
+
+
+* ESV, NASB, NRSV: "wherever"
+NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -1679,12 +1817,14 @@ Greek: ὅπου ἐὰν 'wherever'
 # Mark 14:35: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "if...possible"
 
 
 ## English
 p: (if it were possible)
 q: (the hour might pass from him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if...possible"
 
 
 ## Greek (SBLGNT)
@@ -1703,13 +1843,15 @@ See also "if possible" constructions.
 # Mark 15:36: Non-Conditional
 
 
-* ESV, NASB, NRSV, NLT: "whether"
-NIV: "if"
 
 
 ## English
 wait, let us see
 p: (whether Elijah will come to take him down)
+
+
+* ESV, NASB, NRSV, NLT: "whether"
+NIV: "if"
 
 
 ## Greek (SBLGNT)
@@ -1726,13 +1868,15 @@ See note on Mark 10:2.
 # Mark 15:44: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whether"
-NIV, NLT: "if"
 
 
 ## English
 And summoning the centurion, he asked him
 p: (whether he was already dead)
+
+
+* ESV, NASB, NRSV: "whether"
+NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -1749,13 +1893,15 @@ See note on Mark 10:2.
 # Luke 4:6: Non-Conditional
 
 
-* ESV: "whom"
-NASB: "whomever"
-NRSV, NLT, NIV: "anyone"
 
 
 ## English
 To you I will give all this authority and their glory, for it has been delivered to me, and I will give it to whom I will.
+
+
+* ESV: "whom"
+NASB: "whomever"
+NRSV, NLT, NIV: "anyone"
 
 
 ## Greek (SBLGNT)
@@ -1771,15 +1917,17 @@ Greek: ᾧ ἐὰν 'hoever'
 # Luke 4:26: Non-Conditional
 
 
-* ESV, NASB: "but only"
-NRSV: "except"
-NIV: "but"
-NLT: "instead"
 
 
 ## English
 q: (and Elijah was sent to none of them)
 p: (but only to Zarephath, in the land of Sidon, to a woman who was a widow)
+
+
+* ESV, NASB: "but only"
+NRSV: "except"
+NIV: "but"
+NLT: "instead"
 
 
 ## Greek (SBLGNT)
@@ -1796,14 +1944,16 @@ Greek: εἰ μὴ 'except' is here better translated as "instead" or "but only"
 # Luke 4:27: Non-Conditional
 
 
-* ESV, NASB, NLT: "but (the) only"
-NRSV: "except"
-NIV: "only"
 
 
 ## English
 q: (and none of them was cleansed)
 p: (but only Naaman the Syrian)
+
+
+* ESV, NASB, NLT: "but (the) only"
+NRSV: "except"
+NIV: "only"
 
 
 ## Greek (SBLGNT)
@@ -1820,13 +1970,15 @@ See note at 4:26.
 # Luke 5:21: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "but God alone"
-NLT: untranslated ("only God")
 
 
 ## English
 q: (who can forgive sins)
 p: (but God alone?)
+
+
+* ESV, NASB, NRSV, NIV: "but God alone"
+NLT: untranslated ("only God")
 
 
 ## Greek (SBLGNT)
@@ -1843,14 +1995,16 @@ Greek: εἰ μὴ 'except'. Boyer notes that this is an example of a sub-type o
 # Luke 6:4: Non-Conditional
 
 
-* NASB: "except"
-ESV, NRSV: "but"
-NLT, NIV: untranslated
 
 
 ## English
 q: (which is not lawful for any)
 p: (but the priests to eat)
+
+
+* NASB: "except"
+ESV, NRSV: "but"
+NLT, NIV: untranslated
 
 
 ## Greek (SBLGNT)
@@ -1867,13 +2021,15 @@ Greek: εἰ μὴ 'except'.
 # Luke 6:7: Non-Conditional
 
 
-* ESV, NRSV: "whether"
-NASB, NIV: "if"
-NLT: "if" (uses prototypical conditional construction)
 
 
 ## English
 And the scribes and the Pharisees watched him, to see whether he would heal on the Sabbath.
+
+
+* ESV, NRSV: "whether"
+NASB, NIV: "if"
+NLT: "if" (uses prototypical conditional construction)
 
 
 ## Greek (SBLGNT)
@@ -1889,11 +2045,13 @@ The use of εἰ here does not connect two related clauses, but introduces a cla
 # Luke 6:9: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
 ## English
 I ask you, is it lawful on the Sabbath to do good or to do harm, to save a life or to destroy it?
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -1909,15 +2067,17 @@ In contrast to 6:7, in this verse εἰ introduces a direct question and states 
 # Luke 7:23: Non-Conditional
 
 
-* ESV: "the one who"
-NASB: "he *who" with textual note at *lit. whoever
-NIV, NRSV: "anyone who"
-NLT: "those who"
 
 
 ## English
 q: (and blessed is the one)
 p: (who is not offended by me)
+
+
+* ESV: "the one who"
+NASB: "he *who" with textual note at *lit. whoever
+NIV, NRSV: "anyone who"
+NLT: "those who"
 
 
 ## Greek (SBLGNT)
@@ -1935,12 +2095,14 @@ Here ὃς ἐὰν is the phrase that is functioning together as "who"/"whoever
 # Luke 8:51: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (he allowed no one to enter with him)
 p: (except Peter and John and James, and the father and mother of the child)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -1957,8 +2119,6 @@ Greek: εἰ μὴ 'except'.
 # Luke 9:48: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whoever"
-NLT: "anyone who"
 
 
 ## English
@@ -1967,6 +2127,10 @@ q: (receives me)
 
 p: (and whoever receives me)
 q: (receives the one who sent me)
+
+
+* ESV, NASB, NRSV, NIV: "whoever"
+NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -1986,12 +2150,14 @@ This verse (and also Luk 17:33) compares two different kinds of people. The firs
 # Luke 9:57: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## English
 q: (I will follow you)
 p: (wherever you go)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "wherever"
 
 
 ## Greek (SBLGNT)
@@ -2008,12 +2174,14 @@ p: (wherever you go)
 # Luke 10:22a: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (and no one knows who the Son is)
 p: (except the Father)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -2030,12 +2198,14 @@ Greek: εἰ μὴ 'except'
 # Luke 10:22b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (or who the Father is)
 p: (except the Son)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -2052,13 +2222,15 @@ Greek: εἰ μὴ 'except'
 # Luke 10:22c: Non-Conditional
 
 
-* ESV, NASB, NRSV: "anyone to whom"
-NIV, NLT: "those to whom"
 
 
 ## English
 q: (and anyone)
 p: (to whom the Son chooses to reveal him)
+
+
+* ESV, NASB, NRSV: "anyone to whom"
+NIV, NLT: "those to whom"
 
 
 ## Greek (SBLGNT)
@@ -2075,13 +2247,15 @@ p: (to whom the Son chooses to reveal him)
 # Luke 11:29: Non-Conditional
 
 
-* ESV, NRSV, NIV: "except"
-NASB, NLT: "but...(only)"
 
 
 ## English
 q: (but no sign will be given it)
 p: (except the sign of Jonah)
+
+
+* ESV, NRSV, NIV: "except"
+NASB, NLT: "but...(only)"
 
 
 ## Greek (SBLGNT)
@@ -2098,12 +2272,14 @@ Greek: εἰ μὴ 'except'.
 # Luke 12:49: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated
-NASB has a note: "Lit. what do I wish if...?"
 
 
 ## English
 I came to cast fire on the earth, and would that it were already kindled
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated
+NASB has a note: "Lit. what do I wish if...?"
 
 
 ## Greek (SBLGNT)
@@ -2119,11 +2295,13 @@ Marshall notes that this is a Semitism, θέλω εἰ meaning, ‘I wish that�
 # Luke 13:23: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
 ## English
 "Lord, will those who are saved be few?"
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2139,13 +2317,15 @@ Marshall notes that this is a Semitism, θέλω εἰ meaning, ‘I wish that�
 # Luke 14:28: Non-Conditional
 
 
-* ESV, NRSV: "whether"
-NASB, NIV, NLT: "if"
 
 
 ## English
 q: (for which of you, desiring to build a tower, does not first sit down and count the cost)
 p: (whether he had enough to complete it?)
+
+
+* ESV, NRSV: "whether"
+NASB, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2162,12 +2342,14 @@ The use of εἰ here does not connect two related clauses, but introduces an in
 # Luke 14:31: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
 ## English
 q: (or what king, going out to enounter another king in war, will not sit down first and deliberate)
 p: (whether he is able with ten thousand to meet him who comes against him with twenty thousand?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
 ## Greek (SBLGNT)
@@ -2184,12 +2366,14 @@ See note at 14:28.
 # Luke 17:18: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (was no one found to return and give praise to God)
 p: (except this foreigner?)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -2206,9 +2390,6 @@ Greek: εἰ μὴ 'except'
 # Luke 17:33: Non-Conditional
 
 
-* ESV, NASB, NIV: "whoever"
-NRSV: "those who"
-NLT: "if you"
 
 
 ## English
@@ -2217,6 +2398,11 @@ q: (will lose it)
 
 p: (but whoever loses his life)
 q: (will keep it)
+
+
+* ESV, NASB, NIV: "whoever"
+NRSV: "those who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -2236,14 +2422,16 @@ See note on 9:48.
 # Luke 18:19: Non-Conditional
 
 
-* ESV, NASB, NIV: "except"
-NRSV: "but"
-NLT: untranslated
 
 
 ## English
 q: (no one is good)
 p: (except God alone)
+
+
+* ESV, NASB, NIV: "except"
+NRSV: "but"
+NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2260,15 +2448,17 @@ Greek: εἰ μὴ 'except'
 # Luke 19:42: Non-Conditional
 
 
-* ESV: "would that..."
-NASB, NRSV, NIV: "if...(only)"
-NLT: "how I wish..."
 
 
 ## English
 NASB:
 p: (If you had known this day, even you, the things which make for peace)
 q: [elided]
+
+
+* ESV: "would that..."
+NASB, NRSV, NIV: "if...(only)"
+NLT: "how I wish..."
 
 
 ## Greek (SBLGNT)
@@ -2284,11 +2474,13 @@ This is not a true conditional, as there is no q. Some English translations use 
 # Luke 22:49: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
 ## English
 And when those who were around him saw what would follow, they said "Lord, shall we strike with the sword?"
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2304,14 +2496,16 @@ The question in Greek begins with εἰ which usually indicates that the questio
 # Luke 23:06: Non-Conditional
 
 
-* NASB, ESV, RSV:  "whether"
-NIV: "if"
-NLT: untranslated, direct quotation
 
 
 ## English
 q: (he asked)
 p: (whether the man was a Galilean)
+
+
+* NASB, ESV, RSV:  "whether"
+NIV: "if"
+NLT: untranslated, direct quotation
 
 
 ## Greek (SBLGNT)
@@ -2328,13 +2522,15 @@ The use of εἰ here does not connect two related clauses, but introduces an in
 # John 3:13: Non-Conditional
 
 
-* ESV, NRSV, NIV: "except"
-NASB, NLT: "but"
 
 
 ## English
 q: (no one has ascended into heaven)
 p: (except he who descended from heaven, the Son of Man)
+
+
+* ESV, NRSV, NIV: "except"
+NASB, NLT: "but"
 
 
 ## Greek (SBLGNT)
@@ -2352,14 +2548,16 @@ Trail notes on this particular verse that "the phrase εἰ μή ‘except’ ca
 # John 6:22: Non-Conditional
 
 
-* ESV, NRSV, NIV, NLT: "only"
-NASB: "except"
 
 
 ## English
 NASB: the crowd ... saw that
 p: (there was no other small boat there)
 q: (except one)
+
+
+* ESV, NRSV, NIV, NLT: "only"
+NASB: "except"
 
 
 ## Greek (SBLGNT)
@@ -2377,13 +2575,15 @@ NASB follows the form of the Greek very closely: "there was no other small boat 
 # John 6:46: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "except"
-NLT: "only"
 
 
 ## English
 q: (not that anyone has seen the Father)
 p: (except he who is from God)
+
+
+* ESV, NASB, NRSV, NIV: "except"
+NLT: "only"
 
 
 ## Greek (SBLGNT)
@@ -2400,12 +2600,14 @@ Greek: εἰ μὴ 'except'
 # John 9:25: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
 ## English
 p: (whether he is a sinner)
 q: (I do not know)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
 ## Greek (SBLGNT)
@@ -2422,13 +2624,15 @@ q: (I do not know)
 # John 10:10: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "only"
-NLT: untranslated
 
 
 ## English
 q: (the thief comes)
 p: (only to steal and kill and destroy)
+
+
+* ESV, NASB, NRSV, NIV: "only"
+NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2446,13 +2650,15 @@ Greek: "The thief does not come except so that he may steal and kill and destroy
 # John 13:10: Non-Conditional
 
 
-* ESV, NRSV, NLT: "except"
-NASB, NIV: "only"
 
 
 ## English
 q: (the one who had bathed does not need to wash)
 p: (except for his feet)
+
+
+* ESV, NRSV, NLT: "except"
+NASB, NIV: "only"
 
 
 ## Greek (SBLGNT)
@@ -2470,13 +2676,15 @@ Some English translations use "only, e.g NASB": "He who has bathed needs only to
 # John 14:6: Non-Conditional
 
 
-* ESV, NASB, NIV, NLT: "except"
-NASB: "but"
 
 
 ## English
 q: (no one comes to the Father)
 p: (except through me)
+
+
+* ESV, NASB, NIV, NLT: "except"
+NASB: "but"
 
 
 ## Greek (SBLGNT)
@@ -2493,13 +2701,15 @@ Greek: εἰ μὴ 'except'
 # John 15:7b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whatever"
-NLT: "anything"
 
 
 ## English
 p: (ask whatever you wish)
 q: (and it will be done for you)
+
+
+* ESV, NASB, NRSV, NIV: "whatever"
+NLT: "anything"
 
 
 ## Greek (SBLGNT)
@@ -2516,13 +2726,15 @@ Greek: ὃ ἐὰν 'whatever'
 # John 17:12: Non-Conditional
 
 
-* ESV, NRSV, NIV, NLT: "except"
-NASB: "but"
 
 
 ## English
 q: (not one of them has been lost)
 p: (except the son of destruction)
+
+
+* ESV, NRSV, NIV, NLT: "except"
+NASB: "but"
 
 
 ## Greek (SBLGNT)
@@ -2539,12 +2751,14 @@ Greek: εἰ μὴ 'except'
 # John 19:15: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "but"
 
 
 ## English
 q: (we have no king)
 p: (but Caesar)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "but"
 
 
 ## Greek (SBLGNT)
@@ -2561,19 +2775,17 @@ Greek: εἰ μὴ 'except'
 # Acts 1:6: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: direct question
 
 
 ## English
 Lord, will you at this time restore the kingdom of Israel?
 
 
+* ESV, NASB, NRSV, NIV, NLT: direct question
+
+
 ## Greek (SBLGNT)
 * _p1_: Κύριε εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ
-
-
-## Notes
-
 
 
 ----------------
@@ -2581,14 +2793,16 @@ Lord, will you at this time restore the kingdom of Israel?
 # Acts 3:23: Non-Conditional
 
 
-* ESV, NASB: "every soul who/that"
-NRSV: "everyone who"
-NIV, NLT: "anyone who"
 
 
 ## English
 p: (every soul who does not listen to that prophet)
 q: (shall be destroyed from the people)
+
+
+* ESV, NASB: "every soul who/that"
+NRSV: "everyone who"
+NIV, NLT: "anyone who"
 
 
 ## Greek (SBLGNT)
@@ -2605,12 +2819,14 @@ Greek ἥτις ἐὰν is best translated as a relative pronoun 'who, whoever'
 # Acts 5:8: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whether"
-NIV, NLT: direct question
 
 
 ## English
 And Peter said to her, "Tell me whether you sold the land for so much"
+
+
+* ESV, NASB, NRSV: "whether"
+NIV, NLT: direct question
 
 
 ## Greek (SBLGNT)
@@ -2626,13 +2842,15 @@ While some of the English translations treat this more like an indirect question
 # Acts 5:15: Non-Conditional
 
 
-* ESV, NASB, NIV: "at least...might"
-NRSV: "in order that...might"
-NLT:  "so that...might"
 
 
 ## English
 as Peter came by, at least his shadow might fall on some of them
+
+
+* ESV, NASB, NIV: "at least...might"
+NRSV: "in order that...might"
+NLT:  "so that...might"
 
 
 ## Greek (SBLGNT)
@@ -2649,19 +2867,17 @@ This could be a case of an elipsed q, i.e. "if Peter's shadow fell on them [they
 # Acts 7:1: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: direct question
 
 
 ## English
 And the high priest said, "Are these things so?"
 
 
+* ESV, NASB, NRSV, NIV, NLT: direct question
+
+
 ## Greek (SBLGNT)
 * _p1_: Εἶπεν δὲ ὁ ἀρχιερεύς Εἰ ταῦτα οὕτως ἔχει
-
-
-## Notes
-
 
 
 ----------------
@@ -2669,8 +2885,6 @@ And the high priest said, "Are these things so?"
 # Acts 7:7: Non-Conditional
 
 
-* ESV, NRSV, NIV, NLT: untranslated
-NASB: "whatever"
 
 
 ## English
@@ -2678,13 +2892,13 @@ q: (and I will judge)
 p: (the nation that they serve)
 
 
+* ESV, NRSV, NIV, NLT: untranslated
+NASB: "whatever"
+
+
 ## Greek (SBLGNT)
 * _p1_: ᾧ ἐὰν δουλεύσουσιν
 * _q1_: κρινῶ ἐγώ
-
-
-## Notes
-
 
 
 ----------------
@@ -2692,14 +2906,16 @@ p: (the nation that they serve)
 # Acts 8:19: Non-Conditional
 
 
-* ESV, NRSV: "anyone"
-NASB, NIV: "everyone"
-NLT: "when I lay..."
 
 
 ## English
 p: (so that anyone on whom I lay my hands)
 q: (may receive the Hold Spirit)
+
+
+* ESV, NRSV: "anyone"
+NASB, NIV: "everyone"
+NLT: "when I lay..."
 
 
 ## Greek (SBLGNT)
@@ -2716,13 +2932,15 @@ Greek: ᾧ ἐὰν 'whomever'
 # Acts 8:22: Non-Conditional
 
 
-* ESV, NASB, NRSV: "if possible"
-NIV, NLT: untranslated
 
 
 ## English
 p: (if possible)
 q: (the intent you your heart may be forgiven you)
+
+
+* ESV, NASB, NRSV: "if possible"
+NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2739,12 +2957,14 @@ Greek: εἰ ἄρα 'if perhaps' (see 17:27)
 # Acts 10:18: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whether"
-NIV, NLT: "if"
 
 
 ## English
 and called out to ask whether Simon who was called Peter was lodging there
+
+
+* ESV, NASB, NRSV: "whether"
+NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -2760,13 +2980,15 @@ indirect question marker
 # Acts 11:19: Non-Conditional
 
 
-* ESV, NASB, NRSV: NEG + "except"
-NIV, NLT: "only"
 
 
 ## English
 q: (speaking the word to no one)
 p: (except Jews)
+
+
+* ESV, NASB, NRSV: NEG + "except"
+NIV, NLT: "only"
 
 
 ## Greek (SBLGNT)
@@ -2783,12 +3005,14 @@ Greek: εἰ μὴ 'except'
 # Acts 17:11: Non-Conditional
 
 
-* ESV, NIV, NLT: "if"
-NASB, NRSV: "whether"
 
 
 ## English
 examining the Scriptures daily [to see] if these things were so
+
+
+* ESV, NIV, NLT: "if"
+NASB, NRSV: "whether"
 
 
 ## Greek (SBLGNT)
@@ -2804,13 +3028,15 @@ Indirect question; complementizer
 # Acts 17:27: Non-Conditional
 
 
-* ESV, NRSV, NIV, NLT: "and perhaps"
-NASB: "if perhaps"
 
 
 ## English
 q: (that they should seek God)
 p: (and perhaps feel their way toward him and find him)
+
+
+* ESV, NRSV, NIV, NLT: "and perhaps"
+NASB: "if perhaps"
 
 
 ## Greek (SBLGNT)
@@ -2827,19 +3053,17 @@ Greek: εἰ ἄρα 'if perhaps' (see 8:22).
 # Acts 19:2: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: direct question
 
 
 ## English
 And he said to them, "Did you receive the Holy Spirit when you believed?"
 
 
+* ESV, NASB, NRSV, NIV, NLT: direct question
+
+
 ## Greek (SBLGNT)
 * _p1_: εἶπέν τε πρὸς αὐτούς Εἰ πνεῦμα ἅγιον ἐλάβετε πιστεύσαντες
-
-
-## Notes
-
 
 
 ----------------
@@ -2847,13 +3071,15 @@ And he said to them, "Did you receive the Holy Spirit when you believed?"
 # Acts 20:16: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "if possible"
 
 
 ## English
 he was hastening to be at Jerusalem
 p: (if possible)
 on the day of Pentecost
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if possible"
 
 
 ## Greek (SBLGNT)
@@ -2869,11 +3095,13 @@ Greek: εἰ δυνατὸν 'if possible'
 # Acts 21:37: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: direct question
 
 
 ## English
 As Paul was about to be brought into the barracks, he said to the tribune, "May I ask something of you?"
+
+
+* ESV, NASB, NRSV, NIV, NLT: direct question
 
 
 ## Greek (SBLGNT)
@@ -2889,12 +3117,14 @@ Greek: Εἰ ἔξεστίν μοι εἰπεῖν τι πρὸς σέ? "If it i
 # Acts 25:20: Non-Conditional
 
 
-* ESV, NASB, NRSV, NLT: "whether"
-NIV: "if"
 
 
 ## English
 I asked whether he wanted to go to Jerusalem and be tried there regarding them.
+
+
+* ESV, NASB, NRSV, NLT: "whether"
+NIV: "if"
 
 
 ## Greek (SBLGNT)
@@ -2910,7 +3140,6 @@ Indirect question; complementizer
 # Acts 26:23: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "that"
 
 
 ## English
@@ -2919,14 +3148,13 @@ p2: (and that by being the first to rise from the dead)
 q: (he would proclaim light both to our people and to the Gentiles"
 
 
+* ESV, NASB, NRSV, NIV, NLT: "that"
+
+
 ## Greek (SBLGNT)
 * _p1_: εἰ παθητὸς ὁ χριστός
 * _p2_: εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν
 * _q1_: φῶς μέλλει καταγγέλλειν τῷ τε λαῷ καὶ τοῖς ἔθνεσιν
-
-
-## Notes
-
 
 
 ----------------
@@ -2934,13 +3162,15 @@ q: (he would proclaim light both to our people and to the Gentiles"
 # Acts 27:12: Non-Conditional
 
 
-* ESV, NRSV: "on the chance that somehow"
-NASB: "if somehow"
-NIV, NLT: untranslated
 
 
 ## English
 ...on the chance that somehow they could reach Phoenix
+
+
+* ESV, NRSV: "on the chance that somehow"
+NASB: "if somehow"
+NIV, NLT: untranslated
 
 
 ## Greek (SBLGNT)
@@ -2956,14 +3186,16 @@ Greek: εἴ πως 'if somehow'
 # Acts 27:39: Non-Conditional
 
 
-* ESV: "if possible" 
-NASB, NRSV, NIV, NLT: "if they could"
 
 
 ## English
 they noticed a bay with a beach, on which they planned
 p: (if possible)
 to run the ship ashore
+
+
+* ESV: "if possible" 
+NASB, NRSV, NIV, NLT: "if they could"
 
 
 ## Greek (SBLGNT)
@@ -2979,14 +3211,16 @@ Greek: εἰ δυνατὸν 'if possible'
 # Rom 1:10: Non-Conditional
 
 
-* NASB: "if perhaps"  
-ESV, NRSV: "somehow"
-NIV, NLT: not translated
 
 
 ## English
 NASB:
 p: (if perhaps now at last by the will of God I may succeed in coming to you)
+
+
+* NASB: "if perhaps"  
+ESV, NRSV: "somehow"
+NIV, NLT: not translated
 
 
 ## Greek (SBLGNT)
@@ -3002,13 +3236,15 @@ p: (if perhaps now at last by the will of God I may succeed in coming to you)
 # Rom 11:6b: Non-Conditional
 
 
-* ESV, NASB, NRSV: "otherwise"
-NIV: "if it were"
-NLT: "for in that case"
 
 
 ## English
 p: (otherwise grace would no longer be grace)
+
+
+* ESV, NASB, NRSV: "otherwise"
+NIV: "if it were"
+NLT: "for in that case"
 
 
 ## Greek (SBLGNT)
@@ -3024,12 +3260,14 @@ p: (otherwise grace would no longer be grace)
 # Rom 11:22b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "otherwise"
-NLT: "but if you stop trusting"
 
 
 ## English
 p: (otherwise you too will be cut off)
+
+
+* ESV, NASB, NRSV, NIV: "otherwise"
+NLT: "but if you stop trusting"
 
 
 ## Greek (SBLGNT)
@@ -3045,13 +3283,15 @@ p: (otherwise you too will be cut off)
 # Rom 12:18: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "if"
-NLT: not translated
 
 
 ## English
 p: (if possible)
 so far as it depends on you, live peaceably with all
+
+
+* ESV, NASB, NRSV, NIV: "if"
+NLT: not translated
 
 
 ## Greek (SBLGNT)
@@ -3069,13 +3309,15 @@ See "if possible"constructions
 # Rom 13:1: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "except"
-NLT: "all authority comes from God"
 
 
 ## English
 q: (for there is no authority)
 p: (except from God)
+
+
+* ESV, NASB, NRSV, NIV: "except"
+NLT: "all authority comes from God"
 
 
 ## Greek (SBLGNT)
@@ -3092,12 +3334,14 @@ p: (except from God)
 # Rom 13:8: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (owe no one anything)
 p: (except to love one another)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -3114,13 +3358,15 @@ p: (except to love one another)
 # Rom 14:14: Non-Conditional
 
 
-* ESV, NASB, NRSV: "but"
-NIV, NLT: "but if"
 
 
 ## English
 q: (I know and am persuaded in the Lord Jesus that nothing is unclean in itself)
 p: (except for anyone who thinks it unclean) to that person it is unclean.
+
+
+* ESV, NASB, NRSV: "but"
+NIV, NLT: "but if"
 
 
 ## Greek (SBLGNT)
@@ -3137,9 +3383,6 @@ p: (except for anyone who thinks it unclean) to that person it is unclean.
 # Rom 15:24: Non-Conditional
 
 
-* ESV, NRSV: "once"
-NIV, NLT: "after"
-NASB: "when"
 
 
 ## English
@@ -3147,13 +3390,14 @@ q: (I hope to see you in passing as I go to Spain, and to be helped on my journe
 p: (when/once/after I have enjoyed your company for a while)
 
 
+* ESV, NRSV: "once"
+NIV, NLT: "after"
+NASB: "when"
+
+
 ## Greek (SBLGNT)
 * _q1_: ἐλπίζω γὰρ διαπορευόμενος θεάσασθαι ὑμᾶς καὶ ὑφ ὑμῶν προπεμφθῆναι ἐκεῖ
 * _p1_: ἐὰν ὑμῶν πρῶτον ἀπὸ μέρους ἐμπλησθῶ
-
-
-## Notes
-
 
 
 ----------------
@@ -3161,12 +3405,14 @@ p: (when/once/after I have enjoyed your company for a while)
 # 1 Cor 1:14: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 p: (except Crispus and Gaius)
 q: (I thank God I baptized none of you)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -3183,14 +3429,16 @@ q: (I thank God I baptized none of you)
 # 1 Cor 1:16: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whether"
-NIV: "if"
-NLT: no connective
 
 
 ## English
 p: (...whether I baptized anyone else)
 q: (I do not know...)
+
+
+* ESV, NASB, NRSV: "whether"
+NIV: "if"
+NLT: no connective
 
 
 ## Greek (SBLGNT)
@@ -3207,12 +3455,14 @@ q: (I do not know...)
 # 1 Cor 2:2: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 p: (...except Jesus Christ and him crucified)
 q: (For I decided to know nothing among you...)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -3229,12 +3479,14 @@ q: (For I decided to know nothing among you...)
 # 1 Cor 2:11a: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 p: (...except the spirit of that person, which is in him?)
 q: (For who knows a person's thoughts...
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -3251,12 +3503,14 @@ q: (For who knows a person's thoughts...
 # 1 Cor 2:11b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 p: (...except the Spirit of God)
 q: (So also no one comprehends the thoughts of God...)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -3273,12 +3527,14 @@ q: (So also no one comprehends the thoughts of God...)
 # 1 Cor 3:22: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
 ## English
 p: (whether Paul or Apollos or Cephas or the world or life or death or the present or the future)
 q: (all are yours)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether"
 
 
 ## Greek (SBLGNT)
@@ -3295,14 +3551,16 @@ q: (all are yours)
 # 1 Cor 6:18: Non-Conditional
 
 
-* ESV, NASB: "every other"
-NRSV: "every"
-NIV, "all other"
-NLT: "no other"
 
 
 ## English
 Every other sin a person commits is outside the body
+
+
+* ESV, NASB: "every other"
+NRSV: "every"
+NIV, "all other"
+NLT: "no other"
 
 
 ## Greek (SBLGNT)
@@ -3319,14 +3577,16 @@ Possible translation: "all sin which, if a man might do [it], is outside the bod
 # 1 Cor 7:5: Non-Conditional
 
 
-* ESV, NRSV: "except perhaps"
-NASB, NIV: "except"
-NLT: "unless"
 
 
 ## English
 p: (...except perhaps by agreement for a limited time)
 q: (do not deprive one another...)
+
+
+* ESV, NRSV: "except perhaps"
+NASB, NIV: "except"
+NLT: "unless"
 
 
 ## Greek (SBLGNT)
@@ -3343,8 +3603,6 @@ q: (do not deprive one another...)
 # 1 Cor 7:16: Non-Conditional
 
 
-* ESV, NASB, NIV: "whether"
-NRSV, NLT: no conditional
 
 
 ## English
@@ -3352,6 +3610,10 @@ q: (For how do you know, wife)
 p: (whether you will save your husband?)
 q: (Or how do you know, husband)
 p: (whether you will save your wife?)
+
+
+* ESV, NASB, NIV: "whether"
+NRSV, NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -3370,15 +3632,17 @@ p: (whether you will save your wife?)
 # 1 Cor 7:17: Non-Conditional
 
 
-* ESV, NASB, RSV: "only"
-NRSV: "however that may be"
-NIV: "nevertheless"
-NLT: no conditional
 
 
 ## English
 q: (only let each person lead the life)
 p: (that the Lord has assigned to him, and to which God has called him)
+
+
+* ESV, NASB, RSV: "only"
+NRSV: "however that may be"
+NIV: "nevertheless"
+NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -3395,13 +3659,15 @@ p: (that the Lord has assigned to him, and to which God has called him)
 # 1 Cor 8:4: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "but"
-NLT: "only
 
 
 ## English
 q: (there is no God)
 p: (but one)
+
+
+* ESV, NASB, NRSV, NIV: "but"
+NLT: "only
 
 
 ## Greek (SBLGNT)
@@ -3418,13 +3684,15 @@ p: (but one)
 # 1 Cor 8:5: Non-Conditional
 
 
-* ESV, NRSV: "or"
-NASB, NIV: "whether... or"
-NLT: "both... and"
 
 
 ## English
 (whether in heaven or on earth)
+
+
+* ESV, NRSV: "or"
+NASB, NIV: "whether... or"
+NLT: "both... and"
 
 
 ## Greek (SBLGNT)
@@ -3440,15 +3708,17 @@ NLT: "both... and"
 # 1 Cor 10:13: Non-Conditional
 
 
-* ESV, NRSV, NLT: no connective
-NASB: "but"
-NIV: "except"
 
 
 ## English
 p: (...except what is common to mankind)
 q: (no temptation has overtaken you...)
 NIV
+
+
+* ESV, NRSV, NLT: no connective
+NASB: "but"
+NIV: "except"
 
 
 ## Greek (SBLGNT)
@@ -3465,12 +3735,14 @@ NIV
 # 1 Cor 10:31: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## English
 p: (so, whether you eat or drink, or whatever you do)
 q: (do all to the glory of God)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## Greek (SBLGNT)
@@ -3487,13 +3759,15 @@ q: (do all to the glory of God)
 # 1 Cor 11:25: Non-Conditional
 
 
-* ESV, NASB, NRSV, NLT: "as often as"
-NIV: "whenever"
 
 
 ## English
 p: (as often as you drink) 
 q: ([do this] in remembrance of me)
+
+
+* ESV, NASB, NRSV, NLT: "as often as"
+NIV: "whenever"
 
 
 ## Greek (SBLGNT)
@@ -3510,14 +3784,16 @@ q: ([do this] in remembrance of me)
 # 1 Cor 11:26: Non-Conditional
 
 
-* ESV, NASB, NRSV: "as often as"
-NIV: "whenever"
-NLT: "every time"
 
 
 ## English
 p: (as often as you eat this bread and drink the cup) 
 q: (you proclaim the Lord's death until he comes)
+
+
+* ESV, NASB, NRSV: "as often as"
+NIV: "whenever"
+NLT: "every time"
 
 
 ## Greek (SBLGNT)
@@ -3534,15 +3810,17 @@ q: (you proclaim the Lord's death until he comes)
 # 1 Cor 11:29: Non-Conditional
 
 
+
+
+## English
+For anyone who eats and drinks without discerning the body eats and drinks judgment on himself
+
+
 * ESV: "anyone who"
 NASB: "he who"
 NRSV: "all who"
 NIV: "those who"
 NLT: "if you"
-
-
-## English
-For anyone who eats and drinks without discerning the body eats and drinks judgment on himself
 
 
 ## Greek (SBLGNT)
@@ -3558,12 +3836,14 @@ For anyone who eats and drinks without discerning the body eats and drinks judgm
 # 1 Cor 12:3: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 p: (except in the Holy Spirit)
 q: (no on can say 'Jesus is Lord')
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -3580,13 +3860,15 @@ q: (no on can say 'Jesus is Lord')
 # 1 Cor 12:13: Non-Conditional
 
 
-* ESV, NRSV: "or"
-NASB, NIV: "whether... or"
-NLT: no connective
 
 
 ## English
 For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit
+
+
+* ESV, NRSV: "or"
+NASB, NIV: "whether... or"
+NLT: no connective
 
 
 ## Greek (SBLGNT)
@@ -3602,15 +3884,17 @@ For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or
 # 1 Cor 13:8a: Non-Conditional
 
 
-* ESV, NRSV: "as for"
-NASB: "if"
-NIV, NLT: no conditional
 
 
 ## English
 p1: (if there are gifts of prophecy,) q1: (they will be done away;)
 p2: (if there are tongues,) q2: (they will cease;)
 p3: (if there is knowledge,) q3: (it will be done away.) (NASB)
+
+
+* ESV, NRSV: "as for"
+NASB: "if"
+NIV, NLT: no conditional
 
 
 ## Greek (SBLGNT)
@@ -3632,13 +3916,15 @@ Only NASB translates these as "if"; ESV and NRSV use "as for" and NIV uses "wher
 # 1 Cor 14:7a: Non-Conditional
 
 
-* ESV, NRSV, NIV: "such as... or"
-NASB: "either... or"
-NLT: "like... or"
 
 
 ## English
 either flute or the harp
+
+
+* ESV, NRSV, NIV: "such as... or"
+NASB: "either... or"
+NLT: "like... or"
 
 
 ## Greek (SBLGNT)
@@ -3654,14 +3940,16 @@ either flute or the harp
 # 1 Cor 14:10: Non-Conditional
 
 
-* ESV, NRSV: "doubtless"
-NASB: "perhaps"
-NIV: "undoubtedly"
-NLT: not translated
 
 
 ## English
 There are doubtless many different languages in the world, and none is without meaning
+
+
+* ESV, NRSV: "doubtless"
+NASB: "perhaps"
+NIV: "undoubtedly"
+NLT: not translated
 
 
 ## Greek (SBLGNT)
@@ -3677,11 +3965,13 @@ There are doubtless many different languages in the world, and none is without m
 # 1 Cor 15:11: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## English
 Whether then it was I or they, so we preach and so you believed
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## Greek (SBLGNT)
@@ -3697,13 +3987,15 @@ Whether then it was I or they, so we preach and so you believed
 # 1 Cor 15:37: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "perhaps"
-NLT: "whatever"
 
 
 ## English
 p: (...perhaps of wheat or of some other grain)
 q: (and what you sow is not the body that is to be, but a bare kernel...)
+
+
+* ESV, NASB, NRSV, NIV: "perhaps"
+NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -3720,13 +4012,15 @@ q: (and what you sow is not the body that is to be, but a bare kernel...)
 # 1 Cor 16:2: Non-Conditional
 
 
-* ESV, NASB: "as"
-NRSV: "whatever"
 
 
 ## English
 p: (as he may prosper)
 q: (so there there will be no collecting when I come)
+
+
+* ESV, NASB: "as"
+NRSV: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -3743,16 +4037,18 @@ q: (so there there will be no collecting when I come)
 # 1 Cor 16:3: Non-Conditional
 
 
-* ESV: "those whom"
-NASB: "whomever"
-NRSV: "any whom"
-NIV: "the men"
-NLT: "the messengers"
 
 
 ## English
 p: (those whom you accredit...)
 q: (I will send... to Jerusalem)
+
+
+* ESV: "those whom"
+NASB: "whomever"
+NRSV: "any whom"
+NIV: "the men"
+NLT: "the messengers"
 
 
 ## Greek (SBLGNT)
@@ -3769,8 +4065,6 @@ q: (I will send... to Jerusalem)
 # 1 Cor 16:6: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "wherever"
-NLT: "my next destination"
 
 
 ## English
@@ -3778,13 +4072,13 @@ q: (so that you may help me on my journey...)
 p: (...wherever I go)
 
 
+* ESV, NASB, NRSV, NIV: "wherever"
+NLT: "my next destination"
+
+
 ## Greek (SBLGNT)
 * _q1_: ἵνα ὑμεῖς με προπέμψητε
 * _p1_: οὗ ἐὰν πορεύωμαι
-
-
-## Notes
-
 
 
 ----------------
@@ -3792,13 +4086,15 @@ p: (...wherever I go)
 # 2 Cor 2:2b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "but"
-NLT: paraphrased
 
 
 ## English
 q: (who is there to make me glad)
 p: (but/except the one whom I have pained?)
+
+
+* ESV, NASB, NRSV, NIV: "but"
+NLT: paraphrased
 
 
 ## Greek (SBLGNT)
@@ -3816,13 +4112,15 @@ Embedded in q of 2:2a
 # 2 Cor 2:9: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whether"
-NIV, NLT: "if"
 
 
 ## English
 For this is why I wrote, that I might test you and know
 p: (whether you are obedient in everything)
+
+
+* ESV, NASB, NRSV: "whether"
+NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -3839,13 +4137,15 @@ p: (whether you are obedient in everything)
 # 2 Cor 3:15: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whenever"
-NIV, NLT: "when"
 
 
 ## English
 p: (whenever Moses is read)
 q: (a veil lies over their hearts)
+
+
+* ESV, NASB, NRSV: "whenever"
+NIV, NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -3862,13 +4162,15 @@ Verses 15 and 16 should be considered together. While v.15 contains the particle
 # 2 Cor 3:16: Non-Conditional
 
 
-* NASB, NIV, NLT: "whenever"
-ESV, NRSV: "when"
 
 
 ## English
 p: (But when one turns to the Lord) 
 q: (the veil is removed)
+
+
+* NASB, NIV, NLT: "whenever"
+ESV, NRSV: "when"
 
 
 ## Greek (SBLGNT)
@@ -3885,15 +4187,17 @@ Verse 16 echos Exodus 34:34, that whenever Moses went in to meet with the LORD, 
 # 2 Cor 5:2-3: Non-Conditional
 
 
-* ESV, NRSV: "if indeed"
-NASB: "inasmuch as"
-NIV: "because"
-NLT: "for"
 
 
 ## English
 q v.2: (longing to put on our heavenly dwelling)
 p v.3: (if indeed, by putting it on we may not be found naked)
+
+
+* ESV, NRSV: "if indeed"
+NASB: "inasmuch as"
+NIV: "because"
+NLT: "for"
 
 
 ## Greek (SBLGNT)
@@ -3910,12 +4214,14 @@ There is a wide range of translations of the phrase εἴ γε καὶ, indicati
 # 2 Cor 5:9: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## English
 p: (so whether we are at home or away)
 q: (we make it our aim to please him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## Greek (SBLGNT)
@@ -3932,11 +4238,13 @@ q: (we make it our aim to please him)
 # 2 Cor 8:12b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "according to"
 
 
 ## English
 ...according to what a person has, not according to what he does not have
+
+
+* ESV, NASB, NRSV, NIV, NLT: "according to"
 
 
 ## Greek (SBLGNT)
@@ -3952,11 +4260,13 @@ The Greek phrase καθὸ ἐὰν has the sense of "according to"
 # 2 Cor 8:23: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "as for"
 
 
 ## English
 As for Titus, he is my partner and fellow worker for your benefit. And as for our brothers, they are messengers of the churches, the glory of Christ.
+
+
+* ESV, NASB, NRSV, NIV: "as for"
 
 
 ## Greek (SBLGNT)
@@ -3972,12 +4282,14 @@ As for Titus, he is my partner and fellow worker for your benefit. And as for ou
 # 2 Cor 12:2: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## English
 p: (whether in the body or out of the body)
 q: (I do not know, God knows)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## Greek (SBLGNT)
@@ -3994,12 +4306,14 @@ q: (I do not know, God knows)
 # 2 Cor 12:3: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## English
 p: (whether in the body or out of the body)
 q: (I do not know, God knows)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## Greek (SBLGNT)
@@ -4016,13 +4330,15 @@ q: (I do not know, God knows)
 # 2 Cor 12:5: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "except"
-NLT: "only"
 
 
 ## English
 q: (on my own behalf I will not boast)
 p: (except of my weaknesses)
+
+
+* ESV, NASB, NRSV, NIV: "except"
+NLT: "only"
 
 
 ## Greek (SBLGNT)
@@ -4039,12 +4355,14 @@ p: (except of my weaknesses)
 # 2 Cor 12:13: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "except"
-NLT: "only"
 
 
 ## English
 For in what were you less favored than the rest of the churches, except that I myself did not burden you?
+
+
+* ESV, NASB, NRSV, NIV: "except"
+NLT: "only"
 
 
 ## Greek (SBLGNT)
@@ -4060,12 +4378,14 @@ For in what were you less favored than the rest of the churches, except that I m
 # 2 Cor 13:5a: Non-Conditional
 
 
-* ESV, NRSV, NIV: "whether"
-NASB, NLT: "if"
 
 
 ## English
 Examine yourselves, to see whether you are in the faith.
+
+
+* ESV, NRSV, NIV: "whether"
+NASB, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4081,15 +4401,17 @@ Examine yourselves, to see whether you are in the faith.
 # Gal 1:7: Non-Conditional
 
 
-* ESV, NRSV: "but"
-NASB: "only"
-NIV: "evidently"
-NLT: not translated
 
 
 ## English
 q: (not that there is another one)
 p: (but there are some who trouble you and want to distort the gospel of Christ)
+
+
+* ESV, NRSV: "but"
+NASB: "only"
+NIV: "evidently"
+NLT: not translated
 
 
 ## Greek (SBLGNT)
@@ -4106,13 +4428,15 @@ p: (but there are some who trouble you and want to distort the gospel of Christ)
 # Gal 1:19: Non-Conditional
 
 
-* ESV, NASB, NRSV: "except"
-NIV, NLT: "only"
 
 
 ## English
 q: (but I saw none of the other apostles)
 p: (except James that Lord's brother)
+
+
+* ESV, NASB, NRSV: "except"
+NIV, NLT: "only"
 
 
 ## Greek (SBLGNT)
@@ -4129,13 +4453,15 @@ p: (except James that Lord's brother)
 # Gal 2:16: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "but"
-NLT: not translated - oreder reversed
 
 
 ## English
 q: (yet we know that a person is not justified by works of the law)
 p: (but through faith in Jesus Christ)
+
+
+* ESV, NASB, NRSV, NIV: "but"
+NLT: not translated - oreder reversed
 
 
 ## Greek (SBLGNT)
@@ -4152,14 +4478,16 @@ p: (but through faith in Jesus Christ)
 # Gal 5:10: Non-Conditional
 
 
-* ESV, NASB, NLT: "whoever he is"
-NRSV: "whoever it is"
-NIV: "whoever that may be"
 
 
 ## English
 q: (and the one troubling you will bear the penalty)
 p: (whoever he is)
+
+
+* ESV, NASB, NLT: "whoever he is"
+NRSV: "whoever it is"
+NIV: "whoever that may be"
 
 
 ## Greek (SBLGNT)
@@ -4176,13 +4504,15 @@ p: (whoever he is)
 # Gal 5:17: Non-Conditional
 
 
-* ESV, NASB: "the things"
-NRSV: "what"
-NIV: "whatever"
 
 
 ## English
 for these are opposed to each other, to keep you from doing the things you want to do
+
+
+* ESV, NASB: "the things"
+NRSV: "what"
+NIV: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -4198,13 +4528,15 @@ for these are opposed to each other, to keep you from doing the things you want 
 # Gal 6:7: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whatever"
-NIV, NLT: "what"
 
 
 ## English
 p: (for whatever one sows)
 q: (that he will also reap)
+
+
+* ESV, NASB, NRSV: "whatever"
+NIV, NLT: "what"
 
 
 ## Greek (SBLGNT)
@@ -4221,12 +4553,14 @@ q: (that he will also reap)
 # Gal 6:14: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (but far be it from me to boast)
 p: (except in the cross of Jesus our Lord)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -4243,15 +4577,17 @@ p: (except in the cross of Jesus our Lord)
 # Eph 3:2-5: Non-Conditional
 
 
-* ESV, RSV, NLT: "assuming"
-NASB: "if indeed"
-NRSV: "for surely"
-NIV: "surely"
 
 
 ## English
 NASB:
 p: (if indeed you have heard of the stewardship of God’s grace which was given to me for you...)
+
+
+* ESV, RSV, NLT: "assuming"
+NASB: "if indeed"
+NRSV: "for surely"
+NIV: "surely"
 
 
 ## Greek (SBLGNT)
@@ -4268,14 +4604,16 @@ Some commentators (Hoehner 2008; Arnold 2010) suggest that p consists of vs.2-12
 # Eph 4:9: Non-Conditional
 
 
-* ESV, NRSV: "but"
-NASB, NIV: "except"
-NLT: Non-conditional statement
 
 
 ## English
 p: (...but that he had also descended into the lower regions, the earth?)
 q: (in saying, 'He ascended,' what does it mean...)
+
+
+* ESV, NRSV: "but"
+NASB, NIV: "except"
+NLT: Non-conditional statement
 
 
 ## Greek (SBLGNT)
@@ -4292,13 +4630,15 @@ q: (in saying, 'He ascended,' what does it mean...)
 # Eph 4:29: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "but only"
-NLT: no connective
 
 
 ## English
 q: (let no corrupting talk come out of your mouths)
 p: (but only such as is good for building up)
+
+
+* ESV, NASB, NRSV, NIV: "but only"
+NLT: no connective
 
 
 ## Greek (SBLGNT)
@@ -4315,12 +4655,14 @@ p: (but only such as is good for building up)
 # Eph 6:8: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whether"
 
 
 ## English
 q: (knowing that whatever good he does, this he will receive back from the Lord)
 p: (whether he is a bondservant or is free)
+
+
+* ESV, NASB, NRSV, NIV: "whether"
 
 
 ## Greek (SBLGNT)
@@ -4337,12 +4679,14 @@ p: (whether he is a bondservant or is free)
 # Phil 1:18b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
 ## English
 p: (whether in pretense or in truth)
 q: (Christ is proclaimed)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
 ## Greek (SBLGNT)
@@ -4359,12 +4703,14 @@ q: (Christ is proclaimed)
 # Phil 1:20c: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
 ## English
 q: (with full courage now as always Christ will be honoured in my body)
 p: (whether by life or by death)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
 ## Greek (SBLGNT)
@@ -4381,12 +4727,14 @@ p: (whether by life or by death)
 # Phil 1:27: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
 ## English
 p: (so that whether I come and see you or am absent)
 q: (I may hear of you that you are standing firm in one spirit, with one mind striving side by side for faith of the gospel)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or..."
 
 
 ## Greek (SBLGNT)
@@ -4403,16 +4751,18 @@ q: (I may hear of you that you are standing firm in one spirit, with one mind st
 # Phil 3:11: Non-Conditional
 
 
+
+
+## English
+p: (that by any means possible I may attain the resurrection from the dead)
+
+
 * ESV: "that by any means possible"
 NASB: "in order that"
 RSV: "that if possible"
 NRSV: "if somehow"
 NIV: "and so, somehow"
 NLT: "so that one way or another"
-
-
-## English
-p: (that by any means possible I may attain the resurrection from the dead)
 
 
 ## Greek (SBLGNT)
@@ -4429,13 +4779,15 @@ The conditional is not "If I atttain resurrection from the dead" but "If there a
 # Phil 3:12: Non-Conditional
 
 
-* ESV, NRSV, NIV, NLT: (in order) "to" 
-NASB: "so that"
 
 
 ## English
 q: (but I press on)
 p: (to make it my own)
+
+
+* ESV, NRSV, NIV, NLT: (in order) "to" 
+NASB: "so that"
 
 
 ## Greek (SBLGNT)
@@ -4453,14 +4805,16 @@ Greek εἰ καὶ 'even if, if indeed'
 # Phil 4:15: Non-Conditional
 
 
-* ESV, NRSV, NIV: "except"
-NASB: "but"
-NLT: paraphrased
 
 
 ## English
 q: (no church entered into partnership with me in giving and receiving)
 p: (except you only)
+
+
+* ESV, NRSV, NIV: "except"
+NASB: "but"
+NLT: paraphrased
 
 
 ## Greek (SBLGNT)
@@ -4477,13 +4831,15 @@ p: (except you only)
 # Col 1:16: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whether... or..."
-NLT: "such as... and..."
 
 
 ## English
 p: (whether thrones or dominions or rulers or authorities)
 q: (all things were created through him and for him)
+
+
+* ESV, NASB, NRSV, NIV: "whether... or..."
+NLT: "such as... and..."
 
 
 ## Greek (SBLGNT)
@@ -4500,13 +4856,15 @@ q: (all things were created through him and for him)
 # Col 1:20: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whether... or..."
-NLT: "in heaven and on earth"
 
 
 ## English
 q: (and through him to reconcile to himself all things)
 p: (whether on earth or in heaven)
+
+
+* ESV, NASB, NRSV, NIV: "whether... or..."
+NLT: "in heaven and on earth"
 
 
 ## Greek (SBLGNT)
@@ -4523,12 +4881,14 @@ p: (whether on earth or in heaven)
 # Col 3:17: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (and whatever you do, in word or deed)
 q: (do everything in the name of the Lord Jesus, giving thanks to God the Father through him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -4545,12 +4905,14 @@ Greek ὅ τι ἐὰν 'whatever'
 # Col 3:23: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## English
 p: (whatever you do)
 q: (work heartily, as for the Lord and not for men)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whatever"
 
 
 ## Greek (SBLGNT)
@@ -4567,10 +4929,6 @@ Greek ὅ ἐὰν 'whatever'
 # 1 Thess 2:7: Non-Conditional
 
 
-* ESV, NRSV: "like"
-NASB: "as" 
-NIV: "just as"
-NLT: "or... like"
 
 
 ## English
@@ -4581,6 +4939,12 @@ p: (like a nursing mother taking care of her own children)
 NIV:
 p: (just as a nursing mother cares for her children)
 q (v.8): (so we cared for you)
+
+
+* ESV, NRSV: "like"
+NASB: "as" 
+NIV: "just as"
+NLT: "or... like"
 
 
 ## Greek (SBLGNT)
@@ -4597,12 +4961,14 @@ q (v.8): (so we cared for you)
 # 1 Thess 5:10: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## English
 p: (whether we are awake or asleep)
 q: ([Jesus] died for us so that ... we might live with him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether... or"
 
 
 ## Greek (SBLGNT)
@@ -4621,15 +4987,17 @@ This is an ‘alternative concessive conditional’ construction, in which the t
 # 2 Thess 1:5-7: Non-Conditional
 
 
-* ESV: "since"
-NASB: "after all"
-NRSV: "indeed"
-NIV, NLT: untranslated/paraphrased
 
 
 ## English
 q: (this is the evidence of the righteous judgement of God, that you may be considered worthy of the kingdom of God, for which you are also suffering)
 p: (since indeed God considers it just to repay with affliction those who afflict you, and to grant relief to you who are afflicted as well as to us)
+
+
+* ESV: "since"
+NASB: "after all"
+NRSV: "indeed"
+NIV, NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -4646,14 +5014,16 @@ p: (since indeed God considers it just to repay with affliction those who afflic
 # 2 Thess 2:15: Non-Conditional
 
 
-* ESV, NRSV: "either... or"
-NASB, NIV: "whether... or"
-NLT: "both... and"
 
 
 ## English
 q: (stand firm and hold to the traditions that you were taught by us...)
 p: (...either by our spoken word or by our letter)
+
+
+* ESV, NRSV: "either... or"
+NASB, NIV: "whether... or"
+NLT: "both... and"
 
 
 ## Greek (SBLGNT)
@@ -4670,13 +5040,15 @@ p: (...either by our spoken word or by our letter)
 # 1 Tim 1:9-10: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whatever else"
-NLT: "anything else"
 
 
 ## English
 q: (the law is not laid down for the just but for the lawless and disobedient, for the ungodly and the sinners, for the unholy and the profane, for those who strike their fathers and mothers, for murderers, the sexually immoral, men who practice homosexuality, enslavers, liars, perjurers)
 p: (and whatever else is contrary to sound doctrine)
+
+
+* ESV, NASB, NRSV, NIV: "whatever else"
+NLT: "anything else"
 
 
 ## Greek (SBLGNT)
@@ -4693,13 +5065,9 @@ Greek: εἴ τι ἕτερον 'if any other thing'. This does not state a cond
 # 2 Tim 2:5: Non-Conditional
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort
-* ESV, NLT: no conditional / "unless"
-NASB: "if anyone" / "unless"
-NRSV: "in the case of" / "without"
-NIV: "anyone who" / "except by"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort
 
 
 ## English
@@ -4710,6 +5078,12 @@ q1: (q2: [he does not win the prize] p2: [unless he competes according to the ru
 ESV: 
 q: (An athlete is not crowned)
 p: (unless he competes according to the rules)
+
+
+* ESV, NLT: no conditional / "unless"
+NASB: "if anyone" / "unless"
+NRSV: "in the case of" / "without"
+NIV: "anyone who" / "except by"
 
 
 ## Greek (SBLGNT)
@@ -4730,15 +5104,17 @@ q: (an athlete wins the prize) p: [only if he competes according to the rules.)
 # 2 Tim 2:11: Non-Conditional
 
 
-* Probability: Factual
-* Time Orientation: Past
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Past
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (If we have died with him,)
 q: (we will also live with him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4756,15 +5132,17 @@ The conditionals of 2:11-13 are a Christian hymn modified by Paul for this conte
 # 2 Tim 2:12a: Non-Conditional
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Exhort / Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Exhort / Warn
 
 
 ## English
 p: (if we endure,)
 q: (we will also reign with him)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4781,15 +5159,17 @@ Mounce (2000) claims that there is an implied warning in this verse. Unlike v.11
 # 2 Tim 2:12b: Non-Conditional
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Warn
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Warn
 
 
 ## English
 p: (if we deny him,)
 q: (he also will deny us;)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4806,15 +5186,17 @@ Mounce (2000) claims that 2:12b refers to total apostasy whereas 2:13 refers to 
 # 2 Tim 2:13: Non-Conditional
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if we are faithless,)
 q: (he remains faithful)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4832,18 +5214,20 @@ Q is true regardless of the validity of p, so this could be interpreted as a con
 # 2 Tim 2:21: Non-Conditional
 
 
-* Probability: Neutral
-* Time Orientation: Gnomic
-* Illocutionary Force: Encourage
-* ESV, NASB: "if anyone'"
-NRSV: "all who"
-NIV: "those who"
-NLT: "if you"
+* *Probability:* Neutral
+* *Time Orientation:* Gnomic
+* *Illocutionary Force:* Encourage
 
 
 ## English
 p: (if anyone cleanses himself from what is dishonorable,)
 q: (he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.)
+
+
+* ESV, NASB: "if anyone'"
+NRSV: "all who"
+NIV: "those who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -4860,18 +5244,20 @@ This conditional introduces the topic of people who are cleansed from moral wron
 # Titus 1:6: Non-Conditional
 
 
-* Probability: Neutral
-* Time Orientation: Present
-* Illocutionary Force: Assert
-* ESV: "if anyone"
-NASB: "if any man"
-NRSV: "someone who"
-NIV, NLT: no conditional, "an elder must..."
+* *Probability:* Neutral
+* *Time Orientation:* Present
+* *Illocutionary Force:* Assert
 
 
 ## English
 p: (...if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination)
 q: (IMPLIED: appoint such a person)
+
+
+* ESV: "if anyone"
+NASB: "if any man"
+NRSV: "someone who"
+NIV, NLT: no conditional, "an elder must..."
 
 
 ## Greek (SBLGNT)
@@ -4887,15 +5273,17 @@ Paul is giving Titus a guideline for appointing elders. This conditional lists t
 # Phlm 1:17: Non-Conditional
 
 
-* Probability: Factual
-* Time Orientation: Present
-* Illocutionary Force: Request
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Request
 
 
 ## English
 p: (so if you consider me your partner)
 q: (receive him as you would receive me)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4912,15 +5300,17 @@ Philemon knows that Paul considers him a partner. Paul is making his request on 
 # Phlm 1:18: Non-Conditional
 
 
-* Probability: Very Likely or Factual
-* Time Orientation: Present
-* Illocutionary Force: Command
-* ESV, NASB, NRSV, NIV, NLT: "if"
+* *Probability:* Very Likely or Factual
+* *Time Orientation:* Present
+* *Illocutionary Force:* Command
 
 
 ## English
 p: (if he has wronged you at all, or owes you anything)
 q: (charge that to my account)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -4937,12 +5327,14 @@ Paul is sending Onesimus, a slave, back to Philemon, his master. It is highly li
 # Heb 3:11: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## English
 p: (they shall not enter my rest)
 q: omitted
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -4958,14 +5350,16 @@ q: omitted
 # Heb 3:18: Non-Conditional
 
 
-* ESV, NASB: "but to"
-NRSV, NIV: "if not to"
-NLT: untranslated/paraphrased
 
 
 ## English
 q: (and to whom did he swear that they would never enter his rest)
 p: (but to those who were disobedient?)
+
+
+* ESV, NASB: "but to"
+NRSV, NIV: "if not to"
+NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -4982,12 +5376,14 @@ Greek: εἰ μὴ 'except'
 # Heb 4:3: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## English
 p: (they shall not enter my rest)
 q: omitted
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -5003,12 +5399,14 @@ See note on 3:11.
 # Heb 4:5: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## English
 p: (they shall not enter my rest)
 q: omitted
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -5024,12 +5422,14 @@ See note on 3:11.
 # Heb 6:14: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## English
 p: (surely I will bless you and multiply you)
 q: (omitted)
+
+
+* ESV, NASB, NRSV, NIV, NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -5045,14 +5445,16 @@ q: (omitted)
 # James 4:4b: Non-Conditional
 
 
-* ESV, NASB, NRSV: "whoever"
-NIV: "anyone who"
-NLT: "if you"
 
 
 ## English
 p: (whoever wishes to be a friend of the world)
 q: (makes himself an enemy of God)
+
+
+* ESV, NASB, NRSV: "whoever"
+NIV: "anyone who"
+NLT: "if you"
 
 
 ## Greek (SBLGNT)
@@ -5069,12 +5471,14 @@ Greek: ὃς ἐὰν 'whoever'
 # 1Pe 2:13-14: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "whether...or"
 
 
 ## English
 p: (whether it be to the emperor as supreme, or to governors as sent by him to punish those who do evil and to praise those who fo good)
 q: (be subject for the Lord's sake to every human institution)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "whether...or"
 
 
 ## Greek (SBLGNT)
@@ -5091,15 +5495,17 @@ q: (be subject for the Lord's sake to every human institution)
 # 1Jn 2:22: Non-Conditional
 
 
-* ESV: "but he who..."
-NASB, NRSV: "but the one who..."
-NIV: "it is whoever..."
-NLT: "anyone who..."
 
 
 ## English
 q: (who is the liar)
 p: (but he who denies that Jesus is the Christ)
+
+
+* ESV: "but he who..."
+NASB, NRSV: "but the one who..."
+NIV: "it is whoever..."
+NLT: "anyone who..."
 
 
 ## Greek (SBLGNT)
@@ -5116,13 +5522,15 @@ Greek: εἰ μὴ "except"
 # 1Jn 2:28: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "when"
 
 
 ## English
 and now, little children, abide in him, so that 
 p: (when he appears)
 q: (we may have confidence and not shrink from him in shame at his coming)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -5139,13 +5547,15 @@ Greek: ἐὰν. BDAG cites this verse under definition 2 of ἐὰν, glossed a
 # 1Jn 3:2: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "when"
 
 
 ## English
 but we know that 
 p: (when he appears)
 q: (we shall be like him because we shall see him as he is)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "when"
 
 
 ## Greek (SBLGNT)
@@ -5162,13 +5572,15 @@ Greek: ἐὰν. BDAG cites this verse under definition 2 of ἐὰν, glossed a
 # 1Jn 3:22: Non-Conditional
 
 
-* ESV, NASB, NRSV, NLT: "whatever"
-NIV: "anything"
 
 
 ## English
 p: (and whatever we ask)
 q: (we receive from him)
+
+
+* ESV, NASB, NRSV, NLT: "whatever"
+NIV: "anything"
 
 
 ## Greek (SBLGNT)
@@ -5185,13 +5597,15 @@ Greek: ὃ ἐὰν "whatever"
 # 1Jn 4:1: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whether"
-NLT: "if"
 
 
 ## English
 Beloved, do not believe every spirit, but test the spirits to see
 p: (whether they are from God)
+
+
+* ESV, NASB, NRSV, NIV: "whether"
+NLT: "if"
 
 
 ## Greek (SBLGNT)
@@ -5208,10 +5622,6 @@ This is an indirect question, not a conditional. The εἰ clause is not paired 
 # 1Jn 4:15: Non-Conditional
 
 
-* ESV, NASB: "whoever"
-NRSV: "those who"
-NLT: "all who"
-NIV: "if anyone"
 
 
 ## English
@@ -5221,6 +5631,12 @@ q: (God abides in him, and he in God)
 NIV:
 p: (If anyone acknowledges that Jesus is the Son of God,)
 q:(God lives in them and they in God)
+
+
+* ESV, NASB: "whoever"
+NRSV: "those who"
+NLT: "all who"
+NIV: "if anyone"
 
 
 ## Greek (SBLGNT)
@@ -5237,14 +5653,16 @@ Greek: ὃς ἐὰν "whoever"
 # 1Jn 5:5: Non-Conditional
 
 
-* ESV: "except"
-NASB, NRSV: "but"
-NIV, NLT: "only" following a question
 
 
 ## English
 q: (who is it that overcomes the world)
 p: (except the one who believes that Jesus is the Son of God?)
+
+
+* ESV: "except"
+NASB, NRSV: "but"
+NIV, NLT: "only" following a question
 
 
 ## Greek (SBLGNT)
@@ -5261,13 +5679,15 @@ Greek: εἰ μὴ "except"
 # 1Jn 5:15b: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "whatever"
-NLT: untranslated/paraphrased
 
 
 ## English
 if we know that he hears us in
 p: (whatever we ask)
+
+
+* ESV, NASB, NRSV, NIV: "whatever"
+NLT: untranslated/paraphrased
 
 
 ## Greek (SBLGNT)
@@ -5284,14 +5704,16 @@ Greek: ὃ ἐὰν "whatever"
 # 3Jn 1:5: Non-Conditional
 
 
-* ESV, NLT: untranslated/paraphrased
-NASB, NRSV: "(in) whatever"
-NIV: "in what"
 
 
 ## English
 q: (you are acting faithfully)
 p: ([in] whatever you do for the brethren).
+
+
+* ESV, NLT: untranslated/paraphrased
+NASB, NRSV: "(in) whatever"
+NIV: "in what"
 
 
 ## Greek (SBLGNT)
@@ -5308,14 +5730,16 @@ Greek: ὃ ἐὰν "whatever"
 # Rev 2:17: Non-Conditional
 
 
-* ESV, NRSV, NLT: "except"
-NASB: "but"
-NIV: "only"
 
 
 ## English
 q: (and I will give him a white stone with a new name written on the stone that no one knows)
 p: (except the one who receives it)
+
+
+* ESV, NRSV, NLT: "except"
+NASB: "but"
+NIV: "only"
 
 
 ## Greek (SBLGNT)
@@ -5332,13 +5756,15 @@ Greek: εἰ μή 'except'
 # Rev 3:19: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV: "those whom"
-NLT: "everyone"
 
 
 ## English
 p: (Those whom I love)
 q: (I reprove and discipline)
+
+
+* ESV, NASB, NRSV, NIV: "those whom"
+NLT: "everyone"
 
 
 ## Greek (SBLGNT)
@@ -5355,12 +5781,14 @@ Greek: ὅσους ἐὰν 'as much/many as'
 # Rev 9:4: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "but only"
 
 
 ## English
 q: (they were told not to harm the grass of the earth of any green plant or any tree)
 p: (but only those people who do not have the seal of God on their foreheads)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "but only"
 
 
 ## Greek (SBLGNT)
@@ -5377,12 +5805,14 @@ Greek: εἰ μὴ 'except'
 # Rev 11:6: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "as often as"
 
 
 ## English
 q: (they have the power to shut the sky, that no rain may fall during the days of their prophesying, and they have the power over the waters to turn them into blood and to strike the earth with every kind of plague)
 p: (as often as they desire)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "as often as"
 
 
 ## Greek (SBLGNT)
@@ -5399,15 +5829,17 @@ Greek: ὁσάκις ἐὰν 'whenever', 'as often as'
 # Rev 13:15: Non-Conditional
 
 
-* ESV, NRSV "those who"
-NASB: "as many as"
-NIV: "all who"
-NLT: "anyone"
 
 
 ## English
 p: (so that the image of the beast might speak and might cause)
 q: (those who would not worship the image of the beast to be slain)
+
+
+* ESV, NRSV "those who"
+NASB: "as many as"
+NIV: "all who"
+NLT: "anyone"
 
 
 ## Greek (SBLGNT)
@@ -5424,12 +5856,14 @@ Greek: ὅσοι ἐὰν 'as many as'
 # Rev 14:3: Non-Conditional
 
 
-* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## English
 q: (no one could learn that song)
 p: (except the 144,000 who had been redeemed from the earth)
+
+
+* ESV, NASB, NRSV, NIV, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -5446,14 +5880,16 @@ Greek: εἰ μὴ 'except'
 # Rev 14:11: Non-Conditional
 
 
-* ESV, NASB: "whoever"
-NRSV, NIV: "anyone who"
-NLT: "for they have... accepted the mark..."
 
 
 ## English
 q: (and the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshippers of the beast and its image)
 p: (and whoever receives the mark of its name)
+
+
+* ESV, NASB: "whoever"
+NRSV, NIV: "anyone who"
+NLT: "for they have... accepted the mark..."
 
 
 ## Greek (SBLGNT)
@@ -5470,13 +5906,15 @@ Greek: εἴ τις 'if anyone' but here the sense is 'whoever' or 'those who'
 # Rev 19:12: Non-Conditional
 
 
-* ESV, NRSV, NIV: "but"
-NASB, NLT: "except"
 
 
 ## English
 q: (and he has a name written that no one knows)
 p: (but himself)
+
+
+* ESV, NRSV, NIV: "but"
+NASB, NLT: "except"
 
 
 ## Greek (SBLGNT)
@@ -5493,12 +5931,14 @@ Greek: εἰ μὴ 'except'
 # Rev 21:27: Non-Conditional
 
 
-* ESV, RSV, NIV, NASB: "but only"
 
 
 ## English
 q: (but nothing unclean will ever enter it, nor anyone who does what is detestable or false)
 p: (but only those who are written in the Lamb's book of life)
+
+
+* ESV, RSV, NIV, NASB: "but only"
 
 
 ## Greek (SBLGNT)

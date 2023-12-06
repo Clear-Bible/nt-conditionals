@@ -38,18 +38,19 @@ def render_as_markdown(condition, is_conditional):
         markdown.append(f"# {condition.reference}: Non-Conditional")
     markdown.append("\n")
     if len(condition.probability) > 0:
-        markdown.append(f"* Probability: {' / '.join(condition.probability)}")
+        markdown.append(f"* *Probability:* {' / '.join(condition.probability)}")
     if len(condition.time_orientation) > 0:
-        markdown.append(f"* Time Orientation: {' / '.join(condition.time_orientation)}")
+        markdown.append(f"* *Time Orientation:* {' / '.join(condition.time_orientation)}")
     if len(condition.illocutionary_force) > 0:
-        markdown.append(f"* Illocutionary Force: {' / '.join(condition.illocutionary_force)}")
+        markdown.append(f"* *Illocutionary Force:* {' / '.join(condition.illocutionary_force)}")
 
-    # everything always has `.english_translations`, I hope.
-    markdown.append(f"* {condition.english_translations}")
     markdown.append("\n")
 
     markdown.append(f"## English")
     markdown.append(f"{condition.english}")
+    markdown.append("\n")
+    # everything always has `.english_translations`, I hope.
+    markdown.append(f"* {condition.english_translations}")
     markdown.append("\n")
     markdown.append(f"## Greek ({gnt_edition})")
     if condition.inverse:
@@ -64,9 +65,10 @@ def render_as_markdown(condition, is_conditional):
             markdown.append(f"* _{apodosis}_: {condition.greek_apodoses[apodosis]}")
     markdown.append("\n")
 
-    markdown.append(f"## Notes")
-    markdown.append(f"{condition.notes}")
-    markdown.append("\n")
+    if condition.notes != "":
+        markdown.append(f"## Notes")
+        markdown.append(f"{condition.notes}")
+        markdown.append("\n")
     markdown.append(f"----------------")
 
     return "\n".join(markdown)

@@ -2,9 +2,12 @@
 Data regarding conditional statements/clauses in the NT provided by Rachel and Mike Aubrey and CanIL (Steve Nicolle)
 
 # License
-This material is provided by (CanIL or SIL) under the CC-BY-SA-4.0 license (attribution / share-alike).
+This material is provided by the Canada Institute of Linguistics (CanIL) under a CC-BY-SA-4.0 license. 
+More information about this license is available in the `LICENSE.md` file in this repository.
 
-The JSON editions in the `/data` folder include phrases from the NA27 and the SBLGNT.
+The JSON editions in the `/data` folder include phrases from the NA27 and the SBLGNT. The NA27 portions are minimal 
+and considered fair use. The SBLGNT is available under a CC-BY-4.0 license, 
+see [the LogosBible SBLGNT repository](https://github.com/LogosBible/SBLGNT) for more information and data.
 
 # Documentation
 The following documents were supplied with the data as documentation and explanation of the data. These are all in the `/docs` folder of this repo.
@@ -58,7 +61,7 @@ The data uses several terms to describe aspects of probability, time orientation
 listed below. More description of each field value is available in the word document `Categories used in the database.docx` 
 found in the `data/raw` folder of this repository.
 
-Occasionally fields have an empty value (particularly in the "non-conditionals" data) or a value of "Not applicable".
+Occasionaly fields have an empty value (particularly in the "non-conditionals" data) or a value of "Not applicable".
 
 ## Vocabulary for `probability`
 

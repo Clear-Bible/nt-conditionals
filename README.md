@@ -33,6 +33,13 @@ Data has been generated representing the conditional statements for the NA27 edi
 * `data/json/nt_non_conditionals_na27.json`
 * `data/json/nt_non_conditionals_sblgnt.json`
 
+Further, markdown forms of each JSON file have been generated and provided for easy visual reference.
+
+* [`data/md/nt_conditionals_na27.md`](data/md/nt_conditionals_na27.md)
+* [`data/md/nt_conditionals_sblgnt.md`](data/md/nt_conditionals_sblgnt.md)
+* [`data/md/nt_non_conditionals_na27.md`](data/md/nt_non_conditionals_na27.md)
+* [`data/md/nt_non_conditionals_sblgnt.md`](data/md/nt_non_conditionals_sblgnt.md)
+
 # JSON Schema
 
 The data from the Excel spreadsheets has been extracted and converted into a JSON format. The schema for this JSON is as follows:

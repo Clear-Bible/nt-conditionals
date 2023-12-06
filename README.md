@@ -35,10 +35,10 @@ Data has been generated representing the conditional statements for the NA27 edi
 
 Further, markdown forms of each JSON file have been generated and provided for easy visual reference.
 
-* [`data/md/nt-conditionals-na27.md`](data/md/nt-conditionals-na27.md)
-* [`data/md/nt-conditionals-sblgnt.md`](data/md/nt-conditionals-sblgnt.md)
-* [`data/md/nt-non-conditionals-na27.md`](data/md/nt-non-conditionals-na27.md)
-* [`data/md/nt-non-conditionals-sblgnt.md`](data/md/nt-non-conditionals-sblgnt.md)
+* [`data/md/nt-conditionals-na27.md`](data/md/nt-conditionals-NA27.md)
+* [`data/md/nt-conditionals-sblgnt.md`](data/md/nt-conditionals-SBLGNT.md)
+* [`data/md/nt-non-conditionals-na27.md`](data/md/nt-non-conditionals-NA27.md)
+* [`data/md/nt-non-conditionals-sblgnt.md`](data/md/nt-non-conditionals-SBLGNT.md)
 
 # JSON Schema
 

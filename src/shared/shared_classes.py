@@ -41,15 +41,15 @@ class Condition:
     """
     index: int
     reference: str
-    english: str
-    condition_class: str
-    inverse: bool
-    probability: str
-    time_orientation: str
-    illocutionary_force: str
-    english_translations: str
-    notes: str
-    parallel_passages: str
+    english: str = ""
+    condition_class: str = ""
+    inverse: bool = False
+    probability: str = ""
+    time_orientation: str = ""
+    illocutionary_force: str = ""
+    english_translations: str = ""
+    notes: str = ""
+    parallel_passages: str = ""
     greek_protases: dict[str, str] = dataclasses.field(default_factory=dict)
     greek_apodoses: dict[str, str] = dataclasses.field(default_factory=dict)
     greek_protasis_words: dict[str, list] = dataclasses.field(default_factory=dict)

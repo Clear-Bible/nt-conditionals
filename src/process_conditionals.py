@@ -4,7 +4,7 @@ from shared.shared_classes import *
 
 git_dir = "c:/git/Clear/"
 root_dir = f"{git_dir}nt-conditionals/"
-data_dir = f"{root_dir}data/"
+data_dir = f"{root_dir}data/json/"
 gnt_mappings_tsv = f"{git_dir}macula-greek/sources/Clear/mappings/mappings-GNT-stripped.tsv"
 na27_to_sblgnt_map = load_gnt_mapping_data(gnt_mappings_tsv)
 

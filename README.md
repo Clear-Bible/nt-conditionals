@@ -28,17 +28,17 @@ Rachel and Mike Aubrey supplied four files; two Excel spreadsheets and two PDFs.
 # Generated Data
 Data has been generated representing the conditional statements for the NA27 edition of the Greek New Testament as well as the SBLGNT edition of the Greek New Testament.
 
-* `data/json/nt_conditionals_na27.json`
-* `data/json/nt_conditionals_sblgnt.json`
-* `data/json/nt_non_conditionals_na27.json`
-* `data/json/nt_non_conditionals_sblgnt.json`
+* `data/json/nt-conditionals-na27.json`
+* `data/json/nt-conditionals-sblgnt.json`
+* `data/json/nt-non-conditionals-na27.json`
+* `data/json/nt-non-conditionals-sblgnt.json`
 
 Further, markdown forms of each JSON file have been generated and provided for easy visual reference.
 
-* [`data/md/nt_conditionals_na27.md`](data/md/nt_conditionals_na27.md)
-* [`data/md/nt_conditionals_sblgnt.md`](data/md/nt_conditionals_sblgnt.md)
-* [`data/md/nt_non_conditionals_na27.md`](data/md/nt_non_conditionals_na27.md)
-* [`data/md/nt_non_conditionals_sblgnt.md`](data/md/nt_non_conditionals_sblgnt.md)
+* [`data/md/nt-conditionals-na27.md`](data/md/nt-conditionals-na27.md)
+* [`data/md/nt-conditionals-sblgnt.md`](data/md/nt-conditionals-sblgnt.md)
+* [`data/md/nt-non-conditionals-na27.md`](data/md/nt-non-conditionals-na27.md)
+* [`data/md/nt-non-conditionals-sblgnt.md`](data/md/nt-non-conditionals-sblgnt.md)
 
 # JSON Schema
 

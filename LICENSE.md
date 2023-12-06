@@ -1,4 +1,4 @@
-= LICENSE
+# LICENSE
 
 _Conditionals in the Greek New Testament_ is licensed by the Canada Institute of Linguistics (CanIL) under
 a Creative Commons Attribution-ShareAlike 4.0 ([CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)) 

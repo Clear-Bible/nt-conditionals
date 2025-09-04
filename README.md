@@ -1,5 +1,5 @@
 # nt-conditionals
-Data regarding conditional statements/clauses in the NT provided by Rachel and Mike Aubrey and CanIL (Steve Nicolle)
+Data regarding conditional statements/clauses in the NT provided by Steve Nicolle and CanIL
 
 # License
 This material is provided by the Canada Institute of Linguistics (CanIL) under a CC-BY-SA-4.0 license. 
@@ -17,7 +17,7 @@ The following documents were supplied with the data as documentation and explana
 * `Categories used in the database.pdf`: PDF edition of supplied Word document that describes the vocabulary used in the data.
 
 # Supplied Data
-Rachel and Mike Aubrey supplied four files; two Excel spreadsheets and two PDFs. Another edition of the data, without Greek protasis or apodosis specified, is also availble. These are in the `data/raw` folder of this repo.
+Steve Nicolle and CanIL are responsible for the data. Rachel and Mike Aubrey provided assistance in refining the data to make it better suited to processing. They supplied four files; two Excel spreadsheets and two PDFs. Another edition of the data, without Greek protasis or apodosis specified, is also availble. These are in the `data/raw` folder of this repo.
 
 * `Conditionals in the Greek NT.pdf`: PDF of article about conditional statements in the Greek NT by Steve Nicolle.
 * `Translating unless conditionals in the NT.pdf`: PDF of article detailing specific information on translating "unless" (εαν μη) statements in the Greek NT.
